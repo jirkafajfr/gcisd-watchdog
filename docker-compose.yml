@@ -1,0 +1,27 @@
+services:
+  download:
+    image: jauderho/yt-dlp:latest
+    container_name: gcisd-watchdog-download
+    volumes:
+      - ./videos:/app/videos
+    working_dir: /app/videos
+    command: yt-dlp -f "bestaudio[ext=webm]" https://www.youtube.com/@GCISDTV/streams
+
+  transcribe:
+    build: .
+    container_name: gcisd-watchdog-transcribe
+    volumes:
+      # Mount videos folder (input - webm files)
+      - ./videos:/app/videos
+      # Mount transcripts folder (output - txt files)
+      - ./transcripts:/app/transcripts
+    working_dir: /app/videos
+    command: /app/scripts/transcribe.sh
+
+  assemble:
+    build: .
+    container_name: gcisd-watchdog-generate-gpt-dataset
+    volumes:
+      - ./transcripts:/app/transcripts
+      - ./gpt:/app/gpt
+    command: /app/scripts/assemble.sh
