@@ -59,8 +59,14 @@ sort "$temp_list" | while IFS='|' read -r sortable_date txt; do
     echo "" >> "$OUTPUT_FILE"
   fi
 
-  # Add the transcript content, skipping lines with [BLANK_AUDIO]
-  grep -v '\[BLANK_AUDIO\]' "$txt" >> "$OUTPUT_FILE"
+  # Add transcript link to GitHub
+  # URL-encode the filename for GitHub link
+  encoded_name=$(echo "$base" | sed 's/ /%20/g; s/,/%2C/g; s/\[/%5B/g; s/\]/%5D/g')
+  echo "**Transcript Link:** https://github.com/jirkafajfr/gcisd-watchdog/blob/mainline/transcripts/${encoded_name}.txt" >> "$OUTPUT_FILE"
+  echo "" >> "$OUTPUT_FILE"
+
+  # Add the transcript content, skipping lines with [BLANK_AUDIO] and [no audio]
+  grep -v '\[BLANK_AUDIO\]' "$txt" | grep -v '\[no audio\]' >> "$OUTPUT_FILE"
   echo "" >> "$OUTPUT_FILE"
   echo "" >> "$OUTPUT_FILE"
 done

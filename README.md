@@ -1,10 +1,28 @@
 # GCISD Watchdog
 
-![](assets/logo.png)
+![](assets/logo-small.png)
 
-[GCISD Watchdog](https://chatgpt.com/g/g-691d29038e3481918d416684bc1c0778-gcisd-watchdog) is an independent community tool that makes Grapevine-Colleyville ISD Board of Trustees meetings easier to understand and search. It continuously downloads board meeting videos from YouTube, transcribes them, and lets you query everything through a conversational AI.
+With GCISD making important decisions about school closures and rezoning, it's more crucial than ever to stay informed about what happens in Board of Trustees meetings. [GCISD Watchdog](https://chatgpt.com/g/g-691d29038e3481918d416684bc1c0778-gcisd-watchdog) is a custom ChatGPT assistant that lets you ask questions about board meetings in plain English and get answers based on actual meeting transcripts.
 
-## How to Use This Tool
+**Try the GPT:**
+- Search for "GCISD Watchdog" in the GPTs section of ChatGPT, or
+- Use this direct link: [GCISD Watchdog GPT](https://chatgpt.com/g/g-691d29038e3481918d416684bc1c0778-gcisd-watchdog)
+
+**What's in this repository:**
+This repo contains both the transcription tools and the raw transcripts themselves. You can browse individual meeting transcripts in the [transcripts/](transcripts/) folder or use the tools below to generate your own dataset.
+
+## About Transcript Quality
+
+Current transcripts are generated using the `ggml-tiny.en-q5_1` model, which is the smallest quantized Whisper model available. This allows for fast processing but may result in some inaccuracies in the transcripts.
+
+**Our roadmap:**
+1. First, transcribe all available board meetings to ensure complete coverage
+2. Then, improve quality by re-transcribing with larger, more accurate models
+
+**Verification:**
+The GCISD Watchdog GPT can link back to the original YouTube videos with exact timestamps for direct quotes, making it easy to verify statements in context. However, please note that the authors of this repository are not liable for incorrect transcripts or GPT hallucinations. Always verify important information against the [official GCISD meeting videos](https://www.youtube.com/@gcisd/videos).
+
+## Running the Transcription Pipeline
 
 This tool follows a simple process to create a searchable AI assistant from GCISD board meeting videos:
 

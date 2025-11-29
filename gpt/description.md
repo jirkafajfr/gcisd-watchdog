@@ -1,0 +1,1 @@
+Stay informed about GCISD's important decisions on school closures and rezoning. Ask questions about Board meetings in plain English and get answers from transcripts with links to original videos and timestamps. https://github.com/jirkafajfr/gcisd-watchdog/
