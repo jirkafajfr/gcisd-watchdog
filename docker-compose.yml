@@ -4,8 +4,13 @@ services:
     container_name: gcisd-watchdog-download
     volumes:
       - ./videos:/app/videos
+      - ./.yt-dlp-excluded:/app/.yt-dlp-excluded:ro
     working_dir: /app/videos
-    command: yt-dlp -f "bestaudio[ext=webm]" https://www.youtube.com/@GCISDTV/streams
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        cat /app/.yt-dlp-excluded 2>/dev/null > /tmp/combined-archive || true
+        yt-dlp -f 'bestaudio[ext=webm]' --download-archive /tmp/combined-archive https://www.youtube.com/@GCISDTV/streams
 
   transcribe:
     build: .
