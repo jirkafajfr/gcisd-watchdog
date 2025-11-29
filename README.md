@@ -2,7 +2,7 @@
 
 ![](assets/logo-small.png)
 
-With GCISD making important decisions about school closures and rezoning, it's more crucial than ever to stay informed about what happens in Board of Trustees meetings. [GCISD Watchdog](https://chatgpt.com/g/g-691d29038e3481918d416684bc1c0778-gcisd-watchdog) is a custom ChatGPT assistant that lets you ask questions about board meetings in plain English and get answers based on actual meeting transcripts.
+With GCISD making important decisions about school closures and rezoning, it's more crucial than ever to stay informed about what happens in Board of Trustees meetings. Because GCISD’s YouTube channel does not provide automatic transcriptions for these meetings, this project helps fill that gap by providing searchable, high-quality transcripts. [GCISD Watchdog](https://chatgpt.com/g/g-691d29038e3481918d416684bc1c0778-gcisd-watchdog) is a custom ChatGPT assistant that lets you ask questions about board meetings in plain English and get answers based on actual meeting transcripts.
 
 **Try the GPT:**
 - Search for "GCISD Watchdog" in the GPTs section of ChatGPT, or
@@ -20,7 +20,15 @@ Current transcripts are generated using the `ggml-tiny.en-q5_1` model, which is 
 2. Then, improve quality by re-transcribing with larger, more accurate models
 
 **Verification:**
-The GCISD Watchdog GPT can link back to the original YouTube videos with exact timestamps for direct quotes, making it easy to verify statements in context. However, please note that the authors of this repository are not liable for incorrect transcripts or GPT hallucinations. Always verify important information against the [official GCISD channle](https://www.youtube.com/@GCISDTV).
+The GCISD Watchdog GPT can link back to the original YouTube videos with exact timestamps for direct quotes, making it easy to verify statements in context. However, please note that the authors of this repository are not liable for incorrect transcripts or GPT hallucinations. Always verify important information against the [official GCISD channel](https://www.youtube.com/@GCISDTV).
+
+### ⚠️ Found a discrepancy?
+
+If you spot a **glaring discrepancy, error, or something that looks incorrect** in any transcript, please help improve the dataset by opening an issue on GitHub:
+
+👉 **[Open a transcript quality issue](https://github.com/jirkafajfr/gcisd-watchdog/issues/new)**
+
+Your reports help keep the transcripts accurate and trustworthy for the community. Thank you for contributing!
 
 ## Running the Transcription Pipeline
 
