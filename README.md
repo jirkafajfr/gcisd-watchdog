@@ -20,7 +20,7 @@ Current transcripts are generated using the `ggml-tiny.en-q5_1` model, which is 
 2. Then, improve quality by re-transcribing with larger, more accurate models
 
 **Verification:**
-The GCISD Watchdog GPT can link back to the original YouTube videos with exact timestamps for direct quotes, making it easy to verify statements in context. However, please note that the authors of this repository are not liable for incorrect transcripts or GPT hallucinations. Always verify important information against the [official GCISD meeting videos](https://www.youtube.com/@gcisd/videos).
+The GCISD Watchdog GPT can link back to the original YouTube videos with exact timestamps for direct quotes, making it easy to verify statements in context. However, please note that the authors of this repository are not liable for incorrect transcripts or GPT hallucinations. Always verify important information against the [official GCISD channle](https://www.youtube.com/@GCISDTV).
 
 ## Running the Transcription Pipeline
 
