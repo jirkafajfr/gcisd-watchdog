@@ -21,17 +21,54 @@ for txt in /app/transcripts/*.txt; do
   # Skip if no txt files (glob didn't match)
   [ -f "$txt" ] || continue
 
-  # Extract date from filename (format: "Month Day, Year")
-  # Convert to sortable format (YYYY-MM-DD)
-  sortable_date=$(echo "$txt" | sed -n 's/.*- \([A-Za-z]* [0-9]*, [0-9]*\).*/\1/p' | \
-    awk '{
-      months["January"]=1; months["February"]=2; months["March"]=3;
-      months["April"]=4; months["May"]=5; months["June"]=6;
-      months["July"]=7; months["August"]=8; months["September"]=9;
-      months["October"]=10; months["November"]=11; months["December"]=12;
-      gsub(",", "", $2);
-      printf "%d-%02d-%02d", $3, months[$1], $2
-    }')
+  # Extract date from filename and convert to sortable format (YYYY-MM-DD)
+  # Handle multiple date formats:
+  # 1. "Month Day, Year" (e.g., "April 28, 2025")
+  # 2. "Year" at beginning (e.g., "2020 Graduation")
+  # 3. "Year" after dash (e.g., "- 2021 Graduation")
+
+  base=$(basename "$txt" .txt)
+
+  # Try different patterns to extract a sortable date
+  sortable_date="0000-00-00"
+
+  # Pattern 1: Year at the beginning (e.g., "2020 Graduation")
+  if echo "$base" | grep -q '^[0-9]\{4\} '; then
+    sortable_date=$(echo "$base" | sed 's/^\([0-9]\{4\}\) .*/\1-00-00/')
+
+  # Pattern 2: "- Year Graduation" (e.g., "- 2021 Graduation")
+  elif echo "$base" | grep -q ' - [0-9]\{4\} Graduation'; then
+    sortable_date=$(echo "$base" | sed 's/.* - \([0-9]\{4\}\) Graduation.*/\1-00-00/')
+
+  # Pattern 3: "Month Day, Year" anywhere (e.g., "- March 28, 2022" or "August 19, 2021")
+  # Also handles "Month Day ,Year" with space before comma
+  elif echo "$base" | grep -qE '(January|February|March|April|May|June|July|August|September|October|November|December) [0-9]{1,2} ?,? ?[0-9]{4}'; then
+    # Extract month, day, year (handling optional space before comma)
+    month=$(echo "$base" | sed -n 's/.*\(January\|February\|March\|April\|May\|June\|July\|August\|September\|October\|November\|December\) [0-9]\{1,2\} \?,\? \?[0-9]\{4\}.*/\1/p')
+    day=$(echo "$base" | sed -n 's/.*\(January\|February\|March\|April\|May\|June\|July\|August\|September\|October\|November\|December\) \([0-9]\{1,2\}\) \?,\? \?[0-9]\{4\}.*/\2/p')
+    year=$(echo "$base" | sed -n 's/.*\(January\|February\|March\|April\|May\|June\|July\|August\|September\|October\|November\|December\) [0-9]\{1,2\} \?,\? \?\([0-9]\{4\}\).*/\2/p')
+
+    # Convert month name to number
+    case "$month" in
+      January) month_num=01 ;;
+      February) month_num=02 ;;
+      March) month_num=03 ;;
+      April) month_num=04 ;;
+      May) month_num=05 ;;
+      June) month_num=06 ;;
+      July) month_num=07 ;;
+      August) month_num=08 ;;
+      September) month_num=09 ;;
+      October) month_num=10 ;;
+      November) month_num=11 ;;
+      December) month_num=12 ;;
+    esac
+
+    # Pad day with zero if needed
+    day=$(printf "%02d" "$day")
+
+    sortable_date="${year}-${month_num}-${day}"
+  fi
 
   echo "$sortable_date|$txt" >> "$temp_list"
 done

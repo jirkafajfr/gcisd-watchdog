@@ -72,4 +72,4 @@ Combine all transcripts into a single dataset file:
 docker compose run --rm assemble
 ```
 
-This creates [gpt/dataset.md](gpt/dataset.md) with all meeting transcripts organized by date. Upload this file to ChatGPT to create your AI assistant that can answer questions about GCISD board meetings.
+This creates `gpt/dataset.md` with all meeting transcripts organized by date. Upload this file to ChatGPT to create your AI assistant that can answer questions about GCISD board meetings.
