@@ -1,0 +1,376 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:38.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:18.000]   [BLANK_AUDIO]
+[00:11:18.000 --> 00:11:28.000]   [BLANK_AUDIO]
+[00:11:28.000 --> 00:11:34.000]   [BLANK_AUDIO]
+[00:11:34.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:06.000]   [BLANK_AUDIO]
+[00:12:06.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:36.000 --> 00:12:46.000]   [BLANK_AUDIO]
+[00:12:46.000 --> 00:13:14.000]   [BLANK_AUDIO]
+[00:13:14.000 --> 00:13:24.000]   [BLANK_AUDIO]
+[00:13:24.000 --> 00:13:52.000]   [BLANK_AUDIO]
+[00:13:52.000 --> 00:14:02.000]   [BLANK_AUDIO]
+[00:14:02.000 --> 00:14:30.000]   [BLANK_AUDIO]
+[00:14:30.000 --> 00:14:40.000]   [BLANK_AUDIO]
+[00:14:40.000 --> 00:15:08.000]   [BLANK_AUDIO]
+[00:15:08.000 --> 00:15:18.000]   [BLANK_AUDIO]
+[00:15:18.000 --> 00:15:46.000]   [BLANK_AUDIO]
+[00:15:46.000 --> 00:15:56.000]   [BLANK_AUDIO]
+[00:15:56.000 --> 00:16:12.000]   [BLANK_AUDIO]
+[00:16:12.000 --> 00:16:22.000]   [BLANK_AUDIO]
+[00:16:22.000 --> 00:16:50.000]   [BLANK_AUDIO]
+[00:16:50.000 --> 00:17:00.000]   [BLANK_AUDIO]
+[00:17:00.000 --> 00:17:28.000]   [BLANK_AUDIO]
+[00:17:28.000 --> 00:17:38.000]   [BLANK_AUDIO]
+[00:17:38.000 --> 00:18:06.000]   [BLANK_AUDIO]
+[00:18:06.000 --> 00:18:16.000]   [BLANK_AUDIO]
+[00:18:16.000 --> 00:18:44.000]   [BLANK_AUDIO]
+[00:18:44.000 --> 00:18:54.000]   [BLANK_AUDIO]
+[00:18:54.000 --> 00:19:22.000]   [BLANK_AUDIO]
+[00:19:22.000 --> 00:19:32.000]   [BLANK_AUDIO]
+[00:19:32.000 --> 00:20:00.000]   [BLANK_AUDIO]
+[00:20:00.000 --> 00:20:10.000]   [BLANK_AUDIO]
+[00:20:10.000 --> 00:20:38.000]   [BLANK_AUDIO]
+[00:20:38.000 --> 00:20:48.000]   [BLANK_AUDIO]
+[00:20:48.000 --> 00:20:55.000]   [BLANK_AUDIO]
+[00:20:55.000 --> 00:21:12.000]   [BLANK_AUDIO]
+[00:21:12.000 --> 00:21:40.000]   [BLANK_AUDIO]
+[00:21:40.000 --> 00:21:50.000]   [BLANK_AUDIO]
+[00:21:50.000 --> 00:22:18.000]   [BLANK_AUDIO]
+[00:22:18.000 --> 00:22:28.000]   [BLANK_AUDIO]
+[00:22:28.000 --> 00:22:56.000]   [BLANK_AUDIO]
+[00:22:56.000 --> 00:23:06.000]   [BLANK_AUDIO]
+[00:23:06.000 --> 00:23:33.000]   [BLANK_AUDIO]
+[00:23:33.000 --> 00:23:43.000]   [BLANK_AUDIO]
+[00:23:43.000 --> 00:24:11.000]   [BLANK_AUDIO]
+[00:24:11.000 --> 00:24:21.000]   [BLANK_AUDIO]
+[00:24:21.000 --> 00:24:49.000]   [BLANK_AUDIO]
+[00:24:49.000 --> 00:25:02.000]   [BLANK_AUDIO]
+[00:25:02.000 --> 00:25:27.000]   [BLANK_AUDIO]
+[00:25:27.000 --> 00:25:37.000]   [BLANK_AUDIO]
+[00:25:37.000 --> 00:26:05.000]   [BLANK_AUDIO]
+[00:26:05.000 --> 00:26:15.000]   [BLANK_AUDIO]
+[00:26:15.000 --> 00:26:20.000]   [BLANK_AUDIO]
+[00:26:20.000 --> 00:26:43.000]   [BLANK_AUDIO]
+[00:26:43.000 --> 00:26:53.000]   [BLANK_AUDIO]
+[00:26:53.000 --> 00:27:20.000]   [BLANK_AUDIO]
+[00:27:20.000 --> 00:27:35.000]   [BLANK_AUDIO]
+[00:27:35.000 --> 00:28:00.000]   [BLANK_AUDIO]
+[00:28:00.000 --> 00:28:15.000]   [BLANK_AUDIO]
+[00:28:15.000 --> 00:28:44.000]   [BLANK_AUDIO]
+[00:28:44.000 --> 00:28:54.000]   [BLANK_AUDIO]
+[00:28:54.000 --> 00:29:09.000]   [BLANK_AUDIO]
+[00:29:09.000 --> 00:29:19.000]   [BLANK_AUDIO]
+[00:29:19.000 --> 00:29:24.000]   [BLANK_AUDIO]
+[00:29:24.000 --> 00:29:33.000]   [BLANK_AUDIO]
+[00:29:33.000 --> 00:29:43.000]   [BLANK_AUDIO]
+[00:29:43.000 --> 00:30:06.000]   [BLANK_AUDIO]
+[00:30:06.000 --> 00:30:16.000]   [BLANK_AUDIO]
+[00:30:16.000 --> 00:30:44.000]   [BLANK_AUDIO]
+[00:30:44.000 --> 00:30:54.000]   [BLANK_AUDIO]
+[00:30:54.000 --> 00:31:21.000]   [BLANK_AUDIO]
+[00:31:21.000 --> 00:31:31.000]   [BLANK_AUDIO]
+[00:31:31.000 --> 00:31:59.000]   [BLANK_AUDIO]
+[00:31:59.000 --> 00:32:09.000]   [BLANK_AUDIO]
+[00:32:09.000 --> 00:32:37.000]   [BLANK_AUDIO]
+[00:32:37.000 --> 00:32:47.000]   [BLANK_AUDIO]
+[00:32:47.000 --> 00:33:15.000]   [BLANK_AUDIO]
+[00:33:15.000 --> 00:33:25.000]   [BLANK_AUDIO]
+[00:33:25.000 --> 00:33:30.000]   [BLANK_AUDIO]
+[00:33:30.000 --> 00:33:59.000]   [BLANK_AUDIO]
+[00:33:59.000 --> 00:34:09.000]   [BLANK_AUDIO]
+[00:34:09.000 --> 00:34:37.000]   [BLANK_AUDIO]
+[00:34:37.000 --> 00:34:47.000]   [BLANK_AUDIO]
+[00:34:47.000 --> 00:35:15.000]   [BLANK_AUDIO]
+[00:35:15.000 --> 00:35:25.000]   [BLANK_AUDIO]
+[00:35:25.000 --> 00:35:53.000]   [BLANK_AUDIO]
+[00:35:53.000 --> 00:36:03.000]   [BLANK_AUDIO]
+[00:36:03.000 --> 00:36:31.000]   [BLANK_AUDIO]
+[00:36:31.000 --> 00:36:41.000]   [BLANK_AUDIO]
+[00:36:41.000 --> 00:36:50.000]   [BLANK_AUDIO]
+[00:36:50.000 --> 00:36:58.000]   [BLANK_AUDIO]
+[00:36:58.000 --> 00:37:04.520]   And a few counselors that would bring these categories of employees up to the market at that time.
+[00:37:04.520 --> 00:37:10.440]   This increased the use of fund balance by an additional 900,000.
+[00:37:10.440 --> 00:37:16.160]   In October due to the labor market, in order to provide equity among all our employees,
+[00:37:16.160 --> 00:37:20.800]   the forward-approved and additional pay adjustment for auxiliary and instructional and clerical
+[00:37:20.800 --> 00:37:25.680]   paraprofessionals, this used another 740,000 of fund balance.
+[00:37:25.680 --> 00:37:33.120]   So this gets us to the current budgeted use of fund balance in the amount of 9.2 million.
+[00:37:33.120 --> 00:37:37.520]   All of these pay increases are rolled into the 22-23 budget.
+[00:37:37.520 --> 00:37:41.280]   So this is where we will start before any pay increases or
+[00:37:41.280 --> 00:37:42.760]   personnel adjustments are made.
+[00:37:42.760 --> 00:37:47.320]   [BLANK_AUDIO]
+[00:37:47.320 --> 00:37:53.040]   So this is kind of where we bring it all together, looking at both revenue and
+[00:37:53.040 --> 00:37:56.840]   expenditures, this slide provides the impact on the budget.
+[00:37:56.840 --> 00:38:02.360]   Looking at the base compensation plan versus the 1% and 2% models.
+[00:38:02.360 --> 00:38:08.600]   As you can see on line 9, the base budget before we consider pay adjustments,
+[00:38:08.600 --> 00:38:12.840]   we'll use 9.7 million of fund balance.
+[00:38:12.840 --> 00:38:17.160]   This increases even more with the 1% and the 2% model.
+[00:38:18.840 --> 00:38:25.080]   This does include, you can see on line 4, I went ahead and added in those budget increases of 437,000.
+[00:38:25.080 --> 00:38:34.240]   So unfortunately without additional ADA for DCSD, the current funding system does not provide any
+[00:38:34.240 --> 00:38:40.480]   adjustments for inflationary cost or compensation adjustments for employees.
+[00:38:40.480 --> 00:38:42.320]   I just want to reiterate that again.
+[00:38:44.920 --> 00:38:54.920]   So this is the overall impact of, so the next slide, we will look at the overall impact of this on our fund balance.
+[00:38:54.920 --> 00:39:04.240]   Line 1 is the projected fund balance as of June 30th of 2022.
+[00:39:04.240 --> 00:39:09.560]   So this is where, what I've projected where we're going to end the current fiscal year.
+[00:39:10.680 --> 00:39:15.880]   So that's where we'll start in 2022, 23.
+[00:39:15.880 --> 00:39:20.000]   The district's fund balance policy requires a minimum 20% of operating costs which was represented in line 4.
+[00:39:20.000 --> 00:39:22.240]   That's highlighted in blue.
+[00:39:22.240 --> 00:39:30.400]   So we will be under that required policy amount with no pay increase for next year.
+[00:39:30.400 --> 00:39:32.960]   This is our local policy.
+[00:39:32.960 --> 00:39:39.480]   So we can certainly put a plan in place to reduce that deficit budget.
+[00:39:40.480 --> 00:39:48.120]   I do want to point out there is an indicator on the first rating that we would not pass.
+[00:39:48.120 --> 00:39:59.960]   If all of these things were to hold true, we would not pass for the 2022, 23 fiscal year because our fund balance will have reduced more than 25% over three years.
+[00:39:59.960 --> 00:40:04.040]   So that would be an automatic rating of B, which is above standard achievement.
+[00:40:04.040 --> 00:40:08.560]   Of course, we're going to work diligently to keep that from happening.
+[00:40:10.600 --> 00:40:19.560]   I know I've shared a lot of information with you guys and I know you're going to have some time to digest this.
+[00:40:19.560 --> 00:40:35.080]   But that is why we are going to have another workshop on May 9th where we will continue to look through positions and working on positions through attrition.
+[00:40:35.080 --> 00:40:44.880]   Everything as as positions become vacant as people resign or retire will continue to be looking at those in other areas of the budget.
+[00:40:44.880 --> 00:40:55.760]   Last, I want to let you guys know we are currently compiling or compiling all of the detailed budget reports.
+[00:40:55.760 --> 00:41:07.160]   So as part of our budget process, our departments and campuses enter into skyward, very detailed budgets.
+[00:41:07.160 --> 00:41:17.840]   And so we have run reports on those details so you will be getting a thumb drive that will have every campus and department budget.
+[00:41:17.840 --> 00:41:27.600]   So we're in the process of just getting that all compiled, there's a lot of information to compile in us organized format and my goal is to have that to you guys this week.
+[00:41:27.600 --> 00:41:35.840]   Any questions from the board, Casey?
+[00:41:35.840 --> 00:41:54.840]   Can you just go back one slide please? So on the 1% and 2% model, is that roughly what we had projected when we did our first analysis two, two months ago?
+[00:41:54.840 --> 00:42:03.840]   We did not have the models built in what I presented back in February was just projected off of where we currently were.
+[00:42:03.840 --> 00:42:08.840]   So we did not have the models built yet, so no.
+[00:42:08.840 --> 00:42:11.840]   Next.
+[00:42:11.840 --> 00:42:13.840]   Questions?
+[00:42:13.840 --> 00:42:14.840]   Oh, Louis.
+[00:42:14.840 --> 00:42:21.840]   Our board policy states that we have 20% in fund balance state recommendation is three months of operating cost.
+[00:42:21.840 --> 00:42:24.840]   It's a recommendation, it's not a law.
+[00:42:24.840 --> 00:42:32.840]   Yes, it's a recommendation, not a law, but I did go back and and review that indicator for first.
+[00:42:32.840 --> 00:42:46.840]   Right, if your budget cannot be reduced more than 25% three years, or you have to have 70 days of operating within your fund balance.
+[00:42:46.840 --> 00:42:49.840]   We wouldn't meet either one of those, I did, I did check both of those.
+[00:42:49.840 --> 00:42:57.840]   Repeat that one more time if we, because we've, if we reduce it more than 25% in three years, or we have less than 70 days.
+[00:42:57.840 --> 00:43:06.840]   Yes, so yes, it's either or you have to have, you can't have your budget reduced more than 25%.
+[00:43:06.840 --> 00:43:16.840]   If you do, you have to at least have 70 days of operating expenditures in your fund balance.
+[00:43:16.840 --> 00:43:18.840]   Okay, thank you.
+[00:43:18.840 --> 00:43:20.840]   Picking.
+[00:43:20.840 --> 00:43:24.840]   Do you know how many days that number equates to.
+[00:43:24.840 --> 00:43:25.840]   Sorry.
+[00:43:25.840 --> 00:43:30.840]   I just knew, I just knew we were, we didn't make it so I was like, okay.
+[00:43:30.840 --> 00:43:32.840]   But yeah, I'll read, I'll read look at it again.
+[00:43:32.840 --> 00:43:33.840]   Okay.
+[00:43:33.840 --> 00:43:34.840]   Thanks.
+[00:43:34.840 --> 00:43:36.840]   Okay.
+[00:43:36.840 --> 00:43:38.840]   Okay.
+[00:43:38.840 --> 00:43:40.840]   Okay.
+[00:43:40.840 --> 00:43:41.840]   Okay.
+[00:43:41.840 --> 00:43:44.840]   So Microsoft, Microsoft, Microsoft.
+[00:43:44.840 --> 00:43:46.840]   Any other questions?
+[00:43:46.840 --> 00:43:48.840]   John, do you have a question?
+[00:43:48.840 --> 00:43:49.840]   No?
+[00:43:49.840 --> 00:43:54.840]   Okay, I have a question on how many employees do we usually.
+[00:43:54.840 --> 00:44:01.840]   Um, either move to another district or retire, do we have like a number of.
+[00:44:01.840 --> 00:44:08.840]   Um, employees that we might have to replace because of retirements or moving to the districts.
+[00:44:08.840 --> 00:44:10.840]   Or maybe an average based on previous years.
+[00:44:10.840 --> 00:44:17.840]   So last year, we had about 170, 180 professional employees.
+[00:44:17.840 --> 00:44:22.840]   Um, I don't always have that number ready for para and auxiliary, but I could get that for you.
+[00:44:22.840 --> 00:44:26.840]   But the number is 170, 180, I anticipate.
+[00:44:26.840 --> 00:44:28.840]   A few more this year.
+[00:44:28.840 --> 00:44:31.840]   Maybe 50, 60 more than that this year.
+[00:44:31.840 --> 00:44:36.840]   Oh, okay.
+[00:44:36.840 --> 00:44:40.840]   Yeah.
+[00:44:40.840 --> 00:44:41.840]   You know the question?
+[00:44:41.840 --> 00:44:42.840]   Oh, Becky.
+[00:44:42.840 --> 00:44:43.840]   Yeah.
+[00:44:43.840 --> 00:44:49.840]   So, uh, Jim, on those, uh, six middle school teachers, I know Dan said attrition for
+[00:44:49.840 --> 00:44:54.840]   unfulpositions on the C&I and the other pair of, but what about the six
+[00:44:54.840 --> 00:44:57.840]   middle school teachers and the four high school teachers or those on.
+[00:44:57.840 --> 00:44:58.840]   In different.
+[00:44:58.840 --> 00:45:00.840]   And before you answer that, can you go back to that slide?
+[00:45:00.840 --> 00:45:02.840]   Cause I was going to ask you to go back to that.
+[00:45:02.840 --> 00:45:04.840]   Cause I've got questions on that as well.
+[00:45:04.840 --> 00:45:05.840]   Sorry, Becky.
+[00:45:05.840 --> 00:45:07.840]   I just wanted to have in front of us.
+[00:45:07.840 --> 00:45:09.840]   Those are through attrition.
+[00:45:09.840 --> 00:45:13.840]   So the six middle school teachers, the four high school teachers, those will be through attrition.
+[00:45:13.840 --> 00:45:16.840]   So the principals have worked on that.
+[00:45:16.840 --> 00:45:19.840]   And they identified most of those positions.
+[00:45:19.840 --> 00:45:22.840]   So when that happens, the principals have to look at their master schedule.
+[00:45:22.840 --> 00:45:24.840]   And so they've been working on that.
+[00:45:24.840 --> 00:45:26.840]   They know those numbers and we're, we're almost there.
+[00:45:26.840 --> 00:45:31.840]   So those are currently filled positions though the sort of most of them.
+[00:45:31.840 --> 00:45:35.840]   I would say three high school positions we have.
+[00:45:35.840 --> 00:45:38.840]   We're waiting for one more high school position.
+[00:45:38.840 --> 00:45:40.840]   We'll get that over the next couple of months.
+[00:45:40.840 --> 00:45:46.840]   And then I think we have one more middle school position to identify.
+[00:45:46.840 --> 00:45:47.840]   Okay.
+[00:45:47.840 --> 00:45:54.840]   Is the middle school positions is that a result of eliminating the block scheduling option?
+[00:45:54.840 --> 00:45:58.840]   That is moving to a six out of seven day.
+[00:45:58.840 --> 00:45:59.840]   Yes.
+[00:45:59.840 --> 00:46:08.840]   And we were at the six out of seven in.
+[00:46:08.840 --> 00:46:14.840]   And you remember our schedules were not aligned in our four middle schools.
+[00:46:14.840 --> 00:46:20.840]   And so we had some that were already there at the six out of seven and some that we're doing six out of eight.
+[00:46:20.840 --> 00:46:27.840]   So by aligning our schedule, we were able to reduce some positions.
+[00:46:27.840 --> 00:46:30.840]   Any other questions?
+[00:46:30.840 --> 00:46:31.840]   Yeah.
+[00:46:31.840 --> 00:46:34.840]   Thank you.
+[00:46:34.840 --> 00:46:35.840]   Appreciate it.
+[00:46:35.840 --> 00:46:36.840]   Thank you.
+[00:46:36.840 --> 00:46:40.840]   Thank you.
+[00:46:40.840 --> 00:46:42.840]   Moving on to the next workshop session.
+[00:46:42.840 --> 00:46:47.840]   This is employee contracts to Dr. Ryan.
+[00:46:47.840 --> 00:46:48.840]   Yes.
+[00:46:48.840 --> 00:46:53.840]   This evening on our consent agenda, we'll have employee contracts, but we want to make sure that,
+[00:46:53.840 --> 00:47:04.840]   that the board felt comfortable with the processes that, that we use with our contracts and it's always a good update every year to make sure that.
+[00:47:04.840 --> 00:47:11.840]   And we're up up to speed on all of that. So I'll turn that over to Gemma.
+[00:47:11.840 --> 00:47:12.840]   Thank you.
+[00:47:12.840 --> 00:47:18.840]   All right. Board of Trustees, every April, we bring educator contracts to you.
+[00:47:18.840 --> 00:47:22.840]   The majority of our staff hold some type of contract.
+[00:47:22.840 --> 00:47:29.840]   And those that hold a chapter 21 contract, they're governed by certain state law and board policies.
+[00:47:29.840 --> 00:47:48.840]   And Sarah is here. I'm going to pass out a document for each one of you. She has the board policies listed and she'll go over the chapter 21 contracts, the restrictions, the rules, and turn it over to Sarah.
+[00:47:48.840 --> 00:48:05.840]   I'm terrified I'm accidentally going to advance. Can I close the laptop?
+[00:48:05.840 --> 00:48:11.840]   There it goes. Okay, good.
+[00:48:11.840 --> 00:48:21.840]   Good evening, Dr. Ryan, board of trustees, my name is Sarah. I think I have appeared before you at least once before. I'm with Brackett and Ellis.
+[00:48:21.840 --> 00:48:28.840]   And we were asked to come speak with you and kind of do a chapter 21 primer ahead of tonight's agenda.
+[00:48:28.840 --> 00:48:32.840]   So typically districts have at least two types of employees.
+[00:48:32.840 --> 00:48:44.840]   One of those is the traditional at will employee and that's what most of you in the business world are familiar with. They can be terminated for any reason or no reason as long as it's not an illegal reason.
+[00:48:44.840 --> 00:49:05.840]   But the thing about school districts is that you have these wonderful about 50% of your employees are on chapter 21 contracts. And we're not very creative in how we label things. They're called chapter 21 contracts because they're governed by chapter 21 of the Texas education code.
+[00:49:05.840 --> 00:49:19.840]   So districts will have and I believe you have at least a few that are non chapter 21 contract employees. So for instance, if you had an in house attorney, they might be under a non chapter 21 contract.
+[00:49:19.840 --> 00:49:32.840]   Okay, so for instance, I believe your executive director of HR is on a non chapter 21 contract. So tonight I'm just going to focus though on what a chapter 21 contract, what those parameters are.
+[00:49:32.840 --> 00:49:48.840]   So again, it's about 50% of your district employees have a chapter 21 contract. Under the code, it specifically says that classroom teachers principles, librarians, nurses and school counselors will be on a chapter 21 contract.
+[00:49:48.840 --> 00:50:09.840]   However, as a result of law and AG opinions and basically how things evolve, if the job description requires a chapter 21 certification, then that employee will be on a chapter 21 contract. So it's much broader than that.
+[00:50:09.840 --> 00:50:30.840]   There are three types of chapter 21 contracts, the first continuing contracts are exactly what they sound like, they continue. So they're not for a defined term, they just are in perpetuity until a certain one of six things happens resignation, that sort of thing.
+[00:50:30.840 --> 00:50:54.840]   Those fell out of favor in the 10 years that I've been doing this, I have yet to see a district give a continuing contract. I will say that some of our long term extremely dedicated teachers do have there's always a handful in every district I work with that are still here on continuing contracts, but they are the exception rather than the rule.
+[00:50:54.840 --> 00:51:12.840]   For the most part, you've got two types of contracts in your district, you've got probationary contracts and term contracts. And again, we're not real creative probationary contract is exactly what it sounds like, these are teachers or professional employees who are new to the profession.
+[00:51:12.840 --> 00:51:27.840]   They get one year of a probationary contract that can be renewed for up to two additional terms, so typically we see probationary educators are on have three years of probationary contracts.
+[00:51:27.840 --> 00:51:51.840]   And then there are certain exceptions where you could have them do a possible fourth year, but that again is the exception rather than the rule. Anyone new to your district, even if they've taught for 20 years somebody somewhere else, if they are new to your district, they get a probationary contract the first year they're with you, okay, and we'll see why that makes a difference in a little minute in a minute.
+[00:51:51.840 --> 00:52:11.840]   Another type of contract is a term contract and again not real creative it's for a term it's for a defined term under the code it can be up to five years in a single term, most contracts that we see are for one or two years, our recommendation has always been for one year terms.
+[00:52:11.840 --> 00:52:20.840]   You are only eligible for a term contract if you have satisfied at least one year of a probationary contract.
+[00:52:20.840 --> 00:52:26.840]   That's kind of this what the different types are so what does it mean to have a chapter 21 contract.
+[00:52:26.840 --> 00:52:37.840]   I'm going to talk about teachers because they're the biggest group we have, so those terms are for a minimum of 10 months of service or 187 days.
+[00:52:37.840 --> 00:52:55.840]   There is a minimum salary schedule that is attached to them, they get a conference period that's a certain number of minutes every two weeks that can be used for specific activities, they get a duty free lunch that's 30 minutes every day.
+[00:52:55.840 --> 00:53:15.840]   They may not directly or indirectly be coerced to join or refrain from participating in political affairs in the teachers community state or nation, they may not directly or indirectly be coerced into a refrain from making contributions to a terrible organization.
+[00:53:15.840 --> 00:53:27.840]   All of that is in chapter 21, there's also an appraisal educators are required at least once a year to be appraised.
+[00:53:27.840 --> 00:53:41.840]   That appraisal is to be maintained in the teachers personnel file if the teacher objects to their appraisal, they can ask for a second appraiser by a different appraiser or they may submit a rebuttal.
+[00:53:41.840 --> 00:53:54.840]   They do either one of those two things, it becomes part of their appraisal, so appraisal one appraisal two that's one document or appraisal one in their rebuttal with the document.
+[00:53:54.840 --> 00:54:14.840]   The teacher is entitled to receive written copy promptly upon completion and then in that same section it again says that teachers ought to be notified results in a timely manner so that they can be used as a developmental tool to improve overall performance of the teacher.
+[00:54:14.840 --> 00:54:30.840]   So again it's a instructive tool, they can be given more frequently as necessary to ensure adequate evaluation and guidance, again it's an instructive tool to help performance.
+[00:54:30.840 --> 00:54:51.840]   So it says that it includes classroom observations and walkthroughs and that's really the only guidance in the code, but the Texas education agency has promulgated regulations which you'll find in the Texas administrative code or the tack that says exactly what an appraisal includes.
+[00:54:51.840 --> 00:55:04.840]   There's a setting and professional development plan that is submitted at the by the educator at the beginning of the year there's a pre conference there's at least one classroom observation of 45 minutes.
+[00:55:04.840 --> 00:55:17.840]   There's additional walkthroughs and observations anytime it's going to be used for the summative evaluation it has to be provided to the educator within 10 days.
+[00:55:17.840 --> 00:55:37.840]   There's an post observation conference within 10 days it's diagnostic and prescriptive and nature there's an end of your conference and then there's a written summative appraisal report that has to be provided to the educator within 10 days of the post observation conference.
+[00:55:37.840 --> 00:55:48.840]   So for lay people appraisal sounds like it's one, but if you actually get into it it is a lengthy process with a lot of required steps.
+[00:55:48.840 --> 00:55:57.840]   And so if you think back to March of 2020 when everything shut down a lot of our appraisals had not been completed.
+[00:55:57.840 --> 00:56:11.840]   And those employees that we were working towards a non renewal on we were not able to complete that because we were not able to give them an appraisal for that year okay.
+[00:56:11.840 --> 00:56:21.840]   Any questions on that aspect there's a separate appraisal system for principles and administrators that's just for teachers.
+[00:56:21.840 --> 00:56:35.840]   So let's go on to talk about kind of the separation of employment so resignations a teacher anybody on chapter 21 contract applies to all three.
+[00:56:35.840 --> 00:56:51.840]   So they can submit a written resignation no later than the 45th day before the first day of instruction that typically ends up being around July 4th last week of June first week of July depending on the calendar you adopt.
+[00:56:51.840 --> 00:56:59.840]   You can they can also resign at any time during the contract term, but they have to have the consent of the district okay.
+[00:56:59.840 --> 00:57:08.840]   And we've got somebody who's been given a promotion right typically the district well as a courtesy extent consent.
+[00:57:08.840 --> 00:57:22.840]   So let's talk about end of year and I know some of you have found the chart on page one in your materials.
+[00:57:22.840 --> 00:57:29.840]   Get it out so i'm looking at it to you.
+[00:57:29.840 --> 00:57:38.840]   So I grouped the chart by probationary and then term but i'm going to talk about.
+[00:57:38.840 --> 00:57:52.840]   And then I'll switch to mid year, so if you look at probationary and that's going to be covered by your board policy DFA a.
+[00:57:52.840 --> 00:58:07.840]   I'm sorry end of year, DFA be there is no hearing is available it it's in the best interest of the district, which is the lowest standard available for separation.
+[00:58:07.840 --> 00:58:18.840]   This decision is final and may not be appealed okay so that's end of year for probationary contract so again whether you're on a probationary contract or term contract.
+[00:58:18.840 --> 00:58:30.840]   This is really where that comes into play because the standard is low we give 10 days, whatever you guys decide that's final they can agree that they can use DGB a to grieve it.
+[00:58:30.840 --> 00:58:36.840]   But your decision is final they can't be appealed to the commissioner.
+[00:58:36.840 --> 00:58:51.840]   If you do not give timely notice that you are renewing or that you're either renewing or you're terminating the contract that professional employee continues in the same professional capacity for the following school year.
+[00:58:51.840 --> 00:59:10.840]   So term contract, this is non renewable so when we talk about probationary we're terminating when we talk about a term contract we're non renewing and the standard here is good cause and that good cause under the statute has to be listed in board policy.
+[00:59:10.840 --> 00:59:24.840]   So for you guys that's in DFBB well for all school districts you'll find it in DFBB last I checked we were up to over 30 good cause reasons that you have listed in that policy.
+[00:59:24.840 --> 00:59:38.840]   Again, pride notice no later than the 10th day before the last day of instruction, if the employee elects they can ask for an independent hearing examiner to hear it or the board.
+[00:59:38.840 --> 00:59:55.840]   If the reason for the non renewal has to do with performance that is classroom mean engagement anything like that then you ought you have to consider the most recent evaluation if you're not renewing because they hit a kid.
+[00:59:55.840 --> 01:00:06.840]   We don't have to look at their evaluation we're good that's not acceptable, but if it's for performance issues in the classroom you do have to look at that most recent evaluation.
+[01:00:06.840 --> 01:00:16.840]   But again failure to give notice in a timely manner, it means that they're going to continue as your employee in the same professional capacity.
+[01:00:16.840 --> 01:00:33.840]   So I know on your agenda tonight, this is an example you've got contract renewals and I think in the chart it's got it tells you if it's going to be a term renewal if they're going to go on a term contract or probationary contract that's what they're referring to.
+[01:00:33.840 --> 01:00:58.840]   If you did not accept the recommendation of the superintendent and you said we're not going to do that you don't have time between now and the 10th day before the last day of instruction to do anything to either non renew or renew so all of those people are going to continue on in the same professional capacity for the next school year.
+[01:00:58.840 --> 01:01:11.840]   How that would work termination mid contract is different so all three of them if you're going to terminate mid contract that's probationary continuing your term.
+[01:01:11.840 --> 01:01:36.840]   If you have to be for good cause alright and good causes to German by the board but we have a handy dandy index that has all of the things that the commissioner in the courts have said is good thoughts okay where they've agreed with the board that yes that was good cause for terminating and employee mid contract.
+[01:01:36.840 --> 01:01:44.840]   So sexual contact involving students this physical verbal accidental or inadvertent.
+[01:01:44.840 --> 01:01:46.840]   Let's see.
+[01:01:46.840 --> 01:02:00.840]   Staff shoplifting those are the kind of things we're talking about misappropriation of funds okay it's quite a lengthy list.
+[01:02:00.840 --> 01:02:16.840]   Typically it comes down to you and when we do mid contract hearings we're looking at acceptable standards in like districts so if it's something that is required by law and the employee has broken the law.
+[01:02:16.840 --> 01:02:30.840]   We have court cases that say proving that they broke the law that's enough to establish it's not reasonable right it's not acceptable conduct. Other staff that we don't have a clear law to point to.
+[01:02:30.840 --> 01:02:45.840]   We have to get an expert that can testify about what other districts in the area with they have terminated for this as well to establish that this is consistent with the standards of districts like yours.
+[01:02:45.840 --> 01:02:48.840]   Um.
+[01:02:48.840 --> 01:02:53.840]   Suspension without pay it's exactly the same.
+[01:02:53.840 --> 01:03:14.840]   So if we suspend an employee without paying them they get to go have a hearing examiner it's all the same staff so typically we do not see suspensions without pay because if you're going to go through all of that you might as well go ahead and terminate them right and the code says that you can only do suspensions without pay.
+[01:03:14.840 --> 01:03:31.840]   In lieu of discharge or pending discharge so you got to be headed in that direction anyway and so we typically don't see suspensions without pay because we just go ahead and do the mid contract termination okay.
+[01:03:31.840 --> 01:03:58.840]   Um, and I think that we do have times where we agree to do suspensions with that pay but that is the exception rather than the norm and it's usually part of a settlement agreement that we have, but really we just don't see it so that's my is there anything that I missed or.
+[01:03:58.840 --> 01:04:03.840]   Do you have any questions question from the word Louis.
+[01:04:03.840 --> 01:04:15.840]   So going back you made the you made the comment in regards to if we didn't tonight on the contracts when you said 10 days prior to the end of the year.
+[01:04:15.840 --> 01:04:23.840]   We're farther out than 10 days but you're saying in terms to have a hearing a formal review with that to go through all the protocols to arrive at that decision correct.
+[01:04:23.840 --> 01:04:33.840]   Right, you would have to meet and vote to either renew or non renew and if you're going to vote to non renew that is.
+[01:04:33.840 --> 01:04:49.840]   You would have to have reasons for that I mean there's a lot that goes into we start doing reviews of employee files for non renewal purposes about a month ago in order to make sure that we meet those timelines.
+[01:04:49.840 --> 01:04:53.840]   And when you made the comment that if we don't and they stay.
+[01:04:53.840 --> 01:04:58.840]   If we don't.
+[01:04:58.840 --> 01:04:59.840]   Pass.
+[01:04:59.840 --> 01:05:06.840]   I agree with the agenda item in terms of the contracts and so forth and they stay in that capacity.
+[01:05:06.840 --> 01:05:15.840]   For into next year is there anything that can be done after the 10 date prior after the 10 days before the final instructional day through the summer so forth.
+[01:05:15.840 --> 01:05:20.840]   Or is it literally for an entire year we need to have reason for that.
+[01:05:20.840 --> 01:05:30.840]   And so the people that we are bringing to you tonight we are recommending that run is recommending the principles have recommended those for higher next year.
+[01:05:30.840 --> 01:05:34.840]   And so something would have to happen.
+[01:05:34.840 --> 01:05:40.840]   The things that she mentioned for termination or a non renewal would need would have to happen for that to happen.
+[01:05:40.840 --> 01:05:45.840]   And let me understand I am just asking the question to understand the procedural process of this.
+[01:05:45.840 --> 01:05:57.840]   I have no indications of any now my point was I've just sitting here wanting to know okay what happens if did something happen with it's just chapter 21 or so forth in a probationary and non probationary.
+[01:05:57.840 --> 01:06:07.840]   And what the process is and it goes back to okay hey if we do and then something arises then we have go back and look at those 30 instances for good reason or good cause.
+[01:06:07.840 --> 01:06:17.840]   And we've had that over the last few years occasionally we've 22 that I can think of that we've brought you from mid year determination so we have done that.
+[01:06:17.840 --> 01:06:18.840]   But that's it.
+[01:06:18.840 --> 01:06:26.840]   Once you missed that 10 days before the end of instructional thing you're into a mid contract termination until the next non renewal window.
+[01:06:26.840 --> 01:06:31.840]   And my question was just from getting clarification understanding the process a lot better sorry thank you.
+[01:06:31.840 --> 01:06:32.840]   Sorry.
+[01:06:32.840 --> 01:06:34.840]   Any other questions?
+[01:06:34.840 --> 01:06:36.840]   Thank you.
+[01:06:36.840 --> 01:06:41.840]   Sarah were the list of 30 plus items, are they in this document that you gave this.
+[01:06:41.840 --> 01:06:42.840]   I should be.
+[01:06:42.840 --> 01:06:45.840]   Yeah, the D. F. B. B. it's at work back.
+[01:06:45.840 --> 01:06:49.840]   Yeah, it's looking for the list because.
+[01:06:49.840 --> 01:06:50.840]   Thank you.
+[01:06:50.840 --> 01:06:51.840]   Thank you.
+[01:06:51.840 --> 01:06:54.840]   So to say yeah actually happened the turn it through okay awesome.
+[01:06:54.840 --> 01:07:05.840]   And so I mean it's interesting that you mentioned that the principles are the ones that put forward these recommendations because for them on up to HR and then to Dr.
+[01:07:05.840 --> 01:07:24.840]   Ryan and I mean this is comment it's kind of sad they wouldn't have any principles on the commission that's talking about how to retain teachers because the principles are the boots on the ground in the campus that you know.
+[01:07:24.840 --> 01:07:34.840]   They're together their campus personnel so that that certainly seems to be a bit of a miss but unfortunately not not under our purview.
+[01:07:34.840 --> 01:07:44.840]   So Sarah you mentioned of the 45 days of instruction though but there was something that was passed with 30 days right and I cannot remember exactly what it was.
+[01:07:44.840 --> 01:07:58.840]   So the if they do not if an indicator does not give adequate notice so that 45 days notice then the district has the option of reporting them to as back to the investigated and potential sanctions.
+[01:07:58.840 --> 01:08:17.840]   The statute was passed said that 30 days if they give notice more than 30 days then as back won't consider yanking their license at a potential.
+[01:08:17.840 --> 01:08:37.840]   So if a teacher gets a promotion somewhere else I'm assuming based on what you said I guess it's come on all come on practice to allow them to go but contractually they you can retain them that correct.
+[01:08:37.840 --> 01:08:56.840]   If it's a mid contract resignation then it is the consent of the district so in different districts are in different positions and have different priorities and I would not venture to guess what is common practice.
+[01:08:56.840 --> 01:09:10.840]   So that's on the case by case basis so for example as a principal I had a teacher that was we were on a b block schedule at the time and I had a teacher that taught French on a day and biology on the day.
+[01:09:10.840 --> 01:09:27.840]   And she wanted to take another job in a different place and I either had to keep her for a while which we did or find a French teacher and a biology teacher to take a place a lot of times it's in we keep we try to keep the employee until we find a suitable replacement.
+[01:09:27.840 --> 01:09:39.840]   Especially if it's in a if it's in a hard to staff position other other times when somebody gets promotion and we work with them.
+[01:09:39.840 --> 01:09:48.840]   We just recently had an administrator leave for a different district and procedure promotion and so we try to work with them about that that situation so it's a case by case basis.
+[01:09:48.840 --> 01:10:05.840]   And for non chapter 21 like does that really work like a corporation on non chapter 21 yes so a mid contract termination for a non chapter 21 contract employee if it's mid contract it's for good cause, which is the same.
+[01:10:05.840 --> 01:10:13.840]   And if it's at the end of the year their contract they don't are entitled to the same professional capacity.
+[01:10:13.840 --> 01:10:22.840]   Any other question from the war, thank you so much appreciate it.
+[01:10:22.840 --> 01:10:26.840]   I guess do I need have a motion to adjourn.
+[01:10:26.840 --> 01:10:45.840]   I make a motion that we adjourn the second, okay, we have second all in paper please as your head motion passes seven CTO mini agenda 609 will be back on the regular session at seven o'clock.
+[01:10:45.840 --> 01:11:04.840]   Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.
+[01:11:04.840 --> 01:11:23.840]   Yes, yes, yes, yes, yes, yes, yes.
+[01:11:23.840 --> 01:11:42.840]   Yes, yes, yes, yes, yes, yes, yes, yes.
+[01:11:42.840 --> 01:12:01.840]   Yes, yes, yes, yes, yes, yes.
+[01:12:01.840 --> 01:12:19.840]   Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.
+[01:12:19.840 --> 01:12:33.840]   Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.
+[01:12:33.840 --> 01:12:57.840]   Yes, yes, yes, yes, yes, yes, yes, yes.
+[01:12:57.840 --> 01:13:23.840]   Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.
+[01:13:23.840 --> 01:13:45.840]   Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.
+[01:13:45.840 --> 01:14:01.840]   Yes, yes, yes, yes.

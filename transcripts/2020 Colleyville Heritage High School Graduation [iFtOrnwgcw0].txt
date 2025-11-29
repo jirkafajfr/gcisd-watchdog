@@ -1,0 +1,674 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:04.000]   [BLANK_AUDIO]
+[00:07:04.000 --> 00:07:14.000]   [BLANK_AUDIO]
+[00:07:14.000 --> 00:07:24.000]   [BLANK_AUDIO]
+[00:07:24.000 --> 00:07:52.000]   [BLANK_AUDIO]
+[00:07:52.000 --> 00:08:02.000]   [BLANK_AUDIO]
+[00:08:02.000 --> 00:08:28.000]   [BLANK_AUDIO]
+[00:08:28.000 --> 00:08:38.000]   [BLANK_AUDIO]
+[00:08:38.000 --> 00:09:06.000]   [BLANK_AUDIO]
+[00:09:06.000 --> 00:09:16.000]   [BLANK_AUDIO]
+[00:09:16.000 --> 00:09:44.000]   [BLANK_AUDIO]
+[00:09:44.000 --> 00:09:54.000]   [BLANK_AUDIO]
+[00:09:54.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:58.000]   [BLANK_AUDIO]
+[00:10:58.000 --> 00:11:08.000]   [BLANK_AUDIO]
+[00:11:08.000 --> 00:11:36.000]   [BLANK_AUDIO]
+[00:11:36.000 --> 00:11:46.000]   [BLANK_AUDIO]
+[00:11:46.000 --> 00:12:14.000]   [BLANK_AUDIO]
+[00:12:14.000 --> 00:12:24.000]   [BLANK_AUDIO]
+[00:12:24.000 --> 00:12:52.000]   [BLANK_AUDIO]
+[00:12:52.000 --> 00:13:02.000]   [BLANK_AUDIO]
+[00:13:02.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:14:00.000]   [BLANK_AUDIO]
+[00:14:00.000 --> 00:14:28.000]   [BLANK_AUDIO]
+[00:14:28.000 --> 00:14:38.000]   [BLANK_AUDIO]
+[00:14:38.000 --> 00:15:06.000]   [BLANK_AUDIO]
+[00:15:06.000 --> 00:15:32.000]   [BLANK_AUDIO]
+[00:15:32.000 --> 00:15:42.000]   [BLANK_AUDIO]
+[00:15:42.000 --> 00:16:10.000]   [BLANK_AUDIO]
+[00:16:10.000 --> 00:16:20.000]   [BLANK_AUDIO]
+[00:16:20.000 --> 00:16:48.000]   [BLANK_AUDIO]
+[00:16:48.000 --> 00:16:58.000]   [BLANK_AUDIO]
+[00:16:58.000 --> 00:17:26.000]   [BLANK_AUDIO]
+[00:17:26.000 --> 00:17:36.000]   [BLANK_AUDIO]
+[00:17:36.000 --> 00:18:04.000]   [BLANK_AUDIO]
+[00:18:04.000 --> 00:18:14.000]   [BLANK_AUDIO]
+[00:18:14.000 --> 00:18:42.000]   [BLANK_AUDIO]
+[00:18:42.000 --> 00:18:52.000]   [BLANK_AUDIO]
+[00:18:52.000 --> 00:18:58.000]   [BLANK_AUDIO]
+[00:18:58.000 --> 00:19:02.000]   Thank you, you may be seated.
+[00:19:02.000 --> 00:19:08.000]   It is my honor to welcome you to the graduation ceremony of Colleville Heritage High School.
+[00:19:08.000 --> 00:19:13.520]   Again, our purpose is to honor and recognize each member of the class of 2020.
+[00:19:13.520 --> 00:19:19.400]   This class is filled with exceptional leaders that will represent Colleville Heritage as authors,
+[00:19:19.400 --> 00:19:25.120]   doctors, lawyers, engineers, and careers that aren't even invented yet.
+[00:19:25.120 --> 00:19:29.440]   I can assure you of one thing though, that they will change the world.
+[00:19:29.440 --> 00:19:33.640]   This class is demonstrated leaderships as servants in our community and
+[00:19:33.640 --> 00:19:37.000]   exemplified pride at every turn.
+[00:19:37.000 --> 00:19:43.040]   This class of 2020 is extra special to me as we started our journey as Panthers together.
+[00:19:43.040 --> 00:19:45.560]   And tonight, we finished our journey together as well.
+[00:19:45.560 --> 00:19:54.360]   We were both nervous, excited, and maybe even a little scared on our first days.
+[00:19:54.360 --> 00:19:56.500]   As we struggled to find second floor at y'all.
+[00:19:56.500 --> 00:20:01.920]   As a principal, it's always exciting to see the growth of our students.
+[00:20:01.920 --> 00:20:06.960]   And I've had this first hand opportunity over the last four years of this group
+[00:20:06.960 --> 00:20:14.400]   of young men and women turn from nervous freshmen to mature, confident, young men and women that are destined to change the world.
+[00:20:14.400 --> 00:20:18.880]   Parents and community members, you should be proud of these students.
+[00:20:18.880 --> 00:20:23.360]   Seated before you tonight, because they are our future and the future is bright.
+[00:20:23.360 --> 00:20:28.600]   This senior class has been awarded over $19 million in scholarships and
+[00:20:28.600 --> 00:20:35.200]   recognitions with over 200 students being recognized with these awards and scholarships.
+[00:20:35.200 --> 00:20:44.440]   These seniors have also provided our community more than 17,000 hours of community service during their time at College of Heritage.
+[00:20:44.440 --> 00:20:51.680]   Our staff has supported graduates to reach this level of success by providing students an education they could be proud of.
+[00:20:51.680 --> 00:20:56.720]   Please join me in congratulating the staff and students for these remarkable achievements.
+[00:21:06.000 --> 00:21:09.640]   Class of 2020, I'd like to leave you with this quote.
+[00:21:09.640 --> 00:21:14.520]   The only way to live life to its fullest is to be where your feet are.
+[00:21:14.520 --> 00:21:20.920]   I believe over the last 11 weeks that we've learned that we can take things for granted.
+[00:21:20.920 --> 00:21:29.600]   While we are looking ahead at moments to come, do not forget to take advantage of the moments you have right in front of you.
+[00:21:29.600 --> 00:21:35.160]   As you leave this ceremony today, life is going to put much in front of you.
+[00:21:35.160 --> 00:21:39.480]   It will be easy to overlook the moment you're in and take it for granted.
+[00:21:39.480 --> 00:21:45.400]   While right now, it would be easy to reflect upon the moments that you've lost this year.
+[00:21:45.400 --> 00:21:48.640]   I challenge you instead to be where your feet are.
+[00:21:48.640 --> 00:21:57.200]   Soak up this moment with your friends and family as you and your journey as a College of Heritage Panther come to an end.
+[00:21:58.280 --> 00:22:05.280]   This time, I invite you to turn your attention to the video board for a message from student body president Morgan Sundale.
+[00:22:05.280 --> 00:22:12.600]   Please buy your heads for the invocation.
+[00:22:12.600 --> 00:22:17.600]   Dear Lord, we gather here today to commend these students outstanding successes.
+[00:22:17.600 --> 00:22:22.920]   We thank you for gathering us all safely here today to celebrate our long anticipated graduation.
+[00:22:22.920 --> 00:22:28.800]   And we thank you for the dedication of all the devoted teachers, coaches, administrators, and family members
+[00:22:28.800 --> 00:22:31.960]   who have worked tirelessly to give us a memorable senior year.
+[00:22:31.960 --> 00:22:35.400]   As we leave today, we ask for your guidance in our future endeavors.
+[00:22:35.400 --> 00:22:40.440]   We thank you and praise you, God, for a many blessings, Amen.
+[00:22:40.440 --> 00:22:42.360]   Good evening, Class of 2020.
+[00:22:42.360 --> 00:22:45.720]   I would like to start off by recognizing our incredible administrators,
+[00:22:45.720 --> 00:22:51.720]   whoever day in and day out to give us students the most memorable senior year possible with the situation at hand.
+[00:22:51.720 --> 00:22:57.560]   I want to thank you on behalf of the senior class for giving us the opportunity to continue making lifelong memories
+[00:22:57.560 --> 00:22:59.880]   while also keeping in mind our safety.
+[00:22:59.880 --> 00:23:04.680]   I commend the class of 2020 on the numerous accomplishments we have reached together.
+[00:23:04.680 --> 00:23:11.000]   Graduating high school is a significant milestone in one's life and each of you should be proud of this accomplishment.
+[00:23:11.000 --> 00:23:15.880]   I am so grateful to be a Panther as we have such a smart, hardworking, inspiring,
+[00:23:15.880 --> 00:23:21.080]   and selfless student body. For those I have had the pleasure of knowing, thank you for the support,
+[00:23:21.080 --> 00:23:26.040]   laughter, and fellowship. For those I did not get the opportunity to build a relationship with,
+[00:23:26.040 --> 00:23:30.280]   I hope you too made lifelong memories and friendships. But no matter who you are,
+[00:23:30.280 --> 00:23:34.120]   I hope my message allows you to think about your past, your future, and your current self.
+[00:23:34.120 --> 00:23:38.920]   During my time in high school, I have met many incredible people who have inspired me through
+[00:23:38.920 --> 00:23:43.880]   their words. One of these people was coach off. If you were in volleyball, you know that every
+[00:23:43.880 --> 00:23:48.600]   time we ran, coach off was the one person you could hear. One of the things she used to say
+[00:23:48.600 --> 00:23:54.040]   while we were running was, stop feeling sorry for yourself. And for a while, I used to only associate
+[00:23:54.040 --> 00:23:59.800]   that saying with volleyball. However, I began to realize how much that saying relates to life in general
+[00:23:59.800 --> 00:24:04.520]   and what it truly calls you to do. Currently, our life is a little different than usual,
+[00:24:04.520 --> 00:24:09.160]   and for us seniors, this is not how we expected or senior year to end. However, this
+[00:24:09.160 --> 00:24:13.480]   position has given seniors a choice to either focus on what we missed out on or how this situation
+[00:24:13.480 --> 00:24:17.960]   gives us an opportunity to create and impact on others. The next four years of our lives,
+[00:24:17.960 --> 00:24:22.200]   we a lot different than the last four, and we will be put into environments and situations we've
+[00:24:22.200 --> 00:24:26.840]   never had to face in our own. Most everyone in those stands will tell you that life can be hard
+[00:24:26.840 --> 00:24:32.120]   at times, life can be unfair, and life can be me. Everyone will have their struggles and failures
+[00:24:32.120 --> 00:24:36.760]   along the way, and you will be faced with a decision to either feel sorry for yourself and give up,
+[00:24:36.760 --> 00:24:41.880]   or to keep pushing until you reach success. Life isn't about what happens to you, it's about how
+[00:24:41.880 --> 00:24:46.280]   you react and how you respond, that will create that outcome. Your challenge as a graduate
+[00:24:46.280 --> 00:24:51.160]   of College of Heritage is to seek greatness. Take those difficult situations and struggles and use
+[00:24:51.160 --> 00:24:55.800]   them to fuel your passion to achieve something greater. The amount of potential and drive this class
+[00:24:55.800 --> 00:25:00.520]   has is remarkable, and together we can show the world what College of Heritage Panthers can do.
+[00:25:00.520 --> 00:25:06.760]   Having the opportunity to serve as your student body president, to grow and create relationships,
+[00:25:06.760 --> 00:25:18.760]   has been an honor, a pleasure, and a privilege. Thank you and go Panthers!
+[00:25:18.760 --> 00:25:25.000]   Thank you Morgan. At this time it is a great honor and privilege to recognize the members of the
+[00:25:25.000 --> 00:25:30.280]   College of Heritage Class of 2020 who have made the choice to serve in the Armed Forces.
+[00:25:30.280 --> 00:25:35.720]   Two former College of Heritage graduates were killed in action serving our country.
+[00:25:35.720 --> 00:25:41.960]   These two students were Christian Schultz of the class of 2003 and Stephen Tucker of the class
+[00:25:41.960 --> 00:25:48.600]   of 2004. Years ago these two young men were wearing red robe sitting as a member of their
+[00:25:48.600 --> 00:25:54.040]   College of Heritage graduating class. This is one of my favorite traditions at College of Heritage,
+[00:25:54.040 --> 00:25:59.640]   not only to honor Stephen and Christian, but the thousands before and the thousands since,
+[00:25:59.640 --> 00:26:05.320]   who served our country so well. Graduates, when I call your name please stand and remain
+[00:26:05.320 --> 00:26:10.200]   standing until all have been recognized. I would ask audience if you will hold your applause
+[00:26:10.200 --> 00:26:16.440]   until we have recognized all of these students. Cody Beach, United States Army,
+[00:26:16.440 --> 00:26:24.680]   Caden Brown, United States Air Force, Jerry Freeman, United States Navy,
+[00:26:25.640 --> 00:26:37.480]   Jacob Fuentes, United States Army, Jared Guttbert, United States Marine, Rachel McAllister, United
+[00:26:37.480 --> 00:26:47.480]   States Air Force, Olivia Pound, United States Air Force, Jacob Rodriguez, United States Marines,
+[00:26:47.480 --> 00:26:55.560]   and enrolling in the United States Air Force Academy Spencer Shelley. Ladies and gentlemen please join me
+[00:26:55.560 --> 00:27:21.080]   in recognizing these students commitment to service. At this time please turn your attention to
+[00:27:21.080 --> 00:27:30.040]   the video board for a message from senior class president Christina Lamb. Hi my name is Christina
+[00:27:30.040 --> 00:27:34.920]   Lamb and as the senior class president I am honored to welcome you to the class of 2020
+[00:27:34.920 --> 00:27:41.000]   College of Heritage graduation ceremony. I felt the privilege to represent the most persistent,
+[00:27:41.000 --> 00:27:47.480]   determined, and resilient class of CHHS. We were unable to experience the end of the year
+[00:27:47.480 --> 00:27:53.480]   senior traditions like the senior field day and PEP rally, the elementary school cap and gown walk
+[00:27:53.480 --> 00:27:59.480]   and future events like college orientation and summer camps. However we learned that expectations
+[00:27:59.480 --> 00:28:05.080]   can change and traditions can be flexible. I also learned that having friends like jewels who deliver
+[00:28:05.080 --> 00:28:10.120]   chocolate chip cookies to your door is all you need to get through a day of social isolation
+[00:28:10.120 --> 00:28:14.920]   and playing Super Smash Bros online with Helena and June is all you need to get through the night.
+[00:28:16.360 --> 00:28:22.040]   We lost our banquets but we got to see how much our coaches and directors care about us
+[00:28:22.040 --> 00:28:27.160]   when they work tirelessly to give us a virtual celebration and drove to our houses to deliver
+[00:28:27.160 --> 00:28:33.880]   cords, cookies and awards. We lost our classrooms but we gained knowledge of new technology
+[00:28:33.880 --> 00:28:38.600]   and the tenacity to log into class even when we're in the middle of binge watching the outer
+[00:28:38.600 --> 00:28:44.920]   binks on Netflix or accidentally stayed up on night watching TikToks. We experienced firsthand how
+[00:28:44.920 --> 00:28:49.640]   dedicated our teachers were like when Miss Renette called my mom when I was sleeping instead of
+[00:28:49.640 --> 00:28:57.160]   going to WebEx class. We gained time a lot of time, a whole lot of time with our family,
+[00:28:57.160 --> 00:29:01.800]   shout out to my parents and my brother Danny thank you guys for loving me unconditionally.
+[00:29:01.800 --> 00:29:08.200]   We adapted to slower learning pace, we gained an appreciation of our health and we totally
+[00:29:08.200 --> 00:29:14.840]   earn open books during AP testing. We lost the traditional graduation ceremony but we
+[00:29:14.840 --> 00:29:21.000]   got to see our teachers, administrators and Dr. Gropol go above and beyond for us by organizing
+[00:29:21.000 --> 00:29:26.680]   parades, delivering congratulations signs to our houses and putting together a different kind
+[00:29:26.680 --> 00:29:34.280]   of graduation ceremony. We lost our prom but we gained. I'm still trying to figure that one out.
+[00:29:34.280 --> 00:29:40.360]   We will not be remembered as the quarantine class, the class that lost graduation, the class
+[00:29:40.360 --> 00:29:45.480]   with their prom outfits hanging in the closet unused. We refused to let coronavirus define us.
+[00:29:45.480 --> 00:29:51.160]   We are the class that witnessed our parents, teachers and leaders work so hard to create
+[00:29:51.160 --> 00:29:56.840]   lasting memories for our sake. We are the class that overcomes adversities and has no choice
+[00:29:56.840 --> 00:30:02.040]   but to be creative, think outside the box and learn to do things differently. We are the class
+[00:30:02.040 --> 00:30:07.640]   of 2020. We will take all of these experiences with us and even though we don't know exactly how
+[00:30:07.640 --> 00:30:12.840]   we're going to make our world better right now, we know that we will. We started this journey
+[00:30:12.840 --> 00:30:18.520]   as nervous and clueless but eager freshmen. We know better who we are now and we know that our
+[00:30:18.520 --> 00:30:23.400]   class will be famous not because of this pandemic but because of our deliberate actions to make
+[00:30:23.400 --> 00:30:28.600]   a better future for ourselves and others. I can't wait to see how each of us makes new paths
+[00:30:28.600 --> 00:30:33.800]   and the uncharted road ahead. Congratulations to all of you and good looking your future adventures.
+[00:30:35.160 --> 00:30:40.760]   At this time, ladies and gentlemen, please join me in a welcoming or salutatorian, Dunesong.
+[00:30:40.760 --> 00:30:48.040]   Good evening ladies and gentlemen, it's good to see everybody's faces and masks. My name is
+[00:30:48.040 --> 00:30:52.840]   Dunesong and I'm honored to represent Sir H. H. H. H. has this class of 2020 as salutatorian.
+[00:30:52.840 --> 00:30:56.520]   Before I begin, I'd like to acknowledge the GCIT school board and faculty for
+[00:30:56.520 --> 00:31:00.600]   accommodating the seniors this year and making this graduation happen. A lot of schools aren't
+[00:31:00.600 --> 00:31:05.320]   as fortunate as us to have an in-person graduation, so thank you. Now, I'd like to congratulate
+[00:31:05.320 --> 00:31:09.320]   our class for making it this far. Who knew that these past four years are just a three and a half
+[00:31:09.320 --> 00:31:14.040]   would go by so quickly? For me and probably everybody else, high school felt like a flash. So,
+[00:31:14.040 --> 00:31:18.040]   for the sake of nostalgia, I want to reminisce on the moment, good or bad, that made my time at
+[00:31:18.040 --> 00:31:23.080]   Collierville Heritage so special. If we really think back, the world in 2016 was certainly different
+[00:31:23.080 --> 00:31:27.000]   than the one we faced today. Back then, killer clowns from the streets, TikTok was still
+[00:31:27.000 --> 00:31:31.400]   branded as musically and the pet boys conveyed jerks without getting censored. More specifically,
+[00:31:31.400 --> 00:31:35.400]   I can remember just how clueless I was as a freshman. I don't think I was alone and wondering where
+[00:31:35.400 --> 00:31:39.640]   I was going to go or what I was going to do in the future, even if graduation seems so far away at
+[00:31:39.640 --> 00:31:44.280]   the time. But throughout the next four years, we grew and matured together, exploring our passions
+[00:31:44.280 --> 00:31:48.200]   and creating memories that defined our time at Collierville. We demonstrated our quick thinking by
+[00:31:48.200 --> 00:31:52.280]   hosting our rivalry game at the South Lake Carroll Stadium due to the prolonged construction of
+[00:31:52.280 --> 00:31:57.160]   the Mustang Panther Stadium. We built a Panther Activity Center, which the football team put to good use
+[00:31:57.160 --> 00:32:01.400]   as they'd been to the fourth round this year. We introduced C-Day where we danced until we dropped
+[00:32:01.400 --> 00:32:06.760]   in the very same pack. We learned that Jared cannot, in fact, be kids mile time. We saw a strange
+[00:32:06.760 --> 00:32:11.320]   but humorous side of our class as, oh, you got beamed cards rapidly circulated throughout the
+[00:32:11.320 --> 00:32:16.520]   school population. But we also saw changes to the world outside of our small schools school bubble.
+[00:32:16.520 --> 00:32:20.840]   College Board officially lost touch with reality by pushing out a poorly designed testing system
+[00:32:20.840 --> 00:32:26.040]   that resulted in crashes in failures nationwide and subsequently a $500 million lawsuit.
+[00:32:26.040 --> 00:32:30.600]   By condolences, go out to everybody who's submit one field. We saw the rise of Asian-American
+[00:32:30.600 --> 00:32:35.560]   representation in the media, such as Bong Junhose Parasite, Henry Goldie and Crazy Rich Asians,
+[00:32:35.560 --> 00:32:39.640]   Christopher Song and Annie and Colin Waze run for a homecoming court, all outstanding figures
+[00:32:39.640 --> 00:32:44.840]   that make me proud to be an Asian-American. And now, before anyone even realized, we're graduating.
+[00:32:44.840 --> 00:32:48.760]   I think Master Ugly from Kung Fu Panda appropriately sums up my sentiments on how quickly
+[00:32:48.760 --> 00:32:53.560]   time has passed. Yesterday's history, tomorrow's a mystery and today is a gift. That's why it's
+[00:32:53.560 --> 00:32:57.880]   called the present. Before you even know it, this graduation will even fade into a distant memory
+[00:32:57.880 --> 00:33:02.120]   in your mind. But I urge everyone here to take this quit to heart, live in the present. Don't
+[00:33:02.120 --> 00:33:06.200]   take any day for granted because I promise when you look back, you'll think yourself for living
+[00:33:06.200 --> 00:33:10.760]   to your fullest potential. To conclude, I'd like to acknowledge a few people that made every day
+[00:33:10.760 --> 00:33:15.080]   of high school worth it from you. Dr. Gropple, I guess in a way you're graduating with us.
+[00:33:15.080 --> 00:33:19.320]   You were an exceptional principal and genuinely cared about an invested time into every person
+[00:33:19.320 --> 00:33:23.160]   on campus. I'm sad to see you leave callable heritage, but there's no one more deserving
+[00:33:23.160 --> 00:33:27.800]   of the instructional leadership role. Teachers, thank you for your continued efforts and flexibility
+[00:33:27.800 --> 00:33:32.120]   in the midst of this unorthodox circumstance. I'm sure transitioning to online classes was just as
+[00:33:32.120 --> 00:33:36.520]   awkward for teachers as students. Mrs. Lachron, I was blessed to have you as a teacher and I wouldn't
+[00:33:36.520 --> 00:33:41.240]   be the same person without your guidance and continued encouragement. Chris, I'm pretty sure
+[00:33:41.240 --> 00:33:45.480]   Mrs. Morvek thinks that we're still related, but really, I'll miss shaking around with you and I wish
+[00:33:45.480 --> 00:33:50.840]   you the best in New Haven. You'll do great things. Call in. Rise is only two hours away from
+[00:33:50.840 --> 00:33:54.680]   Austin, so this isn't even goodbye. You'll have to deal with my nonsense for at least another
+[00:33:54.680 --> 00:33:59.160]   four years and for that, I deeply apologize. Mingi, thank you for continuously putting me in my
+[00:33:59.160 --> 00:34:03.800]   place because of you on that for suffered from encoding failure. Samuel, my younger brother,
+[00:34:03.800 --> 00:34:08.760]   you've got some big shoes to fill, but I believe in you. And finally, mom and dad, you've sacrificed
+[00:34:08.760 --> 00:34:13.160]   so much for me and continued to encourage me even when I wanted to give up. And without you guys,
+[00:34:13.160 --> 00:34:18.600]   I never would have brought into where I am today. Tunnel helps me then. And to everyone else,
+[00:34:18.600 --> 00:34:22.840]   even though we're required to be six feet apart, I've never felt closer to my fellow graduates than
+[00:34:22.840 --> 00:34:28.280]   now. Again, congratulations to the class of 2020. Thank you. And now, please welcome the class
+[00:34:28.280 --> 00:34:36.760]   of 2020 valedictorian, Starthick Sirotaya. Thank you, June. Good evening, everybody. My name is
+[00:34:36.760 --> 00:34:43.240]   Starthick Sirotaya, and I'm honored to be the valedictorian of the class of 2020. Congratulations to
+[00:34:43.240 --> 00:34:47.480]   everybody for making it to the end of our high school career, despite experiencing many challenges
+[00:34:47.480 --> 00:34:53.080]   along the way. Even though many of us spent most of the third nine weeks hoping for school to be
+[00:34:53.080 --> 00:34:58.680]   over, our wishes came true in probably the worst way possible. We went home over spring break hoping
+[00:34:58.680 --> 00:35:04.040]   to relax and take a break from schoolwork, then come back and enjoy the rest of our senior year,
+[00:35:04.040 --> 00:35:09.080]   including state tournaments, prom, senior field day, and maybe even graduation in an air
+[00:35:09.080 --> 00:35:14.280]   condition facility. As our spring break turned into a spring quarantine and extended week by week,
+[00:35:14.280 --> 00:35:19.080]   we grew more and more anxious about what would happen to our senior year. When certain events
+[00:35:19.080 --> 00:35:23.880]   were canceled, it was disheartening to many of us, but we are fortunate to at least be able to
+[00:35:23.880 --> 00:35:31.320]   graduate. Time flies when you're having fun, but apparently also when you're stressed about school,
+[00:35:31.320 --> 00:35:36.360]   since I feel like these past four years have gone by in the blink of an eye. I remember entering
+[00:35:36.360 --> 00:35:41.960]   high school as a freshman and not really knowing what I was doing, wandering the hallways aimlessly
+[00:35:41.960 --> 00:35:47.800]   wondering where in the world is the f-hall. Throughout high school, however, we made friends
+[00:35:47.800 --> 00:35:52.760]   and memories that will stick with us for a lifetime. We learned important life lessons,
+[00:35:52.760 --> 00:35:58.680]   like always working hard and avoiding the second floor a-hall bathroom. Before I knew it though,
+[00:35:58.680 --> 00:36:03.160]   it was already time to say goodbye, even though we never really got a chance to do it in person.
+[00:36:03.160 --> 00:36:08.120]   Although at times I just wanted to be done with high school, I'll always look back on these
+[00:36:08.120 --> 00:36:13.400]   experiences and cherish the good old days. I'll remember the time we had a fire alarm go off
+[00:36:13.400 --> 00:36:18.840]   in the rain and we all got drenched, right before I had to take a physics test. I'll remember the
+[00:36:18.840 --> 00:36:23.240]   time we may or may not have tried to solder and intended together at 2 a.m. in the hotel
+[00:36:23.240 --> 00:36:28.760]   bathroom the night before the Science Olympiad state tournament, and I'll always remember when
+[00:36:28.760 --> 00:36:35.160]   Mr. Riveto taught me about effective transitions in AP English language. Speaking of effective
+[00:36:35.160 --> 00:36:40.280]   transitions, I'd like to transition to mentioning some of the many things that CHHS students
+[00:36:40.280 --> 00:36:46.040]   have accomplished over these past few years. We had many people participate in the Fort Worth Regional
+[00:36:46.040 --> 00:36:51.960]   Science and Engineering Fair, several of whom advanced to the state fair. Our Science Olympiad team
+[00:36:51.960 --> 00:36:57.160]   made it to state last year for the first time in many years. We had Decca State champions,
+[00:36:57.160 --> 00:37:01.960]   Pantera's made it to nationals, and Colin and Daniel got bids in debate. The Girls Cross
+[00:37:01.960 --> 00:37:06.840]   Country team made it to state, and the Boys Cross Country team did pretty well too. We had a few
+[00:37:06.840 --> 00:37:11.560]   singers in choir who made it to all state, UIL 1AC play advanced to districts,
+[00:37:11.560 --> 00:37:15.720]   theater did some fantastic musicals, and band made it to state for the first time in a while.
+[00:37:15.720 --> 00:37:20.840]   And last but certainly not least, the members of our esports team were declared League of Legends
+[00:37:20.840 --> 00:37:26.360]   State champions. Despite all of our accomplishments throughout high school,
+[00:37:26.360 --> 00:37:31.080]   this graduation ceremony is celebrating not just the end of our high school journey,
+[00:37:31.080 --> 00:37:37.160]   but also beginning of the rest of our lives. Regardless of the career path you choose,
+[00:37:37.160 --> 00:37:42.280]   high school is just an important stepping stone to your future. What you do from here on out is your
+[00:37:42.280 --> 00:37:48.520]   own choice, so make the best of it. One life gives you lemons, don't just make lemonade because
+[00:37:48.520 --> 00:37:53.240]   that's what everybody else is doing, make whatever you want to make, but just make sure to always
+[00:37:53.240 --> 00:37:58.680]   do your best. We're not the only people responsible for our successes however,
+[00:37:58.680 --> 00:38:02.440]   so thank you to everybody who made it possible for us to accomplish our dreams.
+[00:38:02.440 --> 00:38:07.880]   Dr. Grople, thank you for making Lance Grople high school such a wonderful learning environment
+[00:38:07.880 --> 00:38:12.840]   for all of us. Teachers, thank you for not only teaching your students,
+[00:38:12.840 --> 00:38:17.960]   but also for going out of your way to support your students through tutorials, sponsoring clubs,
+[00:38:17.960 --> 00:38:21.560]   and even just showing that you care, especially during these trying times.
+[00:38:21.560 --> 00:38:27.320]   To all the administration, thank you for supporting your students and ensuring the GCISD
+[00:38:27.320 --> 00:38:32.360]   continues to be one of the best school districts in Texas. The seniors send off parade,
+[00:38:32.360 --> 00:38:36.520]   yard signs, and cap and gown pick up all gave us some semblance of a senior year.
+[00:38:36.520 --> 00:38:41.800]   Thank you to all the custodians, cafeteria staff, and everybody else who keeps our school
+[00:38:41.800 --> 00:38:46.840]   clean and healthy behind the scenes. I would also like to thank my parents for always being there
+[00:38:46.840 --> 00:38:52.280]   for me and supporting even my most wild ambitions, from encouraging me to do my best,
+[00:38:52.280 --> 00:38:56.600]   to driving all the way to Oklahoma at 5 a.m. for a science Olympiad competition.
+[00:38:56.600 --> 00:39:02.280]   And finally, thank you to grapevine high school for always making CHHS team better in comparison.
+[00:39:02.280 --> 00:39:09.400]   As a great philosopher once said, one winner, 42 losers, i.e. losers for breakfast.
+[00:39:09.400 --> 00:39:15.320]   However, today this isn't the case, today we are all winners, we are all graduating as part of
+[00:39:15.320 --> 00:39:19.800]   the class of 2020, a class that people will remember for years to come. I wish you all the
+[00:39:19.800 --> 00:39:23.000]   best for your future. Thank you everybody.
+[00:39:23.000 --> 00:39:32.360]   Sorry to talk, I'll work on the air conditioning for you.
+[00:39:32.360 --> 00:39:40.440]   Now we'll have an introduction of the top 20 of the graduating class of the class of 2020.
+[00:39:45.480 --> 00:39:54.760]   Good evening, I am Aileen Zhao and I am number 21 in the class and the fall I will be attending
+[00:39:54.760 --> 00:40:01.640]   the University of Texas at Austin. I am here to introduce the top 20 of the class of 2020.
+[00:40:01.640 --> 00:40:07.320]   Each student will introduce themselves in descending order along with where there will be attending
+[00:40:07.320 --> 00:40:14.200]   college in the fall. I would respectfully ask you to hold all applause until all 20 had been introduced.
+[00:40:15.160 --> 00:40:16.760]   Will the top 20 please stand?
+[00:40:16.760 --> 00:40:22.920]   Hi, my name is Isha Kepindo, I am ranked 20 and I will be attending the University of Texas at
+[00:40:22.920 --> 00:40:28.840]   Austin to study business. Hi, my name is Ip Anafi, I'm number 19 and I will be attending
+[00:40:28.840 --> 00:40:33.640]   Stanford University this fall, majoring in international relations and public policy. Go Cardinal.
+[00:40:33.640 --> 00:40:39.880]   Hi, my name is Madeline Waters, I'm ranked number 18 and I'm going to the University of
+[00:40:39.880 --> 00:40:47.240]   Texas at Austin to major in biology. My name is Ashwani Vivek, I am ranked 17 and in the fall I'll
+[00:40:47.240 --> 00:40:53.640]   be going to Trinity University majoring in neuroscience. My name is Nicole Hill, I am ranked 16
+[00:40:53.640 --> 00:40:59.240]   and I'm going to Boston University studying international relations. Hi, my name is Pablo
+[00:40:59.240 --> 00:41:04.520]   disiroga, I'm ranked 15 and I'll be attending Texas A&M to study mechanical engineering this fall.
+[00:41:05.720 --> 00:41:11.320]   Hi, my name is Manas Isha Padi, I'm graduating rank 14, I will be attending University of Texas
+[00:41:11.320 --> 00:41:17.640]   at Austin majoring in biomedical engineering. Hello, my name is Alina Panamarenko and I'm ranked
+[00:41:17.640 --> 00:41:23.080]   number 13, in the fall I'm going to Texas A&M University to study chemical engineering.
+[00:41:23.080 --> 00:41:28.440]   My name is Olivia Zelling, I'm ranked number 12 and the fall I will be attending the University
+[00:41:28.440 --> 00:41:35.160]   of Texas at Austin, studying neuroscience with honors. I'm Danieli, I'm rank 11 and next year I'll
+[00:41:35.160 --> 00:41:40.600]   be attending Christ University majoring in biology. My name is Sarah Ashton, I'm ranked number 10,
+[00:41:40.600 --> 00:41:44.600]   I'll be attending the University of Texas at Austin majoring in nutrition with an honors in advanced
+[00:41:44.600 --> 00:41:50.760]   nutritional sciences. Hello, my name is Rahul Balakrishnan, I'm rank number nine, I'll be attending
+[00:41:50.760 --> 00:41:57.000]   Texas A&M University and I'll be majoring in chemistry, gigam. Hi, my name is Christopher Song,
+[00:41:57.000 --> 00:42:00.840]   I'm rank number eight and in the fall I will be attending Yale University to major in biology.
+[00:42:01.880 --> 00:42:06.360]   My name is Gretchen Albers and I'm ranked seventh, I will be attending the University
+[00:42:06.360 --> 00:42:12.280]   of Austin in the fall and majoring in computer science. My name is Brittany Chong, I'm number six
+[00:42:12.280 --> 00:42:18.440]   and I'll be attending UT Austin for finance. Hello, my name is Colin Wei, I'm ranked number five
+[00:42:18.440 --> 00:42:23.480]   and I'm going to Rice University to major in bioengineering. Hi, I'm Elizabeth Hyun,
+[00:42:23.480 --> 00:42:28.600]   I'm ranked number four and I'll be attending Northwestern University in the fall studying neuroscience.
+[00:42:29.400 --> 00:42:35.640]   My name is Emily Shee, number three in the class of 2020 and in the fall I'll be going to UT Dallas
+[00:42:35.640 --> 00:42:41.480]   studying biomedical engineering. Hello, my name is Jun Song and I'm salutatoran and I'll be attending
+[00:42:41.480 --> 00:42:45.640]   the University of Texas at Austin in the fall majoring in electrical and computer engineering.
+[00:42:45.640 --> 00:42:52.520]   Hi, I'm Sartak Sirotia and I'm the valedictorian of the CHHS class of 2020. In the fall,
+[00:42:52.520 --> 00:42:55.160]   I'll be attending UT Austin to study computer science.
+[00:43:00.200 --> 00:43:08.280]   You guys can be seated.
+[00:43:08.280 --> 00:43:18.120]   At this time, we're proud to have the GCISD School Board with us tonight. We would like to recognize
+[00:43:18.120 --> 00:43:23.080]   the school board members that are celebrating this in-person graduation ceremony with us.
+[00:43:23.080 --> 00:43:27.000]   Once again, if you'll please hold your applause until I have introduced all members of the
+[00:43:27.000 --> 00:43:37.640]   GCISD School Board. School board president Lisa Pardo, secretary Doug Noel, members Mindy McClure,
+[00:43:37.640 --> 00:43:49.240]   Becky St. John, Jorge Rodriguez, and Louis Salons. Please join me in showing your appreciation to
+[00:43:49.240 --> 00:44:01.720]   our school board. I would also like to recognize Superintendent Dr. Robin Ryan for his tireless
+[00:44:01.720 --> 00:44:06.040]   efforts to make GCISD the best school district in Texas.
+[00:44:06.040 --> 00:44:17.880]   I would like to also recognize a few faculty members that honestly have the toughest job tonight
+[00:44:17.880 --> 00:44:23.080]   and the most important job as they will be reading the names of all of the graduates. Please
+[00:44:23.080 --> 00:44:27.240]   join me in a round of applause for Mr. Dave Houston and Mr. Barton Fox.
+[00:44:27.240 --> 00:44:38.360]   As you can imagine, a ceremony like this cannot be done by one person. It is a collaborative
+[00:44:38.360 --> 00:44:43.640]   effort and I want to recognize those that may tonight's event possible. I would like to thank
+[00:44:43.640 --> 00:44:50.840]   Ms. Robin Buxbaum, Glinda Cherry, Ashley Chaney, the counseling staff, and our administrative team.
+[00:44:50.840 --> 00:45:03.000]   I would like to recognize our administrative team at this time if they'll stand and stay standing.
+[00:45:03.000 --> 00:45:09.640]   Associate Principal, Ms. Jessica Ramos, Associate Principal, Mr. Kevin Starns,
+[00:45:11.080 --> 00:45:16.840]   Assistant Principal, Ms. Colliving Green, Assistant Principal, Mr. Scott Saddle,
+[00:45:16.840 --> 00:45:24.920]   many of you are aware that we lost the member of our administrative team during this closure.
+[00:45:24.920 --> 00:45:30.840]   If you would, join me in a moment of silence as we remember our friend,
+[00:45:31.640 --> 00:45:49.320]   colleague, and fellow Panther, Ms. Whitney Conjevitt.
+[00:45:49.320 --> 00:45:59.000]   Thank you. At this time, Dr. Robin Ryan, Superintendent of GCISD will make the presentation to
+[00:45:59.000 --> 00:46:02.360]   School Board President, Ms. Lisa Pardo.
+[00:46:02.360 --> 00:46:13.480]   232 years ago, during a difficult time, our founders lay the groundwork for this country.
+[00:46:13.480 --> 00:46:23.880]   Here are these words from a document ratified in June of 1788. We, the people of the United States,
+[00:46:24.520 --> 00:46:29.480]   in order to form a more perfect union, established justice,
+[00:46:29.480 --> 00:46:38.040]   ensured domestic tranquility, provide for the common defense, promote the general welfare,
+[00:46:38.040 --> 00:46:44.360]   and secure the blessings of liberty to ourselves and our posterity, do or dane and establish
+[00:46:44.360 --> 00:46:50.920]   this constitution for the United States of America. These 52 words of the preamble to the
+[00:46:50.920 --> 00:46:58.280]   Constitution, describe the heart of our country, which is to form a more perfect union,
+[00:46:58.280 --> 00:47:05.080]   a government that meets the needs of all its people, and the founders acknowledged that this
+[00:47:05.080 --> 00:47:11.560]   is a work in progress. For the class of 2020, this has been a pretty tough couple of months.
+[00:47:11.560 --> 00:47:17.160]   First, there was a new virus that changed the end of your senior year. You missed out on games
+[00:47:17.160 --> 00:47:24.920]   and possible championships, end-of-year celebrations, including prom, you missed your friends,
+[00:47:24.920 --> 00:47:30.600]   you missed your teachers and your coaches, and that's why we knew we had to do whatever it
+[00:47:30.600 --> 00:47:36.600]   took to have an in-person graduation for the class of 2020 here at Mustang Panther Stadium.
+[00:47:44.120 --> 00:47:49.720]   And I do want to thank Dr. Propel and his team who worked for hours and hours to try to make this
+[00:47:49.720 --> 00:47:55.800]   happen. I know that you understand how special Dr. Propel is. He's the only principle that you've
+[00:47:55.800 --> 00:48:01.320]   had for the class of 2020, and I know that College of Heritage will miss him, but let's give Dr.
+[00:48:01.320 --> 00:48:13.640]   Propel and his team a round of applause. Senior's, you could look at the last couple of months, and you
+[00:48:13.640 --> 00:48:18.840]   could think about everything that you've lost, but I encourage you to also think about what you
+[00:48:18.840 --> 00:48:25.720]   gained during this time. You gained very precious time with your family. You gained the opportunity
+[00:48:25.720 --> 00:48:33.240]   to slow down when most seniors in the second semester are speeding up. You gained an appreciation
+[00:48:33.240 --> 00:48:40.280]   for school, for your health. You gained an appreciation for restaurants and for freedom.
+[00:48:40.280 --> 00:48:46.280]   Who knows, with everything and such a drastic state of change, it might even become the best time
+[00:48:46.280 --> 00:48:54.120]   for you to be prepared to step into a reimagined world. And we've also experienced
+[00:48:54.120 --> 00:49:00.040]   tough times the last couple of days with the killing of George Floyd and David Dorne,
+[00:49:00.040 --> 00:49:05.960]   and the unrest in our country in the days since then. And we've been reminded that we have a lot
+[00:49:05.960 --> 00:49:12.360]   of work to do in order to, in the words of the preamble, create a more perfect union.
+[00:49:12.360 --> 00:49:20.360]   And we've been here before. For example, 52 years ago, in 1968, there was a pandemic that
+[00:49:20.360 --> 00:49:27.160]   killed 100,000 Americans. There were unrest, there were marches, there was the assassination of
+[00:49:27.160 --> 00:49:34.520]   both Dr. King and Robert Kennedy and other really big problems, and we're still working to make a
+[00:49:34.520 --> 00:49:41.720]   more perfect union. That year, President Johnson addressed the country in the state of the union,
+[00:49:41.720 --> 00:49:48.520]   and he said these words, "If ever there was a people who sought more than abundance,
+[00:49:48.520 --> 00:49:55.080]   it's our people. If ever there was a nation that was capable of solving its own problems,
+[00:49:55.080 --> 00:50:01.480]   it's this nation. If ever there was a time to know the pride and the excitement and the hope
+[00:50:01.480 --> 00:50:07.880]   of being an American, it's this time." And I would add to President Johnson's words,
+[00:50:07.880 --> 00:50:15.160]   that if ever there was a day to believe in our future, to believe in a generation that will
+[00:50:15.160 --> 00:50:20.760]   bring us together, looking over the graduates and red robes today from Collinville Heritage High
+[00:50:20.760 --> 00:50:29.560]   School, I know that today is that day. Class of 2020, I'm confident that you can solve the complex
+[00:50:29.560 --> 00:50:38.280]   problems that we face together. As you leave GCISD, I believe that you are equipped to bring
+[00:50:38.280 --> 00:50:44.680]   peace to our world. I believe that you are equipped to find cures for diseases. You're equipped
+[00:50:44.680 --> 00:50:51.640]   to bring your ideas and your passion and your courage and your actions to establish justice,
+[00:50:51.640 --> 00:50:59.480]   to ensure domestic tranquility, to promote the gentle welfare, and to secure the blessings of
+[00:50:59.480 --> 00:51:07.480]   liberty to ourselves and to future generations. You can do it, Class of 2020, and I pray that you
+[00:51:07.480 --> 00:51:15.640]   will do it. And now, Board President Pardo, it's my pleasure to certify that the students who will
+[00:51:15.640 --> 00:51:21.400]   be receiving their diplomas this afternoon have completed the course of studies as prescribed
+[00:51:21.400 --> 00:51:26.280]   by the Texas Education Agency and the Board of Trustees of the Great Vine Collinville Independent
+[00:51:26.280 --> 00:51:31.320]   School District. It is therefore the recommendation of the faculty and the administration of
+[00:51:31.320 --> 00:51:46.200]   Collinville Heritage High School that they be awarded their diplomas. On behalf of the Great Vine
+[00:51:46.200 --> 00:51:53.560]   Collinville Board of Trustees, I accept the recommendation of the faculty and administration
+[00:51:53.560 --> 00:52:01.480]   of Collinville Heritage High School, and I ask that the members of the Class of 2020 present themselves
+[00:52:01.480 --> 00:52:11.560]   for the presentation of diplomas. At this time, we will begin the presentation of the diplomas.
+[00:52:11.560 --> 00:52:18.920]   Sorry. Starting with the top 20, and then the remainder of class in alphabetical order,
+[00:52:20.040 --> 00:52:26.200]   thank you again for preventing distractions that might prevent a family from hearing the name of
+[00:52:26.200 --> 00:52:56.040]   their graduate. [BLANK_AUDIO]
+[00:52:56.200 --> 00:53:09.560]   [BLANK_AUDIO]
+[00:53:09.560 --> 00:53:30.120]   [BLANK_AUDIO]
+[00:53:30.120 --> 00:53:42.200]   [BLANK_AUDIO]
+[00:53:42.200 --> 00:54:03.480]   [BLANK_AUDIO]
+[00:54:03.480 --> 00:54:19.160]   [BLANK_AUDIO]
+[00:54:19.160 --> 00:54:34.760]   [BLANK_AUDIO]
+[00:54:34.760 --> 00:54:57.480]   [BLANK_AUDIO]
+[00:54:57.480 --> 00:55:13.480]   [BLANK_AUDIO]
+[00:55:13.480 --> 00:55:36.760]   [BLANK_AUDIO]
+[00:55:36.760 --> 00:55:49.720]   [BLANK_AUDIO]
+[00:55:49.720 --> 00:56:11.560]   [BLANK_AUDIO]
+[00:56:11.560 --> 00:56:26.040]   [BLANK_AUDIO]
+[00:56:26.040 --> 00:56:50.520]   [BLANK_AUDIO]
+[00:56:50.520 --> 00:57:00.520]   [BLANK_AUDIO]
+[00:57:00.520 --> 00:57:28.520]   [BLANK_AUDIO]
+[00:57:28.520 --> 00:57:44.520]   [BLANK_AUDIO]
+[00:57:44.520 --> 00:58:06.520]   [BLANK_AUDIO]
+[00:58:06.520 --> 00:58:22.520]   [BLANK_AUDIO]
+[00:58:22.520 --> 00:58:51.520]   [BLANK_AUDIO]
+[00:58:51.520 --> 00:59:01.520]   [BLANK_AUDIO]
+[00:59:01.520 --> 00:59:29.520]   [BLANK_AUDIO]
+[00:59:29.520 --> 00:59:37.520]   [BLANK_AUDIO]
+[00:59:37.520 --> 00:59:39.520]   [BLANK_AUDIO]
+[00:59:39.520 --> 00:59:49.520]   [BLANK_AUDIO]
+[00:59:49.520 --> 00:59:59.520]   [BLANK_AUDIO]
+[00:59:59.520 --> 01:00:25.520]   [BLANK_AUDIO]
+[01:00:25.520 --> 01:00:39.520]   [BLANK_AUDIO]
+[01:00:39.520 --> 01:01:03.520]   [BLANK_AUDIO]
+[01:01:03.520 --> 01:01:18.520]   [BLANK_AUDIO]
+[01:01:18.520 --> 01:01:43.520]   [BLANK_AUDIO]
+[01:01:43.520 --> 01:01:53.520]   [BLANK_AUDIO]
+[01:01:53.520 --> 01:02:17.520]   [BLANK_AUDIO]
+[01:02:17.520 --> 01:02:27.520]   [BLANK_AUDIO]
+[01:02:27.520 --> 01:02:55.520]   [BLANK_AUDIO]
+[01:02:55.520 --> 01:03:05.520]   [BLANK_AUDIO]
+[01:03:05.520 --> 01:03:29.520]   [BLANK_AUDIO]
+[01:03:29.520 --> 01:03:39.520]   [BLANK_AUDIO]
+[01:03:39.520 --> 01:04:03.520]   [BLANK_AUDIO]
+[01:04:03.520 --> 01:04:13.520]   [BLANK_AUDIO]
+[01:04:13.520 --> 01:04:39.520]   [BLANK_AUDIO]
+[01:04:39.520 --> 01:04:49.520]   [BLANK_AUDIO]
+[01:04:49.520 --> 01:05:13.520]   [BLANK_AUDIO]
+[01:05:13.520 --> 01:05:26.520]   [BLANK_AUDIO]
+[01:05:26.520 --> 01:05:34.520]   [BLANK_AUDIO]
+[01:05:34.520 --> 01:05:44.520]   [BLANK_AUDIO]
+[01:05:44.520 --> 01:06:11.520]   [BLANK_AUDIO]
+[01:06:11.520 --> 01:06:21.520]   [BLANK_AUDIO]
+[01:06:21.520 --> 01:06:46.520]   [BLANK_AUDIO]
+[01:06:46.520 --> 01:06:56.520]   [BLANK_AUDIO]
+[01:06:56.520 --> 01:07:20.520]   [BLANK_AUDIO]
+[01:07:20.520 --> 01:07:30.520]   [BLANK_AUDIO]
+[01:07:30.520 --> 01:07:40.520]   [BLANK_AUDIO]
+[01:07:40.520 --> 01:07:50.520]   [BLANK_AUDIO]
+[01:07:50.520 --> 01:08:14.520]   [BLANK_AUDIO]
+[01:08:14.520 --> 01:08:24.520]   [BLANK_AUDIO]
+[01:08:24.520 --> 01:08:52.520]   [BLANK_AUDIO]
+[01:08:52.520 --> 01:09:02.520]   [BLANK_AUDIO]
+[01:09:02.520 --> 01:09:26.520]   [BLANK_AUDIO]
+[01:09:26.520 --> 01:09:36.520]   [BLANK_AUDIO]
+[01:09:36.520 --> 01:10:04.520]   [BLANK_AUDIO]
+[01:10:04.520 --> 01:10:14.520]   [BLANK_AUDIO]
+[01:10:14.520 --> 01:10:42.520]   [BLANK_AUDIO]
+[01:10:42.520 --> 01:10:52.520]   [BLANK_AUDIO]
+[01:10:52.520 --> 01:11:18.520]   [BLANK_AUDIO]
+[01:11:18.520 --> 01:11:28.520]   [BLANK_AUDIO]
+[01:11:28.520 --> 01:11:33.520]   [BLANK_AUDIO]
+[01:11:33.520 --> 01:11:58.520]   [BLANK_AUDIO]
+[01:11:58.520 --> 01:12:08.520]   [BLANK_AUDIO]
+[01:12:08.520 --> 01:12:36.520]   [BLANK_AUDIO]
+[01:12:36.520 --> 01:12:46.520]   [BLANK_AUDIO]
+[01:12:46.520 --> 01:13:14.520]   [BLANK_AUDIO]
+[01:13:14.520 --> 01:13:24.520]   [BLANK_AUDIO]
+[01:13:24.520 --> 01:13:52.520]   [BLANK_AUDIO]
+[01:13:52.520 --> 01:14:02.520]   [BLANK_AUDIO]
+[01:14:02.520 --> 01:14:30.520]   [BLANK_AUDIO]
+[01:14:30.520 --> 01:14:40.520]   [BLANK_AUDIO]
+[01:14:40.520 --> 01:15:06.520]   [BLANK_AUDIO]
+[01:15:06.520 --> 01:15:16.520]   [BLANK_AUDIO]
+[01:15:16.520 --> 01:15:44.520]   [BLANK_AUDIO]
+[01:15:44.520 --> 01:15:54.520]   [BLANK_AUDIO]
+[01:15:54.520 --> 01:16:22.520]   [BLANK_AUDIO]
+[01:16:22.520 --> 01:16:32.520]   [BLANK_AUDIO]
+[01:16:32.520 --> 01:17:00.520]   [BLANK_AUDIO]
+[01:17:00.520 --> 01:17:10.520]   [BLANK_AUDIO]
+[01:17:10.520 --> 01:17:38.520]   [BLANK_AUDIO]
+[01:17:38.520 --> 01:17:48.520]   [BLANK_AUDIO]
+[01:17:48.520 --> 01:18:16.520]   [BLANK_AUDIO]
+[01:18:16.520 --> 01:18:26.520]   [BLANK_AUDIO]
+[01:18:26.520 --> 01:18:54.520]   [BLANK_AUDIO]
+[01:18:54.520 --> 01:19:04.520]   [BLANK_AUDIO]
+[01:19:04.520 --> 01:19:32.520]   [BLANK_AUDIO]
+[01:19:32.520 --> 01:19:42.520]   [BLANK_AUDIO]
+[01:19:42.520 --> 01:19:42.520]   [BLANK_AUDIO]
+[01:19:42.520 --> 01:20:06.520]   [BLANK_AUDIO]
+[01:20:06.520 --> 01:20:16.520]   [BLANK_AUDIO]
+[01:20:16.520 --> 01:20:27.520]   [BLANK_AUDIO]
+[01:20:27.520 --> 01:20:37.520]   [BLANK_AUDIO]
+[01:20:37.520 --> 01:21:05.520]   [BLANK_AUDIO]
+[01:21:05.520 --> 01:21:15.520]   [BLANK_AUDIO]
+[01:21:15.520 --> 01:21:43.520]   [BLANK_AUDIO]
+[01:21:43.520 --> 01:21:53.520]   [BLANK_AUDIO]
+[01:21:53.520 --> 01:22:21.520]   [BLANK_AUDIO]
+[01:22:21.520 --> 01:22:31.520]   [BLANK_AUDIO]
+[01:22:31.520 --> 01:22:59.520]   [BLANK_AUDIO]
+[01:22:59.520 --> 01:23:09.520]   [BLANK_AUDIO]
+[01:23:09.520 --> 01:23:19.520]   [BLANK_AUDIO]
+[01:23:19.520 --> 01:23:29.520]   [BLANK_AUDIO]
+[01:23:29.520 --> 01:23:57.520]   [BLANK_AUDIO]
+[01:23:57.520 --> 01:24:07.520]   [BLANK_AUDIO]
+[01:24:07.520 --> 01:24:35.520]   [BLANK_AUDIO]
+[01:24:35.520 --> 01:24:45.520]   [BLANK_AUDIO]
+[01:24:45.520 --> 01:25:13.520]   [BLANK_AUDIO]
+[01:25:13.520 --> 01:25:23.520]   [BLANK_AUDIO]
+[01:25:23.520 --> 01:25:31.520]   [BLANK_AUDIO]
+[01:25:31.520 --> 01:25:47.520]   [BLANK_AUDIO]
+[01:25:47.520 --> 01:26:04.520]   [BLANK_AUDIO]
+[01:26:04.520 --> 01:26:21.520]   [BLANK_AUDIO]
+[01:26:21.520 --> 01:26:38.520]   [BLANK_AUDIO]
+[01:26:38.520 --> 01:26:55.520]   [BLANK_AUDIO]
+[01:26:55.520 --> 01:27:03.520]   [BLANK_AUDIO]
+[01:27:03.520 --> 01:27:13.520]   [BLANK_AUDIO]
+[01:27:13.520 --> 01:27:38.520]   [BLANK_AUDIO]
+[01:27:38.520 --> 01:27:48.520]   [BLANK_AUDIO]
+[01:27:48.520 --> 01:28:16.520]   [BLANK_AUDIO]
+[01:28:16.520 --> 01:28:26.520]   [BLANK_AUDIO]
+[01:28:26.520 --> 01:28:54.520]   [BLANK_AUDIO]
+[01:28:54.520 --> 01:29:04.520]   [BLANK_AUDIO]
+[01:29:04.520 --> 01:29:11.520]   [BLANK_AUDIO]
+[01:29:11.520 --> 01:29:28.520]   [BLANK_AUDIO]
+[01:29:28.520 --> 01:29:49.520]   [BLANK_AUDIO]
+[01:29:49.520 --> 01:29:59.520]   [BLANK_AUDIO]
+[01:29:59.520 --> 01:30:26.520]   [BLANK_AUDIO]
+[01:30:26.520 --> 01:30:36.520]   [BLANK_AUDIO]
+[01:30:36.520 --> 01:31:01.520]   [BLANK_AUDIO]
+[01:31:01.520 --> 01:31:11.520]   [BLANK_AUDIO]
+[01:31:11.520 --> 01:31:39.520]   [BLANK_AUDIO]
+[01:31:39.520 --> 01:31:49.520]   [BLANK_AUDIO]
+[01:31:49.520 --> 01:32:17.520]   [BLANK_AUDIO]
+[01:32:17.520 --> 01:32:27.520]   [BLANK_AUDIO]
+[01:32:27.520 --> 01:32:55.520]   [BLANK_AUDIO]
+[01:32:55.520 --> 01:33:05.520]   [BLANK_AUDIO]
+[01:33:05.520 --> 01:33:33.520]   [BLANK_AUDIO]
+[01:33:33.520 --> 01:33:43.520]   [BLANK_AUDIO]
+[01:33:43.520 --> 01:34:11.520]   [BLANK_AUDIO]
+[01:34:11.520 --> 01:34:21.520]   [BLANK_AUDIO]
+[01:34:21.520 --> 01:34:47.520]   [BLANK_AUDIO]
+[01:34:47.520 --> 01:34:57.520]   [BLANK_AUDIO]
+[01:34:57.520 --> 01:35:22.520]   [BLANK_AUDIO]
+[01:35:22.520 --> 01:35:32.520]   [BLANK_AUDIO]
+[01:35:32.520 --> 01:35:57.520]   [BLANK_AUDIO]
+[01:35:57.520 --> 01:36:07.520]   [BLANK_AUDIO]
+[01:36:07.520 --> 01:36:14.520]   [BLANK_AUDIO]
+[01:36:14.520 --> 01:36:31.520]   [BLANK_AUDIO]
+[01:36:31.520 --> 01:36:51.520]   [BLANK_AUDIO]
+[01:36:51.520 --> 01:37:05.520]   [BLANK_AUDIO]
+[01:37:05.520 --> 01:37:29.520]   [BLANK_AUDIO]
+[01:37:29.520 --> 01:37:39.520]   [BLANK_AUDIO]
+[01:37:39.520 --> 01:38:07.520]   [BLANK_AUDIO]
+[01:38:07.520 --> 01:38:17.520]   [BLANK_AUDIO]
+[01:38:17.520 --> 01:38:45.520]   [BLANK_AUDIO]
+[01:38:45.520 --> 01:38:55.520]   [BLANK_AUDIO]
+[01:38:55.520 --> 01:39:19.520]   [BLANK_AUDIO]
+[01:39:19.520 --> 01:39:29.520]   [BLANK_AUDIO]
+[01:39:29.520 --> 01:39:57.520]   [BLANK_AUDIO]
+[01:39:57.520 --> 01:40:07.520]   [BLANK_AUDIO]
+[01:40:07.520 --> 01:40:33.520]   [BLANK_AUDIO]
+[01:40:33.520 --> 01:40:43.520]   [BLANK_AUDIO]
+[01:40:43.520 --> 01:41:11.520]   [BLANK_AUDIO]
+[01:41:11.520 --> 01:41:21.520]   [BLANK_AUDIO]
+[01:41:21.520 --> 01:41:49.520]   [BLANK_AUDIO]
+[01:41:49.520 --> 01:41:59.520]   [BLANK_AUDIO]
+[01:41:59.520 --> 01:42:27.520]   [BLANK_AUDIO]
+[01:42:27.520 --> 01:42:37.520]   [BLANK_AUDIO]
+[01:42:37.520 --> 01:43:05.520]   [BLANK_AUDIO]
+[01:43:05.520 --> 01:43:15.520]   [BLANK_AUDIO]
+[01:43:15.520 --> 01:43:25.520]   [BLANK_AUDIO]
+[01:43:25.520 --> 01:43:35.520]   [BLANK_AUDIO]
+[01:43:35.520 --> 01:44:03.520]   [BLANK_AUDIO]
+[01:44:03.520 --> 01:44:13.520]   [BLANK_AUDIO]
+[01:44:13.520 --> 01:44:23.520]   [BLANK_AUDIO]
+[01:44:23.520 --> 01:44:33.520]   [BLANK_AUDIO]
+[01:44:33.520 --> 01:44:39.520]   [BLANK_AUDIO]
+[01:44:39.520 --> 01:44:55.520]   [BLANK_AUDIO]
+[01:44:55.520 --> 01:45:17.520]   [BLANK_AUDIO]
+[01:45:17.520 --> 01:45:27.520]   [BLANK_AUDIO]
+[01:45:27.520 --> 01:45:51.520]   [BLANK_AUDIO]
+[01:45:51.520 --> 01:46:01.520]   [BLANK_AUDIO]
+[01:46:01.520 --> 01:46:11.520]   [BLANK_AUDIO]
+[01:46:11.520 --> 01:46:21.520]   [BLANK_AUDIO]
+[01:46:21.520 --> 01:46:28.520]   [BLANK_AUDIO]
+[01:46:28.520 --> 01:46:49.520]   [BLANK_AUDIO]
+[01:46:49.520 --> 01:46:59.520]   [BLANK_AUDIO]
+[01:46:59.520 --> 01:47:24.520]   [BLANK_AUDIO]
+[01:47:24.520 --> 01:47:34.520]   [BLANK_AUDIO]
+[01:47:34.520 --> 01:48:02.520]   [BLANK_AUDIO]
+[01:48:02.520 --> 01:48:12.520]   [BLANK_AUDIO]
+[01:48:12.520 --> 01:48:37.520]   [BLANK_AUDIO]
+[01:48:37.520 --> 01:48:47.520]   [BLANK_AUDIO]
+[01:48:47.520 --> 01:49:15.520]   [BLANK_AUDIO]
+[01:49:15.520 --> 01:49:25.520]   [BLANK_AUDIO]
+[01:49:25.520 --> 01:49:32.520]   [BLANK_AUDIO]
+[01:49:32.520 --> 01:49:40.520]   [BLANK_AUDIO]
+[01:49:40.520 --> 01:49:48.520]   [BLANK_AUDIO]
+[01:49:48.520 --> 01:49:55.520]   [BLANK_AUDIO]
+[01:49:55.520 --> 01:50:18.520]   [BLANK_AUDIO]
+[01:50:18.520 --> 01:50:28.520]   [BLANK_AUDIO]
+[01:50:28.520 --> 01:50:53.520]   [BLANK_AUDIO]
+[01:50:53.520 --> 01:51:22.520]   [BLANK_AUDIO]
+[01:51:22.520 --> 01:51:32.520]   We'll let the most popular people in the stadium get to their seats.
+[01:51:32.520 --> 01:51:37.520]   [BLANK_AUDIO]
+[01:51:37.520 --> 01:51:39.520]   Thank you, thank you.
+[01:51:39.520 --> 01:51:43.520]   [BLANK_AUDIO]
+[01:51:43.520 --> 01:51:49.520]   Class of 2020, I want to leave you with one last thing, you are a panther.
+[01:51:49.520 --> 01:51:51.520]   You will always be a panther.
+[01:51:51.520 --> 01:51:53.920]   Congratulations on this achievement.
+[01:51:53.920 --> 01:51:58.040]   Today is not the end, it is only the beginning of a new chapter.
+[01:51:58.040 --> 01:52:02.000]   Go forth and be where your feet are, change the world.
+[01:52:02.000 --> 01:52:04.160]   Know that you do not have to do that alone.
+[01:52:04.160 --> 01:52:09.000]   Everyone here tonight will be there to support you throughout your journey.
+[01:52:09.000 --> 01:52:17.520]   I wish you the best of luck, and no, it's because of you that I'm proud that I will forever
+[01:52:17.520 --> 01:52:21.520]   get to call myself a College of Heritage Pantheon.
+[01:52:21.520 --> 01:52:33.520]   [BLANK_AUDIO]
+[01:52:33.520 --> 01:52:38.920]   It is my privilege to hereby declare you graduates of College of Heritage High School.
+[01:52:38.920 --> 01:52:44.320]   The tradition says you may move the tassel from the right side to the left side of your
+[01:52:44.320 --> 01:52:51.320]   mortar boards.
+[01:52:51.320 --> 01:52:59.320]   [BLANK_AUDIO]
+[01:52:59.320 --> 01:53:02.320]   At this time, we will play the alma mater.
+[01:53:02.320 --> 01:53:04.320]   The words are printed on the back of your program.
+[01:53:04.320 --> 01:53:09.320]   At the conclusion of the alma mater, I would ask you to remain in your seats until
+[01:53:09.320 --> 01:53:12.320]   all graduates have exited the field.
+[01:53:12.320 --> 01:53:18.320]   If you'll please stand and join me in the College of Heritage alma mater.
+[01:53:18.320 --> 01:53:47.320]   [BLANK_AUDIO]
+[01:53:48.320 --> 01:53:58.320]   [MUSIC]
+[01:54:18.320 --> 01:54:32.320]   [APPLAUSE]
+[01:54:32.320 --> 01:54:38.320]   Graduates, if you will find your hat and your seat, we will begin the dismissal
+[01:54:38.320 --> 01:54:49.320]   process, Dr. Waters, lead us out.
+[01:54:49.320 --> 01:54:59.320]   [BLANK_AUDIO]
+[01:54:59.320 --> 01:55:09.320]   [BLANK_AUDIO]
+[01:55:09.320 --> 01:55:37.320]   [MUSIC]
+[01:55:37.320 --> 01:55:47.320]   [MUSIC]
+[01:55:47.320 --> 01:56:15.320]   [MUSIC]
+[01:56:15.320 --> 01:56:25.320]   [MUSIC]
+[01:56:25.320 --> 01:56:53.320]   [MUSIC]
+[01:56:53.320 --> 01:57:03.320]   [MUSIC]
+[01:57:03.320 --> 01:57:31.320]   [MUSIC]
+[01:57:31.320 --> 01:57:41.320]   [MUSIC]
+[01:57:41.320 --> 01:58:09.320]   [MUSIC]
+[01:58:09.320 --> 01:58:19.320]   [MUSIC]
+[01:58:19.320 --> 01:58:47.320]   [MUSIC]
+[01:58:47.320 --> 01:58:57.320]   [MUSIC]
+[01:58:57.320 --> 01:59:25.320]   [MUSIC]
+[01:59:25.320 --> 01:59:35.320]   [MUSIC]
+[01:59:35.320 --> 02:00:03.320]   [MUSIC]
+[02:00:03.320 --> 02:00:13.320]   [MUSIC]
+[02:00:13.320 --> 02:00:41.320]   [MUSIC]
+[02:00:41.320 --> 02:00:51.320]   [MUSIC]
+[02:00:51.320 --> 02:01:19.320]   [MUSIC]
+[02:01:19.320 --> 02:01:29.320]   [MUSIC]
+[02:01:29.320 --> 02:01:57.320]   [MUSIC]
+[02:01:57.320 --> 02:02:07.320]   [MUSIC]
+[02:02:07.320 --> 02:02:35.320]   [MUSIC]
+[02:02:35.320 --> 02:02:45.320]   [MUSIC]
+[02:02:45.320 --> 02:03:13.320]   [MUSIC]
+[02:03:13.320 --> 02:03:23.320]   [MUSIC]
+[02:03:23.320 --> 02:03:51.320]   [MUSIC]
+[02:03:51.320 --> 02:04:01.320]   [MUSIC]
+[02:04:01.320 --> 02:04:29.320]   [MUSIC]
+[02:04:29.320 --> 02:04:39.320]   [MUSIC]
+[02:04:39.320 --> 02:05:07.320]   [MUSIC]
+[02:05:07.320 --> 02:05:17.320]   [MUSIC]
+[02:05:17.320 --> 02:05:45.320]   [MUSIC]
+[02:05:45.320 --> 02:05:55.320]   [MUSIC]
+[02:05:55.320 --> 02:06:19.320]   [MUSIC]
+[02:06:25.320 --> 02:06:35.320]   [MUSIC]
+[02:06:35.320 --> 02:07:03.320]   [MUSIC]
