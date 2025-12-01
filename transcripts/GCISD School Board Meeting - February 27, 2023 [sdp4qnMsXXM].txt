@@ -1,0 +1,1141 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:44.000]   [BLANK_AUDIO]
+[00:02:44.000 --> 00:02:54.000]   [BLANK_AUDIO]
+[00:02:54.000 --> 00:03:04.000]   [BLANK_AUDIO]
+[00:03:04.000 --> 00:03:14.000]   [BLANK_AUDIO]
+[00:03:14.000 --> 00:03:24.000]   [BLANK_AUDIO]
+[00:03:24.000 --> 00:03:34.000]   [BLANK_AUDIO]
+[00:03:34.000 --> 00:03:44.000]   [BLANK_AUDIO]
+[00:03:44.000 --> 00:03:54.000]   [BLANK_AUDIO]
+[00:03:54.000 --> 00:04:04.000]   [BLANK_AUDIO]
+[00:04:04.000 --> 00:04:14.000]   [BLANK_AUDIO]
+[00:04:14.000 --> 00:04:24.000]   [BLANK_AUDIO]
+[00:04:24.000 --> 00:04:34.000]   [BLANK_AUDIO]
+[00:04:34.000 --> 00:04:44.000]   [BLANK_AUDIO]
+[00:04:44.000 --> 00:04:54.000]   [BLANK_AUDIO]
+[00:04:54.000 --> 00:05:05.000]   [BLANK_AUDIO]
+[00:05:05.000 --> 00:05:15.000]   [BLANK_AUDIO]
+[00:05:15.000 --> 00:05:25.000]   [BLANK_AUDIO]
+[00:05:25.000 --> 00:05:35.000]   [BLANK_AUDIO]
+[00:05:35.000 --> 00:05:45.000]   [BLANK_AUDIO]
+[00:05:45.000 --> 00:06:13.000]   [BLANK_AUDIO]
+[00:06:13.000 --> 00:06:23.000]   [BLANK_AUDIO]
+[00:06:23.000 --> 00:06:51.000]   [BLANK_AUDIO]
+[00:06:51.000 --> 00:07:01.000]   [BLANK_AUDIO]
+[00:07:01.000 --> 00:07:29.000]   [BLANK_AUDIO]
+[00:07:29.000 --> 00:07:39.000]   [BLANK_AUDIO]
+[00:07:39.000 --> 00:08:07.000]   [BLANK_AUDIO]
+[00:08:07.000 --> 00:08:17.000]   [BLANK_AUDIO]
+[00:08:17.000 --> 00:08:45.000]   [BLANK_AUDIO]
+[00:08:45.000 --> 00:08:55.000]   [BLANK_AUDIO]
+[00:08:55.000 --> 00:09:23.000]   [BLANK_AUDIO]
+[00:09:23.000 --> 00:09:33.000]   [BLANK_AUDIO]
+[00:09:33.000 --> 00:10:01.000]   [BLANK_AUDIO]
+[00:10:03.000 --> 00:10:13.000]   [BLANK_AUDIO]
+[00:10:13.000 --> 00:10:41.000]   [BLANK_AUDIO]
+[00:10:41.000 --> 00:10:51.000]   [BLANK_AUDIO]
+[00:10:51.000 --> 00:11:01.000]   [BLANK_AUDIO]
+[00:11:01.000 --> 00:11:11.000]   [BLANK_AUDIO]
+[00:11:11.000 --> 00:11:39.000]   [BLANK_AUDIO]
+[00:11:39.000 --> 00:11:49.000]   [BLANK_AUDIO]
+[00:11:49.000 --> 00:11:59.000]   [BLANK_AUDIO]
+[00:11:59.000 --> 00:12:09.000]   [BLANK_AUDIO]
+[00:12:09.000 --> 00:12:37.000]   [BLANK_AUDIO]
+[00:12:37.000 --> 00:12:47.000]   [BLANK_AUDIO]
+[00:12:47.000 --> 00:13:15.000]   [BLANK_AUDIO]
+[00:13:15.000 --> 00:13:25.000]   [BLANK_AUDIO]
+[00:13:25.000 --> 00:13:53.000]   [BLANK_AUDIO]
+[00:13:53.000 --> 00:14:03.000]   [BLANK_AUDIO]
+[00:14:03.000 --> 00:14:31.000]   [BLANK_AUDIO]
+[00:14:31.000 --> 00:14:41.000]   [BLANK_AUDIO]
+[00:14:41.000 --> 00:15:09.000]   [BLANK_AUDIO]
+[00:15:09.000 --> 00:15:19.000]   [BLANK_AUDIO]
+[00:15:19.000 --> 00:15:47.000]   [BLANK_AUDIO]
+[00:15:47.000 --> 00:15:57.000]   [BLANK_AUDIO]
+[00:15:57.000 --> 00:16:25.000]   [BLANK_AUDIO]
+[00:16:25.000 --> 00:16:35.000]   [BLANK_AUDIO]
+[00:16:35.000 --> 00:17:03.000]   [BLANK_AUDIO]
+[00:17:03.000 --> 00:17:13.000]   [BLANK_AUDIO]
+[00:17:13.000 --> 00:17:41.000]   [BLANK_AUDIO]
+[00:17:41.000 --> 00:17:51.000]   [BLANK_AUDIO]
+[00:17:51.000 --> 00:18:19.000]   [BLANK_AUDIO]
+[00:18:19.000 --> 00:18:29.000]   [BLANK_AUDIO]
+[00:18:29.000 --> 00:18:57.000]   [BLANK_AUDIO]
+[00:18:57.000 --> 00:19:07.000]   [BLANK_AUDIO]
+[00:19:07.000 --> 00:19:35.000]   [BLANK_AUDIO]
+[00:19:35.000 --> 00:19:45.000]   [BLANK_AUDIO]
+[00:19:45.000 --> 00:20:13.000]   [BLANK_AUDIO]
+[00:20:13.000 --> 00:20:23.000]   [BLANK_AUDIO]
+[00:20:23.000 --> 00:20:51.000]   [BLANK_AUDIO]
+[00:20:51.000 --> 00:21:01.000]   [BLANK_AUDIO]
+[00:21:01.000 --> 00:21:11.000]   [BLANK_AUDIO]
+[00:21:11.000 --> 00:21:21.000]   [BLANK_AUDIO]
+[00:21:21.000 --> 00:21:39.000]   [BLANK_AUDIO]
+[00:21:39.000 --> 00:21:49.000]   [BLANK_AUDIO]
+[00:21:49.000 --> 00:22:17.000]   [BLANK_AUDIO]
+[00:22:17.000 --> 00:22:27.000]   [BLANK_AUDIO]
+[00:22:27.000 --> 00:22:55.000]   [BLANK_AUDIO]
+[00:22:55.000 --> 00:23:05.000]   [BLANK_AUDIO]
+[00:23:05.000 --> 00:23:33.000]   [BLANK_AUDIO]
+[00:23:33.000 --> 00:23:43.000]   [BLANK_AUDIO]
+[00:23:43.000 --> 00:24:11.000]   [BLANK_AUDIO]
+[00:24:11.000 --> 00:24:21.000]   [BLANK_AUDIO]
+[00:24:21.000 --> 00:24:49.000]   [BLANK_AUDIO]
+[00:24:49.000 --> 00:24:59.000]   [BLANK_AUDIO]
+[00:24:59.000 --> 00:25:09.000]   [BLANK_AUDIO]
+[00:25:09.000 --> 00:25:19.000]   [BLANK_AUDIO]
+[00:25:19.000 --> 00:25:39.000]   [BLANK_AUDIO]
+[00:25:39.000 --> 00:25:49.000]   [BLANK_AUDIO]
+[00:25:49.000 --> 00:26:17.000]   [BLANK_AUDIO]
+[00:26:17.000 --> 00:26:27.000]   [BLANK_AUDIO]
+[00:26:27.000 --> 00:26:55.000]   [BLANK_AUDIO]
+[00:26:55.000 --> 00:27:05.000]   [BLANK_AUDIO]
+[00:27:05.000 --> 00:27:33.000]   [BLANK_AUDIO]
+[00:27:33.000 --> 00:27:43.000]   [BLANK_AUDIO]
+[00:27:43.000 --> 00:28:11.000]   [BLANK_AUDIO]
+[00:28:11.000 --> 00:28:21.000]   [BLANK_AUDIO]
+[00:28:21.000 --> 00:28:49.000]   [BLANK_AUDIO]
+[00:28:49.000 --> 00:28:59.000]   [BLANK_AUDIO]
+[00:28:59.000 --> 00:29:27.000]   [BLANK_AUDIO]
+[00:29:27.000 --> 00:29:37.000]   [BLANK_AUDIO]
+[00:29:37.000 --> 00:30:05.000]   [BLANK_AUDIO]
+[00:30:05.000 --> 00:30:15.000]   [BLANK_AUDIO]
+[00:30:15.000 --> 00:30:43.000]   [BLANK_AUDIO]
+[00:30:43.000 --> 00:30:53.000]   [BLANK_AUDIO]
+[00:30:53.000 --> 00:31:21.000]   [BLANK_AUDIO]
+[00:31:21.000 --> 00:31:31.000]   [BLANK_AUDIO]
+[00:31:31.000 --> 00:31:57.000]   [BLANK_AUDIO]
+[00:31:57.000 --> 00:32:07.000]   [BLANK_AUDIO]
+[00:32:07.000 --> 00:32:17.000]   [BLANK_AUDIO]
+[00:32:17.000 --> 00:32:27.000]   [BLANK_AUDIO]
+[00:32:27.000 --> 00:32:55.000]   [BLANK_AUDIO]
+[00:32:55.000 --> 00:33:05.000]   [BLANK_AUDIO]
+[00:33:05.000 --> 00:33:33.000]   [BLANK_AUDIO]
+[00:33:33.000 --> 00:33:43.000]   [BLANK_AUDIO]
+[00:33:43.000 --> 00:33:53.000]   [BLANK_AUDIO]
+[00:33:53.000 --> 00:34:01.000]   [BLANK_AUDIO]
+[00:34:01.000 --> 00:34:11.000]   [BLANK_AUDIO]
+[00:34:11.000 --> 00:34:35.000]   [BLANK_AUDIO]
+[00:34:35.000 --> 00:34:45.000]   [BLANK_AUDIO]
+[00:34:45.000 --> 00:34:55.000]   [BLANK_AUDIO]
+[00:34:55.000 --> 00:35:05.000]   [BLANK_AUDIO]
+[00:35:05.000 --> 00:35:29.000]   [BLANK_AUDIO]
+[00:35:29.000 --> 00:35:39.000]   [BLANK_AUDIO]
+[00:35:39.000 --> 00:36:03.000]   [BLANK_AUDIO]
+[00:36:03.000 --> 00:36:13.000]   [BLANK_AUDIO]
+[00:36:13.000 --> 00:36:15.000]   [BLANK_AUDIO]
+[00:36:15.000 --> 00:36:19.000]   Next we have Emily Gonzalez, who also competed for us at the state meet.
+[00:36:19.000 --> 00:36:29.000]   [BLANK_AUDIO]
+[00:36:29.000 --> 00:36:33.000]   In our state qualifiers from Colville Heritage High School, we have Beth Hunchl.
+[00:36:33.000 --> 00:36:39.000]   [BLANK_AUDIO]
+[00:36:39.000 --> 00:36:47.000]   [BLANK_AUDIO]
+[00:36:47.000 --> 00:36:53.000]   We'd also like to recognize, but unable to join us tonight, is Mr. Paxton Orrick from Colville Heritage.
+[00:36:53.000 --> 00:36:54.000]   Give him a hand.
+[00:36:54.000 --> 00:36:58.000]   [BLANK_AUDIO]
+[00:36:58.000 --> 00:37:05.000]   So wrestling athletes are coached by Ryan Martin, Grayman High School, and Daniel McCready at Colville Heritage High School.
+[00:37:05.000 --> 00:37:07.000]   Let's give them a round of applause.
+[00:37:07.000 --> 00:37:25.000]   [BLANK_AUDIO]
+[00:37:25.000 --> 00:37:29.000]   Yeah.
+[00:37:29.000 --> 00:37:35.000]   [BLANK_AUDIO]
+[00:37:35.000 --> 00:37:43.000]   [BLANK_AUDIO]
+[00:37:43.000 --> 00:37:45.000]   Let's get a group photo.
+[00:37:45.000 --> 00:37:51.000]   So I'd like the audience just to pay attention to these student athletes here, because we don't mess with them, okay?
+[00:37:51.000 --> 00:37:53.000]   [BLANK_AUDIO]
+[00:37:53.000 --> 00:37:55.000]   We are friends with them, all the time.
+[00:37:55.000 --> 00:38:19.000]   [BLANK_AUDIO]
+[00:38:19.000 --> 00:38:25.000]   Ryan and Daniel, would you like guys like to say a few words on the season?
+[00:38:25.000 --> 00:38:34.000]   [BLANK_AUDIO]
+[00:38:34.000 --> 00:38:38.000]   All right, I'm Coach McCready, I'm with Colville Heritage High School.
+[00:38:38.000 --> 00:38:45.000]   I would say that Beth is absolutely one of our leaders on the team.
+[00:38:45.000 --> 00:38:50.000]   So Beth is very fortunate.
+[00:38:50.000 --> 00:38:56.000]   I coached her in middle school as well for one year, and then she's been with me at the high school for both of my years there.
+[00:38:56.000 --> 00:39:03.000]   Beth works extremely hard, she's there every day, she's a multi-sport, she does softball as well.
+[00:39:03.000 --> 00:39:09.000]   And she also sings and does the show choir and stuff like that.
+[00:39:09.000 --> 00:39:14.000]   And she is super active in her church and everything in that respect.
+[00:39:14.000 --> 00:39:22.000]   So Beth's in all around and she was a regional qualifier last year and fell short of making it to state.
+[00:39:22.000 --> 00:39:28.000]   And Mrs. Coach McCready, my wife and her were chatting afterwards and
+[00:39:28.000 --> 00:39:32.000]   she said how she had these goals and she was going to work towards them.
+[00:39:32.000 --> 00:39:37.000]   And then this year she came in and was a pretty dominant force throughout the year.
+[00:39:37.000 --> 00:39:43.000]   She walked into a headlock in the district finals, but then beat that girl at the regional meet.
+[00:39:43.000 --> 00:39:49.000]   And then beat the girl at state that had beaten her many, many times this year as well.
+[00:39:49.000 --> 00:39:54.000]   So really peeking at the right time, I think, and we'll carry that momentum forward.
+[00:39:54.000 --> 00:39:56.000]   Paxton couldn't be here.
+[00:39:56.000 --> 00:39:59.000]   I think he's sick tonight, he wasn't at school today.
+[00:39:59.000 --> 00:40:03.000]   But Paxton was one of those guys where he had a growth spur.
+[00:40:03.000 --> 00:40:06.000]   He was 106 last year and he's 120 this year.
+[00:40:06.000 --> 00:40:11.000]   So he really had to try to figure out how to wrestle that being the smallest guy in the
+[00:40:11.000 --> 00:40:16.000]   way class versus the biggest guy last year and did really well.
+[00:40:16.000 --> 00:40:21.000]   He was actually an alternate at the, he got fifth at regionals,
+[00:40:21.000 --> 00:40:27.000]   but then got in when a northwest kid was injured in the finals wrestling.
+[00:40:27.000 --> 00:40:29.000]   So we got a little help there.
+[00:40:29.000 --> 00:40:32.000]   We got to get down to meet and wrestle and he did really well.
+[00:40:32.000 --> 00:40:37.000]   So that was a testament to him because he kept training even though he wasn't in.
+[00:40:37.000 --> 00:40:42.000]   And then when he got in, he was able to do some stuff down there, did a really good job for us.
+[00:40:42.000 --> 00:40:45.000]   So we have a really young team this year.
+[00:40:45.000 --> 00:40:49.000]   Beth will be one of our leaders moving forward, Paxton as well.
+[00:40:49.000 --> 00:40:51.000]   Both will be back next year.
+[00:40:51.000 --> 00:40:52.000]   Beth's only a sophomore.
+[00:40:52.000 --> 00:40:54.000]   So we have two more years working with her.
+[00:40:54.000 --> 00:40:57.000]   So we're really excited for what the future holds.
+[00:40:57.000 --> 00:40:58.000]   Thank you.
+[00:40:58.000 --> 00:41:08.000]   [APPLAUSE]
+[00:41:08.000 --> 00:41:11.000]   Just for that, I'm going to talk about you every.
+[00:41:11.000 --> 00:41:12.000]   No, I'm Ryan Martin.
+[00:41:12.000 --> 00:41:14.000]   I'm the wrestling coach at Grandma High School.
+[00:41:14.000 --> 00:41:18.000]   And it's been a blessing to be able to coach these kids all year.
+[00:41:18.000 --> 00:41:20.000]   And just an honor, to be honest.
+[00:41:20.000 --> 00:41:25.000]   And some of the hardest working kids in the school would go to bat for them any day.
+[00:41:25.000 --> 00:41:29.000]   And it's been one of those years where we've had a lot of adversity.
+[00:41:29.000 --> 00:41:32.000]   And they've overcame a ton this season.
+[00:41:32.000 --> 00:41:34.000]   So I can't be more proud of them.
+[00:41:34.000 --> 00:41:38.000]   And I can't say this stand up here and say without saying this.
+[00:41:38.000 --> 00:41:42.000]   Thank you to Brent and my wife for helping throughout the season.
+[00:41:42.000 --> 00:41:47.000]   Just because I was drowning many times and they helped me pull me out of that hole.
+[00:41:47.000 --> 00:41:49.000]   So congrats to the kids.
+[00:41:49.000 --> 00:41:50.000]   They worked hard.
+[00:41:50.000 --> 00:41:51.000]   They've earned it.
+[00:41:51.000 --> 00:41:53.000]   So thank you guys for allowing me to be part of it.
+[00:41:53.000 --> 00:41:55.000]   Thank you.
+[00:41:55.000 --> 00:41:57.000]   [APPLAUSE]
+[00:41:57.000 --> 00:42:16.000]   All right.
+[00:42:16.000 --> 00:42:21.000]   Next up, I'd like to invite Vice President Shannon Braun down to the front for a final recognition this evening.
+[00:42:23.000 --> 00:42:35.000]   So GCSD is proud to announce that grapevine middle school has been named at 2223 International Technology and Engineering Educators Association STEM School of Excellence.
+[00:42:35.000 --> 00:42:42.000]   GMS is just one of 19 schools in addition to six colleges and universities in the nation to earn the distinction.
+[00:42:42.000 --> 00:42:52.000]   The STEM School of Excellence program recognizes outstanding schools for their commitment to providing a robust, integrated STEM education program and exemplifying outstanding leadership in the field of STEM
+[00:42:52.000 --> 00:42:53.000]   education.
+[00:42:53.000 --> 00:43:01.000]   Grapevine middle school will officially be awarded the distinction as part of the ITEAs annual conference in April.
+[00:43:01.000 --> 00:43:04.000]   Congratulations to the entire staff and community of grapevine middle school.
+[00:43:04.000 --> 00:43:08.000]   But tonight we have a few representatives from the school who would like to highlight.
+[00:43:08.000 --> 00:43:10.000]   Please give us a way when I call your name.
+[00:43:10.000 --> 00:43:13.000]   Sydney Taylor, seventh grade STEM student.
+[00:43:13.000 --> 00:43:15.000]   Hey, Sydney.
+[00:43:15.000 --> 00:43:19.000]   [APPLAUSE]
+[00:43:19.000 --> 00:43:24.000]   A little slight way there. Karen Huff, PTA president and parent.
+[00:43:24.000 --> 00:43:27.000]   [APPLAUSE]
+[00:43:27.000 --> 00:43:32.000]   Taylor Reynolds, who's the department learning leader there, grapevine middle school.
+[00:43:32.000 --> 00:43:35.000]   [APPLAUSE]
+[00:43:35.000 --> 00:43:38.000]   And Mrs. Mandy Alexander, principal of grapevine middle school.
+[00:43:38.000 --> 00:43:42.000]   [APPLAUSE]
+[00:43:42.000 --> 00:43:49.000]   [APPLAUSE]
+[00:43:49.000 --> 00:43:56.000]   [APPLAUSE]
+[00:43:56.000 --> 00:43:59.000]   Let's give grapevine middle school one last round of applause.
+[00:43:59.000 --> 00:44:05.000]   [APPLAUSE]
+[00:44:05.000 --> 00:44:08.000]   Thank you to all of our award recipients for joining us this evening
+[00:44:08.000 --> 00:44:12.000]   and letting us celebrate your accomplishments, and now I will turn it back over to Board President.
+[00:44:12.000 --> 00:44:14.000]   Case four.
+[00:44:14.000 --> 00:44:17.000]   All right, next on the agenda is the public comment section.
+[00:44:17.000 --> 00:44:20.000]   Kathy.
+[00:44:20.000 --> 00:44:21.000]   Can you hear me?
+[00:44:21.000 --> 00:44:22.000]   OK.
+[00:44:22.000 --> 00:44:24.000]   Oh, no.
+[00:44:24.000 --> 00:44:27.000]   [PHONE RINGING]
+[00:44:27.000 --> 00:44:35.000]   Is that better?
+[00:44:35.000 --> 00:44:38.000]   OK.
+[00:44:38.000 --> 00:44:41.000]   Next on the agenda is the public comment period of our board meeting.
+[00:44:41.000 --> 00:44:46.000]   While public comment is an opportunity for individuals to directly address the Board of Trustees that is the limited forum,
+[00:44:46.000 --> 00:44:52.000]   individuals wishing to participate must complete the request to speak form and submit it to the executive director of communications,
+[00:44:52.000 --> 00:44:56.000]   Nicole Lyons at least 15 minutes prior to the start of the meeting.
+[00:44:56.000 --> 00:45:03.000]   By completing the request to speak form, each speaker has acknowledged they will abide by the decorum protocol stated on such form.
+[00:45:03.000 --> 00:45:05.000]   The board operating procedures.
+[00:45:05.000 --> 00:45:08.000]   The board has a lot of 30 minutes for public comment.
+[00:45:08.000 --> 00:45:14.000]   But the time may be adjusted to the board at the Board President's discretion to allow for an orderly conduct of the board meeting.
+[00:45:14.000 --> 00:45:20.000]   Tonight, we have 21 speakers, so each speaker will have one minute.
+[00:45:20.000 --> 00:45:29.000]   If, yes, if groups wish to speak on the same topic, the board may ask, but is not required, that is asked that a spoke person be appointed to speak for the group.
+[00:45:29.000 --> 00:45:34.000]   This is not the forum to present allegations of employee misconduct, requests for employee discipline,
+[00:45:34.000 --> 00:45:39.000]   lodging personal attacks, shaming, demeaning specific name to GCISD employees,
+[00:45:39.000 --> 00:45:44.000]   or unnecessarily disclosing private information about GCISD employees or students.
+[00:45:44.000 --> 00:45:50.000]   The board will only consider personnel or student complaints that remain unresolved after they have been addressed through the grievance process.
+[00:45:50.000 --> 00:45:54.000]   And when they have been placed on the Board agenda for hearing or action.
+[00:45:54.000 --> 00:46:02.000]   Please see GCISD board policies, DGBA, employee, FNG students and families, and GF public.
+[00:46:02.000 --> 00:46:09.000]   These policies are designed to secure prompt and equitable resolution of complaints and concerns by allowing for a full hearing or investigation.
+[00:46:09.000 --> 00:46:14.000]   Each of these procedures allows for an individual to redress grievances with the Board of Trustees.
+[00:46:14.000 --> 00:46:21.000]   Upon request, our executive director of communications will provide you with copies of these policies, or you can find them online at the district website.
+[00:46:21.000 --> 00:46:29.000]   In accordance with the Texas Open Meetings Act, the Board may not deliberate or decide any subject that is not included on the meeting agenda.
+[00:46:29.000 --> 00:46:33.000]   It may not respond to comments made or questions asked during the public comment period.
+[00:46:33.000 --> 00:46:40.000]   If an issue mentioned is listed on tonight's agenda, Board members may respond to comments when an agenda item is considered later in the meeting.
+[00:46:40.000 --> 00:46:48.000]   Please understand that allowing speakers to make statements during public comment period is not an endorsement of those statements by the Board or the district.
+[00:46:48.000 --> 00:46:56.000]   The statements made by an individual speaker are the opinion of that speaker and not necessarily the opinion of the Board, individual trustees, or the district.
+[00:46:56.000 --> 00:47:00.000]   We will call persons to speak in order we receive their forms.
+[00:47:00.000 --> 00:47:10.000]   Our first speaker is Jim Rogers, please step to the microphone and state whether you're resident of GCISD.
+[00:47:10.000 --> 00:47:23.000]   Good evening, my name is Jim Rogers, my son, Tommy Rogers, attend his great fine high school, he is a junior and as I'm sure some of you are aware he is an adamant supporter of books and reading for kids of all ages and adults.
+[00:47:23.000 --> 00:47:27.000]   And I am here in his place tonight, he asks me to speak for him.
+[00:47:27.000 --> 00:47:32.000]   I've got some good news, I've seen that the number of parental consent required books has dropped.
+[00:47:32.000 --> 00:47:37.000]   I believe it's now around 50, a great fine high school, that was from 129.
+[00:47:37.000 --> 00:47:43.000]   These books allow kids to explore topics that they wouldn't normally have access to.
+[00:47:43.000 --> 00:47:50.000]   I know it can be very scary sometimes, but by giving them this experience they're being better prepared for the real world.
+[00:47:50.000 --> 00:47:53.000]   And that's all I have to say, thank you very much.
+[00:47:53.000 --> 00:47:54.000]   Thank you.
+[00:47:54.000 --> 00:47:59.000]   Our second speaker is David Taylor, please step to the microphone and state whether you're resident of GCISD.
+[00:47:59.000 --> 00:48:19.000]   Yeah, good evening, and I am a resident of GCISD and President Ford, Vice President Braun, Trustee Nakamura, and Secretary Spradley.
+[00:48:19.000 --> 00:48:25.000]   As a father, concerned citizen and taxpayer, I want to thank you guys for doing what the community I'd like to do.
+[00:48:25.000 --> 00:48:32.000]   We're very excited to be here today, and we're very excited to be here today, and we're very excited to be here today.
+[00:48:32.000 --> 00:48:39.000]   We're very excited to be here today, and we're very excited to be here today, and we're very excited to be here today.
+[00:48:39.000 --> 00:48:45.000]   We're very excited to be here today, and we're very excited to be here today, and we're very excited to be here today.
+[00:48:45.000 --> 00:48:51.000]   We're very excited to be here today, and we're very excited to be here today, and we're very excited to be here today.
+[00:48:51.000 --> 00:48:59.000]   Michael Segment within our district, and from outside our community, just know we are extremely grateful for the positive changes you have brought forward.
+[00:48:59.000 --> 00:49:05.000]   We're happy to be welcoming our new superintendent, and we're very excited about the bright future of GCISD.
+[00:49:05.000 --> 00:49:06.000]   Thank you.
+[00:49:06.000 --> 00:49:07.000]   Thank you.
+[00:49:07.000 --> 00:49:12.000]   Our third speaker is Myra Brown, please step to the microphone and state whether you're a resident of GCISD.
+[00:49:19.000 --> 00:49:23.000]   Good evening, my name is Myra, and I live in grapevine.
+[00:49:23.000 --> 00:49:25.000]   Thank you all for having us here this evening.
+[00:49:25.000 --> 00:49:34.000]   I've come to speak tonight to give encouragement to the Board majority, but also to briefly mention why I personally got involved in this as I don't have any kids myself.
+[00:49:34.000 --> 00:49:36.000]   Frankly, it was CRT.
+[00:49:36.000 --> 00:49:41.000]   I don't understand why anyone would promote racist ideologies to children.
+[00:49:41.000 --> 00:49:47.000]   I feel like we need to root out any semblance of that in our school systems.
+[00:49:47.000 --> 00:49:53.000]   Anywhere that we find it, and I'm sorry to say that there have been places even within the GCISD where that's been found.
+[00:49:53.000 --> 00:50:01.000]   Most notably, when we saw it publicly supported by the former CHS principal, Dr. Whitfield.
+[00:50:01.000 --> 00:50:04.000]   I know that the conservative Board majority--
+[00:50:04.000 --> 00:50:07.000]   Please don't say, employee's names, thank you.
+[00:50:07.000 --> 00:50:16.000]   Is constantly under attack, especially some of our dearest Board members like TME, and I wanted to come here this evening to encourage you and to support you.
+[00:50:16.000 --> 00:50:21.000]   And I think that what you all are doing for GCISD to make it a better district is very well--
+[00:50:21.000 --> 00:50:22.000]   Thank you.
+[00:50:22.000 --> 00:50:23.000]   Appreciate it.
+[00:50:23.000 --> 00:50:33.000]   Our fourth speaker is Stetson Clark, please step to the microphone and state whether you're resident of GCISD.
+[00:50:33.000 --> 00:50:41.000]   Once I can just just remember the audience or any speakers, just don't say any employee's names that are GCISD employees, thank you.
+[00:50:41.000 --> 00:50:56.000]   Hello Board Trustees, my name is Stetson Clark. I'm thankful for a new Board majority and their continued efforts to handle the various challenges our district faces, including the numerous lawsuits that resulted from the previous Board president and superintendent.
+[00:50:56.000 --> 00:50:58.000]   I trust you guys to handle these appropriately.
+[00:50:58.000 --> 00:51:01.000]   I also want to express my support for Trustee Tammy Nakamura.
+[00:51:01.000 --> 00:51:07.000]   She's under fire from special interest groups in our community that seek to tear our district down.
+[00:51:07.000 --> 00:51:15.000]   And I believe that as we stand as a community together against our detractors, they will fade into obscurity and we will continue to return to excellence.
+[00:51:15.000 --> 00:51:20.000]   Thank you, Tammy. Thank you, Brad. Thank you Board Trustees.
+[00:51:20.000 --> 00:51:33.000]   Thank you. Our fifth speaker is Nancy Groves, please step to the microphone and state whether you're resident of GCISD.
+[00:51:33.000 --> 00:51:42.000]   Good evening. My name is Nancy Groves. My family and I have lived in GCISD for 37 years and my son graduated from Grand High School in 2007.
+[00:51:42.000 --> 00:51:52.000]   In the last year, I've seen a tremendous effort by the GCISD Board of Trustees to rein in wasteful spending, raise teacher pay, and most importantly improve academic outcomes.
+[00:51:52.000 --> 00:51:56.000]   I believe these efforts are starting and are bearing fruit now.
+[00:51:56.000 --> 00:52:05.000]   Credit for these initiatives go to Trustee Ford, Spradley, Bron and Nakamura. Please keep up the good work.
+[00:52:05.000 --> 00:52:19.000]   Thank you. Our sixth speaker is Gay Grissom, please step to the microphone and state whether you're resident of GCISD.
+[00:52:19.000 --> 00:52:23.000]   I am a resident.
+[00:52:23.000 --> 00:52:33.000]   This is part two of a three-minute speech, which will take me four months to complete due to your one-minute rule.
+[00:52:33.000 --> 00:52:35.000]   Last time I talked about this.
+[00:52:35.000 --> 00:52:41.000]   Pardon me, pardon me. We'll stop at 45 seconds, so we'll give her some time back.
+[00:52:41.000 --> 00:52:44.000]   Please no laughter from the audience. Let's just get through the business.
+[00:52:44.000 --> 00:52:50.000]   Probably really be respectful of everybody's time. Thank you. This is the one in final warning.
+[00:52:50.000 --> 00:52:53.000]   Sorry, didn't mean to make a joke.
+[00:52:53.000 --> 00:53:01.000]   Last time I talked about listening to your educators, a cultural listening starts with listening leaders.
+[00:53:01.000 --> 00:53:06.000]   Again, I'm here to talk about teacher retention. I am not the enemy.
+[00:53:06.000 --> 00:53:18.000]   I am a retired teacher, and you are in trouble and retaining the teachers for this next year, and I think that's something that we all can agree on.
+[00:53:18.000 --> 00:53:36.000]   There are some reasons for this. Some of you introduced yourself in a fairly poor way with list of teachers that had to go pay is always an issue, and will continue to be until the state helps out.
+[00:53:36.000 --> 00:53:41.000]   Like a respect for teachers, I will continue next month.
+[00:53:41.000 --> 00:53:53.000]   Thank you. Our seventh speaker is Zach Penn. Please step to the microphone and stay with your resident of GCISD.
+[00:53:53.000 --> 00:53:57.000]   Good evening, everyone. I am Zach Penn. I am a resident.
+[00:53:57.000 --> 00:54:03.000]   I'm a part of a group called GCISD Parents. If you haven't checked out our website, please visit GCISDparents.com.
+[00:54:03.000 --> 00:54:09.000]   This evening, I want to express my support of our hopefully future superintendent, Dr. Brad Snoutz.
+[00:54:09.000 --> 00:54:14.000]   I think Brad is the community and parent leader we need in GCISD.
+[00:54:14.000 --> 00:54:19.000]   He has a ability to listen to everybody, everybody's opinion, with an open mind.
+[00:54:19.000 --> 00:54:26.000]   I've seen him treat everyone with respect no matter what their religion, political affiliation, or any other differences in our community.
+[00:54:26.000 --> 00:54:37.000]   He is a tested leader with courage to take on the challenges we have seen all before us, and the experience to carry out this mission for one, for GCISD.
+[00:54:37.000 --> 00:54:47.000]   I sincerely hope our board comes together tonight to name Dr. Brad Snoutz as GCISD's loan for the superintendent. Thank you for your time.
+[00:54:47.000 --> 00:54:58.000]   Thank you. Our eighth speaker is Simon McFillips. Please step to the microphone and stay with your resident of GCISD.
+[00:54:58.000 --> 00:55:09.000]   Hi, good evening, I'm a resident and a parent of GCISD.
+[00:55:09.000 --> 00:55:19.000]   My point is really simple, but incredibly important, and that is, just to remind you, you all have an obligation to represent everyone within colleagues.
+[00:55:19.000 --> 00:55:27.000]   So regardless of political views, race, religion, gender, sexual orientation, and we've all got our own personal views.
+[00:55:27.000 --> 00:55:35.000]   And of course we do, and also from when I've been observance of other sessions, we've got a very vocal and very organized group of conservative, very traditional folks here.
+[00:55:35.000 --> 00:55:44.000]   And of course they're all entitled to their views as well. Of course, but there's also very significant group within colleagues that do not hold those opinions.
+[00:55:44.000 --> 00:55:49.000]   And so my ask of you, really, is when you come to making those critical decisions for our children.
+[00:55:49.000 --> 00:56:00.000]   But you actually remain as open-minded as you can and consider that oftentimes the voices that you may hear in this room are not always representative in entire political community.
+[00:56:00.000 --> 00:56:02.000]   Thank you.
+[00:56:02.000 --> 00:56:14.000]   Our ninth speaker is our Townsend. Please step to the microphone and stay with your resident of GCISD.
+[00:56:14.000 --> 00:56:22.000]   My name is Rick Townsend. I am a resident of GCISD. We have been since 1990. I'm also a retired Air Force fighter pilot and airline pilot.
+[00:56:22.000 --> 00:56:32.000]   I'm currently a professional historian, but I also volunteer as the administrator for local ESL adult group that's hosted right next door to Mustang stadium at 121 community church.
+[00:56:32.000 --> 00:56:38.000]   It's a collaborative effort of three local churches. It's a great way that communities are coming together to support our families.
+[00:56:38.000 --> 00:56:47.000]   I'm here today to thank the administration for doing ESL training for students specifically who are not native English speakers and may not even be literate in their own native languages.
+[00:56:47.000 --> 00:56:52.000]   So bringing those students up to a point where they can actually be successful is a huge boost.
+[00:56:52.000 --> 00:56:59.000]   It also allows them to practice their English at home along with programs like ours helping their parents learn English.
+[00:56:59.000 --> 00:57:04.000]   So we appreciate the efforts that you guys have put into making this work and setting our students up for success.
+[00:57:04.000 --> 00:57:17.000]   In 1995 we had to pull our kids out of GCISD because it was failing our kids. They were getting behind. It's my pleasure tonight to thank you for doing something to go in the other direction and set our kids up for success. Thank you.
+[00:57:17.000 --> 00:57:29.000]   Thank you. Our 10th speaker is Timothy Frazier. Please step to the microphone and stay with your resident of GCISD.
+[00:57:29.000 --> 00:57:46.000]   I just want to address the news that came out a couple of days ago about a lawsuit potentially being filed or has been filed by Dr. Whitfield against the district and trustees.
+[00:57:46.000 --> 00:58:05.000]   Do you want to say any employees names? Yes, sir. So I want to state that I fully support any board member who votes against continuing the gravy train for that subject.
+[00:58:05.000 --> 00:58:26.000]   I don't want to see any more of our money go into the pockets of somebody who created an environment and a situation and then managed to drift off of it and be paid simply to go away and continues to cause problems for this district.
+[00:58:26.000 --> 00:58:45.000]   And the people that have children going to school here expecting more money to continue to go into his pocket. Our 11th speaker is John Shepard. Please step to the microphone and stay with your resident of GCISD.
+[00:58:45.000 --> 00:58:59.000]   Good evening. I want to thank the board for all the hard work they've done in the past year. It was not easy. You help us put the focus back on where it should be. Teacher issues.
+[00:58:59.000 --> 00:59:12.000]   I'm not going to go into detail about my cousin that was a superintendent in Houston, but I didn't know that if you will select colleges or have the superintendent.
+[00:59:12.000 --> 00:59:31.000]   But at least by you of the colleges you hire from, you can make a difference on an impact on this district. I'm not going to tell you which ones to go to or which ones not to go to. I have my opinions, but I encourage you to do that and think about that as you start the hiring process. Thank you.
+[00:59:31.000 --> 00:59:42.000]   The 12th speaker is Robert Smallen. Please step to the microphone and stay with your resident of GCISD.
+[00:59:42.000 --> 00:59:59.000]   I'm a resident. Good evening. I just wanted to affirm the board in three areas. One is the rating curriculum that you installed recently. Teachers have specifically said a structured curriculum is essential for teaching and for the learning process.
+[00:59:59.000 --> 01:00:11.000]   Number two, I'd really like to thank the board for your transparency and really address the issue that we've slipped academically specifically test results for all grades.
+[01:00:11.000 --> 01:00:31.000]   Over 30% of the total population have failed basic math and reading and addressing the problem solves 80% of the problem. So just by simply seeing that, hey, we've got a problem addressing it becomes 80% of 80% of the problem solved.
+[01:00:31.000 --> 01:00:42.000]   And then finally, I want to affirm acting superintendent Brad Schultz and trusted the board will accept him as a finalist in the sort of process. Thank you.
+[01:00:42.000 --> 01:00:54.000]   Thank you. Our 13th speaker is Jeff Hall. Please step to the microphone and stay with your resident of GCISD.
+[01:00:54.000 --> 01:01:02.000]   Although I am a resident of GCISD, I want to share with you tonight that I became involved in our district when I realized our kids have been in mass for much too long.
+[01:01:02.000 --> 01:01:06.000]   During that involvement, I found more things that I thought needed to change.
+[01:01:06.000 --> 01:01:14.000]   Examples are that our kids were reading incredibly inappropriate books and our district didn't have a consistent district wide curriculum.
+[01:01:14.000 --> 01:01:21.000]   While working to solve these issues, I learned the value of conservative majority on our board. I also learned the value of parental empowerment.
+[01:01:21.000 --> 01:01:26.000]   Thanks to a conservative majority who believes in parental empowerment, we resolved these issues and many others.
+[01:01:26.000 --> 01:01:32.000]   I want to encourage each of you to stay the path that you're on. Our conservative majority has made incredible improvements to our district.
+[01:01:32.000 --> 01:01:37.000]   And if you say the course, I know you will continue to bring positive change to GCISD.
+[01:01:37.000 --> 01:01:42.000]   Thanks to each of you for believing in parental empowerment and working so hard to improve GCISD.
+[01:01:42.000 --> 01:01:46.000]   You're doing important work and you're doing it very well. Thank you.
+[01:01:46.000 --> 01:01:53.000]   Our 14th speaker is Lisa Brizen-Dine, please step to the microphone and stay where the are resident of GCISD.
+[01:01:53.000 --> 01:02:05.000]   Lisa Brizen-Dine and Brizen-Dine. Over the weekend, I came across two videos of one of our board members speaking at separate events.
+[01:02:05.000 --> 01:02:11.000]   In both videos, the board member jokingly reminds people, "I don't hate the children." Followed by laughter.
+[01:02:11.000 --> 01:02:18.000]   If a board member has to publicly say this, there is a problem. As a parent teacher and taxpayer, I am concerned about several things.
+[01:02:18.000 --> 01:02:22.000]   As a parent, I am concerned about my own children's educational future in this district.
+[01:02:22.000 --> 01:02:28.000]   As a teacher, I am concerned and disgusted about the portrayal of teachers being groomers and encouraging pornography.
+[01:02:28.000 --> 01:02:37.000]   And finally, at the taxpayer, I am concerned about the misuse of funds to pay for extra lawyers, lawsuits, and other board member antics. Thank you.
+[01:02:37.000 --> 01:02:43.000]   Our 15th speaker is Kelly Burch, please step to the microphone and stay where the are resident of GCISD.
+[01:02:43.000 --> 01:02:51.000]   Hi everyone, my name is Kelly and I am a resident of GCISD. My kids graduated from GHS in 2019 and 2020.
+[01:02:51.000 --> 01:02:57.000]   They were involved in baseball and Phillies. I'm here tonight to speak in support of the board majority.
+[01:02:57.000 --> 01:03:06.000]   I firmly believe that GCISD is moving in the right direction, even though my kids have graduated is a vital importance to me that our district continues to be in good standard.
+[01:03:06.000 --> 01:03:15.000]   I know that the school district is the greatest influencer on property values, but more than that, it also determines who decides to come to our district.
+[01:03:15.000 --> 01:03:24.000]   I don't want GCISD to become a social justice factory. I want great vine to be the warm and harmonious community that it was while I was raising my children.
+[01:03:24.000 --> 01:03:33.000]   GCISD does not need to bend the knee to any of the work trends going on in the US. We can stay independent and whole without all of that nonsense.
+[01:03:33.000 --> 01:03:47.000]   I believe this board majority stands for Common Sense and Community Values, which is why I'll be supporting voting for AJ Pontillo, Richard Newton, and Mary Humphrey and May to join that majority. Thank you for your time.
+[01:03:47.000 --> 01:03:58.000]   Thank you. Our 16th speaker is Mitchell Ryan, please step to the microphone and stay where the are resident of GCISD.
+[01:03:58.000 --> 01:04:06.000]   At first of all, I want to say he's a total activist, but everyone up here on the stage is a politician, so you should all know this.
+[01:04:06.000 --> 01:04:10.000]   Do you know what is the most important quality people want in a candidate for something?
+[01:04:10.000 --> 01:04:18.000]   The most important quality is not that you have the best ideas or that you say you're going to solve the problem for people.
+[01:04:18.000 --> 01:04:26.000]   The number one way to get someone to support you is to make them feel like you care about their problems.
+[01:04:26.000 --> 01:04:38.000]   With your superintendent search, I don't know who you're going to pick, but are you sure you're not being played by politician with rhetoric about a plan?
+[01:04:38.000 --> 01:04:41.000]   Do they actually have a vision for the district?
+[01:04:41.000 --> 01:04:49.000]   This district needs radical transformation back to normal. You have apps instead of curriculum.
+[01:04:49.000 --> 01:04:58.000]   The idea that you're going to put another CASB bot as superintendent get different results, it's just goofy. This is just bananas.
+[01:04:58.000 --> 01:05:02.000]   We need to radically change directions of this district.
+[01:05:02.000 --> 01:05:09.000]   Thank you. Our 17th speaker is Michael Quinn, please step to the microphone and stay where the are resident of GCISD.
+[01:05:17.000 --> 01:05:23.000]   As we enter into our local election season, I ask that residents consider how we approach the next few weeks.
+[01:05:23.000 --> 01:05:29.000]   It's essential for each of us to remember that we as a community are all part of something far greater than our individual selves.
+[01:05:29.000 --> 01:05:34.000]   Individualism is important, but when it comes to public education, no one wins unless we all win.
+[01:05:34.000 --> 01:05:40.000]   Our community depends on the function of a well-run public education system, and in that sense our destinies are truly in each other's hands.
+[01:05:40.000 --> 01:05:45.000]   And our achievements can never be at the expense of someone else and be truly worthwhile and just.
+[01:05:45.000 --> 01:05:49.000]   And as for the concept of winners and losers, I'll reference Ecclesiastes 9/11.
+[01:05:49.000 --> 01:05:54.000]   Races aren't always one by those who run fast, battles aren't always one by those who are strong.
+[01:05:54.000 --> 01:05:58.000]   Wise people don't always have plenty of food, clever people aren't always wealthy.
+[01:05:58.000 --> 01:06:05.000]   Those who have learned a lot aren't always favored, God controls the timing of every event, he also controls how things turn out.
+[01:06:05.000 --> 01:06:08.000]   Protect GCISD.com. Thank you very much.
+[01:06:08.000 --> 01:06:13.000]   Thank you. Our 18th speaker is Joel Loa. I think I'm pronouncing that right.
+[01:06:13.000 --> 01:06:17.000]   Please step to the microphone and state whether you're a resident of GCISD.
+[01:06:17.000 --> 01:06:22.000]   Well, Joel, my name is Joel Loa, living grapevine.
+[01:06:22.000 --> 01:06:27.000]   Well, with the school board election in the '68 days, I'd like to thank you so good time to remind the board of some of the promises
+[01:06:27.000 --> 01:06:29.000]   that you guys made when you were running for a school board.
+[01:06:29.000 --> 01:06:34.000]   You promised to create an environment that will allow our kids to flourish and represent our values.
+[01:06:34.000 --> 01:06:38.000]   The people of this district believe in internal values and autonomous principles.
+[01:06:38.000 --> 01:06:45.000]   We believe that our hard work and self-discipline are what makes our lives better.
+[01:06:45.000 --> 01:06:50.000]   And these are the values that you guys were taught and when you guys were kids, these are the values that your parents were taught.
+[01:06:50.000 --> 01:06:54.000]   People like me who are from different countries who are not used to this country,
+[01:06:54.000 --> 01:06:58.000]   who've solved the values that were in this place, and we came here specifically for those values.
+[01:06:58.000 --> 01:07:02.000]   We knew what grapevine was, we knew what the US was, we came here because we wanted those things.
+[01:07:02.000 --> 01:07:05.000]   We didn't come here because we wanted things to be restructured or reimagined.
+[01:07:05.000 --> 01:07:10.000]   We knew what this place was, we believe in God, believe in love of God, love of country, love of community.
+[01:07:10.000 --> 01:07:14.000]   That's exactly what we're looking for when we came here and we like those things to say the same.
+[01:07:14.000 --> 01:07:16.000]   I really appreciate your time, thank you very much.
+[01:07:16.000 --> 01:07:18.000]   Thank you.
+[01:07:18.000 --> 01:07:20.000]   Our 19th speaker is Beverly Mavis.
+[01:07:20.000 --> 01:07:23.000]   Please step to the microphone and state whether you're a resident of GCISD.
+[01:07:35.000 --> 01:07:41.000]   Beverly Mavis calling by, call it all.
+[01:07:41.000 --> 01:07:46.000]   Tonight's the first board meeting since the start of what is commonly referred to as election season.
+[01:07:46.000 --> 01:07:54.000]   Please consider, what if we had more trustees to put the needs of students, teachers and staff about political agendas and truly value education?
+[01:07:54.000 --> 01:08:00.000]   What if we had a board that valued honest and open discussion during public meetings as well as transparency and actions?
+[01:08:00.000 --> 01:08:08.000]   What if we had a board that truly understood public school finance and didn't pass fake balance budgets only to end up with a two-time greater deficit?
+[01:08:08.000 --> 01:08:14.000]   What if all trustees valued and honored confidential information and sealed records instead of using as political fodder,
+[01:08:14.000 --> 01:08:18.000]   thereby imberling the district in a $250,000 lawsuit?
+[01:08:18.000 --> 01:08:23.000]   This community will have the opportunity to change what if to we have very soon.
+[01:08:23.000 --> 01:08:26.000]   Candidates will need to be closely scrutinized.
+[01:08:26.000 --> 01:08:34.000]   If there is any appearance of intent to perpetuate the downward spiral we are currently experiencing, they are not right for GCISD.
+[01:08:34.000 --> 01:08:37.000]   We need trustees who will protect GCISD.
+[01:08:37.000 --> 01:08:40.000]   Thank you.
+[01:08:40.000 --> 01:08:45.000]   Our 20th speaker is Valerie Coonert. Please step to the microphone and state whether you're resident of GCISD.
+[01:08:56.000 --> 01:09:00.000]   Good evening. Yes, I live in grapevine.
+[01:09:00.000 --> 01:09:04.000]   I wanted to remind everybody today is Texas PTA Rally Day.
+[01:09:04.000 --> 01:09:23.000]   We have several GCISD PTA members along with students and Austin Day to share their voices advocating for GCISD PTA legislative priorities with our senate or tan parker and representative Giovanni Capricleone and others on the Texas education committee.
+[01:09:23.000 --> 01:09:32.000]   GCISD council of PTA legislative priorities as survey and decided upon by the PTA community include opposing vouchers.
+[01:09:32.000 --> 01:09:40.000]   We want to keep public school money and public schools, teacher staff shortages, funding system and student safety.
+[01:09:40.000 --> 01:09:54.000]   I personally look forward to work with each of you, our school board partnering with every student, educator, family and community member to hear, listen and support.
+[01:09:54.000 --> 01:09:58.000]   However possible to make our school district great again.
+[01:09:58.000 --> 01:10:00.000]   I have a copy of our flyer.
+[01:10:00.000 --> 01:10:01.000]   Thank you.
+[01:10:01.000 --> 01:10:07.000]   Our 21st speaker is Leanne Pieden. Please step to the microphone and state whether you're resident of GCISD.
+[01:10:10.000 --> 01:10:24.000]   Hi, I'm Leanne Pieden, I'm a 20 year resident of grapevine and a parent of a GCISD student.
+[01:10:24.000 --> 01:10:39.000]   And I just wanted to come with a reminder about Robert's rules of order and I've brought some little quick note, a little cheat sheet of Robert's rules to share with you tonight.
+[01:10:39.000 --> 01:10:48.000]   And just a reminder that suspension of Robert's rules of order requires a two thirds vote, not majority vote, not a simple majority.
+[01:10:48.000 --> 01:10:58.000]   At the August 2022 meeting that was used to limit discussion on some very important topics, including how this very board is elected.
+[01:10:58.000 --> 01:11:09.000]   The tactic of limiting discussions, stifles voices, it's undemocratic and it's un-American. We are a diverse community with many different needs and perspectives.
+[01:11:09.000 --> 01:11:14.000]   We don't always agree, but I do believe that all voices need to be heard.
+[01:11:14.000 --> 01:11:21.000]   So debate can and consideration of different viewpoints can be difficult, but you think it's elected to do just that.
+[01:11:21.000 --> 01:11:24.000]   Thank you, does I encourage you to refrain from that in the future?
+[01:11:24.000 --> 01:11:33.000]   Does this conclude public comment?
+[01:11:33.000 --> 01:11:49.000]   Next on the agenda, one of the reports of the superintendent, item A, consider naming a loan finalist for the position of school superintendent.
+[01:11:49.000 --> 01:11:51.000]   I'd like to make a motion.
+[01:11:51.000 --> 01:12:00.000]   I move that the board named Dr. Bradch now says the loan finalist for the position of superintendent at grapevine collerville ISD.
+[01:12:00.000 --> 01:12:02.000]   Nice second.
+[01:12:02.000 --> 01:12:05.000]   Any comments?
+[01:12:05.000 --> 01:12:16.000]   I'd like to recognize the process that we went through to make this decision.
+[01:12:16.000 --> 01:12:26.000]   I want to recognize Ronda Kras, and Lister Kras, and their work at recruiting candidates to work in this climate.
+[01:12:26.000 --> 01:12:42.000]   And with our board, they found some great candidates, but I think certainly the cream rose to the top, and so I'm very excited about our loan finalist election.
+[01:12:42.000 --> 01:12:46.000]   I'd like to make a comment also.
+[01:12:46.000 --> 01:12:50.000]   When we started this process, we went out to find the best superintendent.
+[01:12:50.000 --> 01:12:56.000]   We thought we had him, we wanted to make sure that we had him, and I'd like to say welcome to Brad.
+[01:12:56.000 --> 01:13:08.000]   I look forward to working with him because, in my opinion, there is no doubt that we had the best right here, and we look forward to working with you, Brad.
+[01:13:08.000 --> 01:13:14.000]   I'd like to say something, Brad, that is my honor to work with you.
+[01:13:14.000 --> 01:13:22.000]   I love your leadership style, I love your positive outlook, I love your competitive spirit,
+[01:13:22.000 --> 01:13:27.000]   I do think that you have your work cut out for you, but the great news is that you're up for the challenge.
+[01:13:27.000 --> 01:13:34.000]   You're a competitor, and this should scare you, but we do have New York Yankees standards.
+[01:13:34.000 --> 01:13:42.000]   Thank you, Jorge, and comments.
+[01:13:42.000 --> 01:13:46.000]   Yeah, I'll make one comment.
+[01:13:46.000 --> 01:13:51.000]   First, I want to thank Lisa Crass for giving us a seamless process.
+[01:13:51.000 --> 01:13:52.000]   We worked very hard.
+[01:13:52.000 --> 01:13:58.000]   I want to thank Tim Davis, who couldn't be here tonight for his guidance in this whole process as well.
+[01:13:58.000 --> 01:14:04.000]   He's someone I lean on for a lot of guidance, and he's very well-versed and knowledgeable.
+[01:14:04.000 --> 01:14:11.000]   I want to thank the Board for your time, because this wasn't an easy process, and it wasn't, you know, coin flip, and you just make a pick.
+[01:14:11.000 --> 01:14:23.000]   It was a lot of detail, a lot of due diligence, and a lot of research, and sort of echo what Timmy said is, like, we thought we had a nation the whole, and, sure enough, I believe we have a nation whole.
+[01:14:23.000 --> 01:14:28.000]   So, it's my privilege as well to announce, you know, Brad's now says the loan finalists.
+[01:14:28.000 --> 01:14:30.000]   We'll take a vote.
+[01:14:30.000 --> 01:14:38.000]   Shortly here, he possesses qualifications and integrity.
+[01:14:38.000 --> 01:14:42.000]   I have a little one.
+[01:14:42.000 --> 01:14:45.000]   It's a emotional day.
+[01:14:45.000 --> 01:14:51.000]   He has integrity, and he'll help GCISD in the future.
+[01:14:51.000 --> 01:14:55.000]   He's had a previous experience as a superintendent in other districts.
+[01:14:55.000 --> 01:15:01.000]   He's been the acting GCISD deputy superintendent, interim superintendent.
+[01:15:01.000 --> 01:15:05.000]   He's very uniquely qualified to fill this role.
+[01:15:05.000 --> 01:15:08.000]   He's a great understanding of our community.
+[01:15:08.000 --> 01:15:10.000]   Great values has a work ethic, second and none.
+[01:15:10.000 --> 01:15:14.000]   I mean, I've seen him work his tail off for the last two years.
+[01:15:14.000 --> 01:15:19.000]   Pretty impressive what he's been doing.
+[01:15:19.000 --> 01:15:25.000]   And so I have no doubt your bill continued building excellent schools together for GCISD.
+[01:15:25.000 --> 01:15:29.000]   Really excited to see what you're going to do for this district.
+[01:15:29.000 --> 01:15:35.000]   And just, you know, want to congratulate you, maybe prematurely, but after saying this.
+[01:15:35.000 --> 01:15:39.000]   All those in favor of Shannon's motion show of hands.
+[01:15:39.000 --> 01:15:40.000]   All those opposed.
+[01:15:40.000 --> 01:15:42.000]   Nope motion passes 7-0.
+[01:15:42.000 --> 01:16:03.000]   [APPLAUSE]
+[01:16:03.000 --> 01:16:06.000]   So now I'd like to hear Brad a few seconds to speak.
+[01:16:06.000 --> 01:16:10.000]   Yes, it'll be more than a few seconds to apologize.
+[01:16:10.000 --> 01:16:13.000]   Yeah, wrap it up, right?
+[01:16:13.000 --> 01:16:17.000]   Yes, you know, I think Shannon, it's kind of scary to scare you guys.
+[01:16:17.000 --> 01:16:21.000]   It's kind of daunting, but we have an amazing community in just this room.
+[01:16:21.000 --> 01:16:24.000]   The individual's outside of this room.
+[01:16:24.000 --> 01:16:29.000]   Our future is bright here in GCISD, but I do have a statement that I've written that I'd like to read,
+[01:16:29.000 --> 01:16:35.000]   because I need to kind of stick to it to just to make sure I hit the folks and the groups that I want to highlight.
+[01:16:35.000 --> 01:16:40.000]   So first off, it's quite an honor, and I'm grateful for this opportunity,
+[01:16:40.000 --> 01:16:46.000]   and I want to thank the board for entrusting me and your confidence in me to be the next leader.
+[01:16:46.000 --> 01:16:51.000]   I look forward to working with you and to continue to raise the bar for our district,
+[01:16:51.000 --> 01:16:53.000]   and that's our charge, right?
+[01:16:53.000 --> 01:16:57.000]   We saw, we started, I love that we start with our children, our students,
+[01:16:57.000 --> 01:17:02.000]   because I think we keep it centered on that, and I think we just need to,
+[01:17:02.000 --> 01:17:06.000]   that's where we need to stay centered in everything that we do.
+[01:17:06.000 --> 01:17:12.000]   I see that we have a few employees in here, and I want to thank our employees and staff across our wonderful district.
+[01:17:12.000 --> 01:17:17.000]   We have an awesome team, a strong family of individuals who are committed to giving their best each state,
+[01:17:17.000 --> 01:17:21.000]   and ensure our students have an amazing educational experience from our custodians,
+[01:17:21.000 --> 01:17:25.000]   to our teachers and coaches, bus drivers, food service team, facilities,
+[01:17:25.000 --> 01:17:29.000]   special services team, or counselors, finance team,
+[01:17:29.000 --> 01:17:32.000]   our campus administrators, technology, or leadership team,
+[01:17:32.000 --> 01:17:37.000]   and there's some in there in between that now I might be forgetting, but it takes all of us,
+[01:17:37.000 --> 01:17:41.000]   and the work that we do, it's a mission field,
+[01:17:41.000 --> 01:17:48.000]   but we do this, we come together, those individuals come together to make this a special district in a special community,
+[01:17:48.000 --> 01:17:54.000]   and I just want to say this, that I realize I had a lot of people rooting for me in this,
+[01:17:54.000 --> 01:18:04.000]   and I'm humbled by that, I'm grateful to everyone on the GCS team, and you're a part of that, guys.
+[01:18:04.000 --> 01:18:08.000]   And so I just want to say thank you.
+[01:18:08.000 --> 01:18:13.000]   Next is our students, I started with that, and I want to go to that right now.
+[01:18:13.000 --> 01:18:19.000]   Over the last five and a half years, I've had the opportunity to watch our students perform a compete in their respective activities.
+[01:18:19.000 --> 01:18:23.000]   I've had the opportunity to get a front row view of seeing our students achieve success in the classroom,
+[01:18:23.000 --> 01:18:30.000]   to watch them compete in one championships, and we saw some of that tonight, to see their faces light up with exuberance when they excel.
+[01:18:30.000 --> 01:18:38.000]   I'm inspired by your talents and creativity, and it's an honor for us to have the opportunity to influence an impact to you as you take this journey through GCSD.
+[01:18:38.000 --> 01:18:45.000]   And we can't take that lightly, guys, because there's just a small window that our kiddos are with us, and it happens fast.
+[01:18:45.000 --> 01:18:55.000]   Those of you that parents understand that, you know, we heard from parents who students have graduated, it goes by quick, and we can't take that for granted.
+[01:18:55.000 --> 01:19:12.000]   Next, I'd like to thank our community, and I want to speak to this room, in particular, and really outside our entire GCSD community, but I'd like to thank our community and the friends that I have in GCSD, in our community, especially grateful for the relationships that I've been able to build with many of you.
+[01:19:12.000 --> 01:19:19.000]   I've enjoyed our conversations and interactions related to our district, related to our students, and employees, and related to our community.
+[01:19:19.000 --> 01:19:25.000]   But most of all, related to serving alongside you to make our district grow and improve to be the best it can be.
+[01:19:25.000 --> 01:19:33.000]   Throughout this process over the last few months, I've been uplifted by your prayers, your words of encouragement, and just your reminders of support.
+[01:19:33.000 --> 01:19:35.000]   Thank you, thank you so much.
+[01:19:35.000 --> 01:19:48.000]   I value your influence into the work that we do. I'm sorry, I look forward to leading in a way that leans into those relationships and that shows the value of your influence into the work that we do to impact the lives of our people here in GCSD.
+[01:19:48.000 --> 01:19:51.000]   Thank you for caring about our wonderful district.
+[01:19:51.000 --> 01:20:02.000]   When I was named interim a few months ago, I gave thanks to Dr. Robin Ryan for bringing me to GCSD five and a half years ago, and I want to again emphasize my thanks to Dr. Ryan.
+[01:20:02.000 --> 01:20:07.000]   I wouldn't be in this position had he not chosen to bring my family and me here at that time.
+[01:20:07.000 --> 01:20:16.000]   It was an honor to serve with him, and I believe those experiences helped position me to serve as the next superintendent in GCSD.
+[01:20:16.000 --> 01:20:24.000]   And last, I just want to thank my family.
+[01:20:24.000 --> 01:20:37.000]   I have the most amazing and supportive wife in Jenny. We met in the fifth grade, and I think she liked me in the fifth grade.
+[01:20:37.000 --> 01:20:52.000]   She didn't. She does, I don't know if she does now either, but I'm going to tell you, like she is the same beautiful, pretty girl that now that she was in the fifth grade.
+[01:20:52.000 --> 01:21:05.000]   And I have the best wife and the best partner in this journey in her, and in one of the most amazing blessings she's giving us and me is our four children.
+[01:21:05.000 --> 01:21:12.000]   And Trustee Braun said before we started any of your children look like you, and no they don't.
+[01:21:12.000 --> 01:21:25.000]   But we're very blessed, and we have three of our children here tonight, our oldest Abby, she's a Greatmont High School, 2021 graduate, she is hopefully studying at Georgia Tech tonight.
+[01:21:25.000 --> 01:21:33.000]   But then we have Mary, who is a junior at Greatmont High, Lucy, who's a freshman at Greatmont High, and then we have our son Will, who's in the fourth grade.
+[01:21:33.000 --> 01:21:42.000]   And he's a lot like his mother.
+[01:21:42.000 --> 01:21:50.000]   But I just want to say that this, going through this, it's not really fun, okay, going through this process and stuff, but it's worth it.
+[01:21:50.000 --> 01:22:02.000]   It's staying worth it right now, okay, but in times of uncertainty and just those challenges as a family, I think it brings you stronger together, there's a bond that you just, the unit just, you just solidify, right?
+[01:22:02.000 --> 01:22:07.000]   And my children, my wife rallied for me and around me.
+[01:22:07.000 --> 01:22:16.000]   You know, my wife and I got a lot of questions from our kiddos that we weren't able to answer, that we had a lot of, I don't know, and we'll have to wait and see.
+[01:22:16.000 --> 01:22:25.000]   But, you know, we just stayed the course, and we're faithful, and just, you know, the good Lord, it all happened the way it was supposed to.
+[01:22:25.000 --> 01:22:33.000]   And so, I'm so proud of my children, the way you've handled yourselves, and I just want you to know your mother and I love you.
+[01:22:33.000 --> 01:22:37.000]   And we're so blessed to be here as a family.
+[01:22:37.000 --> 01:22:46.000]   We're so blessed at five and a half years ago that this is where we landed, and it's been so awesome for my children, on a personal note.
+[01:22:46.000 --> 01:22:54.000]   You know, my wife and I, this is not our hometown, but when your children, when it's our home, it becomes your home, right?
+[01:22:54.000 --> 01:23:02.000]   And it's our home, GCSD is our home, it's been amazing serving and leading in this community.
+[01:23:02.000 --> 01:23:10.000]   And I look forward to continuing to do that with you, amongst you, and really just for our children, right?
+[01:23:10.000 --> 01:23:18.000]   And so, I appreciate all of you, thank you for being here, and just thank you for being a part of this special moment for me and my family, so we appreciate you, thank you.
+[01:23:18.000 --> 01:23:27.000]   [applause]
+[01:23:27.000 --> 01:23:29.000]   I don't know, do we need a picture?
+[01:23:29.000 --> 01:23:32.000]   [laughter]
+[01:23:32.000 --> 01:23:34.000]   Decree, we need a picture.
+[01:23:34.000 --> 01:23:42.000]   [laughter]
+[01:23:42.000 --> 01:23:52.000]   So we don't need a picture.
+[01:23:52.000 --> 01:24:17.000]   [laughter]
+[01:24:17.000 --> 01:24:27.000]   [laughter]
+[01:24:27.000 --> 01:24:37.000]   [applause]
+[01:24:37.000 --> 01:24:49.000]   All right.
+[01:24:49.000 --> 01:24:58.000]   So in true fashion, they have a cheer banquet to go to right now that started 20 minutes ago, so.
+[01:24:58.000 --> 01:25:04.000]   All right, next item on the agenda is item B, considered delegation of authority to negotiate superintendant contracts.
+[01:25:04.000 --> 01:25:07.000]   What an exciting night.
+[01:25:07.000 --> 01:25:15.000]   I would like to move that the board authorized the board president to negotiate the contract as discussed in closed session.
+[01:25:15.000 --> 01:25:18.000]   I'm second, Shannon seconds.
+[01:25:18.000 --> 01:25:20.000]   All those in favor?
+[01:25:20.000 --> 01:25:21.000]   Sure, hands.
+[01:25:21.000 --> 01:25:26.000]   We're going to pass the 7-0.
+[01:25:26.000 --> 01:25:31.000]   Next item on the agenda is act on GCSD board recapture resolution, right?
+[01:25:31.000 --> 01:25:47.000]   Yes, so this proposed resolution calls for the Texas legislature to achieve wealth equalization across all Texas ISDs while also calling for the comptroller to exercise transparency in delineating the allocation of recapture funds and achieving that wealth equalization.
+[01:25:47.000 --> 01:25:56.000]   So the recommendation is for the board of trustees to approve the GCSD board recapture resolution as presented.
+[01:25:56.000 --> 01:26:01.000]   I have a recommendation to have a motion.
+[01:26:01.000 --> 01:26:06.000]   I make a motion to approve the resolution.
+[01:26:06.000 --> 01:26:09.000]   Second, comments.
+[01:26:09.000 --> 01:26:10.000]   Thank you.
+[01:26:10.000 --> 01:26:16.000]   Yeah, so I had a number of questions about this because we passed a resolution in the past about Robin Hood.
+[01:26:16.000 --> 01:26:32.000]   One of the first questions that I have is why was the governor left out of the resolution?
+[01:26:32.000 --> 01:26:45.000]   Shall I make a motion to include the governor in the -- well, the reason it is because I'm the one who pushed to have this on here. I'm going down to Austin next week and meeting with Senator Tam Parker and Kelly Hancock.
+[01:26:45.000 --> 01:26:54.000]   And what we're trying to get at this point, and I'm not saying that he's not a part of it, but we need to get some transparency and we need an audit of what's going down.
+[01:26:54.000 --> 01:27:04.000]   I'm 54 million what up to 62 million this year, right? For Jack's 62 million. You know, if we get five -- I mean, 10 or 20 percent of that back.
+[01:27:04.000 --> 01:27:12.000]   So I don't think it was -- he was left out for a reason. It's just this is to get an audit done by Glenn Hager.
+[01:27:12.000 --> 01:27:18.000]   So I'm going down there to meet with those, but there's no reason he can't be a part of it as a matter of fact he should be a part of it.
+[01:27:18.000 --> 01:27:29.000]   But we're just wanting accountability right now because I don't think anybody has a problem helping people with education, but we don't want to be buying water parks for somebody, okay?
+[01:27:29.000 --> 01:27:34.000]   And we need to know exactly where this money is going. So that's all we're doing here.
+[01:27:34.000 --> 01:27:48.000]   Okay, so can I make a motion to amend the resolution that we include the governor as one of the people receiving the certified letters?
+[01:27:48.000 --> 01:28:07.000]   Sure, can you tell me where you want to put that in the resolution? Sure, where it says copy of this resolution is sent to the lieutenant governor. We can just put to the governor first.
+[01:28:07.000 --> 01:28:21.000]   Where in the page of that top bottom middle? Yeah, we'll add that language.
+[01:28:21.000 --> 01:28:25.000]   Okay, so I don't have to vote on the motion.
+[01:28:25.000 --> 01:28:29.000]   Yeah, well we got to have a minimum statement first. Did you make a motion to amend?
+[01:28:29.000 --> 01:28:36.000]   Yes, so the first thing I have is a motion to amend the resolution to include that the governor be included in receiving the resolution.
+[01:28:36.000 --> 01:28:38.000]   I have a second.
+[01:28:38.000 --> 01:29:05.000]   Okay, the next question that I have is can we also include the members of the Senate Finance Committee, the members of the House Appropriations Committee, and both of the education committees, and the reason for this is both both of those committees in both house and
+[01:29:05.000 --> 01:29:14.000]   committees in both houses are responsible for the legislation that has any change or impact to Robin Hood.
+[01:29:14.000 --> 01:29:21.000]   I mean, it's fine that the Comptroller do an audit.
+[01:29:21.000 --> 01:29:41.000]   But I think that we need to make sure that not only the, what is it, to three, four representatives and two senators that cover GCSD are copied, but also the House and the Senate.
+[01:29:41.000 --> 01:29:58.000]   Okay, so the Senate, the Senate Finance Committee members, the House Appropriations Committee members, the House Public Education Committee members, and the Senate Education Committee members.
+[01:30:11.000 --> 01:30:33.720]   I would like to make a motion to amend the resolution that we include the members of the Senate
+[01:30:33.720 --> 01:30:39.360]   Finance Committee, the members of the House Appropriations Committee, the members of the
+[01:30:39.360 --> 01:30:44.360]   House Public Education Committee, the second, as well.
+[01:30:44.360 --> 01:30:49.360]   All right, motion passes 7-0.
+[01:30:49.360 --> 01:30:57.360]   All right, so now what we'll vote on, are you good, Becky?
+[01:30:57.360 --> 01:31:04.800]   Yeah, I mean, can we get a copy of the letter and then also then be copied on the responses
+[01:31:04.800 --> 01:31:06.800]   that we get back all over?
+[01:31:06.800 --> 01:31:08.120]   Yeah, we can do it.
+[01:31:08.120 --> 01:31:13.160]   All right, so now all those in favor of the amended recommendation show of hands.
+[01:31:13.160 --> 01:31:16.800]   Motion passes 7-0.
+[01:31:16.800 --> 01:31:30.200]   Next item on the agenda is act on update to board policy, FMG, local, student activities,
+[01:31:30.200 --> 01:31:32.200]   travel, Dr. Snelles.
+[01:31:32.200 --> 01:31:36.640]   Yes, so as we look ahead to the Great Mountain High School Band 2025 trip to Ireland, we need
+[01:31:36.640 --> 01:31:41.840]   to revise some of the details in policy, FMG, local, Paula, would you lead us through this,
+[01:31:41.840 --> 01:31:42.840]   item, please.
+[01:31:42.840 --> 01:31:48.440]   Yes, sir, it's been a few years since we looked at this and at the time that the travel
+[01:31:48.440 --> 01:31:53.940]   advisory language was included, not every country, had a travel advisory and so that tells
+[01:31:53.940 --> 01:31:56.560]   you just how long ago it was.
+[01:31:56.560 --> 01:32:02.520]   And so in looking at the United States State Department's website and understanding that
+[01:32:02.520 --> 01:32:06.600]   they have a travel advisory for every country, we felt like it was important.
+[01:32:06.600 --> 01:32:12.280]   To bring forward a recommendation to update the policy to allow for travel to those countries
+[01:32:12.280 --> 01:32:16.560]   that have a level one designation, which the language was included, I'll cover that in a moment,
+[01:32:16.560 --> 01:32:22.400]   and possibly to country with a travel advisory level two after understanding more specifics
+[01:32:22.400 --> 01:32:26.040]   about the reason for that level two designation.
+[01:32:26.040 --> 01:32:31.720]   So travel advisory level one is to exercise normal precautions when traveling to a foreign
+[01:32:31.720 --> 01:32:35.880]   country and it's the lowest level advisory level for safety and security.
+[01:32:35.880 --> 01:32:40.680]   Level two is to exercise increased caution, be aware of heightened risks to safety and
+[01:32:40.680 --> 01:32:41.680]   security.
+[01:32:41.680 --> 01:32:46.600]   And again, the proposed policy updates would allow the districts to travel, allow the district
+[01:32:46.600 --> 01:32:52.800]   to prove travel to a country with a level one designation, and to consider travel to a country
+[01:32:52.800 --> 01:32:58.480]   with a level two designation after review of specific cautions issued by the US government.
+[01:32:58.480 --> 01:33:03.440]   Thank you, Paula. The recommendations for the Board of Trustees to approve the update
+[01:33:03.440 --> 01:33:06.160]   to Board Policy, FMG Local, as presented.
+[01:33:06.160 --> 01:33:10.200]   And we have a recommendation to have a motion, Coley.
+[01:33:10.200 --> 01:33:13.360]   I move we approve the superintendent's recommendation.
+[01:33:13.360 --> 01:33:23.600]   Yeah, the seconds, all of those in favor, so hands motion passes seven zero.
+[01:33:23.600 --> 01:33:28.120]   Item E, act on change order number one, closing the synthetic turf replacement project for
+[01:33:28.120 --> 01:33:32.200]   Mustang Panther Stadium, change order one, closing the synthetic turf replacement project
+[01:33:32.200 --> 01:33:36.840]   for Collea Heritage, high school and change order one, closing the synthetic turf replacement
+[01:33:36.840 --> 01:33:40.600]   project for cross-timers in middle school, Dr. Schultz.
+[01:33:40.600 --> 01:33:43.600]   Paula, you just give us some background on this place.
+[01:33:43.600 --> 01:33:49.560]   Yes, so this is the replacement of the turf at the three locations that were listed there,
+[01:33:49.560 --> 01:33:54.640]   Mustang Panther Stadium, Collea Heritage High School, and cross-timers middle school.
+[01:33:54.640 --> 01:34:00.240]   That project has been completed by Hellis, and you have replacement pages at your desk
+[01:34:00.240 --> 01:34:05.280]   only because I failed to give the district full credit for the contingency that's been
+[01:34:05.280 --> 01:34:06.280]   returned.
+[01:34:06.280 --> 01:34:11.480]   It was the owner's contingency that was unspent as being released to the district.
+[01:34:11.480 --> 01:34:16.720]   And then once this has approved, the district will be able to pay out its retainage and
+[01:34:16.720 --> 01:34:21.800]   finally close out the contract with Hellis Construction, so this was a CSP replacement project
+[01:34:21.800 --> 01:34:25.160]   that has been completed at this point, Dr. Schnotz.
+[01:34:25.160 --> 01:34:28.280]   Thank you Paula, the recommendation is for the Board of Trustees to approve the three
+[01:34:28.280 --> 01:34:33.080]   deductive change orders as presented, closing the synthetic turf replacement project for
+[01:34:33.080 --> 01:34:38.560]   Mustang Panther Stadium, Collea Heritage High School, and cross-timers middle school.
+[01:34:38.560 --> 01:34:40.760]   Recommendation, I have a motion, Kathy.
+[01:34:40.760 --> 01:34:44.160]   I make a motion to accept Dr. Schnotz's recommendation.
+[01:34:44.160 --> 01:34:47.320]   I have a second.
+[01:34:47.320 --> 01:34:48.320]   Second.
+[01:34:48.320 --> 01:34:55.560]   All those in favor show hands, motion passes seven zero.
+[01:34:55.560 --> 01:34:59.660]   Next item, act on item F, act on guaranteed maximum price from Lee, there's construction
+[01:34:59.660 --> 01:35:04.880]   ink for finishes improvements for seven campuses into non-campus facilities, Dr. Schnotz.
+[01:35:04.880 --> 01:35:09.160]   All right, Paula, back to you.
+[01:35:09.160 --> 01:35:10.800]   Yes, sir.
+[01:35:10.800 --> 01:35:15.760]   So Lee Lewis issued the package for renovations, this rounds out kind of some of the last
+[01:35:15.760 --> 01:35:21.240]   of the original projects from the 2016 bond, and that is to address finishes primarily
+[01:35:21.240 --> 01:35:27.080]   in the area of replacing flooring and updating painting at the campuses that are listed.
+[01:35:27.080 --> 01:35:31.400]   We have seven campuses in two non-campus facilities that are part of the work that will
+[01:35:31.400 --> 01:35:33.840]   begin for this coming summer.
+[01:35:33.840 --> 01:35:39.560]   They had good competition for this particular project, and Lee Lewis was able to ensure
+[01:35:39.560 --> 01:35:44.680]   that the scope is fully covered and put together their guaranteed maximum price, which
+[01:35:44.680 --> 01:35:49.320]   is the maximum amount that the district will pay for the work that is included in the
+[01:35:49.320 --> 01:35:50.320]   package.
+[01:35:50.320 --> 01:35:54.200]   A total of seven alternates were also included and accepted.
+[01:35:54.200 --> 01:35:58.120]   We had asked for individual pricing only because the market has been so volatile, and
+[01:35:58.120 --> 01:36:03.160]   fortunately all of that was able to be included and still be within the district's overall
+[01:36:03.160 --> 01:36:06.560]   budget for this project in terms of that amount of money.
+[01:36:06.560 --> 01:36:10.320]   So with that, Dr. Schnoz will take the recommendation.
+[01:36:10.320 --> 01:36:15.060]   The recommendation is for the Board of Trustees to approve the guaranteed maximum price
+[01:36:15.060 --> 01:36:23.040]   of $4,740,356 from Lee Lewis construction for specified finishes, painting and flooring, improvements
+[01:36:23.040 --> 01:36:26.920]   at seven campuses in two non-campus sites.
+[01:36:26.920 --> 01:36:30.960]   Have a recommendation, have a motion, fully?
+[01:36:30.960 --> 01:36:31.960]   Make a motion.
+[01:36:31.960 --> 01:36:33.920]   We approve Dr. Schnoz's recommendation.
+[01:36:33.920 --> 01:36:34.920]   Second.
+[01:36:34.920 --> 01:36:47.440]   Motion passes 7-0.
+[01:36:47.440 --> 01:36:52.760]   Next item, item B, act on guaranteed maximum price from Lee Lewis construction ink for
+[01:36:52.760 --> 01:36:57.880]   multi-campus HVAC upgrades in main distribution frame or intermediate distribution frame
+[01:36:57.880 --> 01:37:03.280]   rooms of six schools and HVAC equipment replacement in four schools, Dr. Schnoz.
+[01:37:03.280 --> 01:37:07.120]   Yes, this item pertains to HVAC upgrades across our district.
+[01:37:07.120 --> 01:37:10.400]   Paula, would you give us more context on this, please?
+[01:37:10.400 --> 01:37:11.400]   Yes, sir.
+[01:37:11.400 --> 01:37:16.240]   So the initial part of this project is to add air conditioning to the rooms where our technology
+[01:37:16.240 --> 01:37:20.000]   infrastructure are housed at some of our campuses.
+[01:37:20.000 --> 01:37:24.560]   And with the increase in the use of technology and equipment, we have a higher heat load,
+[01:37:24.560 --> 01:37:26.160]   therefore, additional air conditioning.
+[01:37:26.160 --> 01:37:31.400]   This is one of the short-range capital needs improvement projects that the Board approve, which
+[01:37:31.400 --> 01:37:35.720]   goes beyond the original scope of the 2016 bond, so with some of that surplus money, this
+[01:37:35.720 --> 01:37:41.120]   is additional work that is being accomplished at six of the campuses.
+[01:37:41.120 --> 01:37:46.120]   In addition to that, the district looked to replace a few more rooftop units as a part
+[01:37:46.120 --> 01:37:50.920]   of this work where HVAC related package in total.
+[01:37:50.920 --> 01:37:56.560]   And so, again, Lee Lewis put that out for bid and assembled a guaranteed maximum price.
+[01:37:56.560 --> 01:38:02.800]   With a beginning work date of May, that's four months early because we still have a significant
+[01:38:02.800 --> 01:38:07.800]   amount of lead time in the marketplace for HVAC equipment.
+[01:38:07.800 --> 01:38:12.960]   The substantial completion date is still, however, August 4th, and so we're hoping that
+[01:38:12.960 --> 01:38:18.040]   by approving this in February, they will be able to get the equipment in on time as they
+[01:38:18.040 --> 01:38:19.360]   did last summer.
+[01:38:19.360 --> 01:38:24.560]   A total of A campuses are actually covered by this work because two of the campuses overlap
+[01:38:24.560 --> 01:38:29.240]   in that they had some of each of those two items, whether it be adding to the technology
+[01:38:29.240 --> 01:38:31.360]   or just replacing equipment.
+[01:38:31.360 --> 01:38:32.360]   Dr. Snouts.
+[01:38:32.360 --> 01:38:33.360]   Thank you, Paula.
+[01:38:33.360 --> 01:38:36.200]   The recommendation is for the Board of Trustees to approve the guaranteed maximum price
+[01:38:36.200 --> 01:38:44.400]   of $1,116,291.3 from Lee Lewis Construction for specified HVAC upgrades and either the main
+[01:38:44.400 --> 01:38:49.120]   distribution frame or intermediate distribution frame room of six campuses and other
+[01:38:49.120 --> 01:38:53.920]   HVAC replacements at four campuses is presented.
+[01:38:53.920 --> 01:38:56.240]   I have regulation to have motion.
+[01:38:56.240 --> 01:38:57.240]   Jan?
+[01:38:57.240 --> 01:39:00.720]   I make a motion to approve Dr. Snouts' recommendation.
+[01:39:00.720 --> 01:39:02.720]   I have a second.
+[01:39:02.720 --> 01:39:03.720]   Kathy seconds.
+[01:39:03.720 --> 01:39:04.720]   Thank you.
+[01:39:04.720 --> 01:39:12.080]   Yeah, so Paula, can you flush out just a little bit more how this is going to happen
+[01:39:12.080 --> 01:39:16.040]   in May because I would be concerned that people here, oh my gosh, we're going to start
+[01:39:16.040 --> 01:39:20.640]   working on HVAC in May, which sounds like we won't have any HVAC over the summer, so
+[01:39:20.640 --> 01:39:25.120]   can you explain that just a little bit more how this is actually going to happen?
+[01:39:25.120 --> 01:39:28.880]   So they won't be replacing anything, but there are things that they can do to kind of get
+[01:39:28.880 --> 01:39:30.680]   started, especially with the addition.
+[01:39:30.680 --> 01:39:34.000]   That doesn't mean they're going to be in the buildings necessarily affecting that, but
+[01:39:34.000 --> 01:39:38.480]   we want to make sure that all of the lead time things can be taken care of well ahead
+[01:39:38.480 --> 01:39:42.400]   of the project that has to do somewhat with the timing when the district issues the
+[01:39:42.400 --> 01:39:45.400]   notice to proceed after the approval of the contract.
+[01:39:45.400 --> 01:39:51.000]   The work and the equipment cannot be received until some time probably in late July if
+[01:39:51.000 --> 01:39:53.160]   it's anything like it was last year.
+[01:39:53.160 --> 01:39:56.840]   And so there's prep work that can be done, but nothing that's going to happen physically
+[01:39:56.840 --> 01:40:01.360]   in the campuses themselves, but getting themselves ready for the work.
+[01:40:01.360 --> 01:40:05.040]   Okay, and so do we know where summer school is going to be yet?
+[01:40:05.040 --> 01:40:10.040]   Yes, we know those locations, and this does not affect that.
+[01:40:10.040 --> 01:40:15.660]   The only thing that comes close to it is a unit that might be touched at the front for
+[01:40:15.660 --> 01:40:19.080]   year of Gregbond High School, but they have kind of accounted for the timing of that
+[01:40:19.080 --> 01:40:27.040]   and exactly when that would happen, so that's been looked at.
+[01:40:27.040 --> 01:40:37.040]   And for the questions, all those in favor show hands, we should pass the 7-year.
+[01:40:37.040 --> 01:40:41.800]   Next, I'm on the agenda as Board to consider a resolution to support the GCISD PTA legislative
+[01:40:41.800 --> 01:40:43.360]   agenda in Rally Day.
+[01:40:43.360 --> 01:40:48.280]   Yes, so Trustee has requested the Board support the GCISD PTA Legislative Agenda in Rally
+[01:40:48.280 --> 01:40:52.720]   Day, so the recommendation is for the Board to support the GCISD PTA Legislative Agenda
+[01:40:52.720 --> 01:40:56.840]   in Rally Day to the extent they align with the GCISD Board legislative priorities approved
+[01:40:56.840 --> 01:40:59.040]   on February 13, 2023.
+[01:40:59.040 --> 01:41:08.800]   Every recommendation I have a motion to approve, Dr. Ryan's recommendation?
+[01:41:08.800 --> 01:41:09.800]   Dr. Schneltz.
+[01:41:09.800 --> 01:41:10.800]   Dr. Schneltz.
+[01:41:10.800 --> 01:41:11.800]   I was so good.
+[01:41:11.800 --> 01:41:14.800]   You're the first one to do it.
+[01:41:14.800 --> 01:41:27.720]   That'd be one of a couple of money, Jars.
+[01:41:27.720 --> 01:41:28.720]   Motion fails?
+[01:41:28.720 --> 01:41:32.880]   No, no, no, no, no, we didn't have a second motion to spell it.
+[01:41:32.880 --> 01:41:38.400]   I am seconding it, or we were seconding it with the Dr. Good, okay, sorry.
+[01:41:38.400 --> 01:41:39.400]   Second.
+[01:41:39.400 --> 01:41:43.440]   All right, my comment?
+[01:41:43.440 --> 01:41:48.440]   So we have a process in place, we were given minimal information and minimal time to
+[01:41:48.440 --> 01:41:50.960]   review or ask any additional questions.
+[01:41:50.960 --> 01:41:55.640]   For many outside third parties or individuals making this request, in addition, it's
+[01:41:55.640 --> 01:42:01.400]   still unclear who exactly has been behind the scenes working on this request as no
+[01:42:01.400 --> 01:42:06.480]   contact information has really been provided to any trustees and further trustees who have
+[01:42:06.480 --> 01:42:11.920]   made this request have been in response to my efforts to gather information in a short period
+[01:42:11.920 --> 01:42:12.920]   of time.
+[01:42:12.920 --> 01:42:17.480]   So, you know, the Board has previously passed legislative agendas.
+[01:42:17.480 --> 01:42:22.120]   We actually did that two weeks ago, and those actually read as follows.
+[01:42:22.120 --> 01:42:27.700]   We had school finance, which was support attempts to lessen the burden of recapture Robinhood
+[01:42:27.700 --> 01:42:32.160]   on local communities and eliminate recapture on any vote or approve tax rate increase to
+[01:42:32.160 --> 01:42:41.080]   allow school district to keep 100% of the funds generated from vote or approval, support,
+[01:42:41.080 --> 01:42:45.560]   an adequate and equitable school finance system that raises the basic allotment to account
+[01:42:45.560 --> 01:42:49.960]   for inflation, covers the cost of the current and future state mandates, support and
+[01:42:49.960 --> 01:42:54.520]   increase of funding in order to base funding school districts on enrollment rather than
+[01:42:54.520 --> 01:42:59.320]   attendance, which better reflects how public schools are staffed and operated, support
+[01:42:59.320 --> 01:43:04.040]   and increase in the funding GT allotment and special education costs to include covering the
+[01:43:04.040 --> 01:43:08.880]   cost of the identification of students, filling critical positions and diagnostic testing
+[01:43:08.880 --> 01:43:14.480]   and administrative support, advocating for truth and taxation, regarding their relationship
+[01:43:14.480 --> 01:43:18.920]   between rising and property values in the corresponding decline and state funding and keeping
+[01:43:18.920 --> 01:43:21.600]   public funds in GCIC.
+[01:43:21.600 --> 01:43:28.720]   Further, we had assessments and accountability criteria, which was to support and reform
+[01:43:28.720 --> 01:43:33.360]   the state of accountability system to one that minimizes the impact of stars, the primary
+[01:43:33.360 --> 01:43:38.400]   factor, while recognizing the strengths and uniqueness of each student school and district
+[01:43:38.400 --> 01:43:45.800]   in more accurately, demonstrating the effectiveness of a school district, of a school
+[01:43:45.800 --> 01:43:50.240]   or district, sorry, support modifying requirements for all students to test only online
+[01:43:50.240 --> 01:43:54.480]   and allow for a paper test, a combination of when it aligns with routine accommodation
+[01:43:54.480 --> 01:43:57.960]   on the student's IEP 504 plan.
+[01:43:57.960 --> 01:44:03.920]   Further, we recently just passed to support financial aid and other programs to incentivize
+[01:44:03.920 --> 01:44:09.960]   entering the profession, we passed to support increasing educator and staff compensation
+[01:44:09.960 --> 01:44:14.880]   and improving employee retirement benefits to support increasing the teacher retirement
+[01:44:14.880 --> 01:44:19.840]   system pension, from the state to ensure the system is appropriately and adequately funded
+[01:44:19.840 --> 01:44:25.240]   to provide a sustainable retirement program for public education employees, further for
+[01:44:25.240 --> 01:44:29.240]   school safety and security, we just recently passed to support the allocation of funds
+[01:44:29.240 --> 01:44:34.000]   for new security measures on campuses, including equipment infrastructure personnel,
+[01:44:34.000 --> 01:44:38.880]   and counseling support to protect students and staff, support incentives for districts
+[01:44:38.880 --> 01:44:44.840]   that proactively implement security enhancements measures not yet required by the state, but
+[01:44:44.840 --> 01:44:49.000]   that contribute to better securing our schools.
+[01:44:49.000 --> 01:44:55.320]   So in recent, you know, in light of all this, I move to lay this motion on the table to
+[01:44:55.320 --> 01:45:01.080]   have a second, tell me seconds, so all those in favor to lay the motion on the table show
+[01:45:01.080 --> 01:45:05.680]   of hands, it's not, no, it's not debatable.
+[01:45:05.680 --> 01:45:18.320]   All those opposed, motion passes for three.
+[01:45:18.320 --> 01:45:23.000]   Next item on the agenda is 2024 bond program planning.
+[01:45:23.000 --> 01:45:28.520]   So as we prepare for a perspective May 2024 bond program, we begin our long range planning
+[01:45:28.520 --> 01:45:32.840]   committee work, Paula, will you give us more a bit more detail around this work?
+[01:45:32.840 --> 01:45:39.580]   Yes, sir, so this month we did kick off the facilities long range planning committee.
+[01:45:39.580 --> 01:45:44.440]   We've had two meetings, really one meeting each in the last two weeks.
+[01:45:44.440 --> 01:45:50.200]   At the time that we issued the packet, we had 49 members, because one was questioning
+[01:45:50.200 --> 01:45:53.320]   whether or not they were going to continue and then decided to continue.
+[01:45:53.320 --> 01:45:58.560]   So we're back up to 50 members even on the committee itself, and the committee does have
+[01:45:58.560 --> 01:46:03.880]   representation from parents, business, community and faith organizations, campus and district
+[01:46:03.880 --> 01:46:06.920]   administration as well as department staff.
+[01:46:06.920 --> 01:46:11.640]   So this is a process that we kicked off, and it's the first of two committees, as you
+[01:46:11.640 --> 01:46:15.840]   know, I've spoken before about the second committee, which will be a bond advisory committee
+[01:46:15.840 --> 01:46:18.000]   that will kick off in August.
+[01:46:18.000 --> 01:46:22.800]   And so at that time we anticipate having anywhere from, you know, 40 to 50 people on
+[01:46:22.800 --> 01:46:29.100]   that committee as well. So of the first committees that we just kicked off, they were
+[01:46:29.100 --> 01:46:34.600]   charged with creating a long range facilities plan to guide the district, so that is going
+[01:46:34.600 --> 01:46:40.600]   to look out really a decade or so in time, they're not necessarily going to set a timeline
+[01:46:40.600 --> 01:46:45.720]   for one project, should be completed per se, although they'll have some influence on
+[01:46:45.720 --> 01:46:50.600]   that, they'll create recommendations that would go forward to the bond advisory committee,
+[01:46:50.600 --> 01:46:54.640]   but they're looking at everything kind of as a first pass on behalf of the district.
+[01:46:54.640 --> 01:46:57.840]   So during their time, they're going to learn a lot about the district, which they've
+[01:46:57.840 --> 01:47:02.400]   already begun engaging in in the last two weeks, which is to create that foundation in terms
+[01:47:02.400 --> 01:47:07.920]   of the programs and the situation and the condition of things within the district.
+[01:47:07.920 --> 01:47:12.680]   With that, they're going to look at all of the assessment information about the facilities,
+[01:47:12.680 --> 01:47:16.640]   they're looking at the program needs that are being brought forward to them by district
+[01:47:16.640 --> 01:47:21.480]   leaders, and they're going to look at the status of our infrastructure, technology, of
+[01:47:21.480 --> 01:47:25.400]   course, our safety and security, as well as some of the other capital items and needs
+[01:47:25.400 --> 01:47:30.080]   that one might need, whether that be buses or vehicles or equipment, things of that nature
+[01:47:30.080 --> 01:47:35.080]   that are capital-like, that our employees may need to be able to do their work, and
+[01:47:35.080 --> 01:47:39.680]   they're going to assess and prioritize all of those things in order to be able to make
+[01:47:39.680 --> 01:47:43.720]   recommendations, like I said, to the next committee that we'll kick off in August.
+[01:47:43.720 --> 01:47:50.100]   In the first meeting, Dr. Schnouts gave really a high-level overview to the committee about
+[01:47:50.100 --> 01:47:51.680]   the district.
+[01:47:51.680 --> 01:47:57.360]   He went into several areas, including student success, demographic information about
+[01:47:57.360 --> 01:47:58.360]   the district.
+[01:47:58.360 --> 01:48:04.560]   He also pinpointed academic successes and areas of academic focus and need within our
+[01:48:04.560 --> 01:48:05.560]   district.
+[01:48:05.560 --> 01:48:10.280]   He went over a little bit of bond history, pointing out, honestly, that it will be about
+[01:48:10.280 --> 01:48:15.600]   eight years between bonds if the district does go forward with an election around May
+[01:48:15.600 --> 01:48:20.960]   of 2024, and then he briefly reviewed the tax amounts that are being sent to the state
+[01:48:20.960 --> 01:48:25.720]   in the form of recapture, and that information was kind of foundational to help the committee
+[01:48:25.720 --> 01:48:33.400]   begin to understand the district's reliance on bond programs in the past and in the future.
+[01:48:33.400 --> 01:48:38.240]   Then the committee that night received the last presentation from the district's demographer
+[01:48:38.240 --> 01:48:42.560]   to really understand where the district stands with its enrollment and where it might
+[01:48:42.560 --> 01:48:45.280]   be headed over the course of the next two years.
+[01:48:45.280 --> 01:48:48.920]   Then the second meeting was last week, it was just last week.
+[01:48:48.920 --> 01:48:55.000]   The committee received presentations from instructional services, so there were various departments
+[01:48:55.000 --> 01:48:58.600]   and areas that were represented in those presenting.
+[01:48:58.600 --> 01:49:05.600]   Their focus was on the needs of the early learning program, early childhood special education,
+[01:49:05.600 --> 01:49:10.160]   professional development, instructional materials, student and family services, career
+[01:49:10.160 --> 01:49:13.880]   and technical education, as well as athletics, all of those are tongue twisters.
+[01:49:13.880 --> 01:49:19.440]   If they got up, did a great job presenting that information in a very short amount of time
+[01:49:19.440 --> 01:49:20.800]   to the committee.
+[01:49:20.800 --> 01:49:24.900]   Then finally, I just want to say that there is a webpage on the district's website
+[01:49:24.900 --> 01:49:28.600]   that is dedicated to the information of this committee.
+[01:49:28.600 --> 01:49:34.240]   Meeting notes, the presentations that are provided are on that webpage, as well as a video
+[01:49:34.240 --> 01:49:38.320]   of the meeting for those who would like to see and know what's going on, the meetings
+[01:49:38.320 --> 01:49:43.560]   are open to the public, but that's a quick and easy way to be able to stay informed about
+[01:49:43.560 --> 01:49:47.360]   the work of the committee as they continue to move forward.
+[01:49:47.360 --> 01:49:50.800]   That's it for the update, Dr. Shaz.
+[01:49:50.800 --> 01:50:06.760]   Excellent, I mean, do not have those questions, so I've been looking on the page, where is this?
+[01:50:06.760 --> 01:50:14.800]   If you click on that, then you'll see a ribbon and page with presentations and information
+[01:50:14.800 --> 01:50:15.800]   there.
+[01:50:15.800 --> 01:50:23.640]   Maybe we've possibly started off with the word bond, because I think most people would
+[01:50:23.640 --> 01:50:24.640]   just call it a bond.
+[01:50:24.640 --> 01:50:29.960]   It's very hard to find, or can we put a button on the front of the page for people to
+[01:50:29.960 --> 01:50:33.040]   find?
+[01:50:33.040 --> 01:50:37.600]   I think the reason that it's not called bond yet is because we'll have a bond advisory
+[01:50:37.600 --> 01:50:38.600]   committee.
+[01:50:38.600 --> 01:50:41.480]   This is a facilities long-range planning group, which is a little bit different than
+[01:50:41.480 --> 01:50:46.360]   what we've been used to in GCISD in terms of how we've approached this work.
+[01:50:46.360 --> 01:50:50.000]   Certainly if that's the will of the board, we'll be happy to make any adjustments and
+[01:50:50.000 --> 01:50:51.800]   take a look at things.
+[01:50:51.800 --> 01:50:55.320]   Can we make it a little bit more prominent on the website itself?
+[01:50:55.320 --> 01:50:57.720]   Initially, we'll have to take a look at that.
+[01:50:57.720 --> 01:51:04.040]   Like I said, I'm looking through this and I couldn't find it.
+[01:51:04.040 --> 01:51:08.240]   I think you're right, Paul, I think it's going to confuse people and that other committee
+[01:51:08.240 --> 01:51:14.200]   gets rolling here in a few months, but if we put it where people can't see it, I agree
+[01:51:14.200 --> 01:51:16.020]   with that.
+[01:51:16.020 --> 01:51:23.600]   All right, next item, review 2022, 2023 Board Planning Calendar, Dr. Nelson.
+[01:51:23.600 --> 01:51:28.560]   Yes, you can see the 2223 Board Planning Calendar, there are no changes for this month or
+[01:51:28.560 --> 01:51:29.560]   next month.
+[01:51:29.560 --> 01:51:35.640]   All right, next item, we'll request for reports to the board.
+[01:51:35.640 --> 01:51:41.360]   Now, request, moving on to the consent agenda, all those in favor?
+[01:51:41.360 --> 01:51:47.680]   I'd like to pull items I and J please.
+[01:51:47.680 --> 01:51:54.000]   Okay, all those in favor of the consent agenda except for items I and J, show of hands.
+[01:51:54.000 --> 01:52:17.080]   First message 7-0, all right, Dr. Snoutz, item I, so yeah.
+[01:52:17.080 --> 01:52:29.240]   Yes, item I, in accordance with the FBLocal, we are recommending the purchase of library
+[01:52:29.240 --> 01:52:31.120]   books across the district.
+[01:52:31.120 --> 01:52:33.960]   The recommendation is for the board to approve the list of books to be purchased for
+[01:52:33.960 --> 01:52:36.320]   GCSD Libraries as presented.
+[01:52:36.320 --> 01:52:39.320]   I have a recommendation, I have a motion.
+[01:52:39.320 --> 01:52:45.200]   Okay, can we have just a second my computer has lost internet, again.
+[01:52:45.200 --> 01:52:47.520]   Sure, do we have a motion now?
+[01:52:47.520 --> 01:52:48.520]   Coolie.
+[01:52:48.520 --> 01:52:56.000]   I make a motion to approve item J. I see me item I, item I, item I, item I, yeah, we're on item,
+[01:52:56.000 --> 01:53:00.800]   Dr. Snoutz, tell me seconds.
+[01:53:00.800 --> 01:53:03.840]   So I have a couple of questions.
+[01:53:03.840 --> 01:53:27.840]   Okay, first of all, I was pleased to see a diverse, a group of authors on this list.
+[01:53:27.840 --> 01:53:40.200]   I can say that I have some concerns about, this is 18 pages of books and so Dr. Snoutz,
+[01:53:40.200 --> 01:53:48.840]   how were we able to procure all the copies, this is like about what 700 books, how were
+[01:53:48.840 --> 01:53:52.880]   we able to procure copies of the books so that they were read?
+[01:53:52.880 --> 01:53:58.560]   Yeah, so I'd like to ask Dr. Ray, Dr. Leslie to come up who are instrumental in that and
+[01:53:58.560 --> 01:54:05.120]   I do want to, I want to give kudos to their leadership, but also to our librarians who were
+[01:54:05.120 --> 01:54:09.600]   an integral part of this so Dr. Ray.
+[01:54:09.600 --> 01:54:14.560]   So do you mind repeating the question just so that I am clear on what you're asking.
+[01:54:14.560 --> 01:54:21.640]   So what I wanted to know, so every, every book was read by a librarian, but we can't
+[01:54:21.640 --> 01:54:24.800]   buy a copy for librarians to read.
+[01:54:24.800 --> 01:54:30.720]   So how, where did we get copies of the books for librarians to read?
+[01:54:30.720 --> 01:54:37.680]   So some of the books were currently in our, in our collection at other schools and as a result
+[01:54:37.680 --> 01:54:43.880]   of that, they were able to, the librarians formed what I would consider a cohort and therefore
+[01:54:43.880 --> 01:54:48.320]   they would, they would, they would say this is in my collection, I've read it and so
+[01:54:48.320 --> 01:54:52.520]   they were able to work that, that way if another school wanted to reorder it or it was
+[01:54:52.520 --> 01:54:55.440]   a new acquisition for that school.
+[01:54:55.440 --> 01:55:01.280]   In addition, they, they went to the public library and they looked for books there and
+[01:55:01.280 --> 01:55:04.400]   checked out books, they also listened to audio books.
+[01:55:04.400 --> 01:55:09.720]   So they worked together as a cohort to complete the reading of these books without purchasing
+[01:55:09.720 --> 01:55:10.720]   any books.
+[01:55:10.720 --> 01:55:17.560]   Okay, and so when you say that sometimes they had read books, is there like a time frame
+[01:55:17.560 --> 01:55:23.920]   that we set on how long ago, because like I've read some of these books to my kids 20 years
+[01:55:23.920 --> 01:55:32.400]   ago, you know, Captain Underpants, Junie B. Jones, and so what, what was the criteria
+[01:55:32.400 --> 01:55:38.440]   established for, you know, the time frame on reading the books?
+[01:55:38.440 --> 01:55:42.360]   Well, we really didn't, in terms of the time frame of reading the books, meaning like
+[01:55:42.360 --> 01:55:48.240]   how long ago was it that they might have read the book, my, my understanding is that
+[01:55:48.240 --> 01:55:54.880]   everyone revisited the books and reread them to ensure that they complied with the selection
+[01:55:54.880 --> 01:55:55.880]   process.
+[01:55:55.880 --> 01:56:04.720]   Okay, so, so we had, we had librarians reading close to 700 books, I don't know exactly
+[01:56:04.720 --> 01:56:08.240]   how many are on here, because some of the, the lines, but roughly when we were looking
+[01:56:08.240 --> 01:56:14.960]   at 18 pages and about 38 books per page, and I mean, some of these are pretty simple,
+[01:56:14.960 --> 01:56:15.960]   right?
+[01:56:15.960 --> 01:56:22.320]   Like Eric Carle's, pullover, pullover, what do you hear, if you're not just reading it
+[01:56:22.320 --> 01:56:26.640]   to a kid, you can breeze through that pretty quickly, but even figuring, you know, 10 minutes
+[01:56:26.640 --> 01:56:33.520]   per book, and that's probably on the low side for some of the nonfiction and the middle
+[01:56:33.520 --> 01:56:45.080]   school books, I mean, we're talking probably easily pushing 200 hours of reading to go
+[01:56:45.080 --> 01:56:54.400]   through just this, this one list of books, so, or, or listening, so I just, in the interest
+[01:56:54.400 --> 01:57:01.880]   of, you know, wasting time and transparency, I just want us to be real cognizant of the
+[01:57:01.880 --> 01:57:09.480]   hundreds of hours that went into reading A to Z mysteries in order to, to be able to be,
+[01:57:09.480 --> 01:57:15.160]   to check that box on, on the policy there that a librarian read all of these books, so
+[01:57:15.160 --> 01:57:20.160]   you brought up a good question, some of our libraries already have these books, so if
+[01:57:20.160 --> 01:57:26.360]   some of our libraries already had these books, why do they have to be approved by us to
+[01:57:26.360 --> 01:57:32.840]   buy again, because the board policy states that any reorder or new acquisition has to
+[01:57:32.840 --> 01:57:39.720]   go through the process and have board approval, okay, so, okay, so even though we already
+[01:57:39.720 --> 01:57:44.480]   have the book and then we have to read the book in order to buy another copy of the
+[01:57:44.480 --> 01:57:52.080]   book, okay, so I looked at some of these orders like, some of the Captain Underpants books,
+[01:57:52.080 --> 01:57:58.400]   we were ordering, number one, and we were ordering number three, I can tell you that my
+[01:57:58.400 --> 01:58:05.080]   kid would then want to know where Captain Underpants number two is, and so, is this
+[01:58:05.080 --> 01:58:10.720]   now, are we ordering, so like we've got 11 elementary campuses, right, so were we ordering
+[01:58:10.720 --> 01:58:18.080]   11 copies of Captain Underpants number one, or, I mean how many, how many copies of these
+[01:58:18.080 --> 01:58:23.800]   books are we ordering, I can get back to you with that particular information, but I can
+[01:58:23.800 --> 01:58:29.640]   tell you that because that is a series that oftentimes the first book is the one that goes
+[01:58:29.640 --> 01:58:35.240]   missing in a series, because a child likes it so much that they don't return it, and
+[01:58:35.240 --> 01:58:41.160]   so oftentimes they, so some of this is just putting this, having a lost book and then
+[01:58:41.160 --> 01:58:49.400]   replacing that to complete the series, okay, so every time a kid loses a book, especially
+[01:58:49.400 --> 01:58:55.360]   in a series like I'm reading the A to Z mysteries and I lose L, we're going to have to
+[01:58:55.360 --> 01:59:01.120]   bring that back to the board in order to approve to purchase another copy of the books
+[01:59:01.120 --> 01:59:07.160]   so kids can read the whole series, that is my understanding, yes, okay, so because it
+[01:59:07.160 --> 01:59:16.000]   would be a reorder, okay, since we're ordering these books but we don't know how many
+[01:59:16.000 --> 01:59:20.160]   were ordering per campus, does this mean that the library is then again, I'm looking
+[01:59:20.160 --> 01:59:25.800]   at this from the elementary perspective, so does this mean that all of the libraries
+[01:59:25.800 --> 01:59:31.240]   are now, they now have a standardized collection, so if I'm at, great my elementary, it
+[01:59:31.240 --> 01:59:38.520]   has the exact same set of books as pre-gallon entry, no, they do not have a standardized
+[01:59:38.520 --> 01:59:42.120]   collection where you're going to find the same book at, you know, one elementary school
+[01:59:42.120 --> 01:59:46.880]   to another elementary school because they try to curate books based on their student needs
+[01:59:46.880 --> 01:59:52.360]   and interest, okay, so let's say I'm reading Captain Underpants and I've read Captain Underpants
+[01:59:52.360 --> 01:59:58.520]   number one, and my campus lost Captain Underpants number two, and we don't have a board
+[01:59:58.520 --> 02:00:05.520]   meeting, and the campus across the freeway has a copy of Captain Underpants number two,
+[02:00:05.520 --> 02:00:14.840]   can I request a copy of Captain Underpants number two to come to my campus, okay, so
+[02:00:14.840 --> 02:00:19.960]   I guess then to my next question is I believe I'd asked for a report to the board a couple
+[02:00:19.960 --> 02:00:24.400]   of months ago and when the last time was that the high schools had purchased any books
+[02:00:24.400 --> 02:00:32.080]   and I believe great-bound high school hadn't purchased a new book since 2021 and in fact
+[02:00:32.080 --> 02:00:36.920]   I know a student who was looking for a copy of the diary of Van Frank and apparently there's
+[02:00:36.920 --> 02:00:43.520]   not a copy of the diary of Van Frank and great-bound high school, so I would hope that we
+[02:00:43.520 --> 02:00:50.400]   would see that sometimes soon for the board to approve that as well, so these books only
+[02:00:50.400 --> 02:01:00.860]   covered, you know, A to Z mysteries, dog man, you know, a few nonfiction, a few graphic
+[02:01:00.860 --> 02:01:05.760]   novels, but they stopped at the middle school, went up a realm dream and chapter books,
+[02:01:05.760 --> 02:01:11.040]   so when will we be getting the list of the high school books, especially so that they
+[02:01:11.040 --> 02:01:16.560]   can purchase books that have gone lost or missing, and when are the teachers reading those?
+[02:01:16.560 --> 02:01:20.680]   I'm sorry, not the teachers, when do the librarians reading those books for the high school
+[02:01:20.680 --> 02:01:21.680]   level?
+[02:01:21.680 --> 02:01:29.440]   So there are books that are being submitted on a list for the high school, you're exactly
+[02:01:29.440 --> 02:01:34.480]   right, it is a book of many times those books are longer and so it does take more time,
+[02:01:34.480 --> 02:01:41.880]   but they are, those books are on a list ready to be submitted to the board for review,
+[02:01:41.880 --> 02:01:45.480]   and when are they reading the books, they are reading the books whenever they have the
+[02:01:45.480 --> 02:01:58.760]   opportunity to do so, okay, thank you, I have a question or comment for both, so I was
+[02:01:58.760 --> 02:02:04.240]   part of the policy committee and I would just like to make it known that the questions
+[02:02:04.240 --> 02:02:12.480]   that are coming from Trustee St. John are policies that were recommended from the TEA,
+[02:02:12.480 --> 02:02:18.880]   so these are the guidelines that the TEA set, and it sounds to me like our policies
+[02:02:18.880 --> 02:02:27.720]   are working, I would like to thank the librarians and Holly and Julie and you know getting
+[02:02:27.720 --> 02:02:34.080]   the books, this is great because we're excited about reading our kids, getting to have
+[02:02:34.080 --> 02:02:38.080]   books in their hands and that's awesome, so thank you so much for all of that work, thank
+[02:02:38.080 --> 02:02:45.560]   you for all of the countless hours that are going into this process to make sure that
+[02:02:45.560 --> 02:02:51.040]   the hearts and minds of our kids are safe and that we're providing educational opportunities.
+[02:02:51.040 --> 02:03:00.520]   Alright, a couple of questions, do we know how many hours were spent reading these books?
+[02:03:00.520 --> 02:03:05.320]   I personally have not asked the librarians, we have not asked librarians to keep track
+[02:03:05.320 --> 02:03:08.760]   of those hours, so I would not want to make a conjecture on that.
+[02:03:08.760 --> 02:03:17.160]   Okay, my second question is if I need to order a book from this list like another school
+[02:03:17.160 --> 02:03:24.040]   in three months because somebody picked up and did a return captain on their parents and
+[02:03:24.040 --> 02:03:30.560]   that was pretty impressive by Becky saying captain on their parents so many times.
+[02:03:30.560 --> 02:03:35.720]   So if let's say a school not listed here wants to buy one of those books because somebody
+[02:03:35.720 --> 02:03:43.520]   didn't return it, they don't need to, somebody doesn't need to read it again, right,
+[02:03:43.520 --> 02:03:46.160]   or do they have to read it again to buy it.
+[02:03:46.160 --> 02:03:49.680]   In three months or four months, a different school that is not listed here.
+[02:03:49.680 --> 02:03:56.200]   Absolutely, so we are keeping track of the list of the books that have been read so that
+[02:03:56.200 --> 02:04:00.320]   when we do look and we do need to make a reorder, we will know that one of the librarians
+[02:04:00.320 --> 02:04:04.200]   within that the cohort that has been created has read that book.
+[02:04:04.200 --> 02:04:10.800]   And it doesn't matter how long ago it was read, okay, thank you.
+[02:04:10.800 --> 02:04:12.840]   Do I have any?
+[02:04:12.840 --> 02:04:18.000]   I want to recognize our librarians, just one more time, they are doing a mountain of work,
+[02:04:18.000 --> 02:04:23.040]   they are also, we have rolled out book fairs again, so those are happening, so that's
+[02:04:23.040 --> 02:04:28.960]   in addition to reading all the books, they're also facilitating book fairs for our kids.
+[02:04:28.960 --> 02:04:33.800]   I do want to recognize that this policy is the only policy on the TEA website, like it's
+[02:04:33.800 --> 02:04:38.120]   shocking that the only policy that TEA has come out with is just this one when you go to
+[02:04:38.120 --> 02:04:45.840]   Google it, so it's not just a TASB facilitated policy, it is a recommendation that came
+[02:04:45.840 --> 02:04:48.120]   through the TEA as well.
+[02:04:48.120 --> 02:04:52.400]   Yeah, I just want to say thank you very much for the hard work you're doing.
+[02:04:52.400 --> 02:04:56.840]   I think it's great that we know what our children are reading, so I just want to again
+[02:04:56.840 --> 02:05:00.800]   chat out to all the librarians and others who are helping you guys, since there's no
+[02:05:00.800 --> 02:05:12.800]   further comments, all those in favor showings, we should pass this 7-0, next item on the
+[02:05:12.800 --> 02:05:20.200]   agenda, approve legal vendor, Dr. Schulz, yes, this item is to approve the vendor, Jackson
+[02:05:20.200 --> 02:05:26.800]   Walker, LOP, given that the board's attorney has switched this firm, so the recommendation
+[02:05:26.800 --> 02:05:31.080]   is for the board of trustees to approve legal vendor, Jackson Walker, LOP.
+[02:05:31.080 --> 02:05:40.080]   I have a recommendation, I have a motion, Amy, Dr. Schulz's recommendation, I have a second,
+[02:05:40.080 --> 02:05:41.080]   Scottie.
+[02:05:41.080 --> 02:05:43.440]   Any comments, Becky?
+[02:05:43.440 --> 02:05:52.560]   Yeah, so we don't have a copy of the agreement, so I have some strong concerns, well, there's
+[02:05:52.560 --> 02:05:56.000]   just no way I can vote for a vendor agreement that we don't know what it is.
+[02:05:56.000 --> 02:06:01.040]   The last time we voted for that, we had a vendor agreement, we were actually paying more
+[02:06:01.040 --> 02:06:09.280]   than other school districts and an exorbitant rate, so in the interest of transparency and
+[02:06:09.280 --> 02:06:16.440]   avoiding wasteful spending, I cannot in any good conscious vote for a vendor contract that
+[02:06:16.440 --> 02:06:18.640]   we don't even have before us.
+[02:06:18.640 --> 02:06:19.640]   Thank you.
+[02:06:19.640 --> 02:06:20.640]   Any other comments?
+[02:06:20.640 --> 02:06:26.480]   Yeah, the other thing I wanted to say is I looked up-- Point of order, I was recognizing
+[02:06:26.480 --> 02:06:27.480]   more, eh?
+[02:06:27.480 --> 02:06:31.680]   No, just kind of the same thing, like I'm reading this, and there's no terms for me to
+[02:06:31.680 --> 02:06:36.480]   approve, so it's like what are we approving, so and also, you know, this is for the community
+[02:06:36.480 --> 02:06:42.640]   also to see, you know, we have a, we have a consent agenda item, we know information for
+[02:06:42.640 --> 02:06:48.000]   anybody to read, so that's kind of not the way that we usually do things in this district,
+[02:06:48.000 --> 02:06:49.000]   so.
+[02:06:49.000 --> 02:07:00.640]   Yeah, so I looked up the vendor and they don't actually even list any experience in education
+[02:07:00.640 --> 02:07:07.520]   at all, anywhere, on their website, so just noting that, right off the bat.
+[02:07:07.520 --> 02:07:08.520]   Yeah, okay.
+[02:07:08.520 --> 02:07:09.960]   Yeah, I want to make a comment.
+[02:07:09.960 --> 02:07:15.520]   This is pretty much like your position, and I'm married to one of those, he's at this
+[02:07:15.520 --> 02:07:18.320]   hospital and he decides to move over to this hospital.
+[02:07:18.320 --> 02:07:21.360]   He charges the same rates when he goes over to this hospital, it's kind of like your
+[02:07:21.360 --> 02:07:22.360]   hairdresser.
+[02:07:22.360 --> 02:07:27.320]   You go to a hairdresser, she might move where she is, over to another place, so I'm pretty
+[02:07:27.320 --> 02:07:33.920]   sure it's going to be the same charges that we were paying as before, so it's just
+[02:07:33.920 --> 02:07:39.880]   he's moving from here over to there, so that's kind of what, what's happening here.
+[02:07:39.880 --> 02:07:45.320]   I'd like to also point out that we recently just all seven of us voted to negotiate
+[02:07:45.320 --> 02:07:50.560]   Dr. Shout's contract and this attorney will be the one facilitating that, so just getting
+[02:07:50.560 --> 02:07:52.560]   that out there.
+[02:07:52.560 --> 02:07:53.560]   Going.
+[02:07:53.560 --> 02:07:55.600]   My comment would be at what rate?
+[02:07:55.600 --> 02:07:59.880]   So the rate is not going to be higher than what we're paying now, so we're just shifting
+[02:07:59.880 --> 02:08:00.880]   over.
+[02:08:00.880 --> 02:08:04.960]   It's a simple changing of what $10.99 is going to be issued, instead of being issued
+[02:08:04.960 --> 02:08:09.320]   to one firm, it's going to be issued to another firm, and we'll get you that agreement
+[02:08:09.320 --> 02:08:10.320]   whenever we're done.
+[02:08:10.320 --> 02:08:15.760]   Let's note in further comments, all those in favor show hands, four, all those opposed,
+[02:08:15.760 --> 02:08:24.920]   three, motion passes, four, three.
+[02:08:24.920 --> 02:08:26.640]   Any announcements?
+[02:08:26.640 --> 02:08:27.640]   Coli.
+[02:08:27.640 --> 02:08:32.400]   I know you should be surprised that I have comments.
+[02:08:32.400 --> 02:08:35.760]   I was saving you for the best for last, because I knew you were going to have some.
+[02:08:35.760 --> 02:08:39.080]   But just wait, we're going to adjourn, and just a minute it's going to get real good.
+[02:08:39.080 --> 02:08:40.920]   So a couple things.
+[02:08:40.920 --> 02:08:46.240]   The special Olympics relays are next Wednesday at Mastering Panther Stadium from nine to two.
+[02:08:46.240 --> 02:08:50.000]   If anybody hasn't witnessed those, they are worth seeing.
+[02:08:50.000 --> 02:08:51.800]   It is absolutely fabulous.
+[02:08:51.800 --> 02:08:54.800]   Honestly, Wednesday, March, it's 10.
+[02:08:54.800 --> 02:08:55.800]   10.
+[02:08:55.800 --> 02:08:56.800]   Okay, sorry.
+[02:08:56.800 --> 02:08:59.040]   My shift starts in nine.
+[02:08:59.040 --> 02:09:08.040]   So opening ceremonies is March 8th, March 8th, special Olympics, the special Olympics relays
+[02:09:08.040 --> 02:09:11.880]   over here at the Mount St. Panther Stadium.
+[02:09:11.880 --> 02:09:14.880]   Our kids do an amazing job.
+[02:09:14.880 --> 02:09:20.120]   Everybody who participates in that event does an amazing job, and it is a huge thing
+[02:09:20.120 --> 02:09:27.160]   to put together in Angela Curtis over at Angel Curtis over GHS, this is an amazing job,
+[02:09:27.160 --> 02:09:29.360]   pulling that all together.
+[02:09:29.360 --> 02:09:33.440]   I want to recognize an amazing Founders Day lunch, I don't know who all was there,
+[02:09:33.440 --> 02:09:41.360]   but the Council of PTAs did an amazing job honoring our local campus PTAs and all the things
+[02:09:41.360 --> 02:09:44.800]   that they do to support our district.
+[02:09:44.800 --> 02:09:50.160]   And lastly, I do want to recognize the parents and students who are down in Austin today fighting
+[02:09:50.160 --> 02:09:56.680]   for their teachers, fighting for funding, to see what they can do about accountability
+[02:09:56.680 --> 02:09:59.640]   and making sure that we are measuring what matters.
+[02:09:59.640 --> 02:10:05.240]   So I want to recognize those kids, I've taken my kids twice, and they're very brave
+[02:10:05.240 --> 02:10:06.240]   now.
+[02:10:06.240 --> 02:10:10.280]   I shouldn't have empowered them so much, but that's a good thing that is happening down
+[02:10:10.280 --> 02:10:11.280]   there.
+[02:10:11.280 --> 02:10:18.400]   So yes, so it's worth repeating, but the special Olympics track meet is on Wednesday, March
+[02:10:18.400 --> 02:10:23.920]   8th at 10 a.m. at Mustang Panther, so please put it on your calendar, come out.
+[02:10:23.920 --> 02:10:30.240]   Those amazing athletes deserve us to be cheered on, and it'll be an awesome, awesome time
+[02:10:30.240 --> 02:10:31.240]   for all of us.
+[02:10:31.240 --> 02:10:38.440]   So again, special Olympics track meet, Wednesday, March 8th, 10 a.m. Mustang Panther Stadium.
+[02:10:38.440 --> 02:10:43.320]   Also I mentioned earlier just about our people, and I want to take a moment to just celebrate
+[02:10:43.320 --> 02:10:44.320]   some groups.
+[02:10:44.320 --> 02:10:48.160]   A few weeks ago, we highlighted our counselors during school counseling week.
+[02:10:48.160 --> 02:10:52.760]   They do so much amazing work with the academic support, post-secondary planning, emotional
+[02:10:52.760 --> 02:10:54.560]   encouragement they provide.
+[02:10:54.560 --> 02:10:58.760]   Also we had our national school resource officer appreciation day, was two weeks back, and
+[02:10:58.760 --> 02:11:03.680]   we appreciate our individuals, those first responders who take care of us, keep us safe,
+[02:11:03.680 --> 02:11:07.480]   keep our kids safe, and our staff safe each and every day.
+[02:11:07.480 --> 02:11:11.240]   And then last week it was school bus driver appreciation day.
+[02:11:11.240 --> 02:11:16.640]   So those men and women do an amazing job in just setting the positive tone for our students
+[02:11:16.640 --> 02:11:21.280]   that just kick it off and allows to have a successful day every day.
+[02:11:21.280 --> 02:11:24.480]   We proud of our basketball teams, couple of heritage girls.
+[02:11:24.480 --> 02:11:31.400]   They competed in the regional tournament this past weekend, and it was quite an accomplishment
+[02:11:31.400 --> 02:11:35.880]   with our first year coach Courtney Lee over there, she did an amazing job in her first year
+[02:11:35.880 --> 02:11:40.040]   leading the couple of heritage lady Panthers.
+[02:11:40.040 --> 02:11:44.280]   They got beat by the Lubbock Cooper team, that eventually won the region is going to the
+[02:11:44.280 --> 02:11:46.400]   final for the state next week.
+[02:11:46.400 --> 02:11:51.160]   So also the Great Mount High School boys made it to the second round of the playoffs.
+[02:11:51.160 --> 02:11:55.060]   They had a valiant effort, but bowed out of the playoffs last week as well.
+[02:11:55.060 --> 02:12:00.080]   So Red Real softball, Tuesday, March 7th at Calva Heritage High School, we have two really
+[02:12:00.080 --> 02:12:04.840]   good softball teams this year, and that first round, it's actually kicking off district
+[02:12:04.840 --> 02:12:05.840]   for them.
+[02:12:05.840 --> 02:12:09.440]   I don't like that, but that's just the way they scheduled it, but Red Real softball.
+[02:12:09.440 --> 02:12:14.400]   So you want to go see again, top performers in action, March 7th, Calva Heritage High
+[02:12:14.400 --> 02:12:19.280]   School, the first round of Red Real softball, so go watch our kids, they'll appreciate it.
+[02:12:19.280 --> 02:12:21.240]   I believe I have a motion to adjourn.
+[02:12:21.240 --> 02:12:22.240]   Make a motion to adjourn.
+[02:12:22.240 --> 02:12:23.240]   That's the second.
+[02:12:23.240 --> 02:12:29.100]   Okay, the second's all those in favor to adjourn, show hands, motion passes 7-0, meetings
+[02:12:29.100 --> 02:12:30.080]   adjourn at 707.

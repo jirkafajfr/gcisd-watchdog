@@ -1,0 +1,1312 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:24.000]   [BLANK_AUDIO]
+[00:08:24.000 --> 00:08:34.000]   [BLANK_AUDIO]
+[00:08:34.000 --> 00:08:44.000]   [BLANK_AUDIO]
+[00:08:44.000 --> 00:08:48.000]   [BLANK_AUDIO]
+[00:08:48.000 --> 00:08:58.000]   [BLANK_AUDIO]
+[00:08:58.000 --> 00:09:08.000]   [BLANK_AUDIO]
+[00:09:08.000 --> 00:09:18.000]   [BLANK_AUDIO]
+[00:09:18.000 --> 00:09:46.000]   [BLANK_AUDIO]
+[00:09:48.000 --> 00:09:58.000]   [BLANK_AUDIO]
+[00:09:58.000 --> 00:10:26.000]   [BLANK_AUDIO]
+[00:10:26.000 --> 00:10:36.000]   [BLANK_AUDIO]
+[00:10:36.000 --> 00:11:04.000]   [BLANK_AUDIO]
+[00:11:04.000 --> 00:11:14.000]   [BLANK_AUDIO]
+[00:11:14.000 --> 00:11:24.000]   [BLANK_AUDIO]
+[00:11:24.000 --> 00:11:34.000]   [BLANK_AUDIO]
+[00:11:34.000 --> 00:12:02.000]   [BLANK_AUDIO]
+[00:12:02.000 --> 00:12:12.000]   [BLANK_AUDIO]
+[00:12:12.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:18.000]   [BLANK_AUDIO]
+[00:13:18.000 --> 00:13:28.000]   [BLANK_AUDIO]
+[00:13:28.000 --> 00:13:56.000]   [BLANK_AUDIO]
+[00:13:56.000 --> 00:14:06.000]   [BLANK_AUDIO]
+[00:14:06.000 --> 00:14:34.000]   [BLANK_AUDIO]
+[00:14:34.000 --> 00:14:44.000]   [BLANK_AUDIO]
+[00:14:44.000 --> 00:15:12.000]   [BLANK_AUDIO]
+[00:15:12.000 --> 00:15:22.000]   [BLANK_AUDIO]
+[00:15:22.000 --> 00:15:32.000]   [BLANK_AUDIO]
+[00:15:32.000 --> 00:15:42.000]   [BLANK_AUDIO]
+[00:15:42.000 --> 00:16:10.000]   [BLANK_AUDIO]
+[00:16:10.000 --> 00:16:20.000]   [BLANK_AUDIO]
+[00:16:20.000 --> 00:16:30.000]   [BLANK_AUDIO]
+[00:16:30.000 --> 00:16:40.000]   [BLANK_AUDIO]
+[00:16:40.000 --> 00:17:08.000]   [BLANK_AUDIO]
+[00:17:08.000 --> 00:17:18.000]   [BLANK_AUDIO]
+[00:17:18.000 --> 00:17:46.000]   [BLANK_AUDIO]
+[00:17:46.000 --> 00:17:56.000]   [BLANK_AUDIO]
+[00:17:56.000 --> 00:18:24.000]   [BLANK_AUDIO]
+[00:18:24.000 --> 00:18:34.000]   [BLANK_AUDIO]
+[00:18:34.000 --> 00:19:02.000]   [BLANK_AUDIO]
+[00:19:02.000 --> 00:19:12.000]   [BLANK_AUDIO]
+[00:19:12.000 --> 00:19:40.000]   [BLANK_AUDIO]
+[00:19:40.000 --> 00:19:50.000]   [BLANK_AUDIO]
+[00:19:50.000 --> 00:20:18.000]   [BLANK_AUDIO]
+[00:20:18.000 --> 00:20:28.000]   [BLANK_AUDIO]
+[00:20:28.000 --> 00:20:56.000]   [BLANK_AUDIO]
+[00:20:56.000 --> 00:21:06.000]   [BLANK_AUDIO]
+[00:21:06.000 --> 00:21:32.000]   [BLANK_AUDIO]
+[00:21:32.000 --> 00:21:42.000]   [BLANK_AUDIO]
+[00:21:42.000 --> 00:22:10.000]   [BLANK_AUDIO]
+[00:22:10.000 --> 00:22:20.000]   [BLANK_AUDIO]
+[00:22:20.000 --> 00:22:48.000]   [BLANK_AUDIO]
+[00:22:48.000 --> 00:22:58.000]   [BLANK_AUDIO]
+[00:22:58.000 --> 00:23:26.000]   [BLANK_AUDIO]
+[00:23:26.000 --> 00:23:36.000]   [BLANK_AUDIO]
+[00:23:36.000 --> 00:24:04.000]   [BLANK_AUDIO]
+[00:24:04.000 --> 00:24:14.000]   [BLANK_AUDIO]
+[00:24:14.000 --> 00:24:42.000]   [BLANK_AUDIO]
+[00:24:42.000 --> 00:24:50.000]   Now we have talked to many districts and I think about the chart I just are the map that I just
+[00:24:50.000 --> 00:24:57.440]   showed you with the enrollment, many of the districts either down or up only a few percentage
+[00:24:57.440 --> 00:24:58.640]   points.
+[00:24:58.640 --> 00:25:05.320]   Many districts have reported that they had a significant bump in enrollment between December
+[00:25:05.320 --> 00:25:11.920]   and February, a lot of winter growth, a lot of those kids that have come back from COVID.
+[00:25:11.920 --> 00:25:17.600]   Now it's my understanding that you all did not experience that, but just so you know when you're
+[00:25:17.600 --> 00:25:24.240]   going to see some of the numbers next year for neighbors, they're going to jump 300 and
+[00:25:24.240 --> 00:25:27.240]   grow that they got back over the winter.
+[00:25:27.240 --> 00:25:34.920]   Now hopefully that will potentially occur here, maybe not to those numbers, but to fortunately
+[00:25:34.920 --> 00:25:42.800]   get a bump back. So one of the things that we continue to have monitor with the larger or
+[00:25:42.800 --> 00:25:49.160]   with the districts having the proportionally majority of its students in the secondary grades,
+[00:25:49.160 --> 00:25:54.040]   we have to monitor that larger class leaving versus what's coming in.
+[00:25:54.040 --> 00:25:58.360]   You've seen the numbers there on the right-hand side of the chart in orange and blue for
+[00:25:58.360 --> 00:26:06.360]   kindergarten first grade, that gap between the average grade in high school, between what's
+[00:26:06.360 --> 00:26:10.320]   coming in and kindergarten through third grade, we've seen that get a little bit larger these
+[00:26:10.320 --> 00:26:16.800]   last few years today, it's about 189 and that student's going forward.
+[00:26:16.800 --> 00:26:24.640]   So that's something that we take into account when we're looking at future growth.
+[00:26:24.640 --> 00:26:28.900]   The code survival rates are in the report, they're in there for your reference, I'm going
+[00:26:28.900 --> 00:26:36.240]   to move ahead and we can come back to that if anybody has any question about those numbers.
+[00:26:36.240 --> 00:26:41.760]   A couple of years ago, I think Mr. Robert gives us started with your request back in 2015,
+[00:26:41.760 --> 00:26:46.760]   2016 to start looking at the levers and newcomer data, and so this is a continuation of
+[00:26:46.760 --> 00:26:50.640]   that work that we have done in the last five years.
+[00:26:50.640 --> 00:26:56.820]   This year we did see the number of kindergartners through 11th graders that were enrolled
+[00:26:56.820 --> 00:27:04.760]   last year, it was the smallest percentage that moved up to the first grade through 12th grade
+[00:27:04.760 --> 00:27:10.160]   this year that we've seen during the last five year period, but generally we see about
+[00:27:10.160 --> 00:27:17.880]   83% of the students that are enrolled continue on to the following year.
+[00:27:17.880 --> 00:27:25.320]   So with that number, you expect that number of leaders to climb with seeing fewer move
+[00:27:25.320 --> 00:27:32.320]   up and we did see that, so what you see represented by the blue bars on the chart are the total
+[00:27:32.320 --> 00:27:40.780]   number of student IDs no longer present in the 2021-22 school year that did climb to
+[00:27:40.780 --> 00:27:51.600]   1234, but note that not only did you see the highest number of levers, you saw the most
+[00:27:51.600 --> 00:27:57.920]   newcomers, so a lot of the COVID could be explained, some of these numbers of students
+[00:27:57.920 --> 00:28:06.480]   have withdrawn and come back, so there's definitely that that could play into these numbers,
+[00:28:06.480 --> 00:28:12.620]   but it does show you that you did have a pretty good bump of newcomers come in this year,
+[00:28:12.620 --> 00:28:21.000]   it just was moderated by a number of levers that a higher number than usual.
+[00:28:21.000 --> 00:28:25.680]   So overall the net was a plus 32 for the district.
+[00:28:25.680 --> 00:28:31.140]   Now geographically, you know, if you all want to see any more detail on this, we can
+[00:28:31.140 --> 00:28:37.340]   provide it but geographically it's kind of all over the place with different areas that
+[00:28:37.340 --> 00:28:44.340]   were up while others were down, so it wasn't just one particular area of the district
+[00:28:44.340 --> 00:28:47.460]   that experienced one way or the other.
+[00:28:47.460 --> 00:28:52.860]   Now other metrics that we continue to monitor include the birth rate data, it's encouraging
+[00:28:52.860 --> 00:28:59.300]   to see the birth rate numbers that are represented by the blue line, they have fluctuated
+[00:28:59.300 --> 00:29:07.420]   these last five year period, which is 2014 to 2019, but overall they've been flat,
+[00:29:07.420 --> 00:29:15.820]   they're not on a declining pattern, so seeing those lower numbers for elementary isn't
+[00:29:15.820 --> 00:29:21.220]   necessarily due to the fact that there are fewer children being born in the area.
+[00:29:21.220 --> 00:29:28.660]   So as this highlights, in fact, most of the, there's a large portion of the students
+[00:29:28.660 --> 00:29:34.700]   that have enrolled in kindergarten that didn't, that weren't born here, so that trend
+[00:29:34.700 --> 00:29:35.700]   does continue.
+[00:29:35.700 --> 00:29:42.020]   But it does show an encouraging pattern for the next three years, again looking at kindergarten
+[00:29:42.020 --> 00:29:48.500]   being around 800, if not a little bit about that, over the next couple of years.
+[00:29:48.500 --> 00:29:56.740]   Now another topic that we continue to monitor, that impacts the district is the number
+[00:29:56.740 --> 00:30:02.420]   of students living in the district, but transferring out to other school district and
+[00:30:02.420 --> 00:30:07.820]   public charter schools, what you see, the blue line that represents students that are
+[00:30:07.820 --> 00:30:14.060]   transferring in, so the majority of those are your high university prep students, but if
+[00:30:14.060 --> 00:30:18.740]   you look at the orange bars, those are students that live in the district that are attending
+[00:30:18.740 --> 00:30:19.740]   elsewhere.
+[00:30:19.740 --> 00:30:26.420]   So we have seen that number gradually increase over the last few years, this past year
+[00:30:26.420 --> 00:30:34.240]   was up about 22 students, up about 80 students since the big charter school expansion began
+[00:30:34.240 --> 00:30:38.860]   across the state back in 2015-16.
+[00:30:38.860 --> 00:30:45.300]   So that 300 plus or 360 or so, these are where they're going.
+[00:30:45.300 --> 00:30:51.420]   This slide lists the school districts, the other school districts that they're going to,
+[00:30:51.420 --> 00:30:59.580]   you can see Bird Bill and Carol in H.E.B. continue to be the largest destination for
+[00:30:59.580 --> 00:31:06.740]   those students, did see a few more this year in Lewisville, I.S.D., but overall that number
+[00:31:06.740 --> 00:31:13.940]   remained just about 200, so, always remember when you look at these numbers that employees
+[00:31:13.940 --> 00:31:22.420]   children are factored in to this, all of those districts, many of those students could
+[00:31:22.420 --> 00:31:29.860]   just be employees, children, or employees of those other districts in their children.
+[00:31:29.860 --> 00:31:34.660]   Now when you look at the charter schools and how they've impacted the district, we continue
+[00:31:34.660 --> 00:31:45.180]   to see the Great Hearts campuses, as well as Harmony and its schools, as well as, when you
+[00:31:45.180 --> 00:32:00.180]   see Texas College Prep, those are primarily the, excuse me, I'm in Westlake Academy, Westlake
+[00:32:00.180 --> 00:32:06.620]   Academy at 33, the, and those numbers have been pretty consistent, these last couple
+[00:32:06.620 --> 00:32:07.620]   years.
+[00:32:07.620 --> 00:32:11.540]   I was just going to tell you the Texas College Prep number name, and it just went right
+[00:32:11.540 --> 00:32:17.380]   outside the top of the head and so, apologize for that, but it's been consistent for the last
+[00:32:17.380 --> 00:32:24.420]   couple years, so you can see that this number has up, is up a little bit, but if you look
+[00:32:24.420 --> 00:32:31.100]   down in the other category, there are about eight more campuses that have four or less
+[00:32:31.100 --> 00:32:38.660]   students that have been added in this year, so just a scattered number, and the Texas
+[00:32:38.660 --> 00:32:45.580]   College Prep is founders classical.
+[00:32:45.580 --> 00:32:52.100]   This is a map that shows you the district boundary, is where the majority of those charter
+[00:32:52.100 --> 00:32:57.340]   schools that are mentioned on that previous slide where they're located, so you can generally
+[00:32:57.340 --> 00:33:01.900]   see how they surround the district.
+[00:33:01.900 --> 00:33:08.060]   This is something that we have watched, you know, grow across, you know, especially in Dallas
+[00:33:08.060 --> 00:33:13.220]   and Tarrant County, you know, really big in San Antonio and other areas of the state,
+[00:33:13.220 --> 00:33:19.180]   but we, you know, often here anecdotally that parents are driving 20, essentially they'll
+[00:33:19.180 --> 00:33:25.500]   drive 20, 30 miles to typically they're driving to work and they're taking their student
+[00:33:25.500 --> 00:33:31.340]   to one of these campuses, so you can generally see that those campuses could potentially
+[00:33:31.340 --> 00:33:40.300]   fall within that type of behavior as well, but again, right now it's not a huge, huge
+[00:33:40.300 --> 00:33:48.460]   number for you all, but it has gradually gotten larger than over time, and these schools
+[00:33:48.460 --> 00:33:55.700]   continue, the number of schools continues to grow.
+[00:33:55.700 --> 00:34:05.500]   The geocoding shown here, we mapped just over 1,800 students this year, you can see generally
+[00:34:05.500 --> 00:34:10.260]   about 95% of the students live within the district boundary, just a little bit
+[00:34:10.260 --> 00:34:15.540]   more, a little bit of a decline inside the boundary and a little bit more outside, but generally
+[00:34:15.540 --> 00:34:20.980]   that 95% range.
+[00:34:20.980 --> 00:34:28.620]   This slide here shows you the total number for K through 12 students using the elementary
+[00:34:28.620 --> 00:34:29.620]   attended zones.
+[00:34:29.620 --> 00:34:37.540]   You can see how dense the bear Creek area as well as the timber line area in the district.
+[00:34:37.540 --> 00:34:44.980]   Now if you want to look at the change in overall over this last year, those detail area
+[00:34:44.980 --> 00:34:51.220]   has continued to see a little bit of growth as well as the canon elementary area, but you
+[00:34:51.220 --> 00:34:57.820]   can see that the grapevine bear Creek as well as one hope in Colleville Elementary areas
+[00:34:57.820 --> 00:35:04.780]   have seen the majority of the declines.
+[00:35:04.780 --> 00:35:10.300]   Now you think back to that chart where the map there shows you all the growth around
+[00:35:10.300 --> 00:35:11.300]   DFW.
+[00:35:11.300 --> 00:35:16.660]   It's just been an unprecedented time for housing demand and growth in DFW these last
+[00:35:16.660 --> 00:35:17.660]   couple of years.
+[00:35:17.660 --> 00:35:20.540]   2021 was a record year.
+[00:35:20.540 --> 00:35:26.340]   These factors combined to produce the wave of growth that has occurred all around the
+[00:35:26.340 --> 00:35:28.460]   grapevine Colleville.
+[00:35:28.460 --> 00:35:33.940]   Now it is an interesting end of the first quarter and heading into the summer is now
+[00:35:33.940 --> 00:35:40.940]   we've that first bullet point there with the interest rate is now sort to a near 6% and
+[00:35:40.940 --> 00:35:47.940]   it couldn't be even higher soon, so we're all watching what that will do to the housing
+[00:35:47.940 --> 00:35:48.940]   market.
+[00:35:48.940 --> 00:35:54.380]   But what we've seen the last year really, the number of homes sold in the district
+[00:35:54.380 --> 00:35:56.380]   has been pretty consistent.
+[00:35:56.380 --> 00:36:03.020]   It was a little higher at 976 during the calendar year, so that's a little bit about
+[00:36:03.020 --> 00:36:08.860]   the average that we've seen, but what we, what we, the key thing here to take away is
+[00:36:08.860 --> 00:36:15.580]   look at the the sole price of the homes, the value of the homes is now a median sole price
+[00:36:15.580 --> 00:36:24.780]   in 2021 of over 500,000, so that just increasingly makes a home in the district less affordable
+[00:36:24.780 --> 00:36:28.300]   to more and more households as it continues to climb.
+[00:36:28.300 --> 00:36:35.820]   You can see DFW's at three, about 363, but here in the district, we've seen that incredible
+[00:36:35.820 --> 00:36:44.300]   increase over the last 10 years of over 111%, so look back there in the 2009 to 2011
+[00:36:44.300 --> 00:36:50.620]   time frame when the median was between 250 and 300 and now, you know, over 500,000.
+[00:36:50.620 --> 00:36:58.260]   So again, another thing that contributes to younger families not being able to afford
+[00:36:58.260 --> 00:37:01.340]   home in the district.
+[00:37:01.340 --> 00:37:06.900]   Now what's taking place on the new home side, you can see that huge wave of lots that
+[00:37:06.900 --> 00:37:12.140]   were delivered back in 2013 to 2015 represented by the green line, the builders have been
+[00:37:12.140 --> 00:37:18.260]   working on those lots for many, many years now, you know, these last couple of years,
+[00:37:18.260 --> 00:37:26.060]   we've seen a few more in-built tracks being added this last year, 46 homes were started
+[00:37:26.060 --> 00:37:31.860]   and 80 were moved into 74 lots of put on the ground.
+[00:37:31.860 --> 00:37:38.620]   Most of that activity is in the city of Colleyville, it's still led by Creeksided Colleyville,
+[00:37:38.620 --> 00:37:45.140]   the subdivision, you know, although it's almost built out, it did have the final six homes
+[00:37:45.140 --> 00:37:52.500]   started and 41 homes moved into, but after that you can see how the markets moved into
+[00:37:52.500 --> 00:37:58.460]   much slower pace per subdivision in the prices are continuing to rise, as I'll show
+[00:37:58.460 --> 00:38:05.380]   you here in a second, but with Creeksided Colleyville being the top producing neighborhood,
+[00:38:05.380 --> 00:38:11.740]   you know, feeding OC Taylor, also feeding into Colleyville Middle School, and then those rolling
+[00:38:11.740 --> 00:38:16.020]   up into Colleyville Heritage.
+[00:38:16.020 --> 00:38:21.780]   So today, most of those homes there at Creeksided Colleyville fall in that 500 to 750
+[00:38:21.780 --> 00:38:22.780]   range.
+[00:38:22.780 --> 00:38:29.180]   You can see the 400 to 500 range, a few of those, but the prices in the district for
+[00:38:29.180 --> 00:38:36.540]   traditional single-family lots are moving well above the 7, 800,000 mark in over a million
+[00:38:36.540 --> 00:38:38.660]   in many of the new neighborhoods.
+[00:38:38.660 --> 00:38:44.900]   So that's not unusual, we're seeing that in a lot of the higher-end markets that used
+[00:38:44.900 --> 00:38:51.580]   to be in the 600 to a million, they're now in the 800 to 1.3 in higher.
+[00:38:51.580 --> 00:39:00.700]   So very, very high demand for those lots, it's driven those prices to above a million dollars
+[00:39:00.700 --> 00:39:04.260]   especially in the Colleyville area.
+[00:39:04.260 --> 00:39:11.340]   So you can see the breakdown of the 74 lots that were delivered at the end of the year,
+[00:39:11.340 --> 00:39:18.220]   another 46 homes were in process, waiting to be finished and then coming behind that
+[00:39:18.220 --> 00:39:25.260]   or actually finished lots with no houses yet, totaled 159, you can see how that compares
+[00:39:25.260 --> 00:39:32.100]   over to when the big group of lots that were put on the ground back in 2014, 2015.
+[00:39:32.100 --> 00:39:38.260]   At the end of the year, there are only 27 lots under development, one in particular,
+[00:39:38.260 --> 00:39:44.560]   Creek Estates, down by Bear Creek Elementary, those are 50 and 60-foot lots, but only 16
+[00:39:44.560 --> 00:39:45.560]   homes.
+[00:39:45.560 --> 00:39:51.700]   So we're down to seeing the market change towards potential for town homes and then these
+[00:39:51.700 --> 00:39:58.380]   infill-type subdivisions that have between, as you see, on the list, there are 6, 10,
+[00:39:58.380 --> 00:40:04.660]   12, basically one street full of custom home lots that will be expensive.
+[00:40:04.660 --> 00:40:09.940]   Whole photographs here from January Oak Alley, this is one of those, you know, well over
+[00:40:09.940 --> 00:40:18.300]   a million dollars in the northwest portion of the district, same thing for Preston Manor,
+[00:40:18.300 --> 00:40:25.340]   but you do have 69 town homes that are coming at Reserve at Bear Creek, off of 360, and
+[00:40:25.340 --> 00:40:32.320]   then here's the Bear Park Estates next to Bear Creek that I was just referring to.
+[00:40:32.320 --> 00:40:38.360]   Now, apartment-wise, as you'll see on the next slide, there's been over 1,800 apartments
+[00:40:38.360 --> 00:40:43.100]   built over these last couple of years, including the preserve.
+[00:40:43.100 --> 00:40:49.540]   There's a second phase, now underway, and it has changed names, is now Marlowe Grapevine,
+[00:40:49.540 --> 00:40:54.180]   so you can see that there on the 360, there in the picture, so that'll add another
+[00:40:54.180 --> 00:41:03.100]   374 units there on the east side of 360, so we're still watching those two, the Carter,
+[00:41:03.100 --> 00:41:08.900]   as well as the Marlowe subdivision, totaling about 600 future apartment units.
+[00:41:08.900 --> 00:41:13.780]   When you put those together with the single family, you know, we're looking at the housing
+[00:41:13.780 --> 00:41:19.540]   market here in the district, basically being out of what we know of today and about five
+[00:41:19.540 --> 00:41:25.860]   to six years. If the housing market slows down due to rising interest rates and these
+[00:41:25.860 --> 00:41:30.320]   higher prices, you know, we could see some of these neighborhoods drag on into that five to
+[00:41:30.320 --> 00:41:36.860]   ten-year period, but right now what we're looking at is the majority of the major subdivisions
+[00:41:36.860 --> 00:41:39.600]   have been built out.
+[00:41:39.600 --> 00:41:45.800]   So what does, what does those mean for the future, for what is left, you can see the
+[00:41:45.800 --> 00:41:52.600]   student yields here, the typical single family home continues to yield 0.46, and that's
+[00:41:52.600 --> 00:41:58.140]   the same as what we saw a year ago, but note that the active subdivisions that I have listed
+[00:41:58.140 --> 00:42:02.520]   there, several of those have a higher yield, including Crick's out of Colleyville, which
+[00:42:02.520 --> 00:42:11.420]   has been about 0.6 yield, which is a very normal yield for that price point.
+[00:42:11.420 --> 00:42:19.380]   The family-wise, we did see the number, the decline a little bit, 0.18 was the yield for
+[00:42:19.380 --> 00:42:25.820]   this school year. I think that reflects many of these new developments that have come online
+[00:42:25.820 --> 00:42:31.700]   these last few years, producing a lower yield than what you see there, or a below average
+[00:42:31.700 --> 00:42:38.020]   yield, let's you just say. And that includes, you know, subdivisions are the developments
+[00:42:38.020 --> 00:42:43.140]   like the preserve and like trinity union and others that have recently been built.
+[00:42:43.140 --> 00:42:52.180]   So going forward with all of the individual patterns by grade, looking at the residential
+[00:42:52.180 --> 00:42:59.140]   projected growth, you can see the low moderate and high growth scenarios here. There is
+[00:42:59.140 --> 00:43:06.900]   enough residential growth to push the district back slightly above, just where they're
+[00:43:06.900 --> 00:43:12.660]   about a half, just under a half percent average growth, but that's only a net of a hundred
+[00:43:12.660 --> 00:43:17.220]   and seventy-nine students over the next five years, potentially a little bit more. Some
+[00:43:17.220 --> 00:43:25.180]   of these areas do fill back in, and some of these apartment developments fill back up over
+[00:43:25.180 --> 00:43:32.020]   these next few years. But if we do continue to see challenges in some areas, the low
+[00:43:32.020 --> 00:43:41.140]   scenario there does show that it's possible for these numbers to stay around 12,200 to
+[00:43:41.140 --> 00:43:48.060]   500 range. So if you add in the I university prep numbers, you're talking about seeing enrollment
+[00:43:48.060 --> 00:43:57.820]   up in the 13, 9 on the low range upwards of 14, 3 to 14, 8 on the moderate and high
+[00:43:57.820 --> 00:44:07.300]   scenarios going forward. So I know that's a lot to cover here, and I'll answer any questions
+[00:44:07.300 --> 00:44:13.420]   that you have at this time. Any questions from the board? Becky.
+[00:44:13.420 --> 00:44:37.200]   Can you go back to the charter slide? So under the other, those are existing. Do you all
+[00:44:37.200 --> 00:44:42.700]   know, or is this something we would need to get from TEA? How many charter operators
+[00:44:42.700 --> 00:44:48.980]   have been approved to operate within GCISD? Because I know, for example, rocket ship
+[00:44:48.980 --> 00:44:55.940]   was approved. I know KIP submitted their application a couple of months ago to actively
+[00:44:55.940 --> 00:45:01.780]   operate within the boundaries of GCISD. And of course, I know having testified before the
+[00:45:01.780 --> 00:45:08.820]   state board on this subject that, you know, a lot of times these guys, their boundaries
+[00:45:08.820 --> 00:45:16.140]   are all of Terre County, even though they were supposed to be set up to serve, you know,
+[00:45:16.140 --> 00:45:26.760]   districts where kids, you know, F.D. districts. I do not have, I'm not privileged to those
+[00:45:26.760 --> 00:45:31.660]   that information. I can see if it comes through the city and if it gets to be talked
+[00:45:31.660 --> 00:45:36.340]   about it, planning and zoning. But y'all don't, y'all don't keep track of the number
+[00:45:36.340 --> 00:45:41.320]   of charter operators. Okay, yeah, we can correct the boundaries for, uh, charge schools
+[00:45:41.320 --> 00:45:49.520]   can be, yeah. Right, yeah, they can be pretty much, yeah, the entire region. Okay, so y'all
+[00:45:49.520 --> 00:45:54.900]   don't know what the boundaries on, on these are then either then. No, that's fine.
+[00:45:54.900 --> 00:46:14.140]   I'm going back to one of your first statements. Why is the day, why is the, um, census data
+[00:46:14.140 --> 00:46:22.060]   so delayed? What's happening? That's making it so delayed? Well, you can, you can Google
+[00:46:22.060 --> 00:46:30.540]   and read comments on why, um, why people feel that it is delayed. They're not, they're not
+[00:46:30.540 --> 00:46:36.260]   sharing, um, what we have, meaning the census bureau is not sharing publicly. What, what
+[00:46:36.260 --> 00:46:41.500]   I have, um, it's my understanding that there's, in some cities, there was record load
+[00:46:41.500 --> 00:46:48.740]   participation. So when they went through their, um, you know, checks, um, look, they were
+[00:46:48.740 --> 00:46:55.740]   below historical norms. So they were below any census that had ever been taken. Um, so
+[00:46:55.740 --> 00:47:04.220]   those are, uh, they have, the census bureau has put out a task force that is to check
+[00:47:04.220 --> 00:47:13.100]   up with those cities and cities have had, um, most of 2021 or most of 2022 to go back
+[00:47:13.100 --> 00:47:21.540]   in, in some bit, uh, numbers. Now, COVID did cause many of the field officers not to go out.
+[00:47:21.540 --> 00:47:26.780]   So that was part of the issue, uh, understand. So I even, uh, knew a couple that had trained
+[00:47:26.780 --> 00:47:33.100]   and we're going to go and then didn't go. So, um, just a lot of sprees like that, but
+[00:47:33.100 --> 00:47:38.940]   I think the, the number one thing is probably record load participation and, and so that
+[00:47:38.940 --> 00:47:46.420]   number is, those, that data is being, um, double and triple checked before it's shown.
+[00:47:46.420 --> 00:47:54.940]   So, Mickey is, uh, the Texas Academy of Math and Science considered, um, they're not,
+[00:47:54.940 --> 00:48:00.940]   they're not a charter, so they're not in this. If they're not considered, um, so you know
+[00:48:00.940 --> 00:48:07.980]   the TEA now categorizes public schools and public traditional schools and public charter
+[00:48:07.980 --> 00:48:13.260]   schools. So the ones that you see on this list are those categorized as public charter schools.
+[00:48:13.260 --> 00:48:19.820]   So anything that's not considered a public charter school would be outside of the report.
+[00:48:19.820 --> 00:48:23.540]   Okay, okay. So any, a lot of the, uh, obviously all the private schools that then there
+[00:48:23.540 --> 00:48:31.420]   are some that are, um, yeah, that was interesting to, um, I thought I saw Hall'sville
+[00:48:31.420 --> 00:48:38.340]   on here. What's that on? Yeah, Hall'sville has the, yeah, I know. They've, they've seen,
+[00:48:38.340 --> 00:48:43.420]   you know, as you might expect during the COVID pandemic period, they've seen huge growth
+[00:48:43.420 --> 00:48:48.260]   for that campus and they have students from all over the state similar to I'm University
+[00:48:48.260 --> 00:48:55.940]   of Nebraska. But there are a few students enrolled there that do live here.
+[00:48:55.940 --> 00:49:02.340]   Do, well, you may know now, I'll, I'll, I'll ask staff might other question would be, you
+[00:49:02.340 --> 00:49:07.260]   know, are we able to actually quantify these? They're still looking at the transfer, right?
+[00:49:07.260 --> 00:49:14.700]   If we're able to actually quantify. So how many of those actually are, um, children of employees,
+[00:49:14.700 --> 00:49:22.820]   right? I mean, that, that one's really a no brainer at that point. So, um, okay, that's
+[00:49:22.820 --> 00:49:28.540]   it. Do you have any, I know you mentioned that the year on the apartments is lower. Do
+[00:49:28.540 --> 00:49:33.180]   you have any information on pricing? You know, like rental prices and, well, in a lot of
+[00:49:33.180 --> 00:49:40.020]   places they have gone up, it is interesting. I did look at all of the, uh, apartment complexes
+[00:49:40.020 --> 00:49:43.940]   and it's, it's very mixed when you go through each one of the attendance zones. There'll
+[00:49:43.940 --> 00:49:48.940]   be four complexes that are down that, you know, have fewer students than they had a year
+[00:49:48.940 --> 00:49:54.500]   ago or two or three years ago and then others are up. So it's, it's, it's really a mixed
+[00:49:54.500 --> 00:49:59.740]   bag. It's all over the place here across the district. So it's really hard to put a finger
+[00:49:59.740 --> 00:50:05.660]   on what is, you know, the pattern other than just it's an interesting time out there
+[00:50:05.660 --> 00:50:10.900]   where prices have gone up, people have, it's very mobile area. Um, you know, you have
+[00:50:10.900 --> 00:50:17.260]   a lot of younger people coming in and out of these newer type apartments. So, um, it's
+[00:50:17.260 --> 00:50:23.260]   just, there's so many things that could explain it right now. It's difficult to say one
+[00:50:23.260 --> 00:50:31.660]   thing. I know you had that graph on this token, Roman projection speaker to 12 and then
+[00:50:31.660 --> 00:50:37.060]   you have the low, moderate and high, could you? I know, I know you mentioned the numbers.
+[00:50:37.060 --> 00:50:40.740]   These are without a university prep and then you mentioned the numbers with, could we,
+[00:50:40.740 --> 00:50:46.260]   could we have a graph similar with the numbers of a university prep? I have to produce
+[00:50:46.260 --> 00:50:53.700]   them someday today. And I know you also didn't include, there, I know this, uh, transfer
+[00:50:53.700 --> 00:51:00.100]   graphs, I know our first presentation. So you guys give me not the, the new one. I'm looking
+[00:51:00.100 --> 00:51:05.540]   at my presentation on the package and it doesn't have some of the slides. Yes, we added
+[00:51:05.540 --> 00:51:10.500]   that today. So I just, um, emailed you guys the presentations, the formal presentations.
+[00:51:10.500 --> 00:51:18.140]   The TDA releases that data in March, April and May. So at different points, it wasn't
+[00:51:18.140 --> 00:51:23.100]   available. So now it is. That's why we put it in there. Look, happy to share it with us.
+[00:51:23.100 --> 00:51:29.140]   Any other questions or colleagues? Do we have any data on how many students attend private
+[00:51:29.140 --> 00:51:37.780]   schools from within GCISD? That is a very difficult question to answer. One of the, because
+[00:51:37.780 --> 00:51:41.660]   there isn't a source, there isn't, you know, you can call the schools and they'll tell
+[00:51:41.660 --> 00:51:45.780]   you they have this many kids, but they don't have to tell you where they're from. They
+[00:51:45.780 --> 00:51:52.900]   can come from, you know, vast, it's obviously a densely populated area for, um, um,
+[00:51:52.900 --> 00:51:57.740]   Karen County, uh, and there are many prep schools in Karen County. So, you know, deal with
+[00:51:57.740 --> 00:52:02.580]   this a lot in Crowley working with them. Uh, that's why that census state is important
+[00:52:02.580 --> 00:52:09.940]   because it's the, the one look in time that we can see the total count of under 18 versus
+[00:52:09.940 --> 00:52:15.820]   what's enrolled at the different schools and, and get in a sense of how, how large
+[00:52:15.820 --> 00:52:25.300]   that, that those age cohorts are out there. Um, we, we're just, we're waiting, you know,
+[00:52:25.300 --> 00:52:30.020]   and so by the time we get it, it's, it's going to be interesting to see what it looks
+[00:52:30.020 --> 00:52:36.900]   like, but, but we're, we're kind of, uh, unable to just get at that answer right now.
+[00:52:36.900 --> 00:52:44.740]   Uh, Becky. You said May of 23 is on, okay. So they got three, they, they announced
+[00:52:44.740 --> 00:52:52.100]   last week, did they have three, um, release dates that are between May and August. So another
+[00:52:52.100 --> 00:52:57.820]   year to go through. Wow. And so then on, on that slide, um, let's look at the first or
+[00:52:57.820 --> 00:53:03.740]   second one where it's talking about the, uh, number of households have been gone up, uh,
+[00:53:03.740 --> 00:53:09.260]   22%. A household that can mean even just one person, correct? Correct. And that's all
+[00:53:09.260 --> 00:53:13.180]   types in that number. Right. Right. That's an apartment. That's a single family home,
+[00:53:13.180 --> 00:53:17.420]   traditional single home. That's a mobile home. That's right. All of them all together.
+[00:53:17.420 --> 00:53:21.180]   Yeah. But even, but a single person counts, because that's how we do it at the
+[00:53:21.180 --> 00:53:27.100]   housing authority to, right, is a single person is a household. Okay. So the question is,
+[00:53:28.780 --> 00:53:31.100]   Okay. Thank you so much. Appreciate it. Thank you all.
+[00:53:31.100 --> 00:53:40.380]   We move on to the next item is a workshop for 20, 22, 23, uh, budget. That's right.
+[00:53:40.380 --> 00:53:47.180]   Yes. Uh, Diane, we'll just get straight into it again, as she, uh, has mentioned, she did email,
+[00:53:47.180 --> 00:53:54.220]   uh, the latest, uh, information to the board. Um, and, uh, Diane will let you take it away.
+[00:53:55.900 --> 00:54:13.580]   Thank you. Thank you guys for meeting, um, I think it's really important to have this
+[00:54:13.580 --> 00:54:19.980]   meeting in between our next regular regularly scheduled meeting, uh, because we just have
+[00:54:19.980 --> 00:54:24.780]   a lot of information to share. And I know it takes some time to kind of digest this all. So,
+[00:54:25.420 --> 00:54:33.100]   I appreciate your time tonight. Um, as we continue to work on the budget, um, we will, um,
+[00:54:33.100 --> 00:54:40.140]   present the proposed budget as it is at this point. Um, of course, we will continue to make adjustments
+[00:54:40.140 --> 00:54:47.260]   and we'll present, uh, another preliminary budget during the regular May meeting. Um, this first slide,
+[00:54:47.260 --> 00:54:53.020]   it just, um, highlights those parameters that have been changed from the original parameters
+[00:54:53.020 --> 00:55:02.140]   approved in February. Um, the, the ADA, I have made an adjustment to that. I have changed the, um,
+[00:55:02.140 --> 00:55:11.020]   ratio to calculate ADA to 0.945 at the original parameter was 0.944. And that doesn't sound like
+[00:55:11.020 --> 00:55:18.620]   a lot, but it, it generates about 62.42 additional ADA. And so I'm going to talk about that more
+[00:55:18.620 --> 00:55:28.460]   in detail here in a bit. Uh, that total enrollment of 13,83, um, we are using the moderate, um,
+[00:55:28.460 --> 00:55:35.340]   enrollment for next year on, uh, Brent's reports that he just gave, and then adding the 1400
+[00:55:35.340 --> 00:55:44.300]   for I inverse to be prepped. Um, I, we have received the very preliminary April values. Um,
+[00:55:44.300 --> 00:55:51.180]   those are, um, really preliminary because there are still protest. Um, the protest deadline is
+[00:55:51.180 --> 00:55:58.540]   May 15th. So, you know, there's still protests coming in, but I think in just looking at the values,
+[00:55:58.540 --> 00:56:05.580]   um, compared to what we got last April to what we ended up in July, we are going to see an
+[00:56:05.580 --> 00:56:13.660]   increase and then also receiving information from the appraisal district. Um, I am going to go,
+[00:56:13.660 --> 00:56:19.020]   I went ahead for, um, purposes of tonight and what we're presenting increased those values to
+[00:56:19.020 --> 00:56:26.780]   7%. Um, an increase from the 2021 values. Um, so of course with that increase, um, that increases
+[00:56:26.780 --> 00:56:34.780]   the local taxable values to 18.5 billion and the state Comptroller values to 17.8 billion.
+[00:56:34.780 --> 00:56:42.620]   So I want to reshare this slide, um, to just give the story of the historical budget and
+[00:56:42.620 --> 00:56:51.020]   actual operating results for the past 10 years. Um, I put this as a reminder that we have adopted
+[00:56:51.020 --> 00:56:57.740]   deficit budgets. Um, but looking back on where we have ended the seven of the last 10 years,
+[00:56:57.740 --> 00:57:02.620]   we've actually added to fund balance, be it small amounts. Um, that's what you want to see.
+[00:57:02.620 --> 00:57:08.220]   I mean, we're not here to add significant amounts to fund balance, nor take away significant
+[00:57:08.220 --> 00:57:16.700]   amounts from fund balance. So just trying to keep that even. But, um, having said that,
+[00:57:16.700 --> 00:57:26.620]   we have, well, I am just calling the perfect storm and where we are, um, for this fiscal year,
+[00:57:26.620 --> 00:57:35.820]   we had two things. Um, one was we had a labor market that required us to come back after we adopted
+[00:57:35.820 --> 00:57:42.780]   the budget. We came back and added, um, compensation adjustments, um, because what we were seeing,
+[00:57:42.780 --> 00:57:47.900]   I mean, you just watched the news and you hear about what the labor market is. And so, um,
+[00:57:47.900 --> 00:57:55.020]   we added an additional 1.7 million, um, in compensation adjustments, which we know,
+[00:57:55.020 --> 00:58:01.580]   just compounds when you roll it to the next fiscal year. Um, the other thing is that,
+[00:58:02.700 --> 00:58:09.660]   our funding is short 2 million, even with the assistance from the state due to our, uh,
+[00:58:09.660 --> 00:58:16.620]   attendance, low attendance. Um, our enrollment is not was not off that much from what we budgeted. Um,
+[00:58:16.620 --> 00:58:26.140]   but the attendance was. And so, um, we've been talking about, you know, that eventually these,
+[00:58:26.140 --> 00:58:33.180]   these deficits were going to start until we're lawsing because we are not getting additional funds. Um,
+[00:58:33.180 --> 00:58:40.940]   we are asked to operate with increasing operating cost everywhere around us cost or increasing.
+[00:58:40.940 --> 00:58:47.580]   And we're also trying to provide compensation adjustments, um, while our revenue is staying flat.
+[00:58:47.580 --> 00:58:53.980]   And eventually that's going to catch up to you. Um, do what you were just thinking that we would
+[00:58:53.980 --> 00:59:00.860]   gradually get there a couple of years, um, with smaller deficits that would equal. But as I've mentioned,
+[00:59:00.860 --> 00:59:07.180]   um, we kind of have that storm this year, um, and where I'm projecting, um, our deficit,
+[00:59:07.180 --> 00:59:10.780]   you know, to really materialize to be about, um, 8 million.
+[00:59:10.780 --> 00:59:20.940]   So this slide is just a reminder of those proposed position adjustments that were presented to the
+[00:59:20.940 --> 00:59:26.860]   board in April, just as a reminder, all of these positions are being reduced through attrition.
+[00:59:26.860 --> 00:59:32.780]   Um, as we do every year, we are continuing to look for our efficiencies and our staffing,
+[00:59:32.780 --> 00:59:40.460]   um, compared, uh, you know, looking at our, um, master schedules. Um, and so in April,
+[00:59:40.460 --> 00:59:47.740]   um, we had presented some adjustments, those adjustments with FTE accounts. Um, we also,
+[00:59:47.740 --> 00:59:53.420]   and not as good as in April, we're going to revise, um, the way we budget for our
+[00:59:53.420 --> 01:00:00.940]   acre teacher positions. Um, we are reducing that from a step 15 to a step five teacher. So, um,
+[01:00:00.940 --> 01:00:04.380]   that is, um, a $400,000 reduction.
+[01:00:04.380 --> 01:00:14.140]   So as we continue, um, to monitor all of the positions that become vacant as a result of
+[01:00:14.140 --> 01:00:21.020]   resignation or retirements, um, since the April budget presentation, we've identified several other
+[01:00:21.020 --> 01:00:27.740]   adjustments to the budget. So you can see on line one, highlighting yellow, that's the position,
+[01:00:27.740 --> 01:00:33.180]   um, adjustments that were presented in April, and I just rolled them forward to this slide,
+[01:00:33.180 --> 01:00:40.300]   and then, um, lines two through 11 are additional, um, adjustments we've made since April.
+[01:00:40.780 --> 01:00:48.860]   Um, we will look at reducing three, um, digital instructional coaches. Um, we have identified
+[01:00:48.860 --> 01:00:55.020]   a two special education positions to reduce that will not directly impact the classroom.
+[01:00:55.020 --> 01:00:58.860]   Um, we will reduce two high school counselors,
+[01:00:58.860 --> 01:01:08.300]   uh, line six and seven. Um, we received two grants from the Texas workforce commission to
+[01:01:08.300 --> 01:01:17.260]   assist with payroll for our ECBC daycare, um, and extended day program for before and after school
+[01:01:17.260 --> 01:01:24.700]   care. These are multi-year grants. And so, uh, we are, and we are also making adjustments to
+[01:01:24.700 --> 01:01:32.700]   wish in, um, for the next couple of years for when those grants do go away to cover that increase
+[01:01:32.700 --> 01:01:41.820]   in, um, in pay. Um, and so you see there, um, those have been, those amounts for those two grants
+[01:01:41.820 --> 01:01:48.940]   have been included on line six and seven. Um, we also have reduced to one professional,
+[01:01:48.940 --> 01:01:56.140]   one paraprofessional, um, at the administration building, um, and line 10, we have gone back
+[01:01:56.140 --> 01:02:05.500]   and looked at our SR plans and we are going to use, uh, 500,000 from those, um, plans that
+[01:02:05.500 --> 01:02:12.780]   were set aside for year three. Um, this is a one-time, like infusion into the general operating
+[01:02:12.780 --> 01:02:23.020]   budget, um, to help offset some, uh, payroll cost. Um, then on line 11, this is actually an addition
+[01:02:23.020 --> 01:02:28.780]   to the budget of a part-time assistant caregiver. Uh, this is offset by tuition that we've made
+[01:02:28.780 --> 01:02:36.300]   adjustments for. Um, we are hoping to open all of our classrooms with ECDC with all of our rooms
+[01:02:36.300 --> 01:02:44.060]   being open and expanding that. Um, and so we do need to add that part-time assistant for that.
+[01:02:44.060 --> 01:02:48.860]   So all of these adjustments, um, in addition to those that were present in April,
+[01:02:48.860 --> 01:02:55.260]   um, will reduce, uh, payroll cost by about 3.2 million.
+[01:02:55.260 --> 01:03:06.460]   So one thing I want to talk about is the special, special education staffing. I know that was a
+[01:03:06.460 --> 01:03:15.820]   topic and included in the TASV, um, staffing review, um, that we had done. And so I just wanted to
+[01:03:15.820 --> 01:03:24.300]   highlight a few factors that were not, not a part of those TASV calculations. Um, and these were
+[01:03:24.300 --> 01:03:29.100]   mentioned when, um, TASV gave the presentation, you know, with special ed staffing, there's just,
+[01:03:29.100 --> 01:03:37.020]   there's some other things you have to consider, um, but what TASV presented was just strictly
+[01:03:37.020 --> 01:03:43.100]   a calculation taking numbers dividing by staff. So, um, I just wanted to kind of highlight some of
+[01:03:43.100 --> 01:03:49.180]   those, um, the first one being that, uh, districts are required to comply with maintenance of effort
+[01:03:49.180 --> 01:03:54.300]   rules, um, in order to receive federal funding for special education services. And we're going to
+[01:03:54.300 --> 01:04:02.140]   talk a little bit about that more on another slide. Um, the other thing is that each, um, student
+[01:04:02.140 --> 01:04:09.980]   identify a special ed, um, has a minimum of one, odd meeting per year. And so during that meaning,
+[01:04:09.980 --> 01:04:16.060]   uh, the committee reviews the student progress and determines the amount and the location
+[01:04:16.060 --> 01:04:22.700]   of the services. And so some of these decisions can have a direct impact on special education
+[01:04:22.700 --> 01:04:30.780]   staffing. Um, these additional minutes, um, added to a special education staff's day, um,
+[01:04:30.780 --> 01:04:38.620]   can, we're not factored in to some of those calculations. So, um, that's just another factor.
+[01:04:39.340 --> 01:04:46.060]   Um, also we need to consider the amount of staff time that are used, um, to service
+[01:04:46.060 --> 01:04:52.220]   private schools within GCSD boundaries, um, and our university prep students. So currently
+[01:04:52.220 --> 01:04:59.580]   we are providing speech therapy and psychological services, uh, to 28 private schools,
+[01:04:59.580 --> 01:05:07.100]   and our staff provide those services. Um, those were not included in those calculations.
+[01:05:07.740 --> 01:05:14.380]   Uh, nor was, um, the, uh, services we provide to university preps. We have 29 students
+[01:05:14.380 --> 01:05:19.180]   that are receiving speech therapy, psychological services and special education accommodations.
+[01:05:19.180 --> 01:05:26.220]   We also have staff that provide, um, assistive technology evaluation and services,
+[01:05:26.220 --> 01:05:34.300]   as well as the, um, dyslexia services, um, the changes in those laws that impact special education.
+[01:05:37.180 --> 01:05:41.900]   So as mentioned earlier, maintenance of effort compliance must be considered when making decisions,
+[01:05:41.900 --> 01:05:48.860]   um, regarding special education staffing, um, the district. So what maintenance of effort
+[01:05:48.860 --> 01:05:55.500]   is, is that we are required to maintain the level of state and local funds spent on special education
+[01:05:55.500 --> 01:06:02.220]   from one fiscal year to the next. So as you can see here, I've provided just the,
+[01:06:02.220 --> 01:06:09.180]   as what, what we're estimating our, um, special ed expenditures to be for 21, 22. And then comparing
+[01:06:09.180 --> 01:06:15.020]   that to what we are half currently in the proposed budget. So you can see there, there's a difference
+[01:06:15.020 --> 01:06:23.020]   of 429, 355. As I mentioned on that slide earlier, um, we identified two positions,
+[01:06:23.020 --> 01:06:31.660]   and special ed that we are going to, um, reduce. And so that amount comes from the 429,000
+[01:06:31.660 --> 01:06:38.700]   and so now we have, um, the availability of about 311,000 roughly estimated.
+[01:06:38.700 --> 01:06:49.260]   So really, if you take this amount divided by a teacher, it's about 4.8 teachers, um, that I would,
+[01:06:49.260 --> 01:06:55.020]   I'd really caution us to get that close in maintenance of effort. These are really estimates.
+[01:06:55.660 --> 01:07:03.260]   Um, this is assuming that we're going to spend 100% of our 22, 23 proposed budget. Um, and so
+[01:07:03.260 --> 01:07:09.580]   we don't want to, um, run the risk of not meeting our compliance. Basically what happens is when
+[01:07:09.580 --> 01:07:15.180]   you are in not compliance, you, um, have to return the federal funds in that amount.
+[01:07:19.180 --> 01:07:26.620]   Also, um, I wanted to provide this slide because it shows that our number of special ed
+[01:07:26.620 --> 01:07:33.660]   students that are receiving services have increased year after year, um, and would require,
+[01:07:33.660 --> 01:07:41.660]   they all require services that would be impacted by a large reduction in staff. Um, actually since
+[01:07:41.660 --> 01:07:48.140]   the time, so we provided a snapshot information to TASV in October. And since the time that was
+[01:07:48.860 --> 01:07:59.340]   provided to, um, TASV, our number of identified students increased by 120. So in October, we had
+[01:07:59.340 --> 01:08:04.780]   1392 and in April, um, that number had jumped up to 1512.
+[01:08:04.780 --> 01:08:17.660]   So the next slide just goes through, um, the compensation models. We know compensations 88% of
+[01:08:17.660 --> 01:08:24.780]   our budget. So we spend a lot of time talking about this. Um, this slide is very similar to what
+[01:08:24.780 --> 01:08:31.980]   I presented last month, um, just provides a base compensation, a 1% model and a 2% model and that's
+[01:08:31.980 --> 01:08:45.180]   1% increase in midpoint and 2% of midpoint. Um, if you look at one, five, um, this is new from what
+[01:08:45.180 --> 01:08:51.740]   was presented in April. Um, this is a pay, a proposed pay adjustment for our extended day program
+[01:08:51.740 --> 01:08:58.540]   that's our after school and, and before school care, um, we are proposing that we go ahead and
+[01:08:58.540 --> 01:09:05.180]   adjust the pay for those employees, um, up to the same, um, level of pay that we did for our
+[01:09:05.180 --> 01:09:11.580]   ECDC staff. If you guys recall, we were in a, in a desperate situation with ECDC and keeping
+[01:09:11.580 --> 01:09:17.580]   the doors open, um, because we had, with, because of staffing. And so making those
+[01:09:17.580 --> 01:09:24.140]   pay adjustments, we were able to, um, maintain that staffing, but we're seeing the same issue on
+[01:09:24.140 --> 01:09:29.900]   our extended day program. And what we're really hoping is that next year, um, if we could adjust the
+[01:09:29.900 --> 01:09:39.900]   pay, we can, um, expand that program and get it back to the pre COVID, um, levels, um, of course,
+[01:09:39.900 --> 01:09:45.180]   which generates revenue for the district. So we have not made those adjustments in the budget
+[01:09:45.180 --> 01:09:53.020]   yet, um, we will wait until we see those kids, you know, what, um, enrollment looks like when
+[01:09:53.020 --> 01:10:01.020]   school starts, but, um, this adjustment would be covered by the grant and the additional, um,
+[01:10:01.020 --> 01:10:09.500]   tuition that we're increasing for next year. And then you can see on line seven is the 3.2
+[01:10:10.460 --> 01:10:17.740]   million position adjustments that we talked about on the par slide. So line seven, I mean line
+[01:10:17.740 --> 01:10:22.780]   eight just shows us what the total compensation budget would look like with those three models.
+[01:10:22.780 --> 01:10:35.580]   So moving from compensation to revenue, um, one adjustment that I did make, um, to the revenues
+[01:10:35.580 --> 01:10:42.860]   is to the ADA ratio. Um, I went back and looked and I was said, okay, what was our average ratio
+[01:10:42.860 --> 01:10:52.460]   for the three school years prior to COVID? So 2017, 18, through 2019, 20, our ratio was 0.945.
+[01:10:52.460 --> 01:11:03.660]   And, um, so my original, uh, parameter I was using was 0.944. So it's not that big of an increase,
+[01:11:03.660 --> 01:11:13.260]   but it does, um, generate additional ADA. Um, we know that attendance will need to be a focus for
+[01:11:13.260 --> 01:11:21.740]   2223, um, as a leadership team we're talking about, um, what we can do for that. And so I feel, um,
+[01:11:21.740 --> 01:11:27.100]   comfortable going ahead and bumping up that ratio, um, because that is going to be a factor,
+[01:11:27.660 --> 01:11:35.020]   um, I've said it over and over. The only way to generate additional funding is with, um,
+[01:11:35.020 --> 01:11:41.420]   additional ADA. And so this line just kind of walks you through what that calculation looks like.
+[01:11:41.420 --> 01:11:46.620]   Um, it's always always breaking out by traditional students and I university prep students,
+[01:11:46.620 --> 01:11:49.500]   because they're so different to the way the I university prep is funded.
+[01:11:50.060 --> 01:11:58.860]   But typically our, um, ratio for I university prep is at 0.98. And so, um, that's what I use for those,
+[01:11:58.860 --> 01:11:59.580]   those students.
+[01:11:59.580 --> 01:12:09.980]   So you guys are familiar with this slide that details all of the different pieces of funding.
+[01:12:09.980 --> 01:12:19.500]   Uh, what this is is comparing is what I presented in April, um, to what we currently have in the proposed
+[01:12:19.500 --> 01:12:30.220]   budget, um, these, um, figures factor in the additional, um, increase in, um, property values of
+[01:12:30.220 --> 01:12:40.860]   7%. Um, so you'll notice on line three, our taxes are going up, but on line six, our recapture
+[01:12:40.860 --> 01:12:52.940]   is going up. So our, yes, our, our, um, taxpayers will be, um, paying more in taxes. Um, but once
+[01:12:52.940 --> 01:13:04.860]   again, we are stuck with line eight of funding per ADA of 8,470ish. Um, so any additional taxes
+[01:13:04.860 --> 01:13:13.020]   are offset with recapture. Now, if you look on line seven, our total funding, um, from what was
+[01:13:13.020 --> 01:13:22.460]   presented in April to May is increased, um, 546,000. And that is the increase in the ADA.
+[01:13:22.460 --> 01:13:34.540]   So you can see the importance of being able to, um, increase that attendance ratio, um,
+[01:13:34.540 --> 01:13:45.660]   the impact it has on our funding. So this slide provides the overview of the total, total budget,
+[01:13:45.660 --> 01:13:55.340]   um, you will notice on line nine. And that is the net impact on the budget, um, the base budget,
+[01:13:55.340 --> 01:14:03.180]   um, starts, you know, the use of imbalance be 7.4 million, um, it would be 9.2 for one percent,
+[01:14:03.180 --> 01:14:09.500]   um, compensation model and a 10.2 or a 2 percent model.
+[01:14:09.500 --> 01:14:23.980]   We always look at, um, what the, uh, budget impact will have on the fund balance, um, the board
+[01:14:23.980 --> 01:14:29.020]   policy requires the fund balance to be at least 20% of operating cost. And so that is what's
+[01:14:29.020 --> 01:14:35.260]   represented in the blue line. Um, so then when we take our estimated beginning fund balance,
+[01:14:35.260 --> 01:14:41.340]   um, and have that budget net impact, um, we have an ending fund balance and then compare that
+[01:14:41.340 --> 01:14:50.540]   to our target. And you can see there where we are, um, over, under our target, uh, with those
+[01:14:50.540 --> 01:14:55.900]   three models. Um, with the base model, we're now over 1.8 million, that's just because of those
+[01:14:55.900 --> 01:15:01.260]   additional, um, reductions that we have, um, included that we've talked about.
+[01:15:01.260 --> 01:15:13.100]   So let's walk forward for where we started in April, um, to where we are currently right now.
+[01:15:13.100 --> 01:15:18.940]   Um, we started in April with a 9.7 years of fund balance and this was just with the, um,
+[01:15:19.500 --> 01:15:25.820]   base budget, no, no compensation. Um, and we've made, uh, those adjustments that we talked about
+[01:15:25.820 --> 01:15:31.980]   tonight. Um, the only one I did not talk about was 1.5. That's the EVP and ECBC tuition adjustments.
+[01:15:31.980 --> 01:15:38.300]   I did talk about the fact that we are going to make those, um, adjustments for an increase in
+[01:15:38.300 --> 01:15:48.300]   tuition, um, for when the, um, and we're doing it over multi years. Um, so when those grants do, um,
+[01:15:48.300 --> 01:15:54.940]   and, um, we will have adjusted the tuition to cover those costs. So that is in there as well.
+[01:15:54.940 --> 01:16:02.460]   And that gets us to the current use of unbalance of 7.4 million. I do want to remind you guys
+[01:16:02.460 --> 01:16:12.300]   that as part of the parameters, we reduced payroll 2 million, um, for, for historical unspent
+[01:16:13.820 --> 01:16:20.700]   budget and we reduced non payroll budgets by 500,000, which we were, we were going to
+[01:16:20.700 --> 01:16:30.220]   take from campus and department allocations, um, to make that adjustment. So the 7.4 million does
+[01:16:30.220 --> 01:16:32.860]   include, um, those reductions as well.
+[01:16:38.460 --> 01:16:43.820]   So one thing we talked about, the budget last couple of months and we, um, have not
+[01:16:43.820 --> 01:16:49.820]   talked, started talking about the tax rate. Um, of course, you guys know that the tax rate
+[01:16:49.820 --> 01:16:58.140]   is adopted in September, that I want to walk you through the structure of the maintenance and operations
+[01:16:58.140 --> 01:17:06.540]   tax rate, um, to kind of get an understanding of how each piece works. Um, the MNO tax rate is
+[01:17:06.540 --> 01:17:14.700]   broken up into what they call tier one and tier two tax rates. Um, tier one online one, that is what
+[01:17:14.700 --> 01:17:22.860]   the state calls our maximum compressed tax rate. Um, this is set by the state, um, it is based
+[01:17:22.860 --> 01:17:33.660]   on the July 25th certified taxable values. So when I went in and adjusted our values, um, to increase
+[01:17:33.660 --> 01:17:43.500]   seven percent, um, our maximum compressed tax rate came down. So with that seven percent increase,
+[01:17:43.500 --> 01:17:56.380]   the, um, tier one rate is 87.49 cents. This is a 3.85 cent reduction, um, from the 2021 tax rate.
+[01:17:57.420 --> 01:18:04.220]   So that's how House Bill 3 was designed, um, as property values increase the tax rate decreases.
+[01:18:04.220 --> 01:18:15.020]   The tier two pennies, um, are, are considered enrichment pennies. Um, it is made up of eight golden
+[01:18:15.020 --> 01:18:25.180]   pennies, um, golden pennies means that they are not, uh, subject to recapture. The, um, the first
+[01:18:25.180 --> 01:18:32.460]   five golden pennies. So that would be line two and line three, um, do not require voter approval.
+[01:18:32.460 --> 01:18:45.260]   But if we were to, um, go down to line five and, um, levy three of those golden pennies,
+[01:18:45.260 --> 01:18:53.420]   it would require voter approval. So lines one through four, ones one through three equal,
+[01:18:53.420 --> 01:19:01.020]   that is the maximum total MNO tax rate that the district could levy without going to,
+[01:19:01.020 --> 01:19:04.940]   um, the community for a vote.
+[01:19:04.940 --> 01:19:17.900]   And we would have to levy that one golden penny on line three in order to, um, ask for the three golden
+[01:19:17.900 --> 01:19:32.140]   pennies, um, from voters. One thing to note is that on line three, that, that one golden penny,
+[01:19:32.140 --> 01:19:37.660]   um, if it's levied, those tax collections would offset with a decrease in our formula transition
+[01:19:37.660 --> 01:19:44.300]   grant. So that's about 1.7 million. Just as a reminder, our formula transition grant money
+[01:19:44.300 --> 01:19:52.620]   is set to expire at the end of the 23 24 school year, um, so that will be, um, offending clear.
+[01:19:52.620 --> 01:19:59.900]   Um, if we have not put some kind of tax protection in there for that, um, there's also currently
+[01:19:59.900 --> 01:20:08.780]   a statewide cap on this allocation of money, a 400 million. It looks like, um, enough districts
+[01:20:09.420 --> 01:20:17.980]   levy that fifth golden penny, um, and it looks like that we are going to be at that 400 cap.
+[01:20:17.980 --> 01:20:26.460]   If for some reason once everything's finalized, um, if it, if it is over that 400 million
+[01:20:26.460 --> 01:20:33.580]   threshold, um, our, our funding would be reduced. But at this point in the statewide summary
+[01:20:33.580 --> 01:20:43.500]   finance, it looks like it's going to be under that 400 million cap. Because, because the other
+[01:20:43.500 --> 01:20:47.660]   districts are going for the voters, and so they have to treat, oh my god.
+[01:20:47.660 --> 01:20:55.020]   This is the only way, it's the only way to reduce formula transition grant.
+[01:20:55.020 --> 01:21:01.740]   Right, right, right, but the problem for anyone, this is the state forcing us to do
+[01:21:01.740 --> 01:21:08.540]   vaters. This is the state forcing school districts to pass vaters because
+[01:21:08.540 --> 01:21:14.220]   and that's how that gets them off the hook of the formula transition grant to yes.
+[01:21:14.220 --> 01:21:21.660]   So as everybody is this trying to go out for the, for the vaters to increase their funding,
+[01:21:21.660 --> 01:21:29.340]   you can't skip that, that golden penny, you can't skip over it. You've got to access it in order
+[01:21:29.340 --> 01:21:39.740]   to be able to call the vater first. Um, so on line five, those are the three golden
+[01:21:39.740 --> 01:21:44.860]   pennies that would be available to the district with voter approval. Of course, there's no recapture
+[01:21:44.860 --> 01:21:52.620]   on them, um, but the tax collections, um, would be offset, um, would offset the formula transition
+[01:21:52.620 --> 01:21:59.580]   grant, so overall funding would increase by 2.3 million by levying that one golden penny
+[01:21:59.580 --> 01:22:03.340]   and the three golden pennies, um, with voter approval.
+[01:22:03.340 --> 01:22:13.820]   So line six is the tier two copper pennies that are available, um, for us to gain through voter
+[01:22:13.820 --> 01:22:20.140]   approval. They're called copper pennies because they are recaptured and for DCSD, the recapture rate
+[01:22:20.140 --> 01:22:29.260]   is at 55 percent. Um, the district receives, um, guaranteeing yield of $49.28 per weighted
+[01:22:29.260 --> 01:22:33.180]   average daily attendance, um, which is approximately 6.8 million.
+[01:22:33.180 --> 01:22:44.620]   Oh, I've said it many times tonight. I've said it many times before. Um, the only way to increase
+[01:22:44.620 --> 01:22:53.660]   our, uh, funding with the current funding formulas is through the increase in ADA. Um, however,
+[01:22:53.660 --> 01:23:01.100]   another option, the district has, um, is to conduct a voter approved tax ratification election,
+[01:23:01.100 --> 01:23:07.420]   which is also called the vater. So that's what we call it from this point forward. Um, there's a
+[01:23:07.420 --> 01:23:12.540]   similar to asking the voters to approve a bond program, but this would be on the opposite side,
+[01:23:12.540 --> 01:23:19.260]   the opposite budget is beyond the M&O side to help with operating costs, including pay for employees.
+[01:23:19.260 --> 01:23:25.740]   I've gone through the calculations to estimate the amount of funds that we'd be generated by
+[01:23:25.740 --> 01:23:35.180]   these additional pennies. Uh, line one shows, um, that last golden penny with generate about 1.7 million
+[01:23:37.020 --> 01:23:46.140]   line two shows the, um, three pennies would generate about 5.1 million, but then line three is where
+[01:23:46.140 --> 01:23:52.780]   you have to back out formula transition grant reduction. So line four, um, would be the net funding
+[01:23:52.780 --> 01:23:56.700]   for golden pennies of about 2.3 million.
+[01:24:02.700 --> 01:24:09.340]   Um, if we were to go and ask the voters to approve copper pennies, um, we have nine, um, that would be
+[01:24:09.340 --> 01:24:19.340]   line five. Um, it would generate about 6.8 million in funding. So line six, the net funding with golden
+[01:24:19.340 --> 01:24:32.620]   and copper pennies would be about 9 million. So if the board were to make the decision, um, to, um,
+[01:24:32.620 --> 01:24:39.100]   go for a vater, um, there are several options that could be considered, and I'm throwing these out there
+[01:24:39.100 --> 01:24:47.100]   here tonight for us to just consider and talk about, um, we could do a vater, um, and only asked
+[01:24:47.100 --> 01:24:53.020]   for the three golden pennies since they are not subject to recapture, um, we would, you know,
+[01:24:53.020 --> 01:25:00.940]   of course, that would have to cover the formula transition grant. Um, we could conduct a vater for
+[01:25:00.940 --> 01:25:11.740]   three golden pennies and all of nine copper pennies. So that would be 12 pennies, or we could do a vater
+[01:25:11.740 --> 01:25:17.020]   for three golden pennies and any amount of copper pennies up to nine. So if we only wanted to do
+[01:25:17.020 --> 01:25:26.060]   four, um, we, we could have that option. Um, the other thing, um, is of course this vater could
+[01:25:26.060 --> 01:25:34.460]   be, um, in conjunction with reducing the INS tax rate, um, so for example, if the board reduced
+[01:25:34.460 --> 01:25:40.060]   the INS tax rate for portion or all of the pennies, pennies being proposed with the vater.
+[01:25:40.700 --> 01:25:49.580]   So in a little bit, we have a presentation, um, from Josh that will go through, um, some of the
+[01:25:49.580 --> 01:25:57.580]   scenarios on the INS tax rate, um, and what that, the impact of that on bond capacity for future
+[01:25:57.580 --> 01:26:05.500]   bond program. But on the next few slides, I kind of want to show you our overall, um, budget of where
+[01:26:05.500 --> 01:26:18.940]   we are and the impact of the vater. So this is the same exact, uh, slide that we looked at earlier,
+[01:26:18.940 --> 01:26:23.900]   um, the revenues, the expenditures have stayed the same. The only thing that I've added is line six
+[01:26:23.900 --> 01:26:32.540]   and that, that bright green line, um, and that would be the impact of going, uh, doing a vater
+[01:26:32.540 --> 01:26:39.740]   and only accessing the golden pennies. So, um, that's the 2.3 million additional funding,
+[01:26:39.740 --> 01:26:44.460]   um, you can see the impact on each of the three, um, budget models there.
+[01:26:44.460 --> 01:26:55.420]   So if we, same scenario, look at the fund balance, um, there you can see our target overage,
+[01:26:55.980 --> 01:27:04.940]   um, for one year, I mean, we would be good for one year over that, um, that target of 20%.
+[01:27:04.940 --> 01:27:14.620]   Same thing, um, except for line six, um, includes the golden and copper pennies. So that's the 9 million
+[01:27:14.620 --> 01:27:22.060]   that I talked about a while ago. Um, so adding the 9 million of additional funding, um, you can see
+[01:27:22.060 --> 01:27:28.700]   there the net impact on the budget, um, significantly reduces. Well, it actually eliminates the deficit
+[01:27:28.700 --> 01:27:33.420]   or the base budget and significantly reduces it for the one and two percent model.
+[01:27:33.420 --> 01:27:41.100]   And there would be, um, the impact on the fund balance.
+[01:27:45.500 --> 01:27:55.980]   Currently the situation, um, that we're in with, um, the funding is that we are not getting any
+[01:27:55.980 --> 01:28:04.860]   additional funding, um, to only to help offset the cost of compensation. And so, um, other than
+[01:28:04.860 --> 01:28:11.580]   increasing our ADA, you know, significantly, um, and we still want to be realistic on what our
+[01:28:11.580 --> 01:28:19.420]   ADA can be. Um, that's the, that's the problem with the, the state spending mechanism right now
+[01:28:19.420 --> 01:28:27.580]   is they fund us based on the student's sitting in seats, um, that we are budgeting for the enrollment.
+[01:28:27.580 --> 01:28:34.620]   We're staffing for the enrollment. We're paying operating costs for the enrollment, um,
+[01:28:34.620 --> 01:28:41.180]   you know, honestly, we're paying utilities whether, you know, 50% of the kids are there,
+[01:28:41.180 --> 01:28:48.300]   or 100% of the kids are there. So, um, that is just the reality of kind of where we are,
+[01:28:48.300 --> 01:28:58.780]   and, um, we are not seeing an increase on, um, the revenue side. Now, we've worked,
+[01:28:58.780 --> 01:29:06.540]   and we've made some adjustments, um, on reductions in the expenditures. Um, last budget year,
+[01:29:06.540 --> 01:29:13.100]   we reduced, um, 12, um, teaching positions. And that was for through all three attrition based on
+[01:29:13.100 --> 01:29:20.380]   the, you know, lower enrollment, um, numbers. And you know, I presented tonight what, what we've
+[01:29:20.380 --> 01:29:30.380]   done as well. Okay, Josh is not here. He is, was in Lancaster. So he's on his way. He texted me
+[01:29:30.380 --> 01:29:37.660]   he's on his way, but I'm going to go ahead and just, um, start with his presentation, and then he
+[01:29:37.660 --> 01:29:46.460]   can, uh, so, yeah, this is before we go, let's let's open up for questions. Uh, Shannon, you have a question?
+[01:29:46.460 --> 01:29:54.540]   Um, the 28th student who are in private school, do we get any compensation from the state,
+[01:29:54.540 --> 01:30:07.500]   from those kids that take special ed services? So, why? Do we get federal funds for profit school?
+[01:30:07.500 --> 01:30:17.340]   I'll put Joanna. We're required to report how many private school students we evaluate,
+[01:30:17.340 --> 01:30:23.740]   which we're obligated to do regardless, whether they qualify or not. And then the kids who qualify,
+[01:30:23.740 --> 01:30:28.620]   we have to report to the state, and then we are obligated to pull out of our federal funds,
+[01:30:28.620 --> 01:30:36.700]   certain money to serve those students. And we use our staff or some districts use contracted staff,
+[01:30:36.700 --> 01:30:46.300]   but we use our staff to serve those students. Okay. Um, what do you think? So with, uh, the ADA,
+[01:30:46.300 --> 01:30:52.460]   like so with the attendance, thanks. So how much do you think you can impact with a push for
+[01:30:52.460 --> 01:30:59.900]   higher attendance? Because we have pretty good attendance now, right? We did not this year. Okay,
+[01:30:59.900 --> 01:31:07.180]   so like how much like what, what would your goal be and how much was that offset? I mean, just the
+[01:31:07.180 --> 01:31:15.980]   increase in 62 ADA was half a million. Um, so I can work it. I didn't really work it up. What a percentage
+[01:31:15.980 --> 01:31:23.500]   of attendance, right? Would, would generate, but prior to COVID, our attendance rate was around
+[01:31:23.500 --> 01:31:32.460]   96 percent. Right. Um, look, I just, we just got the fifth, six weeks. Um, we just finished
+[01:31:32.460 --> 01:31:37.980]   the fifth, six weeks. Our attendance rate was 94 percent. And if you recall, we're only getting
+[01:31:37.980 --> 01:31:43.580]   help from the state for the first four, six weeks. Um, so the fifth and sixth, six weeks,
+[01:31:44.300 --> 01:31:51.740]   we're going to take that hit, um, from the lower attendance rate. So I can go back and,
+[01:31:51.740 --> 01:31:58.060]   and calculate what a 1 percent and attendance rate would generate, um, and get that to you guys. But
+[01:31:58.060 --> 01:32:08.780]   any other questions or a colleague? So we just extrapolated though, if, if that little percentage
+[01:32:08.780 --> 01:32:15.740]   rate, it'd be 500 million per or half a percent. Is that right? Well, it was 500,000. It wasn't
+[01:32:15.740 --> 01:32:23.260]   quite a 1 percent. Okay. New time. Um, what are we hearing from other districts about what kind of
+[01:32:23.260 --> 01:32:28.620]   position they're in? Cause everybody's been getting teacher races. Oh, well, on the attendance
+[01:32:28.620 --> 01:32:35.900]   rate, they're all on the same position. Sure. But what about an compensation? Um, well, um, so I
+[01:32:35.900 --> 01:32:42.620]   provided you guys a sheet there. Um, and of course, because those are the districts that we are
+[01:32:42.620 --> 01:32:49.100]   comparing ourselves to as competitors for staffing, sure, you can see on there a majority of them
+[01:32:49.100 --> 01:32:55.420]   have passed faders. Um, not all of them are paying recapture as well. And that's the,
+[01:32:55.420 --> 01:33:04.220]   that's the fallacy in the funding is because every district is funded differently. Um, unfortunately,
+[01:33:04.220 --> 01:33:11.900]   we're funded with a target revenue situation where we are still receiving that formula transition
+[01:33:11.900 --> 01:33:22.140]   grant money and, um, we're not going to go above that amount. So what really, what is frustrating
+[01:33:22.140 --> 01:33:32.220]   about this formula transition grant is, um, they're providing us 3 percent, an increase of 3 percent
+[01:33:32.220 --> 01:33:39.580]   per ADA funding, uh, prior to House Bill 3. So we got our formula transition grant money.
+[01:33:39.580 --> 01:33:46.060]   What did we do right after House Bill 3 passed? We put all of it into compensation, right?
+[01:33:46.060 --> 01:33:54.140]   We were required to put most of it into compensation. So, um, and then they want to take it away
+[01:33:54.140 --> 01:34:00.780]   when we, we've committed, I mean, we committed that right when House Bill 3 was, was passed. Um,
+[01:34:00.780 --> 01:34:08.300]   and so they were very nice and gave us 3 percent increase in funding, um, which all went to compensation.
+[01:34:08.300 --> 01:34:16.060]   So there's really no adjustments to that 3 percent for other increases in costs that we're experiencing.
+[01:34:16.060 --> 01:34:23.900]   And then are we hearing anything out of Austin? I mean, this may be a Becky question,
+[01:34:23.900 --> 01:34:30.220]   but are we hearing anything out of Austin about how they might transform competition for teachers?
+[01:34:30.940 --> 01:34:41.820]   So the conversations that I've had and I've heard, um, aren't really so much focusing yet on
+[01:34:41.820 --> 01:34:49.340]   compensation for teachers, um, more, I'm hearing, I'm hearing some rumblings and I hope this would take
+[01:34:49.340 --> 01:34:56.780]   hold is funding on enrollment instead of attendance. That, that's the big kick in the pants.
+[01:34:56.780 --> 01:35:02.060]   Well, there's a lot of big kicks in the pants for us, but that's one of the huge kicks in the
+[01:35:02.060 --> 01:35:06.780]   pants, right? So to Shannon's question, you know, talking about attendance, you know, that was one of
+[01:35:06.780 --> 01:35:12.700]   the things that we discussed at the, um, the community budget and finance meeting was the
+[01:35:12.700 --> 01:35:18.620]   principles really brainstorming on how to get that attendance right up. So that's kind of a short-term
+[01:35:19.260 --> 01:35:27.100]   question. Um, how about we come back to that? Because I have a bunch of stuff on that. I don't
+[01:35:27.100 --> 01:35:34.780]   want to hijack your question about. So no, I'm not hearing a whole lot about additional, uh,
+[01:35:34.780 --> 01:35:40.860]   funding to pay compensation, especially because, and this is another question that I've got, um,
+[01:35:40.860 --> 01:35:46.060]   they did do the teacher incentive a lot and there's still cohorts processing through on that,
+[01:35:46.060 --> 01:35:50.940]   and that's a mission later, but there's already some mechanisms in place that allowed districts
+[01:35:50.940 --> 01:35:56.380]   to tap into funding for compensation and not everybody doing it yet.
+[01:35:56.380 --> 01:36:03.420]   Yeah, any other questions? Becky? No, no, no, no, trust me, go ahead.
+[01:36:03.420 --> 01:36:10.620]   So on the sheet that you gave us, so, and you may not be able to answer this because I know
+[01:36:10.620 --> 01:36:15.340]   you don't work for these other districts, but so the, the districts in yellow, you're,
+[01:36:15.340 --> 01:36:20.940]   you're comparing us to the one's in yellow pay recapture. Okay. So and that's where my question's
+[01:36:20.940 --> 01:36:26.780]   going. So as I look across this, uh, I'm looking at the ones that are in yellow that pay recapture,
+[01:36:26.780 --> 01:36:35.020]   but also all those have also have a voter-approved TRE, a VADER. And it's interesting because,
+[01:36:35.020 --> 01:36:42.700]   so can you speak to, especially to Plano ISD and Highland Park ISD because they passed a VADER,
+[01:36:43.340 --> 01:36:48.700]   but yet their recapture is so much, I understand why Plano is probably so high because it's
+[01:36:48.700 --> 01:36:55.740]   a large district and their budgets very large, but the Highland Park paying 104,000 and recapture
+[01:36:55.740 --> 01:37:03.420]   versus, um, then paying a VADER and everybody else is really the outliers, only 51 million
+[01:37:03.420 --> 01:37:08.780]   with Lewisville and they didn't pass the VADER, but everyone else is like a 20 million.
+[01:37:09.500 --> 01:37:15.260]   So why those, so I'm, I'm trying to equate to like us, I mean, we're at 56 million on a recapture,
+[01:37:15.260 --> 01:37:19.100]   if we pass a VADER is ours going to go down or is it going to kind of stay where like, I mean,
+[01:37:19.100 --> 01:37:24.940]   because we compare ourselves to Highland Park all the time. So Holland Park just passed the VADER
+[01:37:24.940 --> 01:37:30.940]   in November. Uh, so it hasn't had a full year cycle to, to, so they're recapture could see them go
+[01:37:30.940 --> 01:37:37.500]   up a little bit. But with a VADER, if you do those copper pennies, your recapture is going to go up.
+[01:37:37.500 --> 01:37:42.940]   Yeah. Um, that's what makes it very difficult for recapture districts. Um,
+[01:37:42.940 --> 01:37:51.740]   it's really unfortunate compared to other districts is that we have that high recapture rate on,
+[01:37:51.740 --> 01:37:59.260]   those copper pennies. Um, when the state did make some adjustments, um, they were really kind and
+[01:37:59.260 --> 01:38:04.620]   gave us this three golden pennies into recapture those because prior to that change, any penny you
+[01:38:04.620 --> 01:38:09.740]   did on a VADER was, was subject to recapture. But they did at least give you, give us three pennies.
+[01:38:09.740 --> 01:38:15.340]   But for our situation, when it just is wiped out by formal transition grant, many it's
+[01:38:15.340 --> 01:38:24.380]   kind of, um, pointless. Thank you. Uh-huh. Bucky. Yeah, they gave you three pennies and then robbed
+[01:38:24.380 --> 01:38:31.420]   you of them with the ending of the formal transition grants. So yeah, um, oh boy. Okay,
+[01:38:31.420 --> 01:38:36.220]   so kind of going back to the question on attendance, right? Again, I'm, I'm hearing,
+[01:38:36.220 --> 01:38:43.260]   you know, districts saying, look, we're one of the very few states even that funds on attendance
+[01:38:43.260 --> 01:38:49.020]   instead of enrollment that's just much more practical. I know from speaking with campus principles
+[01:38:49.020 --> 01:38:54.940]   that funding on enrollment makes more sense because we've encouraged people to not send sick kids
+[01:38:54.940 --> 01:39:02.540]   to school and yet we get penalized for kids staying home when they're sick. And so just to your point
+[01:39:02.540 --> 01:39:08.540]   too, right? You know, if there's a missing, the lights are still not like we're going to turn half
+[01:39:08.540 --> 01:39:14.780]   the light fixtures off on a classroom. That was the difficulty this year because we still were,
+[01:39:14.780 --> 01:39:19.020]   you know, dealing with COVID and like it was a fine line, like encouraging, you know,
+[01:39:19.020 --> 01:39:25.500]   encouraging attendance because we didn't want them coming sick. One thing I also want to point out
+[01:39:25.500 --> 01:39:30.940]   is that we are really not getting any support from truancy of the truancy courts
+[01:39:30.940 --> 01:39:40.220]   to help with attendance. So that's still since COVID that hasn't come back. And so that's another
+[01:39:40.220 --> 01:39:47.340]   issue is like there's really no consequences. Well, that was some of the discussion we had at the
+[01:39:47.340 --> 01:39:52.060]   budget and finance meeting. In fact, you've actually quantified how much it costs and, you know,
+[01:39:52.060 --> 01:40:00.700]   hey, mine have been all UIL exempted, but, you know, my kids have missed so school, right? And
+[01:40:00.700 --> 01:40:06.620]   they didn't go to Disney role though, but you were able to quantify how much it's costing us per day
+[01:40:06.620 --> 01:40:13.500]   when a kid is missing. And that was what? $48 a day? It's about $48. Yeah. So if you're going to go to
+[01:40:13.500 --> 01:40:22.540]   Disney World, can you please drop a check-off for that week? $250. Yeah. Call it the Disney World
+[01:40:22.540 --> 01:40:29.500]   attendance for your something. Becky, I'm going to wrap to you. It's funny that you say that.
+[01:40:29.500 --> 01:40:32.860]   I had a friend literally called me last week, and they were asking me how the attendance would
+[01:40:32.860 --> 01:40:36.940]   be affected because they're planning to go to Disney World Spring break next year. And they're
+[01:40:36.940 --> 01:40:40.300]   trying, they were trying, they want to leave on Friday and book playing tickets, and they were
+[01:40:40.300 --> 01:40:46.140]   saying if we leave before 10 o'clock, how does that affect the ADA? And if we leave after 10 o'clock,
+[01:40:46.140 --> 01:40:49.820]   and it was I said, well, you got kids in elementary school and you got kids in middle school,
+[01:40:49.820 --> 01:40:53.500]   so it's a little different. Yeah. But I mean, literally, this fit because of all this conversation
+[01:40:53.500 --> 01:40:58.940]   we've had, they literally were asking how it affects our district. And that's awesome. I know,
+[01:40:58.940 --> 01:41:02.620]   I was like part of our, that's part of what we want to do next year and just like,
+[01:41:02.620 --> 01:41:08.860]   increase the, increase the, um, communication about what that looks like. And I was proud of this
+[01:41:08.860 --> 01:41:14.140]   parent because they have four kids in our district. And they got them in elementary middle and
+[01:41:14.140 --> 01:41:17.900]   high school. And so I was like proud and it goes back to your Disney World example. Something that's
+[01:41:17.900 --> 01:41:22.620]   really funny, a funny story, I'm just, I'm trying a lot in the, lot in the rain, but my daughter,
+[01:41:22.620 --> 01:41:26.780]   you know, I preached to her about the attendance and how much the fund. And so one day I'm sitting
+[01:41:26.780 --> 01:41:31.180]   there at lunch and I get a call from her and she's like, mom, and I can hear kids in the background.
+[01:41:31.180 --> 01:41:36.060]   How much money do we lose if we don't come to school? And so I, you know, I'm like $48 and I hear
+[01:41:36.060 --> 01:41:40.380]   someone in the background goes, oh my gosh, you know, because $48 is a lot of money to kids. So,
+[01:41:40.380 --> 01:41:51.020]   I think it's just going to take, you know, just communicating. So, um, I'm not done yet.
+[01:41:51.020 --> 01:41:55.340]   Yeah. Oh, I just have one comment. I just kind of look, something up here real quick,
+[01:41:55.340 --> 01:42:00.220]   just so you know on that Highland Park ISD, I have some insider information, but I was just verifying
+[01:42:00.220 --> 01:42:04.860]   their education foundation provides 1.2 million dollars in support for salaries.
+[01:42:05.820 --> 01:42:12.140]   So it's interesting. So their education foundation just started last year. I learned this
+[01:42:12.140 --> 01:42:16.140]   today because that's the reason I was late. I was playing in our education foundation golf tournament.
+[01:42:16.140 --> 01:42:24.220]   And so that's the reason I was late, but I found out today that Highland Park puts in their
+[01:42:24.220 --> 01:42:29.660]   enrollment packets for all the kindergarten, I'm not kindergarten, for all the elementary school,
+[01:42:31.180 --> 01:42:37.740]   how to donate to their education foundation. And they are supplementing. This is the first year
+[01:42:37.740 --> 01:42:43.740]   or the second year that they have supplementing teacher pay with that. It's impressive what they're
+[01:42:43.740 --> 01:42:47.740]   doing. Yeah. They're mad for a plan. If you go, if you just drive through the park cities, they're
+[01:42:47.740 --> 01:42:53.740]   mad for a plan. I mean, my aunt who hasn't had kids in the district in 20 years has a mad for
+[01:42:53.740 --> 01:43:02.700]   platside. So even the citizens who do not actively have students in schools, everybody is mad for
+[01:43:02.700 --> 01:43:07.980]   plaid. So they do a pretty robust. They also want a 10 million dollars for naming their stadiums.
+[01:43:07.980 --> 01:43:22.220]   Okay, yeah, no comment on that. So looking back at the first sheet here,
+[01:43:23.020 --> 01:43:33.740]   you've now bumped up the taxable value increase to 7% is that that's overall, right? So does that
+[01:43:33.740 --> 01:43:40.140]   still break out? Because I caught a state senator trying to kind of sell a lawn here that, you know,
+[01:43:40.140 --> 01:43:47.020]   oh, well, if your values went up high, remember what we put in the tax revenue cap for school
+[01:43:47.020 --> 01:43:52.220]   just two and a half percent. So you should see your rates go down. I'm like, no, because it's an average
+[01:43:52.220 --> 01:43:58.860]   value. So this is the average. So the average. So is that still the case of our home values, our sky
+[01:43:58.860 --> 01:44:09.180]   hive, where did you break that down on the April values that when we get May, I'll break that down
+[01:44:09.180 --> 01:44:15.340]   to kind of see the residential versus commercial. I think our commercial is going to be more than
+[01:44:15.340 --> 01:44:24.060]   it was last year, but the residential is going to be at enormous. Yeah, I mean, my thing was not
+[01:44:24.060 --> 01:44:35.820]   7%. The percent that the appraisal took 20, which in counties around San Antonio and Houston,
+[01:44:35.820 --> 01:44:41.580]   they were some of those counties were looking at 40% increases. Okay, happy to live here.
+[01:44:43.100 --> 01:44:49.580]   So let's say we already talked about enrollment versus attendance, you know, it is never too early
+[01:44:49.580 --> 01:44:57.420]   to start working on the upcoming legislative session. And I know it's May and it's like what really,
+[01:44:57.420 --> 01:45:06.620]   but no, when it kicks off in January, that is too late to start advocating for changes. And I can't
+[01:45:06.620 --> 01:45:12.700]   think of a single district in Texas. I mean, it's tough having to go and talk about Robinhood,
+[01:45:12.700 --> 01:45:21.740]   but attendance versus enrollment, that's hitting everybody the same. So not real happy about the
+[01:45:21.740 --> 01:45:35.820]   counselor's suggestion. So I've talked to a couple of teachers about, so these are people that
+[01:45:35.820 --> 01:45:41.340]   live in the community, they hold teachers certificates, but they're no longer teaching right now,
+[01:45:41.340 --> 01:45:50.380]   right? They're home raising kids, or maybe they're doing a little something else. And so I did
+[01:45:50.380 --> 01:45:56.940]   like at least float this by Gemma to see if it's even possible. The potentiality for maybe tapping
+[01:45:56.940 --> 01:46:04.940]   into some of our local certificates, where a teacher is teach, it's a part-time position. In other
+[01:46:04.940 --> 01:46:11.740]   words, it's not a full contract. But what if, and this would be more of a solution at the secondary
+[01:46:11.740 --> 01:46:17.820]   level. But if you've got people that are living here and they don't need, I mean, I'm looking at my
+[01:46:17.820 --> 01:46:24.460]   job. I don't need benefits because we carry that on my husband. And so if you've got people
+[01:46:24.460 --> 01:46:31.260]   that don't need benefits and kind of like your part-time professor model, I'm going to teach
+[01:46:31.260 --> 01:46:38.540]   four classes instead of eight, or I'm going to teach eight days and not b days. And, you know,
+[01:46:38.540 --> 01:46:44.140]   this is obviously way easier to do at secondary level than it is at the elementary level. But,
+[01:46:44.140 --> 01:46:50.140]   you know, even just the savings there on the benefits, could that help us eke out, you know,
+[01:46:50.140 --> 01:46:54.620]   a couple of hundred thousand more dollars if we were able to possibly look at a part-time teacher
+[01:46:54.620 --> 01:47:05.420]   model. We can look at those things individually on an individual basis. So we would have to identify
+[01:47:05.420 --> 01:47:11.420]   a certain need. And so our master schedules are built now for the upcoming school year. But I think
+[01:47:11.420 --> 01:47:18.060]   through attrition and analyzing the need with the help of our principals and our academic associates,
+[01:47:18.060 --> 01:47:25.260]   we could possibly, if the right person was out there and find something like that. Okay, yeah,
+[01:47:25.260 --> 01:47:31.260]   because it's not, I mean, yeah, I can't have the science teacher. It is definitely a possibility.
+[01:47:31.260 --> 01:47:37.100]   Okay, and the savings on the benefits side would strictly be being medical insurance contribution,
+[01:47:37.100 --> 01:47:42.220]   which is about three thousand for twenty a year. But would you still have to put into TRS
+[01:47:42.220 --> 01:47:47.100]   on a part-time? You would still have to put in a TRS on a part-time. Okay, on the flip side though,
+[01:47:47.100 --> 01:47:55.020]   I mean, it would still be, it would still at least be. I mean, okay, that would still,
+[01:47:55.020 --> 01:47:59.820]   still something to look at though. Because there may be some teachers who are out there too,
+[01:47:59.820 --> 01:48:03.340]   who are wanting to go ahead and put a little bit more back into TRS. But again, don't
+[01:48:03.340 --> 01:48:09.340]   need those benefits. And, you know, when we look at the staffing models, right, you've got a factor,
+[01:48:09.340 --> 01:48:14.380]   it's not that every teacher over there at the high schools is teaching eight classes because of
+[01:48:14.380 --> 01:48:20.300]   required to have their, their planning periods and so on. And so if you've got a teacher, one teacher
+[01:48:20.300 --> 01:48:27.020]   teaching three and another teacher teaching three, right, you've still got a savings because those
+[01:48:27.020 --> 01:48:34.220]   costs are based on salary, not on, like some, there's not a set number that you're putting in a
+[01:48:34.220 --> 01:48:40.220]   TRS, right? Right, there's, and there's so much to look at when we think about something like that.
+[01:48:40.220 --> 01:48:45.020]   We have, we want to make sure we provide professional development for those teachers,
+[01:48:45.020 --> 01:48:51.580]   they have to be appraised and so that adds, that adds to the administration on, you know,
+[01:48:51.580 --> 01:48:56.220]   monitoring and maintaining and employee, just the things that we do. So it's a, it's a balance that
+[01:48:56.220 --> 01:49:03.260]   just has to be evaluated once we, once we have a need like that. Well, it's, you know, when you,
+[01:49:03.260 --> 01:49:08.540]   when you get to the end of this presentation and we're looking at, hey, here's the number of pennies,
+[01:49:08.540 --> 01:49:15.340]   that's, it's pretty breathtaking. Dan, I wish I thought about this earlier, I was talking to a
+[01:49:15.340 --> 01:49:22.060]   trustee in another district and they mentioned that their salary increases, they were doing in the
+[01:49:22.060 --> 01:49:27.420]   form of a stipend so that the costs aren't ongoing. Now, that's not always a real good deal for
+[01:49:27.420 --> 01:49:38.460]   teachers because it doesn't help them going forward. But have we, you know, do we explore the possibility
+[01:49:38.460 --> 01:49:50.380]   of doing a stipend instead of a 1% and see where the legislative session gets us or some
+[01:49:50.380 --> 01:49:55.420]   our nation more in one. Okay, so you're saying do a one-time payment, they do it spread out over
+[01:49:55.420 --> 01:50:03.180]   I don't know that we've looked at that idea yet. Yeah, I mean, I don't know because I know the one-time
+[01:50:03.180 --> 01:50:11.900]   state stipend does not count towards TRA. Correct, it doesn't. And that's how that would, yeah.
+[01:50:11.900 --> 01:50:19.500]   Well, again, we can just roll it out because the last pages of this weren't pretty,
+[01:50:19.500 --> 01:50:25.580]   kind of to Shannon's point about the the students that are receiving services that are not enrolled
+[01:50:25.580 --> 01:50:31.340]   in our district. There has been some rumbling at the state level by Robin Hood District saying,
+[01:50:31.340 --> 01:50:38.380]   hello, wait a minute, we're providing services, but these kids are not counting for us in terms of
+[01:50:38.380 --> 01:50:44.780]   our Robin Hood payment. And so I think that's a real critical factor that we have got to push hard
+[01:50:44.780 --> 01:50:50.460]   in this next session that if we are providing a service for a student, then they should be counting
+[01:50:50.460 --> 01:50:57.980]   for us in our calculations on revenue per student. Just that just doesn't make any sense to me.
+[01:50:59.420 --> 01:51:06.620]   You know, we had this slide up earlier on charters. Have we considered, because we know when these
+[01:51:06.620 --> 01:51:12.780]   students are in leaving us in a rolling and something else? Do we do, I think we've touched on
+[01:51:12.780 --> 01:51:19.820]   this just a little bit, do we do an exit survey of what, what their reasons are that they're
+[01:51:19.820 --> 01:51:26.780]   choosing another option, particularly if they're choosing a charter school, which we're funding
+[01:51:26.780 --> 01:51:34.620]   with our Robin Hood dollars to have a dual public education system going on right here in the same
+[01:51:34.620 --> 01:51:40.860]   zip code. Are we doing some exit surveys where we could possibly address some of those issues
+[01:51:40.860 --> 01:51:47.580]   and keep those kids here? So there's a little bit out of my knowledge, but I can definitely
+[01:51:47.580 --> 01:51:54.380]   get the information for you. When we, when we have kids leave, we have to put in a
+[01:51:54.380 --> 01:52:03.820]   reason and a skyward. I think it's called a lever code. Okay. So we can maybe look at those and see.
+[01:52:03.820 --> 01:52:09.500]   It might be, it might be worth our while in this situation like this to go back and scrub that and see,
+[01:52:09.500 --> 01:52:15.740]   you know, is there, I can't even make up anything off the top of my head, but are there any,
+[01:52:15.740 --> 01:52:21.100]   even, you know, 10 to 20 students, if we're able to attract them back in, that helps, right,
+[01:52:21.100 --> 01:52:31.980]   because if there's some little easy thing to address, who knows? So going back to the question
+[01:52:31.980 --> 01:52:38.220]   about the amount that the property values are going up versus the cap, are we, um, so we're not
+[01:52:38.220 --> 01:52:43.980]   going to hit the two and a half percent revenue cap, do you think? Or actually, you probably don't
+[01:52:43.980 --> 01:52:53.580]   know yet, do you? Well, I really don't know, but, um, what the 2.5% is, is if you, if your increase is
+[01:52:53.580 --> 01:52:58.620]   2.5% are below, you're just going to be at the maximum from price tax rate. It's not going to go
+[01:52:58.620 --> 01:53:05.900]   down anymore. Right. At any point that you go about 2.5% that maximum price tax rate is reduced.
+[01:53:05.900 --> 01:53:16.380]   Okay, okay, that's how it works for the school district. Okay, um, see, you had us originally at
+[01:53:16.380 --> 01:53:24.060]   0.93, now we're thinking 0.91, but possibly even point, what was it, eight,
+[01:53:24.060 --> 01:53:33.580]   something? Are you looking at the impact of the budget overall? Yeah, that was, uh,
+[01:53:34.540 --> 01:53:39.580]   oh, I wrote down page 12, but that's not what it is. It was the sheet that had the tier one
+[01:53:39.580 --> 01:53:45.420]   maximum compressed tax rate. Oh, and you got 0.87 on it. Oh, eight, yes, eight, and that's what
+[01:53:45.420 --> 01:53:54.540]   because of the 4.7%. Okay, yes, it would, it would be 0.8. 941 if we had 2.5% are below,
+[01:53:54.540 --> 01:53:59.820]   0.8. That's the number of mistakes. Okay, point either. And that's an estimate at this point.
+[01:53:59.820 --> 01:54:04.140]   Right. Honestly, but, um, that's what the state is, is using right now for an estimate.
+[01:54:04.140 --> 01:54:13.740]   So remind me from the, the presentation last month, our first rating gets a hit. If we go below
+[01:54:13.740 --> 01:54:21.340]   our target, if our, well, that was another political policy. If our fund balance is reduced by more
+[01:54:21.340 --> 01:54:28.300]   than 25% in a three year period, that's right. And we wouldn't pass that. Okay, and we think we may
+[01:54:28.300 --> 01:54:32.700]   end up hitting that anyway, but refresh my memory on that one. You know what, I, that's one thing,
+[01:54:32.700 --> 01:54:39.740]   I did not go back. I, for the presentation in April, we would not have met that requirement,
+[01:54:39.740 --> 01:54:45.260]   but I did not go back and redo it with these changes. So I will, I will do that and see kind of
+[01:54:45.260 --> 01:54:56.540]   where we were. Okay, yes, that, that would be, um, really important to note. Um, the, so if we,
+[01:54:57.660 --> 01:55:06.780]   we looked at Vader options that, uh, that first, or I'm sorry, the fifth golden penny,
+[01:55:06.780 --> 01:55:16.860]   that still has to be a unanimous board vote, correct? No, no, no more. Okay. Okay. So just a majority,
+[01:55:16.860 --> 01:55:27.420]   not a super majority, just a majority. Okay. Um, aspiring, uh, and you already address the question
+[01:55:27.420 --> 01:55:37.100]   of, um, how much the amount has to go, uh, not that I'm saying I want to do this. I just want to
+[01:55:37.100 --> 01:55:47.500]   know how this, what this looks like. If, if the board did this, it would be a November election,
+[01:55:47.500 --> 01:55:52.940]   not waiting until next May, right? Yes, it would be a November. All the, all the baders are a November.
+[01:55:52.940 --> 01:55:57.900]   Oh, that's right. Duh. Yep. Okay. Um,
+[01:55:57.900 --> 01:56:05.580]   teacher incentive allotment. We put in for a cohort and I know it got pushed out. We had any
+[01:56:05.580 --> 01:56:16.460]   information from TEA on, what's our update on that? So we are in an upcoming cohort and as a
+[01:56:16.460 --> 01:56:22.140]   district, we've looked at both options. One is, I'm using the T-test model, which would
+[01:56:22.140 --> 01:56:30.380]   incentivize certain teachers, districts around us are not participating in the TIA incentive allotment.
+[01:56:30.380 --> 01:56:37.260]   And so we, the, the T-test model is not one that appeals to us. We're looking at, um, we currently
+[01:56:37.260 --> 01:56:42.860]   have one teacher who is national board certified. And so we're investigating some training that we
+[01:56:42.860 --> 01:56:50.060]   could provide and some incentives, not monetary, some training that we could, um, give our teachers
+[01:56:50.060 --> 01:56:55.500]   so that they could become nationally board certified, that way they would qualify. Um, the one teacher
+[01:56:55.500 --> 01:57:10.700]   that we have will earn an additional $3,000, we'll lower $3,000 this year. Okay. Um, that's all I have
+[01:57:10.700 --> 01:57:18.780]   for the moment. Is that a pretty, um, um, expensive training for the board certification?
+[01:57:18.780 --> 01:57:24.700]   I don't know the answer to that yet. Um, I would imagine that, um, it would be because we have one
+[01:57:24.700 --> 01:57:32.060]   person in our district that could assist us in, in training. Um, but in Texas, national board certification
+[01:57:32.060 --> 01:57:38.700]   is not as big of a thing as it is in other states. So we're on the front side of looking into it.
+[01:57:38.700 --> 01:57:48.540]   Do you have any question? Um, with the, uh, 8 million proposed deficit budget, does that include the 4%
+[01:57:48.540 --> 01:57:58.060]   that's been, uh, asked to shave off across that includes that, if you have other questions?
+[01:57:58.060 --> 01:58:00.700]   Okay.
+[01:58:06.540 --> 01:58:13.740]   Okay. All right. I have a problem with that there. Oh, do you have questions? Yeah, just a quick comment. Um,
+[01:58:13.740 --> 01:58:21.420]   so to me, you know, I know we're talking about revenue and, you know, it gets impacted because of
+[01:58:21.420 --> 01:58:26.860]   the way the tax rates work. Uh, one of the other areas I think we need to look at in, in just other
+[01:58:26.860 --> 01:58:33.020]   revenue is like flood insurance when I was looking at the breakout you, you gave us, we have one,
+[01:58:33.020 --> 01:58:38.140]   one million dollars. I mean, maybe we bump it up to 1.5 because if you historically look across
+[01:58:38.140 --> 01:58:42.540]   the board, it's used to been 1.5 or higher. We have one down here. So maybe that's something we
+[01:58:42.540 --> 01:58:48.940]   consider there. Um, I noticed another thing called e-rate revenue. We almost had like a million dollars.
+[01:58:48.940 --> 01:58:52.380]   Can you explain what that is? And if that's something we're expecting to get in the future?
+[01:58:52.380 --> 01:58:59.340]   That, that is not something we're expecting to get that large of an amount. That was, um,
+[01:58:59.340 --> 01:59:06.700]   believe that was a one-time thing. Um, sorry. The e-rate. Now on the flood control,
+[01:59:06.700 --> 01:59:12.860]   I will say I certainly can bump that up to 1.5. I mean, yeah, looking at historically, that's what
+[01:59:12.860 --> 01:59:23.180]   it's been. Um, but this month, this year I budgeted 1.5 and we got 700,000. So I mean, we can certainly,
+[01:59:23.180 --> 01:59:30.540]   we can certainly do that. Um, just that, uh, revenue source is so, um, unpredictable,
+[01:59:30.540 --> 01:59:34.860]   but that's certainly something we consider. If that's what the board would like,
+[01:59:34.860 --> 01:59:35.820]   we'd like for us to do.
+[01:59:35.820 --> 01:59:44.620]   Yeah, for e-rate, there's, there's two different categories of the e-rate. There's category one,
+[01:59:44.620 --> 01:59:49.020]   which is our one that we've had for a long time that's on your telecommunication to the internet
+[01:59:49.020 --> 01:59:54.620]   bill. And then you have priority two, which you only get so often. And priority two is where that
+[01:59:54.620 --> 02:00:00.620]   one, I think we got 1.08 million or something in our first priority two. There's another priority
+[02:00:00.620 --> 02:00:06.700]   two we're working for as well. Um, you also hear funding called ECF. That's more of the
+[02:00:06.700 --> 02:00:11.900]   stuff that came after COVID as well. That falls under the e-rate window as well. And we're working
+[02:00:11.900 --> 02:00:18.860]   on funding for that for another 790,000, um, for student devices. So we're looking at other
+[02:00:18.860 --> 02:00:25.500]   options in there. And so does that go towards capital, capital purchases or does that go to
+[02:00:25.500 --> 02:00:31.580]   operations under him now? So they'll have to answer. I know the, the one for your internet stuff,
+[02:00:31.580 --> 02:00:39.500]   go straight back to pay like for our internet side. Okay. So the, the, what'd you call it? The
+[02:00:39.500 --> 02:00:45.980]   priority two, um, that a portion of that we put in general operating last year, but a portion of it,
+[02:00:45.980 --> 02:00:54.140]   we also put in capital outlay to help offset, um, cost of devices. So, um, it's really, you know,
+[02:00:54.140 --> 02:01:00.300]   because that's where the e-rate was generated off of the purchases from capital projects funds.
+[02:01:00.300 --> 02:01:05.500]   So of that 900,000 we got last year, was that just the portion that was put just to M&O?
+[02:01:05.500 --> 02:01:11.660]   That was just the portion put in M&O. Okay. And how much went to capital? I'll have to look at it. I
+[02:01:11.660 --> 02:01:15.740]   don't know. I'll have to talk in my head. So we're not, we're not thinking, we'll get another big slug.
+[02:01:15.740 --> 02:01:21.900]   No, that was kind of like a one, a one. Just jump down to me because it was a, it was a huge
+[02:01:21.900 --> 02:01:29.980]   number. Yeah. Um, okay. So that's my revenue thing. The next point I want to touch on, where I think
+[02:01:29.980 --> 02:01:35.820]   we need a sharpener pencils is we keep talking about revenue. However, I haven't heard much discussion
+[02:01:35.820 --> 02:01:44.060]   on expense. Um, and, and we know 88, 87% of our budget is payroll. And I really look forward
+[02:01:44.060 --> 02:01:51.900]   to recommendations over the next month or two, um, based on further analysis. So we currently,
+[02:01:51.900 --> 02:01:58.060]   I mean, I'm at one slide. We've, we've identified 3.3 million. Right. But we, uh, third part of the
+[02:01:58.060 --> 02:02:05.660]   report that we received said we're over staffed 180 through people. So 24 out of 183 to me says
+[02:02:05.660 --> 02:02:11.100]   we really need a sharpener pencils and really buttoned down some things and see where we really
+[02:02:11.100 --> 02:02:19.980]   need to shift staff. Do we need to, um, stack classes where you have AP non AP stuff like that?
+[02:02:24.060 --> 02:02:32.300]   So through attrition, we're doing that. And so every time someone leaves, um, we put up at the
+[02:02:32.300 --> 02:02:40.460]   Mona spreadsheet, we have discussions with Brad and Dr. Shaver, um, the C&I department. And, um,
+[02:02:40.460 --> 02:02:45.340]   we are looking at everyone that leaves through attrition when we have a classroom teacher that's a
+[02:02:45.340 --> 02:02:51.740]   22 to one situation, elementary, we're filling those. Um, but we are looking at everyone that leaves,
+[02:02:51.740 --> 02:02:58.140]   so I do hear what you're saying. And we're, we're really making a, a very concerted 100% effort
+[02:02:58.140 --> 02:03:02.140]   to look at the people we think. Okay, because, because where I get concerned is just based on the
+[02:03:02.140 --> 02:03:09.740]   report, we got prior to this, you know, we're declining in 18, uh, and under in population. And
+[02:03:09.740 --> 02:03:14.460]   if you look at our staffing report, we were increasing. So we're increasing heading headcount,
+[02:03:14.460 --> 02:03:19.580]   but we're losing bottoms and seats for lack of a better term, which, you know, was pulled off your
+[02:03:19.580 --> 02:03:23.900]   ADA, so that's going to hurt your funding. So we're increasing our expenses, but hurting our revenue
+[02:03:23.900 --> 02:03:29.500]   stream as well. So, uh, I think we need to look at that. Another topic, I think we still need to
+[02:03:29.500 --> 02:03:34.460]   look into and haven't heard back yet is our full-time equivalent analysis on our university.
+[02:03:34.460 --> 02:03:40.220]   Uh, again, we've talked about how that's a cash cow, but we're sitting at 1400 in our budget,
+[02:03:40.220 --> 02:03:44.540]   and that's what we budgeted last year. I'm expecting to see increases on that, because I think
+[02:03:44.540 --> 02:03:48.700]   it is a great program, and it's a great product that we can offer to people. So I think we need to
+[02:03:48.700 --> 02:03:53.180]   look at that. While at the same time, if we're not going to hit a 1400 clip, then we need to look
+[02:03:53.180 --> 02:03:58.700]   at our FTE analysis there as well and see does it make sense to do this? Um, are they, are we hiring
+[02:03:58.700 --> 02:04:02.620]   those people because of the curriculum writing? Well, for doing them from curriculum writing, are we
+[02:04:02.620 --> 02:04:08.140]   selling our curriculum out there to get more revenue to up up our revenue streams? So this is
+[02:04:08.140 --> 02:04:21.500]   something to take on our advisement. So if we, what would be the things just off the top of your
+[02:04:21.500 --> 02:04:28.860]   head to get us from 24 to 183, is there something that you would say that you know, you don't want
+[02:04:28.860 --> 02:04:37.580]   to say, but is there something you would say that could do it in a fell swoop or could it get to
+[02:04:38.940 --> 02:04:49.980]   60 half of that 183? I mean, what would be the, what would be a thing, a program, whatever,
+[02:04:49.980 --> 02:04:58.220]   what would that be? What would it be that that we could do to make work out of that, make progress on
+[02:04:58.220 --> 02:05:05.420]   that number? So the method we're using right now to reduce staff is looking at reduction through
+[02:05:05.420 --> 02:05:14.140]   attrition. The only other way to, in a fell swoop, like you mentioned, would be to look at our
+[02:05:14.140 --> 02:05:21.180]   board policies. We have board policies on what a reduction in force would look like. And that
+[02:05:21.180 --> 02:05:27.020]   would be the superintendent working with the board to identify areas for reduction.
+[02:05:27.020 --> 02:05:34.620]   But what that means is employees losing their jobs. And that's not anything that we've talked
+[02:05:34.620 --> 02:05:40.700]   about here. And it's a very, very sensitive topic. And so through attrition, we're doing what you
+[02:05:40.700 --> 02:05:49.740]   just asked. There's not a way to make a larger impact unless we had every single ex kind of employee
+[02:05:49.740 --> 02:06:01.020]   resign. And that's not going to happen. Can I just, can I help in this? So with, so last, last month
+[02:06:01.020 --> 02:06:06.620]   or meeting, I think that you said that you were expecting like 200 people to, okay, so
+[02:06:06.620 --> 02:06:13.500]   they're expecting numbers. But then, I mean, so maybe the way to pose that question is
+[02:06:13.500 --> 02:06:23.020]   200 people resign. What, what is the number? Like, do you have a goal?
+[02:06:24.940 --> 02:06:31.980]   Or reductions? Well, just so how many of, and I know it depends on where they are and stuff like that.
+[02:06:31.980 --> 02:06:39.180]   But just if, if you were saying, because this, this number that the 20 or the 25 that's on there,
+[02:06:39.180 --> 02:06:44.380]   it'll be better than that. Basically that, that's, I think, the point that you were trying to make
+[02:06:44.380 --> 02:06:54.060]   or getting that. So you have an idea of like, what, what would be a goal of not having to fill?
+[02:06:55.820 --> 02:07:03.740]   Again, like you said, it depends on where the resignations are. So as a district and as a leadership team
+[02:07:03.740 --> 02:07:09.580]   working in conjunction with our principles, we're going to have to figure out when someone reads,
+[02:07:09.580 --> 02:07:16.620]   can we move these people around over here without impacting this position, this,
+[02:07:16.620 --> 02:07:21.980]   you know, who do these people serve and move them into this position here. So it is,
+[02:07:23.500 --> 02:07:28.620]   this is a new topic that has, we've been discussing it with our principles, our principles are aware
+[02:07:28.620 --> 02:07:34.940]   that we're doing this. And so when we get our daily resignations, they go in the Mr. Dinnings office,
+[02:07:34.940 --> 02:07:41.260]   he brings them over, we start that discussion right at that time. And so do I have a number?
+[02:07:41.260 --> 02:07:47.420]   I don't have a number because I don't know, we were getting resignations four and five a day,
+[02:07:48.140 --> 02:07:54.540]   they've slowed down, they've slowed down to about one every other day. And so I, each year we get
+[02:07:54.540 --> 02:08:03.820]   about 175, I do anticipate 200, but it slowed down a little bit. We were on a pretty heavy movement,
+[02:08:03.820 --> 02:08:09.820]   I don't know what that means, I don't know if we're going to get to that 200 or if we get to 225.
+[02:08:09.820 --> 02:08:17.420]   What I do know is that we are definitely making an effort to reduce staff because that is what
+[02:08:17.420 --> 02:08:28.380]   will impact the bottom line the most. So then where would you see? So when we look at the FTEs,
+[02:08:28.380 --> 02:08:34.940]   where can we maximize classes that have fewer than 22, for example?
+[02:08:34.940 --> 02:08:44.220]   So classes that have fewer than 22, you know, we've looked at that we, there was a request from
+[02:08:44.220 --> 02:08:51.660]   a board member, we've just, we've, we've turned that over to Brad and this afternoon. And so we,
+[02:08:51.660 --> 02:08:58.860]   we've analyzed all of the classes at Colville Heritage, Great Bond, CTE, aspire, everything that
+[02:08:58.860 --> 02:09:05.180]   you can look at. We know what teacher and how many they teach. If you look at that, there are some
+[02:09:05.180 --> 02:09:13.100]   classes, let's say, Chinese, we don't have a lot of kids taking Chinese. And we did a couple of
+[02:09:13.100 --> 02:09:21.820]   years ago, but that number has dropped off. And so if we cut Chinese, we cut access to those kids
+[02:09:21.820 --> 02:09:27.100]   and their programs. And so they've taken Chinese one. And one of the things we've looked at is
+[02:09:27.100 --> 02:09:32.700]   maybe not offering Chinese one in the future and letting those kids continue their programming
+[02:09:32.700 --> 02:09:37.420]   on out. But that doesn't impact us right now. And that would make a difference in the future.
+[02:09:39.420 --> 02:09:45.020]   So we've, we're looking at all of those class sizes. Did that answer your question? Okay.
+[02:09:45.020 --> 02:09:59.340]   Uh, Louis. Okay. So remind me, um, in our last board meeting, uh, it was brought to us by the
+[02:09:59.340 --> 02:10:07.660]   district excellence committee, uh, in regards to, to be a district of innovation. And we had
+[02:10:08.540 --> 02:10:15.420]   the discussion of the 22 class size, right? And if I remember right, we agreed on the 22 class
+[02:10:15.420 --> 02:10:22.300]   size, right? That's our goal as 22 students per teacher ratio. All right. So just bear with me
+[02:10:22.300 --> 02:10:28.780]   for a second. So I'm going back through our, yeah, that actually, that's a great question. Was that
+[02:10:28.780 --> 02:10:33.180]   at the, remind me, was that at the elementary level? What was that? Help me walk me through it?
+[02:10:33.180 --> 02:10:39.420]   22 to one. Um, the state of Texas says that pre K through grade four should be staffed at
+[02:10:39.420 --> 02:10:46.700]   22 to one. Um, we adjusted that so that we are going to continue to initially staff at 22 to one.
+[02:10:46.700 --> 02:10:52.700]   But when we have class sizes, class sizes over that, we're not, we're going to keep the board
+[02:10:52.700 --> 02:10:57.420]   informed. We'll keep the parents informed, but it'll give the principals and the teachers a little
+[02:10:57.420 --> 02:11:03.100]   more local control over the best needs of where to put that additional student. Okay, because it
+[02:11:03.100 --> 02:11:09.900]   goes kind of to Kohli's point. I mean, okay, yeah, we might have three classes. Let's say let's
+[02:11:09.900 --> 02:11:18.380]   just take Bear Creek or here's whatever one of our 11 elementary schools. Um, and most of them have
+[02:11:18.380 --> 02:11:25.580]   three classes per grade. We have three classes at 18. Well, you can't cut a teacher combined because
+[02:11:25.580 --> 02:11:30.220]   we're going to go over that. So my question really is, is really I'm looking at, so I'm looking at the
+[02:11:30.220 --> 02:11:36.380]   FTE program that we did our staffing review that we did here two months ago that TAS became
+[02:11:36.380 --> 02:11:42.940]   in and presented a region 11. And one of the things I wrote on page 43, and this is really talking
+[02:11:42.940 --> 02:11:48.060]   in it, you know, goes back to the 183 that you keep talking about Casey. But at the end of her
+[02:11:48.060 --> 02:11:54.780]   presentation, she said, I'm not recommending that we make 183 staff changes. She goes, yeah,
+[02:11:54.780 --> 02:11:57.820]   I mean, when you compare to other districts, but you have to look at your model,
+[02:11:57.820 --> 02:12:03.420]   what your community desires, I mean, we're graduating our first aspire class that started in third
+[02:12:03.420 --> 02:12:09.420]   grade. And so when I look at this, I actually wrote at the top of us, it's staffing versus programs,
+[02:12:09.420 --> 02:12:15.020]   because okay, yeah, we've got 23 that we're going through 17 of attrition from the elementary
+[02:12:15.020 --> 02:12:19.660]   middle school. And then we've got three from technology, um, we've got a couple others in there.
+[02:12:19.660 --> 02:12:25.980]   So 23 at three point, whatever million on the slide that we're saving. Okay, so that gets us down to,
+[02:12:26.860 --> 02:12:32.460]   you know, 160. So then I look at this and I go, okay, so then I look at middle school,
+[02:12:32.460 --> 02:12:38.860]   and in the middle school on page 43 and this staffing, it talks about projected enrollment,
+[02:12:38.860 --> 02:12:45.420]   student periods, you know, seven versus teacher period six available teachers, but it talks about
+[02:12:45.420 --> 02:12:51.900]   teacher change of 30.7. Okay, so walk me through that because then I go back and it says,
+[02:12:51.900 --> 02:13:00.540]   teacher FTE at 23. So I'm sitting here going, okay, so that's at 23. Is this a scheduling change
+[02:13:00.540 --> 02:13:06.780]   or is this a, because I mean, you're taking 30 teachers over four of our middle schools,
+[02:13:06.780 --> 02:13:13.500]   you're not just talking about staffing, you're talking about programs that were, yeah, so how,
+[02:13:13.500 --> 02:13:20.460]   their numbers are just pure mathematical calculation, but without really taking into account
+[02:13:20.460 --> 02:13:26.620]   the number of athletic periods we have at our middle schools. We are only, we are not able to
+[02:13:26.620 --> 02:13:33.100]   reduce any positions at Call of Bill Middle School period. We're able to reduce two with the others,
+[02:13:33.100 --> 02:13:39.820]   and maybe three somewhere along the way if the right kind of position were to come along. So
+[02:13:39.820 --> 02:13:47.420]   when she was saying that we could reduce 30 in report, 30 is not possible without
+[02:13:47.420 --> 02:13:53.260]   impacting programs and taking it down to the very bare bones of just instruction, and without.
+[02:13:53.260 --> 02:13:57.660]   And that's what I'm kind of getting at it, because like right here, so this is a middle school
+[02:13:57.660 --> 02:14:03.580]   teacher equity, and it's got Call of Bill Middle School reduced by 5.2, which I kind of know
+[02:14:03.580 --> 02:14:06.940]   Call of Bill Middle School, because I got a sixth grader there, and I just had my daughter graduate
+[02:14:06.940 --> 02:14:10.940]   or not graduate, moved from eighth grade now at Fresno at Call of Bill Heritage. Cross Denver says
+[02:14:10.940 --> 02:14:17.180]   five, grade by middle schools, 11.9, and heritage middle school is 7.5. And I mean, you look at
+[02:14:17.180 --> 02:14:23.500]   like heritage middle school. I mean, you've got what is it? Teacher of the Year, Josh Smith,
+[02:14:23.500 --> 02:14:31.420]   is that right? Josh Smith for GCSD. He's a second year teacher out of U&T, and we talk about
+[02:14:31.420 --> 02:14:38.860]   programs. He just increased his in two years. He went from 150 students in his band program
+[02:14:38.860 --> 02:14:46.860]   to 240. And so here we go, we got more students participating. So I mean, and that's why I wrote,
+[02:14:46.860 --> 02:14:50.940]   and I didn't write it tonight, but I wrote it then, staffing versus programs. And so that's
+[02:14:50.940 --> 02:14:59.180]   where my frustration is, is these programs have been put in place because of the 86,000 residents,
+[02:14:59.180 --> 02:15:05.580]   36,000 homes that live in our school district, because the parents won't these for our students,
+[02:15:05.580 --> 02:15:11.100]   we have a spire because parents ask for it. We have GT because we have for it. We have extra
+[02:15:11.100 --> 02:15:17.100]   curriculum, extra curriculum, extra curriculum, extra curriculum, because our parents ask for it.
+[02:15:17.100 --> 02:15:22.140]   So that's where my, I'm like, I kind of pushed back here for a second and say, hey, this 183,
+[02:15:22.140 --> 02:15:29.420]   oh yeah, it's on a piece of paper. But look, you can probably cut 20 to 40 positions through attrition,
+[02:15:29.420 --> 02:15:37.420]   even if we have 200 resign or retire, we had 46, I think, is that right? 46 graduate, I mean,
+[02:15:37.420 --> 02:15:44.860]   46 retire the other night, and they had over 1,000 years of educational experience in their
+[02:15:44.860 --> 02:15:52.220]   entire career and over 800 years of experience just in GCICD. And if you want to cut 183 positions,
+[02:15:52.220 --> 02:15:57.660]   you're cutting programs, and you can't do that in this community, because all these staffing that
+[02:15:57.660 --> 02:16:04.540]   we have has been required of our asked of us because of these parents. And so, you know, I just want
+[02:16:04.540 --> 02:16:10.220]   to remind this board that, yeah, like it says, okay, cut 30 middle school teachers, there's no way.
+[02:16:10.220 --> 02:16:16.620]   There's no way we can do that. And so it's tough from a budget standpoint because it's not
+[02:16:16.620 --> 02:16:19.900]   going to get back from a staffing standpoint, it's going to get back from a program standpoint.
+[02:16:19.900 --> 02:16:25.900]   And then when you cut a program, you're cutting opportunities for children to exceed.
+[02:16:25.900 --> 02:16:31.580]   I just want to kind of, I don't know, I don't know, because you see there's like 35 positions
+[02:16:31.580 --> 02:16:39.180]   that are special. And it's like, well, what is the quality? I mean, you're, I understand
+[02:16:39.180 --> 02:16:43.100]   what that's with it, but what is the quality of the program that we're offering versus the
+[02:16:43.100 --> 02:16:49.020]   competition? I mean, competition means our peer group, like they call them. I mean, we have 45 to 50
+[02:16:49.020 --> 02:16:58.140]   percent participation in IP. There's some of this district that had 14%, 20%, 16%. And we know that
+[02:16:58.140 --> 02:17:03.500]   preparing kids through college, we do a through IP program, we go through, through the work
+[02:17:03.500 --> 02:17:10.780]   credit. And those are, those are what make us, make us unique. And that's what this community
+[02:17:10.780 --> 02:17:16.540]   requested to us through lead 2021 over the design of this program. So this is tragic. So, you know,
+[02:17:16.540 --> 02:17:20.940]   one 85 is a number, but you really have to look at each of these groups and see what is the
+[02:17:20.940 --> 02:17:27.100]   difference in quality of services. Even, even, even in person, yes, percentage of participation or
+[02:17:27.100 --> 02:17:34.620]   identification, like dyslexia, where most of the districts are compared pretty equal to us. I mean,
+[02:17:34.620 --> 02:17:38.300]   but what is the quality of the service that they're providing? We don't know. We have to go to a
+[02:17:38.300 --> 02:17:45.340]   survey of their parents and see, are they happy or not? We know that our GT parents are extremely
+[02:17:45.340 --> 02:17:49.980]   happy with our program. And it shows right in the investment that we have done. I mean, the number
+[02:17:49.980 --> 02:17:55.420]   of kids going to college. So definitely, like you said, you have to look at the quality of the
+[02:17:55.420 --> 02:17:59.740]   program that quality of the service before making these type of decisions.
+[02:17:59.740 --> 02:18:05.740]   Well, and I'm going to speak to that directly. A week and a half ago in a Tuesday night,
+[02:18:05.740 --> 02:18:14.540]   I presented, I got asked to talk to a Boy Scout troop. There was 35 Boy Scouts there, and I was
+[02:18:14.540 --> 02:18:18.780]   talking on the first and second amendment. And the three pillars of the Boy Scouts, being a good
+[02:18:18.780 --> 02:18:23.980]   citizen, being a good leader, and have our integrity. And I got up and I explained, and most of
+[02:18:23.980 --> 02:18:27.180]   the kids, I asked them before I started, I said, how many of y'all go to private school? And how
+[02:18:27.180 --> 02:18:35.100]   many in public school? And other 35, I would say 16 to 18, or in private school, all right? And
+[02:18:35.100 --> 02:18:39.500]   the rest were in public school. And so I said, okay, did you have a choice in that? And these
+[02:18:39.500 --> 02:18:44.540]   kids raised from range from 10 to 18 years old? And then we're like, some of them raised their
+[02:18:44.540 --> 02:18:49.340]   hand that they had a choice to go to private. And so didn't raise their hand because they were younger.
+[02:18:49.340 --> 02:18:55.660]   So, and I said, well, in a public school system, we have to educate all. And I listed off some of
+[02:18:55.660 --> 02:18:59.260]   the things that we have to educate. And one of the things I said was down syndrome. But later on,
+[02:18:59.260 --> 02:19:05.420]   that not, I get an email from a dad. The kids sitting in the crowd are in the audience. His name's
+[02:19:05.420 --> 02:19:10.860]   Luke, and he goes to Nolan Catholic. He has a twin brother that goes to Colleville Middle School in
+[02:19:10.860 --> 02:19:15.660]   seventh grade and has Down syndrome. And his dad emailed me and says, the reason my son with Down
+[02:19:15.660 --> 02:19:22.620]   syndrome is that CMS is because Nolan Catholic can't educate him. And the services that we provide are
+[02:19:22.620 --> 02:19:28.060]   a lot better. And I'm like, there you go. And I'm like, that, and that goes to the special Ed
+[02:19:28.060 --> 02:19:33.340]   program into that. And that, and he came up and I got to later on, we connected and I got to meet
+[02:19:33.340 --> 02:19:38.940]   Philip from CMS. And he was, it was amazing. And he talked about how his teachers were awesome and
+[02:19:38.940 --> 02:19:43.260]   so forth. And Luke, the brother was like, hey, thanks for talking about my brother and educate
+[02:19:43.260 --> 02:19:49.420]   my brother. And private schools and charter schools don't have to do that. But as a public
+[02:19:49.420 --> 02:19:53.500]   school in the state of Texas, we do. And we have to provide that education and it goes back to
+[02:19:53.500 --> 02:19:59.900]   what Jorge says, we want to provide a quality education and quality services. And if we start cutting
+[02:19:59.900 --> 02:20:08.140]   staff to the tune of 183, we're not going to be there. Question. Okay, see. Yeah, what, I just
+[02:20:08.140 --> 02:20:13.180]   like to comment, I'm not even suggesting we cut 183, I believe in the first meeting when we had
+[02:20:13.180 --> 02:20:17.180]   this. I said, I don't even think that's the right number. Let's do an analysis. Let's just clear
+[02:20:17.180 --> 02:20:22.300]   the room with that misconception out there. No one suggests me to cut 180 people, one fell swoop.
+[02:20:22.300 --> 02:20:28.380]   You can even look at their own Tazby's own analysis. They only commented about 97 positions.
+[02:20:28.380 --> 02:20:34.140]   So there's a way through attrition, we can do this methodically and take a scalpel and carve out
+[02:20:34.140 --> 02:20:39.740]   positions that we've already found 27 since we've had this report of doing this last year.
+[02:20:39.740 --> 02:20:43.900]   I believe Dan, he said it was 12, but we ended up adding two teachers. So it was really only 10
+[02:20:43.900 --> 02:20:48.860]   their attrition, if I recall correctly. But we've been able to go through and carve out 10 teachers
+[02:20:48.860 --> 02:20:54.620]   last year before report ever came out. So what's changed this year? We need to take a scalpel
+[02:20:54.620 --> 02:21:01.900]   and have a conversation with all the admin and figure out how we can make some reductions
+[02:21:01.900 --> 02:21:07.740]   through attrition that are necessary. Look, my kids in dyslexia, so no one suggests and cut dyslexia,
+[02:21:07.740 --> 02:21:12.700]   and no one's suggesting cut special aid. We all love special aid. My mom taught for 35 years
+[02:21:12.700 --> 02:21:18.300]   in the district. So this attack that I perceive as a fact saying we want to cut this up,
+[02:21:18.300 --> 02:21:27.180]   it's an emotional attack. We have to use some sound financial analysis and really cut costs
+[02:21:27.180 --> 02:21:32.060]   where we can. And I believe that's what we're doing. I mean, we talked about, we're looking.
+[02:21:32.060 --> 02:21:36.780]   Every Jima has a spreadsheet, every position that's coming available through attrition. And I mean,
+[02:21:36.780 --> 02:21:45.660]   we're going through that process. But it may not be a large, right now we're trying to do what we
+[02:21:45.660 --> 02:21:52.140]   can without impacting programs. Now, if we get to a point where we are asked to look further to do
+[02:21:52.140 --> 02:21:57.500]   that, then it would impact programs. But we are really, I mean, we are being very methodical
+[02:21:57.500 --> 02:22:04.380]   and looking and seeing what would the impact be if we do not replace this position? And I know
+[02:22:04.380 --> 02:22:09.740]   they have spent a lot of time looking at the master schedule for secondary. And that's how she knows
+[02:22:09.740 --> 02:22:13.900]   for call it a middle school lot. There's absolutely like she's looked at the master schedule. There's
+[02:22:13.900 --> 02:22:19.740]   absolutely no reduction. And the whole point of this was to start a dialogue and get the ball rolling,
+[02:22:19.740 --> 02:22:28.060]   not six. This isn't gospel. This is a starting point. And I had a call last week from a principal
+[02:22:28.060 --> 02:22:32.780]   and the academic associate principal and they said a page and then we're really, you know, I know
+[02:22:32.780 --> 02:22:37.500]   we are looking at counselors and looking at this position and this one. Let me tell you what I found
+[02:22:37.500 --> 02:22:43.580]   in my staffing and what do you think about this moving forward? And so our principals are now talking
+[02:22:43.580 --> 02:22:50.620]   about this also. They know. They know about the study. They watch the discussions. And so it's a very
+[02:22:50.620 --> 02:22:55.980]   important thing that we're doing right now to reduce the amount of money that we're spending on
+[02:22:55.980 --> 02:23:00.780]   teachers. And so through attrition, we're getting the word out and the discussions are happening
+[02:23:00.780 --> 02:23:07.260]   every day. Yeah, I think that we also had to talk about programs and quality of service.
+[02:23:07.260 --> 02:23:11.100]   I think that those are things that are different and we need to talk about that together,
+[02:23:11.100 --> 02:23:17.260]   like special needs, we're not going to eliminate special needs, of course, for the quality of
+[02:23:17.260 --> 02:23:24.140]   the service is what is important. Right? So I mean, eliminating DT is one thing offered in UT,
+[02:23:24.140 --> 02:23:30.620]   but not offering the quality of the service. That's also the decision that we hopefully consider.
+[02:23:30.620 --> 02:23:37.660]   Because we want to have the programs at a high quality of service. And I think to Casey's point
+[02:23:37.660 --> 02:23:44.380]   is that, you know, we're all very innovative and we can come up with creative solutions. I mean,
+[02:23:44.380 --> 02:23:51.500]   so I think, you know, Becky, you had some good ideas. I mean, there's ways to think outside
+[02:23:51.500 --> 02:23:58.860]   of the box and the stuff. And sometimes I think when we get pushed to a brink of, you know,
+[02:23:58.860 --> 02:24:05.340]   getting creative that I really do think we can rise to the challenge of that. I would like to
+[02:24:05.340 --> 02:24:11.100]   speak to the private school things. I have a child that attended four years at private school.
+[02:24:11.100 --> 02:24:18.700]   And I will say that one of the differences is when you increase rigor, your on-level courses
+[02:24:18.700 --> 02:24:25.980]   should be, in my opinion, in my view, enable you to, you should be able to do on-level classes
+[02:24:25.980 --> 02:24:33.260]   and go to college. So, you know, everything doesn't have to be AP-oriented. Because again,
+[02:24:33.260 --> 02:24:39.820]   I think we get an arat race here with how many AP classes can we take? And I don't necessarily
+[02:24:39.820 --> 02:24:47.260]   think that that quantity equates to quality. So I'm just throwing that out there. It's a different thought
+[02:24:47.260 --> 02:24:55.180]   process. I think though of private schools, they get to select students who are able to meet that
+[02:24:55.180 --> 02:25:00.460]   rigor, whereas we don't have that privilege in the public education to pick students who can
+[02:25:00.460 --> 02:25:09.100]   always meet that level of rigor. There's kids that fail out. There's kids that don't make it. So
+[02:25:09.100 --> 02:25:15.820]   it's not that everybody's there is, you know, valedictorian. And, you know, there's kids that
+[02:25:15.820 --> 02:25:21.340]   have all the same issues that we have in public schools. So...
+[02:25:23.260 --> 02:25:26.140]   Any other comments before we move on to what Becky?
+[02:25:26.140 --> 02:25:36.300]   Yeah, so I think kind of the Jorge's point, there are some other values to our parents and our
+[02:25:36.300 --> 02:25:43.900]   taxpayers, just using AP as one example, the savings that parents get out of being able to submit
+[02:25:43.900 --> 02:25:51.260]   those AP classes for college credit versus that's not an option for just a regular-on-level class.
+[02:25:52.220 --> 02:26:00.220]   So that's one thing, kind of those intrinsic add-ons value adds to the programs that we do offer
+[02:26:00.220 --> 02:26:07.100]   here in GCSD. I do remember that one of the concerns that we had about the staffing study, too,
+[02:26:07.100 --> 02:26:12.380]   was also the Jorge's point is comparing to districts with similar academics and programs.
+[02:26:12.380 --> 02:26:17.020]   And I don't think we've seen enough information like that yet. I'm not trying to burden you
+[02:26:17.020 --> 02:26:24.380]   on more on that. I will say, I will push back not real happy about the possibility of cutting
+[02:26:24.380 --> 02:26:33.180]   counselors, not at all. I'm just going to say that right off the bat. I think counselors provide
+[02:26:33.180 --> 02:26:41.580]   some really critical services and I'm just at a loss to see how we can do that at the high school,
+[02:26:41.580 --> 02:26:50.540]   add more to the counselors with less staff. Going back to using metrics that are meaningful,
+[02:26:50.540 --> 02:26:55.100]   thinking about, and this is why I want to add more of the charter information for us,
+[02:26:55.100 --> 02:27:01.260]   because I know that other districts around us, they have a lot more kids that are getting sucked
+[02:27:01.260 --> 02:27:09.020]   into charter schools. To see our number at 155 is very gratifying, and the fact that no charter
+[02:27:09.020 --> 02:27:16.780]   has dared set foot in our attendance zone boundary. The GCISD actual physical boundaries yet,
+[02:27:16.780 --> 02:27:22.700]   I think speaks volumes, but I think it would behoove us to ask our neighboring districts,
+[02:27:22.700 --> 02:27:30.940]   ask H.E.B., ask U.S. Kappell, ask Burtville, how many of your kids are in charter schools?
+[02:27:30.940 --> 02:27:36.620]   Because if we see, you know, you look at that list that we saw earlier, that map,
+[02:27:37.900 --> 02:27:41.660]   they tend to, you know, they're going to try to fill a niche, they're marketing,
+[02:27:41.660 --> 02:27:48.060]   they got a big billboard on one 21 right now, reserve your spot, I'm like, reserve your spot,
+[02:27:48.060 --> 02:27:54.300]   there's a spot in our campuses for every single kid that walks in the door, and so if they're
+[02:27:54.300 --> 02:28:01.980]   creating some kind of cache of some exclusivity or something, you know, are they drawing kids
+[02:28:01.980 --> 02:28:10.140]   from those neighboring school districts in, with an offering of a perceived quality program
+[02:28:10.140 --> 02:28:17.420]   that we already offer here within GCISD. And so I would like to know, because I would think that
+[02:28:17.420 --> 02:28:23.900]   this is, I've seen this, I've seen this report somewhere, whether it was from TEA, but of how many
+[02:28:23.900 --> 02:28:30.860]   students are surrounding districts have going to those charters, I think will kind of inform us,
+[02:28:30.860 --> 02:28:35.260]   because not all of our surrounding districts offer the programs that we have, and that's why you
+[02:28:35.260 --> 02:28:45.420]   see that high number of transfers in as well. But I do agree that, I think there's some additional
+[02:28:45.420 --> 02:28:54.860]   options out there for some innovative revenue enhancement that doesn't stick it to our taxpayers,
+[02:28:56.700 --> 02:29:02.220]   and I think some additional explorations probably more did, and some of the things we talked about
+[02:29:02.220 --> 02:29:05.500]   here, and maybe some of the other things that are happening in other school districts across the
+[02:29:05.500 --> 02:29:11.500]   state. Oh, do we have questions or colleagues? Well, and so if we increase ADA and we have
+[02:29:11.500 --> 02:29:18.780]   kids transferring in, what qualifies a student to transfer in? And if we change the parameters,
+[02:29:18.780 --> 02:29:26.620]   do we have room for more kids? So right now our transfer policy is if you live in the city of
+[02:29:26.620 --> 02:29:32.700]   Great Bonne or Colleyville, but you're not within the GCSD school district boundaries,
+[02:29:32.700 --> 02:29:37.420]   you can come to the district.
+[02:29:37.420 --> 02:29:49.820]   Louis? So I may have the wrong page number, but on the email you sent us
+[02:29:52.220 --> 02:30:04.860]   on May 6 with your draft proposal, where it says 2022, 2023, and I'm asking about a specific,
+[02:30:04.860 --> 02:30:12.220]   going to Councillors. It says for pose, position adjustments, in there on line item 5, it says
+[02:30:12.220 --> 02:30:21.260]   high school Councillors to at 148,000, just call it $149,000 in pay reduction because of the two
+[02:30:21.260 --> 02:30:25.820]   Councillors. But when I look, is that the two Councillors from Colleyville Heritage High School?
+[02:30:25.820 --> 02:30:29.740]   And the only reason I know that is because of the retirement dinner sitting at the table at two
+[02:30:29.740 --> 02:30:35.900]   is that the two that you're looking at? Because then when I look at the staffing report,
+[02:30:35.900 --> 02:30:44.140]   they show us on page 15 exhibition 10 on Councillors, chose Colleyville Heritage High School,
+[02:30:44.140 --> 02:30:52.780]   proposed change zero, the only Councillor proposed change was a half of a person at collegiate
+[02:30:52.780 --> 02:30:59.740]   academy. Right, so that was not one of the recommendations from Cassidy, that recommendation came
+[02:30:59.740 --> 02:31:11.420]   through talks with campus administrators. And how does that, I mean, how many Councillors do we have
+[02:31:11.420 --> 02:31:18.060]   at Colleyville Heritage High School? So there are five Councillors in one student advocate.
+[02:31:18.060 --> 02:31:26.860]   Right now, the lead Councillor does not have a student caseload, and we'll be looking at moving
+[02:31:26.860 --> 02:31:34.140]   forward the lead Councillor having some student caseload. And what does that mean, explain?
+[02:31:34.140 --> 02:31:39.740]   Because the reason I'm saying, I'm going to be selfish here, I'm the only sitting board member
+[02:31:41.020 --> 02:31:45.500]   that represents Colleyville Heritage High School. And I'm out of this board, I'm out of this
+[02:31:45.500 --> 02:31:50.940]   board on May 23rd, and the two that got elected, no one represents Colleyville Heritage High School.
+[02:31:50.940 --> 02:31:55.660]   And so I have a daughter at freshman, a freshman there, and we just had two individuals
+[02:31:55.660 --> 02:32:00.300]   retire, and the first week of school when I was up there three days in a row, there was parents
+[02:32:00.300 --> 02:32:05.900]   up there helping the Councillors because they were so overwhelmed, and I'm just curious on the
+[02:32:05.900 --> 02:32:12.860]   Councillor to student ratio. The two Councillors that did resign from Colleyville Heritage,
+[02:32:12.860 --> 02:32:18.780]   we did replace one of those, we have a great van high school Councillor that is moving the
+[02:32:18.780 --> 02:32:27.260]   great van little school, okay, and so Councillors like assistant principals have a part of the alphabet,
+[02:32:27.820 --> 02:32:37.820]   right, and so that will continue, and so all students will have a designated Councillor designated
+[02:32:37.820 --> 02:32:45.500]   assistant principal. Okay, and what is the, we got an email this week as a board, and I know it was from
+[02:32:45.500 --> 02:32:55.580]   what's the ratio, or what is the recommended ratio, and then what is really needed, from a state
+[02:32:55.580 --> 02:32:59.900]   level, what's the recommended ratio of student to Councillor, but what really is needed?
+[02:32:59.900 --> 02:33:02.940]   I can get that for you and put it in the board update. All right, thank you.
+[02:33:02.940 --> 02:33:10.140]   Oh, okay, so go ahead. Yeah, I just wanted to point out in terms of
+[02:33:10.140 --> 02:33:15.740]   quality of programs that we offer at GCISD, we offer great programs, and when you look at the
+[02:33:15.740 --> 02:33:20.540]   staffing report and you compare it to the other peer districts, we actually ran the report,
+[02:33:20.540 --> 02:33:25.900]   and when you look across the board star, we outperform half and half out form us roughly,
+[02:33:25.900 --> 02:33:32.140]   AP participation, all these other great things that we do with GCISD, we also see that
+[02:33:32.140 --> 02:33:38.380]   we're close to par or on par, or maybe even a little blow on some of these other school districts,
+[02:33:38.380 --> 02:33:43.500]   so I think it would be very beneficial if we as a district went and spoke to some of these other
+[02:33:43.500 --> 02:33:49.820]   districts like Wiley, Rockwall, so forth, and ask them, what are you doing, maybe that we're not
+[02:33:49.820 --> 02:33:56.620]   considering and is a best practice? And in return, here's things we're doing as a best practice
+[02:33:56.620 --> 02:34:01.180]   that we can then give to you guys, because at the end of the day, we all want the kids to be educated,
+[02:34:01.180 --> 02:34:06.380]   have a great school experience, and go on and be a good community member.
+[02:34:06.380 --> 02:34:16.540]   I just had a comment on the case in my comment about university prep, and I seem that you have a
+[02:34:16.540 --> 02:34:22.860]   4,400 student, so it'll be great to start looking at, I mean, I know we do a really good job
+[02:34:22.860 --> 02:34:25.900]   with them, we have a great product, I don't know where we're going to select this, so because we
+[02:34:25.900 --> 02:34:33.420]   want to have this kids to pass a complete courses, but that is a great product that I feel we need
+[02:34:33.420 --> 02:34:40.540]   to look into expanding, and maybe a little more rapid rate than what we planned, but you know,
+[02:34:40.540 --> 02:34:46.220]   it is a great product, there's a demand out there, it's about maybe executing some sort of plan to
+[02:34:46.220 --> 02:34:51.580]   try to increase it a little bit more, so that's just another way of, you know, increasing our
+[02:34:51.580 --> 02:35:01.020]   revenue. So yeah, yeah. Do you want to move on to the presentation? Yes. Thank you, thank you for
+[02:35:01.020 --> 02:35:11.900]   the questions. All the discussions, we now have Josh with that. So thank you for doing that.
+[02:35:13.340 --> 02:35:23.100]   He was probably hoping that I'd be finished with this. Oh, password. Do you know the password?
+[02:35:23.100 --> 02:35:27.740]   Do you have an onsticking it?
+[02:35:27.740 --> 02:35:41.500]   No? Let's take a five-minute break. Okay, thank you.
+[02:35:41.500 --> 02:35:47.500]   You're welcome. Yeah, good, good. It's a little early for the Casey break.
+[02:36:11.500 --> 02:36:13.500]   you.
+[02:36:41.500 --> 02:36:43.500]   you
+[02:37:11.500 --> 02:37:13.500]   you
+[02:37:41.500 --> 02:37:43.500]   you
+[02:38:11.500 --> 02:38:13.500]   you
+[02:38:41.500 --> 02:38:43.500]   you
+[02:39:11.500 --> 02:39:13.500]   you
+[02:39:41.500 --> 02:39:43.500]   you
+[02:40:11.500 --> 02:40:13.500]   you
+[02:40:41.500 --> 02:40:43.500]   you
+[02:41:11.500 --> 02:41:13.500]   you
+[02:41:41.500 --> 02:41:43.500]   you
+[02:42:11.500 --> 02:42:13.500]   you
+[02:42:41.500 --> 02:42:43.500]   you
+[02:43:11.500 --> 02:43:13.500]   you
+[02:43:41.500 --> 02:43:43.500]   you
+[02:44:11.500 --> 02:44:13.500]   you
+[02:44:41.500 --> 02:44:52.500]   >> All right. We'll back.
+[02:44:52.500 --> 02:44:57.500]   >> Let's get going.
+[02:44:57.500 --> 02:45:11.480]   >> So I just want to kind of win the two presentations together. I know during my presentation, we talked about the Vader and the additional funding that that was
+[02:45:11.480 --> 02:45:41.460]   going to provide kind of to reiterate and kind of go into these conversations. I know I spent some time talking about the Vader tonight. And I promise you we are continuing to go through on the expenditure side. But with the deficit that we're looking at to get there with just reductions, we would, we would definitely be impacting program.
+[02:45:41.460 --> 02:46:06.460]   So the Vader side is just that additional revenue that we frankly are not getting from the state. And so during my presentation, I mentioned, you know, really having to look at both sides of the tax rate. And so this is looking at the scenarios we have on the INS tax rate.
+[02:46:06.460 --> 02:46:35.460]   And kind of when we talk about the INS tax rate, we have to look at how that impacts our future. Because with being a recapture district, we rely very heavily on these bond funds to take care of our capital needs. Because you've seen our budget. I provided you the detail in our budget. There's not a lot out of available for technology or capital outlay.
+[02:46:35.460 --> 02:46:57.460]   We try to move as much of that as we can to the INS side because we get to keep 100% of those funds. And so in having these discussions is important to look at what would be the impact of making changes on the INS tax rate side. And so that's what Josh is going to present tonight.
+[02:46:57.460 --> 02:47:09.460]   Okay, and I have a question about the salary stable that you gave us. There's two districts that had these double stars, McKinney and actually three McKinney, Irvine and then what, what does that mean?
+[02:47:09.460 --> 02:47:19.460]   Okay, that is a task be thing. I believe that's a hiring. Do you remember Jenna?
+[02:47:19.460 --> 02:47:33.460]   You can tell us later you don't remember, but I just I use a nice. Scales versus the skills that I'm not quite sure. So we will, we will find out for sure.
+[02:47:33.460 --> 02:47:34.460]   Okay, thank you.
+[02:47:34.460 --> 02:47:41.460]   All right.
+[02:47:41.460 --> 02:47:48.460]   Good evening, pleasure to see you all again. I will try to make this as brief as possible knowing you've been here for a while tonight.
+[02:47:48.460 --> 02:47:56.460]   The first two slides, talking about the savings, the district has achieved by managing its portfolio.
+[02:47:56.460 --> 02:48:08.460]   This has been updated since last time I've been out here for a combination of the refunding programs we did late last year as well as the pre pane of bonds that you have done this year, but
+[02:48:08.460 --> 02:48:24.460]   by incorporating variable rate debt, refinancing your debt at a lower rate or pre paying bonds prior to funnel maturity. Since 2005 the district has been able to lower its bond cost by over 132.1 million.
+[02:48:24.460 --> 02:48:44.460]   I'll say they get 132.1 million. It's very large number. So congratulations there. When we look at refunding programs you have implemented 10 different refunding programs, refinancing your debt at a lower rate, and then looking at the pre payment of bonds, which is really outstanding.
+[02:48:44.460 --> 02:48:56.460]   You've been able to pay off almost 67 million prior to funnel maturity, saving all that interest cost of about 53 million, including 10.6 million during the current fiscal year.
+[02:48:56.460 --> 02:49:16.460]   We look at the tax rates. Obviously you've seen this before you know where you stand, but currently 9534 on the M&O side of the equation. And for the INS, which we'll focus on tonight, you're currently at 32.17, which was a reduction of two and a half cents from last year.
+[02:49:16.460 --> 02:49:38.460]   As you've seen this, even though your overall tax rate has declined, when you look at average tax bill for a homeowner it has gone up, primarily because the average taxable home values within the district has gone up by almost 32 percent over last five years.
+[02:49:38.460 --> 02:49:58.460]   This gives you a look at your current debt portfolio as it stands right now. As of May 1, you have 341 million roughly bonds outstanding. You're currently rated a double a1 at Moody's and double a plus at S&P, which is the highest rating S&P gives the school district.
+[02:49:58.460 --> 02:50:15.460]   But if you look your current year debt service is about $60 million. Next year for 2223, unless you prepay bonds again, your bond payments would go down to roughly 41 million.
+[02:50:15.460 --> 02:50:27.460]   As such, you have some flexibility on the debt service side to adjust your tax rate as you deem appropriate.
+[02:50:27.460 --> 02:50:38.460]   This gives you a look at your bonds outstanding out of the 340 million. You have 223.9 million as callable prior to final maturity.
+[02:50:38.460 --> 02:50:50.460]   Those call dates come up over the next few years. So again, you have plenty of bonds to prepay should you want to continue down that road.
+[02:50:50.460 --> 02:50:59.460]   This gives you a look at the bond buyer index in case you are wondering what municipal interest rates are doing. They're doing the exact same thing taxable interest rates are doing. Everybody's worried about inflation.
+[02:50:59.460 --> 02:51:07.460]   So rates are going higher. Every time I say the index isn't going to go higher. I've been wrong so I'm just going to keep my mouth shut tonight.
+[02:51:07.460 --> 02:51:26.460]   The reality is we do expect rates to go higher from here how much higher is just going to be a function of some economic data and how well the federal Fed funds increases will actually slow down the economy.
+[02:51:26.460 --> 02:51:42.460]   In terms of tax values you've seen this before, but last year your tax base was roughly 15.45 billion. We are projecting it goes up to over 16 for purposes of list analysis.
+[02:51:42.460 --> 02:51:58.460]   The reality is this will change about 20 times between now and when you're certified values hit on July 25th. I saw in the earlier presentation you were projecting a 7% growth.
+[02:51:58.460 --> 02:52:21.460]   This takes that into account but we're showing it on that basis after the elections that happened this weekend to increase the homestead exemption, as well as not next year but the year after the frozen levy for folks who are over 65 will be reduced and that tends to be a pretty big number.
+[02:52:21.460 --> 02:52:35.460]   We look at the last 5 years based upon these figures you're growing over 5 or 10 year period about $575 million a year which is roughly 4% growth.
+[02:52:35.460 --> 02:52:54.460]   We took a look at assuming a May 24 bond election what your bond capacity would be based upon 11 different tax rates in the areas. Anywhere from maintaining your current tax rate just at 32.17 cents going all the way to 22.17.
+[02:52:54.460 --> 02:53:07.460]   This is the district did not prepay bonds next year. You could reduce your tax rate by that 10 cents all the way down to 22.17.
+[02:53:07.460 --> 02:53:32.460]   This is the bond program we looked at it pre advertising the bonds over 25 year period typically that's what we've done every time you've done a new bond program however we're not selling 25 year bullets we are paying bonds off on an annual basis short term projects will be paid over a short term software equipment will be paid over the first 5 years if we as we've historically done.
+[02:53:32.460 --> 02:53:41.460]   In terms of interest rates we've assumed 5% the reality is who knows what interest rates are so we're going to be a little conservative layer.
+[02:53:41.460 --> 02:53:52.460]   We've looked at pre paying a portion of your bonds the next couple of years in order to maintain their targeted tax rate and we've assumed the tax collection rate of just under 99%.
+[02:53:52.460 --> 02:54:04.460]   But if you look at this particular slide at your current INS tax rate the district would have bond capacity of just over 335 million.
+[02:54:04.460 --> 02:54:30.460]   Let declined every time you lower the INS tax rate 308 at a 1 cent reduction 280 at a 2 cent reduction all the way down and when you get to 22.17 the reality is when you still have bond capacity it would come with a tax rate thank you.
+[02:54:30.460 --> 02:54:50.460]   The numbers that support this are the next two pages I'm a focus on column B and let you go down at your leisure but you look at the INS tax rate in blue you're at 32.17 keeping at the same or be no change in your overall tax rates are no impact homeowners.
+[02:54:50.460 --> 02:54:59.460]   You would be able to pre pay roughly 35 million dollars of bonds over the next two years saving an additional 9 million dollars.
+[02:54:59.460 --> 02:55:07.460]   Well we look at the new bond program you would be able to amortize roughly 88 million over the next 10 years.
+[02:55:07.460 --> 02:55:24.460]   And the reason we look at that again is short term projects that you typically fund in your bond program so if we were looking at a large technology piece you would be able to pre pay or repay roughly 32 million dollars in the first five years.
+[02:55:24.460 --> 02:55:35.460]   If we go all the way to scenario six to sort of give you an extreme on that page instead being able to pre pay 35 million you can now only pre pay 18.
+[02:55:35.460 --> 02:55:58.460]   If we were looking at amortization within the first five years instead being able to pre you know repays roughly 33 million dollars roughly paying off 12 million.
+[02:55:58.460 --> 02:56:06.460]   You're not amortizing anything in your bond capacity would come with a tax rate.
+[02:56:06.460 --> 02:56:15.460]   I know I went through that quickly I'll be happy to answer any questions you have any questions from the board.
+[02:56:15.460 --> 02:56:34.460]   I got to admit I don't even remember bonds being on the interim charges for both the House of the Senate that you're not in your head so maybe there is something there.
+[02:56:34.460 --> 02:56:56.460]   Got any feeling for what might be on the horizon in the next lunch session that would make this harder to do. Absolutely I don't even aware to start with that so in terms of Senate charges they're looking not only at bond efficiency when you're going to have the election, but you know voter turnout as well.
+[02:56:56.460 --> 02:57:16.460]   So just to give you a little recap this weekend was one of two bond election days throughout this year, so this weekend there were 124 school districts that went out for a bond election for over 16 and a half billion dollars.
+[02:57:16.460 --> 02:57:37.460]   To say that it's got the attention folks in Austin would be an understatement typically we look at mail elections and say there's low voter turnout and the argument is always been if there's low voter voter turnout, how can you authorize so many bonds during that particular cycle.
+[02:57:37.460 --> 02:57:56.460]   Of these charges they're looking at probably three things that you'll see come out in various forms for during the next session, one would be to eliminate mail elections altogether and move everything to one election date in November.
+[02:57:56.460 --> 02:58:14.460]   One would be, as Governor Abbott put it in his proclamation would be to change mail elections to require a super majority to pass, meaning a still a simple majority one vote, it would now have to pass by two thirds votes.
+[02:58:14.460 --> 02:58:26.460]   The component to that would be to change a voter turnout and require what we've seen thrown around is 25% of your voting population turnout for the vote.
+[02:58:26.460 --> 02:58:43.460]   The only time you get that is during a contested presidential election, which would essentially just move everything to one election date in May or in November.
+[02:58:43.460 --> 02:59:01.460]   There will obviously be a push not only folks from in my industry that architects and construction managers to try to halt that effort, but I do anticipate seeing that legislation because that legislation has been introduced and one former fashion over the last two sessions.
+[02:59:01.460 --> 02:59:23.460]   And when you talk about Robinton districts that is really determinant because this is the only part that we have really much control over that that's one thing I wanted to reiterate and remind people is that GCSD receives no funding for facilities or capital outlay from the state.
+[02:59:23.460 --> 02:59:34.460]   Any of the bonds that did pass hit any of those threshold, I mean, obviously probably not the 25% but did any of them hit a super majority probably I can't think.
+[02:59:34.460 --> 02:59:41.460]   I know some that fell by a super majority 72% but kicking but.
+[02:59:41.460 --> 02:59:52.460]   There, yes, there were a handful that achieved greater than two thirds, but it was far less than that for everybody else and just to give you an eye.
+[02:59:52.460 --> 03:00:02.460]   To give you an idea out of the 124 elections, there were two hundred and five propositions only a hundred and four pass.
+[03:00:02.460 --> 03:00:13.460]   Yeah, because you have to break it out now, and the top of the ballot says whether you were actually anticipating attacks right, I mean, here's the deal right you could you could.
+[03:00:13.460 --> 03:00:25.460]   Put any one of these on the ballot and we're going to be required to put at the top this will result in a tax increase, even if it doesn't, yes, soon.
+[03:00:25.460 --> 03:00:34.460]   Well, really it is a tax increase because if you weren't going to have the bond your rate would go down right so you have to increase it back up to pay the bond.
+[03:00:34.460 --> 03:00:43.460]   And the flip side of that is you don't have your values grow, even if you kept the same tax rate you're paying more taxes.
+[03:00:43.460 --> 03:00:47.460]   Any other questions?
+[03:00:47.460 --> 03:00:57.460]   Okay, thank you so much, thank you appreciate it.
+[03:00:57.460 --> 03:01:05.460]   You don't have anything else for yourself.
+[03:01:05.460 --> 03:01:09.460]   Are these your questions from the world where we close?
+[03:01:09.460 --> 03:01:14.460]   Okay, do you have anything to add your emotions that you're I'm sorry, I'll make a motion that way adjourned.
+[03:01:14.460 --> 03:01:16.460]   Okay, so a second.
+[03:01:16.460 --> 03:01:18.460]   Okay, any discussion?
+[03:01:18.460 --> 03:01:31.460]   All in favor, please, there's your hand.
+[03:01:31.460 --> 03:01:37.460]   Okay, all in favor, please, there's your hand.
+[03:01:37.460 --> 03:01:40.460]   Motion passes 1, 2, 3, 4, 5, 6, 0.
+[03:01:40.460 --> 03:01:49.460]   Motion on your A16, yeah.

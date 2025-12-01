@@ -1,0 +1,1441 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:04:55.000]   [BLANK_AUDIO]
+[00:04:55.000 --> 00:04:58.840]   Good afternoon, we will call this special meeting of the Great Bend Colleville Board of Trustees
+[00:04:58.840 --> 00:05:05.640]   to order on August 14, 2023 at 530, all trustees are present.
+[00:05:05.640 --> 00:05:09.760]   Our first item on the agenda is a workshop for Robert's Rules of Order.
+[00:05:09.760 --> 00:05:12.760]   My Glesser will be conducting training for us.
+[00:05:12.760 --> 00:05:14.760]   Thank you so much for being here.
+[00:05:14.760 --> 00:05:15.760]   Yep?
+[00:05:15.760 --> 00:05:24.760]   [BLANK_AUDIO]
+[00:05:39.760 --> 00:05:49.760]   [BLANK_AUDIO]
+[00:06:09.760 --> 00:06:19.760]   [BLANK_AUDIO]
+[00:06:19.760 --> 00:06:20.760]   A lot of meetings.
+[00:06:20.760 --> 00:06:22.760]   I've seen the rules used in a very positive way.
+[00:06:22.760 --> 00:06:24.760]   I've seen them used in a very negative way.
+[00:06:24.760 --> 00:06:27.760]   So I would tell you I want you to be a good board and keep them positive and
+[00:06:27.760 --> 00:06:30.760]   keep the meeting moving forward and that's really what they're there for more than
+[00:06:30.760 --> 00:06:31.760]   anything else.
+[00:06:31.760 --> 00:06:38.760]   So to get us started today, well, first I have to tell because I am a lawyer and
+[00:06:38.760 --> 00:06:40.760]   does need to know this.
+[00:06:40.760 --> 00:06:44.760]   What's black and brown and looks good on a lawyer?
+[00:06:44.760 --> 00:06:45.760]   A doberman.
+[00:06:45.760 --> 00:06:48.760]   The other thing is see, she laughed.
+[00:06:48.760 --> 00:06:50.760]   I knew she would laugh.
+[00:06:50.760 --> 00:06:53.760]   What is 25 lawyers parachuting down?
+[00:06:53.760 --> 00:06:54.760]   Skeet.
+[00:06:54.760 --> 00:06:57.760]   So for those of you who've been Skeet shooting, you get that joke much better than
+[00:06:57.760 --> 00:06:58.760]   those who haven't.
+[00:06:58.760 --> 00:07:01.760]   So there's my two lawyer joke for the day they're out of the way.
+[00:07:01.760 --> 00:07:06.760]   So today's topics, Robert's Rules of Order, we've got a couple of things we're
+[00:07:06.760 --> 00:07:08.760]   doing on the agenda.
+[00:07:08.760 --> 00:07:12.760]   We're going to talk real quick about principles, essential elements, motion categories,
+[00:07:12.760 --> 00:07:16.760]   make it a motion steps, points of order and kind of there's a cheat sheet there at
+[00:07:16.760 --> 00:07:17.760]   the end for you.
+[00:07:17.760 --> 00:07:20.760]   You're welcome to keep this presentation downloaded.
+[00:07:20.760 --> 00:07:23.760]   Use it however you see fit to assist you.
+[00:07:23.760 --> 00:07:28.760]   I know there's various cheat sheets that are out there in the world of the internet.
+[00:07:28.760 --> 00:07:32.760]   With regard to Robert's Rules, you can download any number of them.
+[00:07:32.760 --> 00:07:36.760]   Robert's Rules, Robert's actually sells one, that's a laminated card.
+[00:07:36.760 --> 00:07:38.760]   That's a pretty good one that I've seen that I like.
+[00:07:38.760 --> 00:07:42.760]   It just can be very confusing because it gets to be a lot of information on a
+[00:07:42.760 --> 00:07:44.760]   big card is what it amounts to.
+[00:07:44.760 --> 00:07:48.760]   So hopefully we won't take too long and y'all can get onto your regular
+[00:07:48.760 --> 00:07:49.760]   business tonight.
+[00:07:49.760 --> 00:07:53.760]   If you have any questions as we go through though, don't hesitate to ask.
+[00:07:53.760 --> 00:07:54.760]   So what is it?
+[00:07:54.760 --> 00:07:56.760]   What is Robert's Rules of Order?
+[00:07:56.760 --> 00:08:02.760]   I actually was developed by a US Army officer named Henry Robert in 1876.
+[00:08:02.760 --> 00:08:06.760]   So it's not Robert's Rules of Order, just one s with an apostrophe there.
+[00:08:06.760 --> 00:08:10.760]   It's a procedure that assists in governance assemblies for facilitating
+[00:08:10.760 --> 00:08:12.760]   discussion and decision making.
+[00:08:12.760 --> 00:08:16.760]   Now you see it used in the state legislature or in the US house or senate
+[00:08:16.760 --> 00:08:20.760]   or whatever it might be to a very intricate degree.
+[00:08:20.760 --> 00:08:24.760]   They also have their own rules that they follow with regard inside of Robert's Rules
+[00:08:24.760 --> 00:08:27.760]   or just like y'all do too.
+[00:08:27.760 --> 00:08:30.760]   So it's something that's out there, it's really helped facilitate the meeting.
+[00:08:30.760 --> 00:08:34.760]   So you actually have a board policy that directs you a local
+[00:08:34.760 --> 00:08:38.760]   policy that directs you to use, observe, parliamentary procedures as found
+[00:08:38.760 --> 00:08:42.760]   in Robert's Rules of Order, newly revised, I might add, except as otherwise
+[00:08:42.760 --> 00:08:46.760]   provided in your procedural rules or by law.
+[00:08:46.760 --> 00:08:50.760]   Procedure rules may be suspended in any board meeting by majority of the
+[00:08:50.760 --> 00:08:54.760]   members present, I noticed on tonight's agenda you are approving a good
+[00:08:54.760 --> 00:08:56.760]   governance handbook potentially.
+[00:08:56.760 --> 00:09:00.760]   I got a chance to look at it, I think it's very well done.
+[00:09:00.760 --> 00:09:04.760]   And I think that I like it, it's good, it's concise, it's clear,
+[00:09:04.760 --> 00:09:08.760]   a lot of boards what they want to do when they do operating procedures
+[00:09:08.760 --> 00:09:12.760]   or governance handbook is they just recite policy.
+[00:09:12.760 --> 00:09:15.760]   And y'all don't do that in this and I think that's very important.
+[00:09:15.760 --> 00:09:18.760]   That you really kind of dig what, how are we going to act outside or inside the
+[00:09:18.760 --> 00:09:22.760]   policy, using the policies or guideline, not necessarily just
+[00:09:22.760 --> 00:09:26.760]   reciting policy. So I think that's important, I think you'll have done that.
+[00:09:26.760 --> 00:09:30.760]   So a couple things, these are two of my favorite all-time characters,
+[00:09:30.760 --> 00:09:34.760]   the code or rules, they're more like guidelines in most circumstances,
+[00:09:34.760 --> 00:09:38.760]   rather than actual rules as a board, I want you to use them,
+[00:09:38.760 --> 00:09:42.760]   good boards, functioning boards, they're nothing more than guidelines,
+[00:09:42.760 --> 00:09:45.760]   because the meeting moves along like it should.
+[00:09:45.760 --> 00:09:49.760]   Everybody talks, when they raise their hand, they get an opportunity to talk.
+[00:09:49.760 --> 00:09:53.760]   Nobody talks over anybody else. We make a motion, we make a second,
+[00:09:53.760 --> 00:09:57.760]   we discuss, we vote. We do those things in the normal course of business
+[00:09:57.760 --> 00:10:00.760]   that you guys have been doing, as long as you've been sitting on this board.
+[00:10:00.760 --> 00:10:04.760]   You just don't think about the fact that there's some rules tied behind those.
+[00:10:04.760 --> 00:10:08.760]   And when a good board is really functioning, again, they're more like guidelines,
+[00:10:08.760 --> 00:10:13.760]   we just flow is what it amounts to. However, if things go wonky at a board meeting
+[00:10:13.760 --> 00:10:17.760]   or sometimes with a board, they become more like rules, and they become more stringent.
+[00:10:17.760 --> 00:10:21.760]   What I don't want you to do is I don't want you to use the rules as a weapon.
+[00:10:21.760 --> 00:10:25.760]   If you weaponize the rules, then at some point, everybody gets upset.
+[00:10:25.760 --> 00:10:29.760]   Because not everybody, not eating out of one of you, including myself here tonight,
+[00:10:29.760 --> 00:10:33.760]   is an expert in these rules. It's just a matter of walking through them,
+[00:10:33.760 --> 00:10:38.760]   figuring it out and getting the meeting back on track and moving forward, okay?
+[00:10:38.760 --> 00:10:44.760]   So some principles that we talk about, number one, before anyone speaks for a second time,
+[00:10:44.760 --> 00:10:48.760]   everyone has the right to participate in discussion if they want to.
+[00:10:48.760 --> 00:10:52.760]   So when the board president looks down or looks around and calls on people,
+[00:10:52.760 --> 00:10:54.760]   I'm not sure you're a procedure for doing that,
+[00:10:54.760 --> 00:10:57.760]   whether it be his hands go up or whether it might start down here and say,
+[00:10:57.760 --> 00:11:00.760]   "Miss Seger, do you have anything you'd wish to say?" Mr. Portillo,
+[00:11:00.760 --> 00:11:03.760]   or Tillo, excuse me, do you have anything you wish to say?
+[00:11:03.760 --> 00:11:06.760]   Miss Bradley go around the room, do you have how you want to do it?
+[00:11:06.760 --> 00:11:11.760]   Whatever that process is, and you say, "Yes, I'd like to talk about this," or, "No, I'd like to do that."
+[00:11:11.760 --> 00:11:15.760]   Everybody should have an opportunity before you move on to the second time.
+[00:11:15.760 --> 00:11:19.760]   So let's say Miss Seger has some comments.
+[00:11:19.760 --> 00:11:22.760]   Mr. Portillo does not. Miss Bradley does.
+[00:11:22.760 --> 00:11:25.760]   And before we get over here, Miss Seger wants to jump back in, okay?
+[00:11:25.760 --> 00:11:28.760]   That violates one of the major tenets of these rules.
+[00:11:28.760 --> 00:11:30.760]   We want to make sure we have everybody on the list.
+[00:11:30.760 --> 00:11:33.760]   If you don't want to, great, if you want to, that's awesome.
+[00:11:33.760 --> 00:11:37.760]   To participate, however that works from the dias, from the board presence spot,
+[00:11:37.760 --> 00:11:41.760]   that's kind of decided by you guys as a board, okay, and how you go forward.
+[00:11:41.760 --> 00:11:45.760]   So again, remember, participation is a key thing with regard to Robert's rules.
+[00:11:45.760 --> 00:11:48.760]   It was set up to govern, govern means participate.
+[00:11:48.760 --> 00:11:52.760]   And so that in their sense, in the rule sense.
+[00:11:52.760 --> 00:11:56.760]   A second principle is every member has the right to know what's going on at all times.
+[00:11:56.760 --> 00:12:00.760]   So we don't get lost in what we're doing.
+[00:12:00.760 --> 00:12:03.760]   If we start talking over each other, or we have a motion on the table,
+[00:12:03.760 --> 00:12:05.760]   and we have a motion on the table, and we have a motion on the amendment.
+[00:12:05.760 --> 00:12:09.760]   The rules always take us back to a point where we get,
+[00:12:09.760 --> 00:12:14.760]   where we're following a certain order on how we do things so that nobody gets lost.
+[00:12:14.760 --> 00:12:17.760]   The speaker should not be interrupted unless it's for an urgent matter, okay?
+[00:12:17.760 --> 00:12:21.760]   There are some motions that you can make and interrupt a speaker.
+[00:12:21.760 --> 00:12:25.760]   You know, again, if things are running smoothly, like a good board of meaning should,
+[00:12:25.760 --> 00:12:29.760]   these are guidelines, I don't anticipate that happening, okay?
+[00:12:29.760 --> 00:12:32.760]   I don't want that to happen. Let me put to you that way.
+[00:12:32.760 --> 00:12:35.760]   I was blessed enough to serve on a really good board for five years.
+[00:12:35.760 --> 00:12:37.760]   Everything kind of rolled smoothly?
+[00:12:37.760 --> 00:12:41.760]   I don't know that we ever talked about Robert's rules of order, if I can recall in the five years we did it.
+[00:12:41.760 --> 00:12:44.760]   We just kind of knew it, I guess, I don't know.
+[00:12:44.760 --> 00:12:48.760]   So we're lucky in that respect.
+[00:12:48.760 --> 00:12:52.760]   And then number three, only discuss one motion at a time.
+[00:12:52.760 --> 00:12:55.760]   Sometimes boards get ahead of themselves, and we get one motion,
+[00:12:55.760 --> 00:12:58.760]   and before we know it, we've talked that one to death, and someone throws out another motion,
+[00:12:58.760 --> 00:13:04.760]   because they feel like something they heard in the discussion warrants a different or separate motion.
+[00:13:04.760 --> 00:13:07.760]   That's not how it works, and we'll talk a little bit.
+[00:13:07.760 --> 00:13:12.760]   There's a progression here, and we don't want to stay the one motion and any amendments at one time.
+[00:13:12.760 --> 00:13:16.760]   So we want to make sure that we're in this progression, we're in this silo,
+[00:13:16.760 --> 00:13:21.760]   when once a motion is made, and we stay in that silo until we get bumped out, okay?
+[00:13:21.760 --> 00:13:30.760]   So some essential elements for you, with regard to Robert's rules.
+[00:13:30.760 --> 00:13:34.760]   So a member of the board may make an initial motion for a proposal or a decision,
+[00:13:34.760 --> 00:13:37.760]   so anybody can make the motion when she asks for it.
+[00:13:37.760 --> 00:13:41.760]   Even under Robert's rules, the president can make their own motion.
+[00:13:41.760 --> 00:13:46.760]   Now some boards choose not to do that in their guidelines, or take the president out of that equation in their guidelines,
+[00:13:46.760 --> 00:13:50.760]   under Robert's rules, it's fine for the president to make a motion,
+[00:13:50.760 --> 00:13:52.760]   and it's fine for them to second a motion.
+[00:13:52.760 --> 00:13:57.760]   It just depends on how to even get in, I don't remember what your guidelines say, but if I recall, they don't speak to that.
+[00:13:57.760 --> 00:14:01.760]   So I would tell you that's a possibility, that's on the table, that shouldn't bother you.
+[00:14:01.760 --> 00:14:07.760]   Don't let it, oh my gosh, there's a, the president can make a motion, under Robert's rules, they can, okay?
+[00:14:07.760 --> 00:14:10.760]   Another member may second the motion.
+[00:14:10.760 --> 00:14:14.760]   You can't second your own motion as much as you'd like to sometimes to get the ball rolling,
+[00:14:14.760 --> 00:14:18.760]   because there's nothing worse, and I know this, somebody fired up, they make that motion,
+[00:14:18.760 --> 00:14:24.760]   and everybody sits there for a second, because everybody's afraid to step on someone else's toes,
+[00:14:24.760 --> 00:14:27.760]   that really wants to second it, and should I second it?
+[00:14:27.760 --> 00:14:33.760]   And for whatever reason, the, the deadliest part of the meeting always is between the original motion and the second.
+[00:14:33.760 --> 00:14:38.760]   But I'm never understood that, why that happened, y'all pay attention, you, you watch, you pay attention,
+[00:14:38.760 --> 00:14:41.760]   unless you're really going and broken and rolling, then you're good.
+[00:14:41.760 --> 00:14:43.760]   And it's simple, I second the motion.
+[00:14:43.760 --> 00:14:47.760]   Remember, when you make a motion, I want you to state the motion.
+[00:14:47.760 --> 00:14:49.760]   I don't want you to say so moved.
+[00:14:49.760 --> 00:14:52.760]   So moved doesn't tell me anything, okay?
+[00:14:52.760 --> 00:14:55.760]   Number one, it doesn't reflect what the motion is.
+[00:14:55.760 --> 00:15:00.760]   If you have trouble restating the motion or defining the motion, hey, you, you've got plenty of people here to help you,
+[00:15:00.760 --> 00:15:07.760]   you've got an attorney that sits with you to help you get help, if you're having trouble deciding what words to put within the motion.
+[00:15:07.760 --> 00:15:14.760]   Once you make, or as you make that motion though, it's not, there's no magic to it, but it should be in the format that you want it to be,
+[00:15:14.760 --> 00:15:20.760]   and it should be so that the notes, the minutes, whoever's taking the minutes, whoever's going back and listening to the recording,
+[00:15:20.760 --> 00:15:22.760]   is clear on what the motion is.
+[00:15:22.760 --> 00:15:26.760]   Also that the board president is clear because they're going to have to restate it at some point in time.
+[00:15:26.760 --> 00:15:29.760]   Okay, I'm going to put a little pressure on them.
+[00:15:29.760 --> 00:15:33.760]   And then finally the group will vote on the motion after a little discussion is happened, it happens.
+[00:15:33.760 --> 00:15:36.760]   We'll talk about these a little bit more in detail here in a second.
+[00:15:36.760 --> 00:15:40.760]   So how do you amend the motion?
+[00:15:40.760 --> 00:15:44.760]   You can amend the motion that's on the floor, but only that motion.
+[00:15:44.760 --> 00:15:52.760]   So I move to accept the new guidelines, the new board operating procedures I move that we accept those as our operating procedures moving forward.
+[00:15:52.760 --> 00:15:54.760]   Okay, that's fine.
+[00:15:54.760 --> 00:16:00.760]   Somebody's second set motion, somebody says, you know, I moved to amend that because I don't like procedure 10,
+[00:16:00.760 --> 00:16:05.760]   I want to approve those without number 10.
+[00:16:05.760 --> 00:16:09.760]   Okay, so we've got an amendment now on the floor after we've discussed it.
+[00:16:09.760 --> 00:16:11.760]   So this also must be seconded.
+[00:16:11.760 --> 00:16:14.760]   If it is no second, what happens to a motion with no second?
+[00:16:14.760 --> 00:16:16.760]   It dies.
+[00:16:16.760 --> 00:16:18.760]   What happens to a motion that's voted on?
+[00:16:18.760 --> 00:16:19.760]   It's a tie.
+[00:16:19.760 --> 00:16:20.760]   It dies.
+[00:16:20.760 --> 00:16:21.760]   It fails, basically.
+[00:16:21.760 --> 00:16:26.760]   Okay, so if there's one of you missing one night and you have three to three board, we're in trouble.
+[00:16:26.760 --> 00:16:29.760]   We voting on a particular motion.
+[00:16:29.760 --> 00:16:36.760]   So remember, we're going to second the amendment and we're going to come back and vote on it first.
+[00:16:36.760 --> 00:16:43.760]   If the amendment passes and we vote on the original motion, then we would do the guidelines without section 10.
+[00:16:43.760 --> 00:16:50.760]   If the amendment fails, the original motion passes, we do the guidelines as presented, for example.
+[00:16:50.760 --> 00:16:52.760]   Everybody got me so far?
+[00:16:52.760 --> 00:16:53.760]   All right.
+[00:16:53.760 --> 00:16:54.760]   Okay, say that one more time.
+[00:16:54.760 --> 00:17:01.760]   So if you vote on the first one, what you got the second for, the initial original.
+[00:17:01.760 --> 00:17:03.760]   Not if you have an amendment.
+[00:17:03.760 --> 00:17:05.760]   Okay, so say that whole thing again.
+[00:17:05.760 --> 00:17:10.760]   So I move to approve the guideline, the board operating guidelines.
+[00:17:10.760 --> 00:17:11.760]   I get a second.
+[00:17:11.760 --> 00:17:21.760]   Okay, during discussion at some point, another board member says, you know, I move to amend that motion to state that we remove section 10 of the guidelines.
+[00:17:21.760 --> 00:17:23.760]   Then you get a second for that, somebody's second set.
+[00:17:23.760 --> 00:17:25.760]   They don't like section 10 either.
+[00:17:25.760 --> 00:17:27.760]   You're going to discuss that one now.
+[00:17:27.760 --> 00:17:31.760]   And since the amendment becomes the motion on the floor.
+[00:17:31.760 --> 00:17:38.760]   Okay, and so what you do is you finish that amendment before you go back to the original motion.
+[00:17:38.760 --> 00:17:44.760]   So which it will say you both give them it up, then you're going to take out section 10 if you pass the original motion.
+[00:17:44.760 --> 00:17:50.760]   You both give them it down, you're going to leave it in there if you pass the original motion, which is to approve the guidelines.
+[00:17:50.760 --> 00:17:52.760]   Okay, do I make it more clear?
+[00:17:52.760 --> 00:17:54.760]   Okay, very good.
+[00:17:54.760 --> 00:18:01.760]   So there's, you know, it's, in a sense, it's not something to get in a hurry about or worry about.
+[00:18:01.760 --> 00:18:05.760]   If you need to just slow down and think, okay, how do I need to do this?
+[00:18:05.760 --> 00:18:07.760]   What do I need to do to get where I need to go?
+[00:18:07.760 --> 00:18:12.760]   And without stepping on as many toes as possible, let's get this worked out and move forward.
+[00:18:12.760 --> 00:18:17.760]   So a couple of different motions.
+[00:18:17.760 --> 00:18:22.760]   I want to go back to the motion slide real quick, because I really do think it's important.
+[00:18:22.760 --> 00:18:30.760]   I have so many boards that go so moved, or I moved to take administration's recommendation, or whatever that might be.
+[00:18:30.760 --> 00:18:33.760]   I really, really want you to state the motion.
+[00:18:33.760 --> 00:18:40.760]   Okay, that's important for a lot of reasons like we talked about for the minutes, for the recording, for the people in the audience,
+[00:18:40.760 --> 00:18:46.760]   who might, and really, most importantly, it's important for all the board members to be clear on what you're voting on.
+[00:18:46.760 --> 00:18:51.760]   That's part of this, that's part of the rules and why they're there, so we're all clear and we're all on the same page.
+[00:18:51.760 --> 00:18:54.760]   So I want to make sure that that's the case, okay?
+[00:18:54.760 --> 00:19:00.760]   So as we go through these motions and you go through them, it's okay to slow down, it's okay to mess up.
+[00:19:00.760 --> 00:19:01.760]   No one cares.
+[00:19:01.760 --> 00:19:04.760]   It's okay for you to go back and say, wait a minute.
+[00:19:04.760 --> 00:19:06.760]   I'm figuring out how to word this.
+[00:19:06.760 --> 00:19:12.760]   I'm trying to do da da da, you know, Alec can give me a hand, or whoever it might be.
+[00:19:12.760 --> 00:19:14.760]   You say, hey, I want to make sure I get this right.
+[00:19:14.760 --> 00:19:20.760]   It's okay to have a quick discussion on the wording of the motion, but when it comes down to it, the board member making the motion needs to
+[00:19:20.760 --> 00:19:23.760]   state what she means, or he means, okay?
+[00:19:23.760 --> 00:19:27.760]   Yes, ma'am.
+[00:19:27.760 --> 00:19:36.760]   I really would like for you to spell it out, yes ma'am.
+[00:19:36.760 --> 00:19:37.760]   That's the proper way to do it.
+[00:19:37.760 --> 00:19:49.760]   Now I'm going to tell you, there's eleven hundred school districts in the state, and one thousand fifty of them do so moved, and whatever he said, and all this other good stuff, okay?
+[00:19:49.760 --> 00:19:58.760]   But I want you to be the exception, not the rule, and be the fifty, part of the fifty that follow the rules the right way in this particular sense.
+[00:19:58.760 --> 00:20:02.760]   Again, I just think it makes it more clear for everybody, okay?
+[00:20:02.760 --> 00:20:05.760]   We talked about amending and the deal.
+[00:20:05.760 --> 00:20:10.760]   One of the motions you can make is to commit a motion to a committee.
+[00:20:10.760 --> 00:20:16.760]   In other words, you make a motion on a particular issue, the guidelines, for example.
+[00:20:16.760 --> 00:20:22.760]   Someone says, "You know what? We get a second." Someone says, "I move to commit the guidelines to a committee for further study."
+[00:20:22.760 --> 00:20:25.760]   That's like an amendment, almost.
+[00:20:25.760 --> 00:20:32.760]   Once you make that motion, at the next meeting, the committee must report back according to the rules unless you make other consideration.
+[00:20:32.760 --> 00:20:38.760]   But then you form it, then you what will happen is they'll form a committee to study the guidelines further and bring them back.
+[00:20:38.760 --> 00:20:41.760]   I've seen this use maybe twice in 30 years.
+[00:20:41.760 --> 00:20:43.760]   They'll get hung up on this one, okay?
+[00:20:43.760 --> 00:20:48.760]   If you're going to have a committee study something, generally, you're going to have they do it before they bring it to you.
+[00:20:48.760 --> 00:20:52.760]   But if that happens, this motion would take precedence over the original motion.
+[00:20:52.760 --> 00:20:57.760]   And if it's passed, the original motion goes away, okay?
+[00:20:57.760 --> 00:21:00.760]   Call the question.
+[00:21:00.760 --> 00:21:03.760]   That's one that comes up quite a bit.
+[00:21:03.760 --> 00:21:05.760]   You'll be debating a particular motion.
+[00:21:05.760 --> 00:21:07.760]   Everybody will want to get their say in.
+[00:21:07.760 --> 00:21:13.760]   And the President, Board President, Ms. Brown, is doing a good job of picking y'all off one at a time.
+[00:21:13.760 --> 00:21:16.760]   And you've gone on for 30 minutes on a particular topic.
+[00:21:16.760 --> 00:21:20.760]   And somebody says, "I've had enough. I've had enough."
+[00:21:20.760 --> 00:21:22.760]   I call the question.
+[00:21:22.760 --> 00:21:25.760]   That is something you have to do right then.
+[00:21:25.760 --> 00:21:28.760]   And you call the question means is they're asking for the vote.
+[00:21:28.760 --> 00:21:31.760]   You actually have to vote on a call the question.
+[00:21:31.760 --> 00:21:34.760]   If all seven of you are here, five of you have to approve.
+[00:21:34.760 --> 00:21:36.760]   It's got to be two-thirds, okay?
+[00:21:36.760 --> 00:21:42.760]   And two-thirds with seven comes out to 4.62, which means we're going to round up to five.
+[00:21:42.760 --> 00:21:45.760]   If there's only six of you here, it only takes four, for example.
+[00:21:45.760 --> 00:21:47.760]   So seven of you here, it'll take five.
+[00:21:47.760 --> 00:21:48.760]   Yes, ma'am.
+[00:21:48.760 --> 00:21:49.760]   I have a question.
+[00:21:49.760 --> 00:21:53.760]   So when call the question happens, is that an interrupt kind of thing?
+[00:21:53.760 --> 00:21:54.760]   Yes, okay.
+[00:21:54.760 --> 00:21:55.760]   That's one of us.
+[00:21:55.760 --> 00:21:58.760]   Again, do it in a polite way.
+[00:21:58.760 --> 00:21:59.760]   Of course.
+[00:21:59.760 --> 00:22:00.760]   Jump out of your seat.
+[00:22:00.760 --> 00:22:01.760]   Yeah.
+[00:22:01.760 --> 00:22:02.760]   And I know that.
+[00:22:02.760 --> 00:22:03.760]   Yeah.
+[00:22:03.760 --> 00:22:06.760]   I like to call the question.
+[00:22:06.760 --> 00:22:09.760]   If somebody pauses, or we get between speakers, that's a great time to do that.
+[00:22:09.760 --> 00:22:10.760]   Okay.
+[00:22:10.760 --> 00:22:11.760]   And then you stop.
+[00:22:11.760 --> 00:22:16.760]   President von von President Braun calls a vote.
+[00:22:16.760 --> 00:22:21.760]   And if five of you vote to call the question, then you're going to take a vote on the motion.
+[00:22:21.760 --> 00:22:22.760]   What it amounts to.
+[00:22:22.760 --> 00:22:25.760]   Okay.
+[00:22:25.760 --> 00:22:31.760]   Sometimes when meetings run late, there is an opportunity to call recess.
+[00:22:31.760 --> 00:22:34.760]   I don't know if y'all know this or not.
+[00:22:34.760 --> 00:22:37.760]   But you can actually recess a meeting and continue the meeting the next day.
+[00:22:37.760 --> 00:22:40.760]   You can only do that for two subsequent days.
+[00:22:40.760 --> 00:22:41.760]   Yeah.
+[00:22:41.760 --> 00:22:44.760]   Far bros, like, oh, please, dear God, don't.
+[00:22:44.760 --> 00:22:49.760]   They're midnight cutoffs midnight, right?
+[00:22:49.760 --> 00:22:52.760]   No, I don't want you ever here, midnight.
+[00:22:52.760 --> 00:22:55.760]   But the reality is a recess means we're taking a break.
+[00:22:55.760 --> 00:22:57.760]   We usually state the time of the break.
+[00:22:57.760 --> 00:22:59.760]   The amount of time we're going to spend on break.
+[00:22:59.760 --> 00:23:01.760]   We're going to come back the next day.
+[00:23:01.760 --> 00:23:03.760]   For example, you can recess it to the next day.
+[00:23:03.760 --> 00:23:05.760]   Again, that motion must be seconded.
+[00:23:05.760 --> 00:23:07.760]   And it's treated just like in the other motion.
+[00:23:07.760 --> 00:23:11.760]   So at a stopping point in the meeting, someone can say, I move that we recess for ten minutes.
+[00:23:11.760 --> 00:23:14.760]   For personal needs shall we say.
+[00:23:14.760 --> 00:23:16.760]   For lack of better way to phrase that.
+[00:23:16.760 --> 00:23:17.760]   And somebody seconds it.
+[00:23:17.760 --> 00:23:18.760]   We vote on it.
+[00:23:18.760 --> 00:23:19.760]   We take a ten minute recess.
+[00:23:19.760 --> 00:23:23.760]   A lot of times you'll see the chair take a recess without a motion.
+[00:23:23.760 --> 00:23:25.760]   That's also allowed under the rules.
+[00:23:25.760 --> 00:23:26.760]   There's no magic to that.
+[00:23:26.760 --> 00:23:28.760]   We're just taking a pause in the meeting.
+[00:23:28.760 --> 00:23:30.760]   OK, but this is something.
+[00:23:30.760 --> 00:23:33.760]   For some reason you're out of, you know, out of whack
+[00:23:33.760 --> 00:23:35.760]   or being ignored or things are going crazy.
+[00:23:35.760 --> 00:23:37.760]   And you need to take care of something.
+[00:23:37.760 --> 00:23:42.760]   Then that's something that you can make a motion on.
+[00:23:42.760 --> 00:23:43.760]   And then everybody's favorite.
+[00:23:43.760 --> 00:23:45.760]   The motion to adjourn.
+[00:23:45.760 --> 00:23:47.760]   That's usually the end of the meeting.
+[00:23:47.760 --> 00:23:49.760]   I do have boards at the board president.
+[00:23:49.760 --> 00:23:51.760]   Does all the adjournment all by themselves?
+[00:23:51.760 --> 00:23:52.760]   I'm like, time I do that.
+[00:23:52.760 --> 00:23:53.760]   I win.
+[00:23:53.760 --> 00:23:54.760]   I said really just ask for a motion.
+[00:23:54.760 --> 00:23:55.760]   It'll be OK.
+[00:23:55.760 --> 00:23:59.760]   Again, a lot of districts, these are guidelines.
+[00:23:59.760 --> 00:24:01.760]   Very, very loose guidelines.
+[00:24:01.760 --> 00:24:04.760]   Some are a little more strict than others.
+[00:24:04.760 --> 00:24:08.760]   The move to adjourn takes precedent over all other motions.
+[00:24:08.760 --> 00:24:12.760]   So you could do a motion to adjourn at any time during the meeting.
+[00:24:12.760 --> 00:24:13.760]   Kind of scary.
+[00:24:13.760 --> 00:24:14.760]   I know.
+[00:24:14.760 --> 00:24:17.760]   But, you know, what it always needs a second.
+[00:24:17.760 --> 00:24:19.760]   So if you're just looking to get out of here,
+[00:24:19.760 --> 00:24:21.760]   you better have a buddy that'll at least second it for you.
+[00:24:21.760 --> 00:24:23.760]   And and/or then it's got a pass.
+[00:24:23.760 --> 00:24:25.760]   So you've got to get four votes, right?
+[00:24:25.760 --> 00:24:27.760]   So that can happen at any time.
+[00:24:27.760 --> 00:24:29.760]   Majority vote in the meeting ends.
+[00:24:29.760 --> 00:24:33.760]   So, you know, if somebody makes that motion,
+[00:24:33.760 --> 00:24:35.760]   we have to pay a meeting detention to it.
+[00:24:35.760 --> 00:24:36.760]   There's one in the mouse too.
+[00:24:36.760 --> 00:24:37.760]   Ask for a second.
+[00:24:37.760 --> 00:24:38.760]   Ask for any discussion.
+[00:24:38.760 --> 00:24:40.760]   I'm sure it'll be lively.
+[00:24:40.760 --> 00:24:43.760]   And, well, it may or may not, I guess.
+[00:24:43.760 --> 00:24:48.760]   And then vote on that motion, OK?
+[00:24:48.760 --> 00:24:52.760]   So as we get into a little bit more about making motions,
+[00:24:52.760 --> 00:24:56.760]   the main motion, like we talked about.
+[00:24:56.760 --> 00:24:58.760]   A subsidiary motion, we've already talked about.
+[00:24:58.760 --> 00:25:00.760]   New items introduced.
+[00:25:00.760 --> 00:25:02.760]   I move to approve the guidelines.
+[00:25:02.760 --> 00:25:06.760]   A subsidiary motion, it changes how to handle the main motion.
+[00:25:06.760 --> 00:25:08.760]   That would be an amendment to amend the motion.
+[00:25:08.760 --> 00:25:11.760]   A privileged motion would be like a motion to adjourn,
+[00:25:11.760 --> 00:25:13.760]   or a call to the question.
+[00:25:13.760 --> 00:25:16.760]   That's an urgent matter, not related to pending matters,
+[00:25:16.760 --> 00:25:17.760]   necessarily.
+[00:25:17.760 --> 00:25:19.760]   And it's a dental motion.
+[00:25:19.760 --> 00:25:22.760]   Motion questions, a procedure, a previous motion.
+[00:25:22.760 --> 00:25:25.760]   A motion to table kills a motion for the time being,
+[00:25:25.760 --> 00:25:28.760]   but remember a motion to table puts it on the table
+[00:25:28.760 --> 00:25:32.760]   to be brought back later during that meeting.
+[00:25:32.760 --> 00:25:34.760]   People have a misconception that a motion to table
+[00:25:34.760 --> 00:25:35.760]   means we're going to do it.
+[00:25:35.760 --> 00:25:37.760]   We're going to bring it up at the next meeting.
+[00:25:37.760 --> 00:25:39.760]   That's a motion to postpone.
+[00:25:39.760 --> 00:25:40.760]   OK?
+[00:25:40.760 --> 00:25:41.760]   So table means the same meeting.
+[00:25:41.760 --> 00:25:43.760]   We're going to leave it on the table,
+[00:25:43.760 --> 00:25:45.760]   and we're going to bring it up later in the meeting.
+[00:25:45.760 --> 00:25:46.760]   OK?
+[00:25:46.760 --> 00:25:48.760]   Maybe after you've had a closed session,
+[00:25:48.760 --> 00:25:50.760]   we've got some more information that might be privileged
+[00:25:50.760 --> 00:25:51.760]   or confidential.
+[00:25:51.760 --> 00:25:53.760]   And then come back out and talk about some more in the vote on it.
+[00:25:53.760 --> 00:25:55.760]   That's a great way to use table.
+[00:25:55.760 --> 00:25:56.760]   The table of motion.
+[00:25:56.760 --> 00:25:58.760]   Post-pole means you're not ready to vote on it.
+[00:25:58.760 --> 00:26:00.760]   Somebody makes a motion to postpone.
+[00:26:00.760 --> 00:26:03.760]   And then what we do is we deal with it in the next meeting
+[00:26:03.760 --> 00:26:04.760]   if that passes.
+[00:26:04.760 --> 00:26:05.760]   OK?
+[00:26:05.760 --> 00:26:06.760]   All right, a future meeting.
+[00:26:06.760 --> 00:26:08.760]   So you want to make-- oh, sorry.
+[00:26:08.760 --> 00:26:09.760]   I need to stand for the mic, don't I?
+[00:26:09.760 --> 00:26:10.760]   Sorry.
+[00:26:10.760 --> 00:26:12.760]   I don't stand in one place very well.
+[00:26:12.760 --> 00:26:15.760]   The-- thanks, Miss Barbara.
+[00:26:15.760 --> 00:26:17.760]   So you want to be careful with those motions.
+[00:26:17.760 --> 00:26:19.760]   Be careful that you understand what they mean.
+[00:26:19.760 --> 00:26:22.760]   As board president would always make sure
+[00:26:22.760 --> 00:26:24.760]   or I've had-- when I've got to fill that role,
+[00:26:24.760 --> 00:26:26.760]   when others got to fill that role is,
+[00:26:26.760 --> 00:26:28.760]   somebody makes a motion to table something
+[00:26:28.760 --> 00:26:30.760]   because they're not sure about it.
+[00:26:30.760 --> 00:26:32.760]   I make sure they understand the difference
+[00:26:32.760 --> 00:26:34.760]   between table and postpone, and I always ask,
+[00:26:34.760 --> 00:26:37.760]   do you mean to postpone to the next meeting?
+[00:26:37.760 --> 00:26:38.760]   Generally, I'll get the answer.
+[00:26:38.760 --> 00:26:39.760]   Uh-huh.
+[00:26:39.760 --> 00:26:40.760]   That's what I really want to do.
+[00:26:40.760 --> 00:26:41.760]   OK.
+[00:26:41.760 --> 00:26:42.760]   That's the motion that's on the table.
+[00:26:42.760 --> 00:26:43.760]   Let's go from there.
+[00:26:43.760 --> 00:26:44.760]   OK.
+[00:26:47.760 --> 00:26:49.760]   So some steps, we've already talked about.
+[00:26:49.760 --> 00:26:52.080]   How do y'all do a motion just raise your hand, basically?
+[00:26:52.080 --> 00:26:54.360]   Is that the normal course, I hope?
+[00:26:54.360 --> 00:26:56.560]   Or something close to that?
+[00:26:56.560 --> 00:27:00.320]   The-- you know, I've had--
+[00:27:00.320 --> 00:27:02.640]   I had one board where we had to stand up.
+[00:27:02.640 --> 00:27:05.040]   But I thought, you know, that's a little crazy, I guess.
+[00:27:05.040 --> 00:27:07.320]   But, you know, that would get old after a while
+[00:27:07.320 --> 00:27:09.360]   if you're the only one making motions.
+[00:27:09.360 --> 00:27:11.760]   A second, another member makes seconds the motion.
+[00:27:11.760 --> 00:27:12.960]   We've talked about that.
+[00:27:12.960 --> 00:27:15.800]   A second needs to be nothing more than I second the motion.
+[00:27:15.800 --> 00:27:17.080]   That's it.
+[00:27:17.080 --> 00:27:18.200]   Don't need to elaborate.
+[00:27:18.200 --> 00:27:19.960]   You'll get your turn to discuss at some point.
+[00:27:19.960 --> 00:27:21.640]   Now, it's not the time to get into that.
+[00:27:21.640 --> 00:27:23.560]   Just second the motion.
+[00:27:23.560 --> 00:27:26.080]   Debate or discussion?
+[00:27:26.080 --> 00:27:27.800]   Members discussion debate the motion.
+[00:27:27.800 --> 00:27:29.520]   Remember, we talked about one of the main tenants
+[00:27:29.520 --> 00:27:31.880]   of Robert Schrulls is that everybody gets a shot.
+[00:27:31.880 --> 00:27:33.080]   And I want to make sure that everybody
+[00:27:33.080 --> 00:27:34.280]   gets an opportunity to talk.
+[00:27:34.280 --> 00:27:36.520]   And that really allows with your president.
+[00:27:36.520 --> 00:27:39.880]   They're going to have to go down the row, whatever that is.
+[00:27:39.880 --> 00:27:42.120]   People raise their hands, whatever that is.
+[00:27:42.120 --> 00:27:45.560]   Whatever you choose to do to facilitate that,
+[00:27:45.560 --> 00:27:48.480]   that's what needs to be done, OK?
+[00:27:48.480 --> 00:27:50.280]   And that's how you handle that.
+[00:27:50.280 --> 00:27:55.400]   So it makes sure, though, that I have one board president.
+[00:27:55.400 --> 00:27:56.240]   I love him to death.
+[00:27:56.240 --> 00:27:58.720]   But he says, OK, any discussion?
+[00:27:58.720 --> 00:28:00.160]   And everybody's already ready to vote.
+[00:28:00.160 --> 00:28:01.200]   They're already there.
+[00:28:01.200 --> 00:28:05.400]   And he waits and waits and waits.
+[00:28:05.400 --> 00:28:06.800]   I'm thinking dude, if they were going to talk,
+[00:28:06.800 --> 00:28:07.960]   they're going to talk now.
+[00:28:07.960 --> 00:28:10.760]   Don't-- you know, it's not a--
+[00:28:10.760 --> 00:28:12.440]   you don't-- you're done waiting.
+[00:28:12.440 --> 00:28:14.000]   And he'll kill two minutes.
+[00:28:14.000 --> 00:28:15.600]   Wait, and I'm thinking, let's go.
+[00:28:15.600 --> 00:28:16.240]   Gotta go.
+[00:28:16.240 --> 00:28:17.040]   Gotta go.
+[00:28:17.040 --> 00:28:19.760]   And so he finally gets to it.
+[00:28:19.760 --> 00:28:21.560]   I don't want you to wait two minutes.
+[00:28:21.560 --> 00:28:23.840]   More like a few, you know, 15 seconds.
+[00:28:23.840 --> 00:28:26.600]   If nobody has anything to say, let's take a vote,
+[00:28:26.600 --> 00:28:27.200]   and let's move on.
+[00:28:27.200 --> 00:28:28.840]   Or a few people have talked and nobody else
+[00:28:28.840 --> 00:28:32.920]   has anything to say, make a vote, and let's move on, OK?
+[00:28:32.920 --> 00:28:35.640]   The-- I'm not telling you to have a rocket docket.
+[00:28:35.640 --> 00:28:37.080]   Please don't misunderstand.
+[00:28:37.080 --> 00:28:38.800]   Or to hurry your way through a meeting.
+[00:28:38.800 --> 00:28:41.720]   But I want you to be consistently moving forward
+[00:28:41.720 --> 00:28:43.280]   to the meeting, OK?
+[00:28:44.960 --> 00:28:46.000]   Then we take a vote.
+[00:28:46.000 --> 00:28:48.480]   How do y'all-- and y'all raise your hand a vote?
+[00:28:48.480 --> 00:28:50.280]   You do it row call?
+[00:28:50.280 --> 00:28:52.160]   The same-- the same board that the guy
+[00:28:52.160 --> 00:28:53.880]   pauses-- they do a row call.
+[00:28:53.880 --> 00:28:55.640]   And he switches up the row call every time,
+[00:28:55.640 --> 00:28:58.000]   so nobody feels like they've been slighted.
+[00:28:58.000 --> 00:29:00.800]   OK, the-- I don't know why, or what--
+[00:29:00.800 --> 00:29:01.840]   or what he does.
+[00:29:01.840 --> 00:29:03.440]   So it's OK.
+[00:29:03.440 --> 00:29:05.680]   But y'all just do a hand, show of hands.
+[00:29:05.680 --> 00:29:08.440]   I-- when I was in Cedar Hill, we had a gentleman
+[00:29:08.440 --> 00:29:10.440]   that was on the board, and I don't--
+[00:29:10.440 --> 00:29:11.280]   I'm not real quite sure.
+[00:29:11.280 --> 00:29:13.440]   I'm still wondering why he was a ran for board.
+[00:29:13.440 --> 00:29:14.400]   He was elected.
+[00:29:14.400 --> 00:29:17.480]   He spent the entire meeting with his head down
+[00:29:17.480 --> 00:29:19.520]   on his right forearm on the table.
+[00:29:19.520 --> 00:29:21.400]   Never looked up the entire meeting.
+[00:29:21.400 --> 00:29:22.640]   And when the board president would say, OK,
+[00:29:22.640 --> 00:29:25.080]   all in favor, raise your right hand.
+[00:29:25.080 --> 00:29:27.000]   He'd never raised his hand to be in favor.
+[00:29:27.000 --> 00:29:28.920]   All opposed, raise your right hand.
+[00:29:28.920 --> 00:29:31.080]   He would raise his left hand every time to be opposed.
+[00:29:31.080 --> 00:29:33.640]   He opposed every motion, and he did it with his left hand.
+[00:29:33.640 --> 00:29:36.680]   You know, I'm-- hey, non-conformist, I guess.
+[00:29:36.680 --> 00:29:38.600]   I don't know.
+[00:29:38.600 --> 00:29:40.160]   That was kind of fun.
+[00:29:40.160 --> 00:29:43.680]   But we'd sit in the audience and go, you know, that's just him.
+[00:29:43.680 --> 00:29:45.760]   But other than that, we never saw him.
+[00:29:45.760 --> 00:29:50.240]   So he would show up for board meeting night, and that was it.
+[00:29:50.240 --> 00:29:53.160]   And then the chair person announces the vote.
+[00:29:53.160 --> 00:29:56.760]   Please make sure you announce the vote past 7061524343,
+[00:29:56.760 --> 00:30:01.880]   whatever it is, or it failed 435261, whatever that might be.
+[00:30:01.880 --> 00:30:05.200]   So that's kind of the end of the process of the making
+[00:30:05.200 --> 00:30:07.800]   the motion, is when you make the announcement as to what
+[00:30:07.800 --> 00:30:09.760]   happened in the vote.
+[00:30:09.760 --> 00:30:11.320]   And then we're going to move on to the next item
+[00:30:11.320 --> 00:30:14.560]   on the agenda, whatever that-- whatever that is.
+[00:30:14.560 --> 00:30:19.080]   So as you go through that process, stick with it.
+[00:30:19.080 --> 00:30:21.400]   Be consistent unless it's determined that you guys
+[00:30:21.400 --> 00:30:23.200]   want to change somehow.
+[00:30:23.200 --> 00:30:26.880]   And do a roll call or a voice vote or whatever it might be.
+[00:30:26.880 --> 00:30:28.520]   You know, it's just going to depend.
+[00:30:28.520 --> 00:30:31.320]   I like showing hands, works just fine.
+[00:30:31.320 --> 00:30:33.280]   Always remember the person taking minutes
+[00:30:33.280 --> 00:30:36.880]   will always jot down any negative votes or no votes,
+[00:30:36.880 --> 00:30:40.320]   or they always make sure they have the number of votes
+[00:30:40.320 --> 00:30:42.240]   for each side.
+[00:30:42.240 --> 00:30:46.520]   So a couple of things about voting methods.
+[00:30:46.520 --> 00:30:48.400]   So we talked about by voice.
+[00:30:48.400 --> 00:30:51.160]   You can always do it if you know something
+[00:30:51.160 --> 00:30:52.760]   is pretty much a done deal, and you'll
+[00:30:52.760 --> 00:30:55.760]   say A's, those oppose no, that works.
+[00:30:55.760 --> 00:30:58.440]   Roll call, we talked about general consent.
+[00:30:58.440 --> 00:31:00.000]   I don't like you to use general consent.
+[00:31:00.000 --> 00:31:01.640]   That's hard for the person taking notes and hard
+[00:31:01.640 --> 00:31:03.560]   for the person that has to do the minutes.
+[00:31:03.560 --> 00:31:07.280]   So really any roll call, voice vote, lifting your hands,
+[00:31:07.280 --> 00:31:09.480]   all those things are working fine.
+[00:31:09.480 --> 00:31:11.560]   Raising your hand works fantastic, OK?
+[00:31:11.560 --> 00:31:20.280]   So a couple of points, particularly points of order.
+[00:31:20.280 --> 00:31:23.680]   These in some board means these get abused.
+[00:31:23.680 --> 00:31:24.720]   They get confused.
+[00:31:24.720 --> 00:31:26.400]   No one knows what we're doing.
+[00:31:26.400 --> 00:31:28.880]   We've got point of order, OK?
+[00:31:28.880 --> 00:31:30.880]   All right, point of order for what?
+[00:31:30.880 --> 00:31:32.440]   If you're going to point out a point of order,
+[00:31:32.440 --> 00:31:35.560]   you better be ready to state the rule that was broken.
+[00:31:35.560 --> 00:31:36.800]   That's the first thing you ought to do,
+[00:31:36.800 --> 00:31:38.040]   if you're going to do point of order.
+[00:31:38.040 --> 00:31:41.200]   If you don't know the rule and you just think you have a rule,
+[00:31:41.200 --> 00:31:43.320]   then I'd probably sit there quietly, OK?
+[00:31:43.320 --> 00:31:45.240]   You're going to have to state a rule,
+[00:31:45.240 --> 00:31:46.840]   is what it amounts to.
+[00:31:46.840 --> 00:31:50.200]   These points of order tend to get overused,
+[00:31:50.200 --> 00:31:51.800]   and they tend to get used as a weapon.
+[00:31:51.800 --> 00:31:54.200]   Remember we talked about weaponizing it sometimes?
+[00:31:54.200 --> 00:31:55.800]   I don't want you to do that.
+[00:31:55.800 --> 00:31:58.520]   That's when a ruler procedure has been breached.
+[00:31:58.520 --> 00:32:00.240]   That's all.
+[00:32:00.240 --> 00:32:01.760]   It's all it's about.
+[00:32:01.760 --> 00:32:04.960]   And it's not a point of order, it's not
+[00:32:04.960 --> 00:32:09.880]   an opportunity for you to share your viewpoint, OK?
+[00:32:09.880 --> 00:32:14.120]   It's an opportunity for you to point out a rule that was broken
+[00:32:14.120 --> 00:32:15.840]   and then the chair makes a ruling that--
+[00:32:15.840 --> 00:32:18.080]   and may take discussion on that.
+[00:32:18.080 --> 00:32:20.080]   So you have a point of order.
+[00:32:20.080 --> 00:32:23.520]   I believe that we didn't take that vote properly.
+[00:32:23.520 --> 00:32:26.760]   There was a's and nays, and we're not sure who was what.
+[00:32:26.760 --> 00:32:28.360]   So point of order, I'd like to raise our hands
+[00:32:28.360 --> 00:32:31.200]   what we normally do with procedure, OK?
+[00:32:31.200 --> 00:32:33.560]   Right, the board chair now, they can take discussion.
+[00:32:33.560 --> 00:32:35.240]   Does anybody want to talk about that?
+[00:32:35.240 --> 00:32:37.920]   They don't have to, but they can.
+[00:32:37.920 --> 00:32:40.680]   And then what they do is they make a ruling.
+[00:32:40.680 --> 00:32:41.320]   Hey, you're right.
+[00:32:41.320 --> 00:32:42.640]   It was hard to tell who was what?
+[00:32:42.640 --> 00:32:44.560]   Let's do it by raise of hands.
+[00:32:44.560 --> 00:32:45.720]   All those in favor?
+[00:32:45.720 --> 00:32:47.400]   Raise your hands, all those opposed.
+[00:32:47.400 --> 00:32:49.760]   Raise your hands in a way we go.
+[00:32:49.760 --> 00:32:51.200]   It's not a way to show off how well
+[00:32:51.200 --> 00:32:53.320]   you know the Robert Schruel's order, OK?
+[00:32:53.320 --> 00:32:55.760]   Because invariably, you're going to say point of order,
+[00:32:55.760 --> 00:32:57.480]   and you're going to go--
+[00:32:57.480 --> 00:32:59.880]   and you're going to know what you're thinking of--
+[00:32:59.880 --> 00:33:01.200]   or what's rule you're talking about.
+[00:33:01.200 --> 00:33:03.040]   So be specific.
+[00:33:03.040 --> 00:33:05.920]   Learn these well enough, like tonight,
+[00:33:05.920 --> 00:33:07.040]   I'm going to tell you, for the most part,
+[00:33:07.040 --> 00:33:08.400]   you don't need to know anything more than what's
+[00:33:08.400 --> 00:33:10.280]   in this PowerPoint tonight, OK?
+[00:33:10.280 --> 00:33:13.800]   If you get deeper into that into these Robert Schruel's order,
+[00:33:13.800 --> 00:33:15.720]   then that's probably when we're starting to use them
+[00:33:15.720 --> 00:33:17.560]   when we don't need to, OK?
+[00:33:17.560 --> 00:33:20.360]   We start getting the minutiae of them.
+[00:33:20.360 --> 00:33:22.320]   So remember, point of order is not a way to show off.
+[00:33:22.320 --> 00:33:24.200]   It's not a way to get your viewpoint across.
+[00:33:24.200 --> 00:33:26.960]   It's not a way to weaponize or stop the proceedings.
+[00:33:26.960 --> 00:33:29.160]   It's just you have a rule issue
+[00:33:29.160 --> 00:33:31.680]   that you have noticed that apparently either no one else
+[00:33:31.680 --> 00:33:33.480]   has, or they've chosen to ignore,
+[00:33:33.480 --> 00:33:35.680]   but you feel important enough to point it out.
+[00:33:35.680 --> 00:33:39.000]   And then it's up to the chair to make a ruling,
+[00:33:39.000 --> 00:33:40.640]   up to the president to make a ruling.
+[00:33:40.640 --> 00:33:43.240]   And she may get assistance in that from the superintendent
+[00:33:43.240 --> 00:33:45.640]   and the board's attorney, whoever that might be.
+[00:33:45.640 --> 00:33:48.920]   It's OK for her to do that, so we know what we're doing going forward.
+[00:33:48.920 --> 00:33:53.800]   Point of information.
+[00:33:53.800 --> 00:33:55.440]   That's a request-- that's a--
+[00:33:55.440 --> 00:33:57.120]   may request more information on the motion.
+[00:33:57.120 --> 00:33:58.400]   This should not be used.
+[00:33:58.400 --> 00:33:59.840]   Again, as an opportunity for the question
+[00:33:59.840 --> 00:34:01.760]   to present information on the motion.
+[00:34:01.760 --> 00:34:05.280]   This is used to a-- what am I-- point of information.
+[00:34:05.280 --> 00:34:09.960]   I need-- before we take a vote, I need to know something else, OK?
+[00:34:09.960 --> 00:34:11.160]   Treat it like a point of order.
+[00:34:11.160 --> 00:34:12.120]   It stops.
+[00:34:12.120 --> 00:34:14.880]   The proceeding is what it does.
+[00:34:14.880 --> 00:34:17.440]   And then it allows the member to receive more--
+[00:34:17.440 --> 00:34:18.960]   the board member to receive more information
+[00:34:18.960 --> 00:34:20.320]   on a particular topic.
+[00:34:20.320 --> 00:34:25.120]   Again, I don't think I've ever seen this used, OK?
+[00:34:25.120 --> 00:34:26.960]   So some of these things are maybe--
+[00:34:26.960 --> 00:34:29.520]   you'll never see-- you'll never do again.
+[00:34:29.520 --> 00:34:31.280]   Point of order, unfortunately, I see it used.
+[00:34:31.280 --> 00:34:33.280]   But normally, I see it used wrongly.
+[00:34:33.280 --> 00:34:38.960]   So point of inquiry-- that's when you're asking clarification.
+[00:34:38.960 --> 00:34:41.400]   Hey, before we take that vote, I have a point of inquiry.
+[00:34:41.400 --> 00:34:45.960]   Can I clarify-- please clarify for me, X, Y, Z, OK?
+[00:34:45.960 --> 00:34:47.160]   What that might be.
+[00:34:47.160 --> 00:34:50.520]   Please clarify the motion for me, for example.
+[00:34:50.520 --> 00:34:55.640]   Please clarify what it covers, or what department it may affect,
+[00:34:55.640 --> 00:34:58.360]   or how much Dutch now, could you tell me how much money
+[00:34:58.360 --> 00:34:59.840]   that's going to cost?
+[00:34:59.840 --> 00:35:01.560]   And he's going to look over here, particularly,
+[00:35:01.560 --> 00:35:02.800]   and we'll figure it out.
+[00:35:02.800 --> 00:35:07.640]   But the reality is, I haven't seen that used very much,
+[00:35:07.640 --> 00:35:10.840]   only a few times, OK?
+[00:35:10.840 --> 00:35:13.520]   The next one is point of personal privilege.
+[00:35:13.520 --> 00:35:16.040]   And then you may use that to address the physical comfort
+[00:35:16.040 --> 00:35:17.120]   of the setting.
+[00:35:17.120 --> 00:35:21.000]   I've heard rumor that sometimes in here it gets awful cold,
+[00:35:21.000 --> 00:35:24.000]   that if you need to do that, that's
+[00:35:24.000 --> 00:35:26.200]   the point of personal privilege we talked about before,
+[00:35:26.200 --> 00:35:29.280]   with regard to a restroom break, or something along those lines.
+[00:35:29.280 --> 00:35:31.960]   If you need to address it, members may
+[00:35:31.960 --> 00:35:33.840]   use it to address the actualy of publish reports,
+[00:35:33.840 --> 00:35:37.200]   the actualy of a members conduct, whatever it might be.
+[00:35:37.200 --> 00:35:39.840]   Again, I'm hoping that doesn't occur.
+[00:35:39.840 --> 00:35:41.600]   But those are the types of things
+[00:35:41.600 --> 00:35:43.160]   that you can ask for a recess, also.
+[00:35:43.160 --> 00:35:44.520]   And that's a much nicer way of doing it
+[00:35:44.520 --> 00:35:46.280]   in point of personal privilege.
+[00:35:46.280 --> 00:35:52.000]   So some other things.
+[00:35:52.000 --> 00:35:54.520]   Robert Schrulls are implemented for useful time management.
+[00:35:54.520 --> 00:35:57.960]   And I really want to drive that point home.
+[00:35:57.960 --> 00:35:59.880]   And constructive meetings.
+[00:35:59.880 --> 00:36:01.680]   Time management, constructive meetings,
+[00:36:01.680 --> 00:36:03.320]   they're all about flow.
+[00:36:03.320 --> 00:36:06.200]   They're all about things to keep the ball rolling.
+[00:36:06.200 --> 00:36:08.200]   They're all about allowing you-- everybody
+[00:36:08.200 --> 00:36:10.040]   to know what's going on, if you remember
+[00:36:10.040 --> 00:36:12.720]   the first three things, the four things we talked about.
+[00:36:12.720 --> 00:36:15.080]   Really is so that everybody's on the same page
+[00:36:15.080 --> 00:36:17.160]   as much as anything like that.
+[00:36:17.160 --> 00:36:19.360]   You could almost be half asleep, but know where you're at
+[00:36:19.360 --> 00:36:22.800]   if you're using proper rules, Robert Schrulls order, OK?
+[00:36:22.800 --> 00:36:25.840]   So because you'll just know when you wake up, you say, OK,
+[00:36:25.840 --> 00:36:26.560]   I'm not right where we're at.
+[00:36:26.560 --> 00:36:29.520]   We're still discussing that motion from 30 minutes ago.
+[00:36:29.520 --> 00:36:32.000]   So we don't want to do that all the time.
+[00:36:32.000 --> 00:36:33.680]   But we want to do it.
+[00:36:33.680 --> 00:36:38.480]   Undo strictness, that can be used to subdue participation
+[00:36:38.480 --> 00:36:39.240]   or intimidate.
+[00:36:39.240 --> 00:36:41.120]   And I don't want you to do that.
+[00:36:41.120 --> 00:36:43.360]   Again, you can weaponize these rules.
+[00:36:43.360 --> 00:36:45.440]   You can dig into the minutia, and you
+[00:36:45.440 --> 00:36:47.200]   can do all kinds of things with these rules
+[00:36:47.200 --> 00:36:51.400]   that are just not fun for school boards.
+[00:36:51.400 --> 00:36:55.880]   And the reality is, is that I want you focused on kids
+[00:36:55.880 --> 00:36:57.920]   and kids and kids.
+[00:36:57.920 --> 00:37:00.080]   And that's really what I want you focused on.
+[00:37:00.080 --> 00:37:02.800]   If you're focused on trying to solve minutia of Robert
+[00:37:02.800 --> 00:37:04.440]   Schrulls order during a board meeting,
+[00:37:04.440 --> 00:37:05.840]   then you're wasting your time.
+[00:37:05.840 --> 00:37:07.760]   And it's not being spent on kids.
+[00:37:07.760 --> 00:37:11.000]   And that's where it shouldn't be spent on Robert Schrull's order.
+[00:37:11.000 --> 00:37:13.240]   Really and truly what I've given you tonight,
+[00:37:13.240 --> 00:37:17.680]   thus far, is just a really basic-- this is all you need--
+[00:37:17.680 --> 00:37:18.960]   Robert Schrulls order.
+[00:37:18.960 --> 00:37:21.520]   If you find that you need more or something weird and wonderful
+[00:37:21.520 --> 00:37:23.760]   comes up, take it under advisement,
+[00:37:23.760 --> 00:37:27.480]   and discuss it next time, and move on.
+[00:37:27.480 --> 00:37:31.520]   If you can't find a rule, or you don't know where to go with it.
+[00:37:31.520 --> 00:37:32.840]   OK, quick question on there.
+[00:37:32.840 --> 00:37:33.640]   Yes, ma'am.
+[00:37:33.640 --> 00:37:36.920]   So if we've got informational items--
+[00:37:36.920 --> 00:37:40.320]   so if we're going to have an informational item,
+[00:37:40.320 --> 00:37:43.840]   and then we're going to have discussion or questions.
+[00:37:43.840 --> 00:37:47.600]   Is it appropriate to say we're going to spend 15 minutes
+[00:37:47.600 --> 00:37:53.320]   as a board discussing this, or where you're putting it at time
+[00:37:53.320 --> 00:37:59.240]   constraint on moving and meeting along?
+[00:37:59.240 --> 00:37:59.960]   Yes, ma'am.
+[00:37:59.960 --> 00:38:02.560]   You can do that under Robert Schrull's
+[00:38:02.560 --> 00:38:05.200]   to move the meeting along, to put a time constraint in there.
+[00:38:05.200 --> 00:38:08.280]   But it's something that I would get agreement from everybody
+[00:38:08.280 --> 00:38:08.480]   on.
+[00:38:08.480 --> 00:38:10.000]   You don't have to vote on it.
+[00:38:10.000 --> 00:38:11.240]   But some sort of agreement, like hey,
+[00:38:11.240 --> 00:38:12.920]   we're going to talk about this for 30 minutes.
+[00:38:12.920 --> 00:38:15.520]   Is everybody good with that?
+[00:38:15.520 --> 00:38:16.600]   And move forward from there.
+[00:38:16.600 --> 00:38:18.520]   I don't know that I would, again,
+[00:38:18.520 --> 00:38:21.040]   I worry about putting time constraints on,
+[00:38:21.040 --> 00:38:24.360]   because I don't want anybody to feel that they're being left out.
+[00:38:24.360 --> 00:38:27.920]   And I don't want anybody to feel they're not able to talk.
+[00:38:27.920 --> 00:38:30.440]   But I think you can do that in an effort
+[00:38:30.440 --> 00:38:33.080]   if the meeting is getting late, for example,
+[00:38:33.080 --> 00:38:35.040]   or it's something, hey, let's talk for 30 minutes
+[00:38:35.040 --> 00:38:36.320]   if we need to bring it back up again.
+[00:38:36.320 --> 00:38:40.520]   Next time, let's do that, whatever that might be.
+[00:38:40.520 --> 00:38:42.440]   The rules do allow for it, but I
+[00:38:42.440 --> 00:38:44.600]   want you to be real careful without you use it.
+[00:38:44.600 --> 00:38:48.120]   Again, the rules don't want you to squelch debate.
+[00:38:48.120 --> 00:38:50.640]   Really, excuse me, call the question
+[00:38:50.640 --> 00:38:51.920]   is what skill is to debate.
+[00:38:51.920 --> 00:38:55.480]   If you've done, somebody call the question, and let's go.
+[00:38:55.480 --> 00:38:58.440]   So if it passes, then we'll vote on the motion.
+[00:38:58.440 --> 00:39:00.400]   If it doesn't pass, then we'll keep talking.
+[00:39:00.400 --> 00:39:05.000]   That's the really proper way to cut the time, if you will.
+[00:39:05.000 --> 00:39:07.600]   So even for informational items, though.
+[00:39:07.600 --> 00:39:08.280]   Oh, that's true.
+[00:39:08.280 --> 00:39:09.960]   You're not going to have a motion, I apologize.
+[00:39:09.960 --> 00:39:11.760]   I forgot that you mentioned that up front.
+[00:39:11.760 --> 00:39:15.560]   No, those are absolutely-- you're timeline at y'alls
+[00:39:15.560 --> 00:39:19.320]   whim on those items, because they don't contain a motion.
+[00:39:19.320 --> 00:39:21.080]   They don't contain anything like that.
+[00:39:21.080 --> 00:39:23.440]   Remember, the rest of the agenda, other than business
+[00:39:23.440 --> 00:39:26.200]   items and consent agenda, is all you.
+[00:39:26.200 --> 00:39:28.520]   You can decide how you want to handle that anytime
+[00:39:28.520 --> 00:39:30.760]   you want to handle it, OK?
+[00:39:30.760 --> 00:39:32.360]   So it's all-- and I would encourage you
+[00:39:32.360 --> 00:39:34.960]   to use your guidelines to handle those type things
+[00:39:34.960 --> 00:39:36.440]   if that's what you want to do.
+[00:39:36.440 --> 00:39:38.360]   That may mean amending your guidelines at some point.
+[00:39:38.360 --> 00:39:41.560]   If you decide that's a good idea, or something
+[00:39:41.560 --> 00:39:42.760]   along those lines.
+[00:39:42.760 --> 00:39:45.320]   But the only thing that Robert Rool's really controls
+[00:39:45.320 --> 00:39:48.400]   is motions, consent agenda, business items,
+[00:39:48.400 --> 00:39:49.640]   those type of things.
+[00:39:49.640 --> 00:39:53.000]   informational items, that things of that nature,
+[00:39:53.000 --> 00:39:55.640]   those rules, and how you conduct yourself during those--
+[00:39:55.640 --> 00:39:58.120]   or during presentations like mine,
+[00:39:58.120 --> 00:40:01.280]   or something along those lines, those rules are all by you,
+[00:40:01.280 --> 00:40:03.720]   whatever you guys decide to put in place, OK?
+[00:40:05.800 --> 00:40:09.440]   And I'll put in here a chart.
+[00:40:09.440 --> 00:40:13.400]   And again, we just downloaded that, this particular chart
+[00:40:13.400 --> 00:40:14.760]   from the internet, to be honest with you.
+[00:40:14.760 --> 00:40:16.280]   So there's no magic to it.
+[00:40:16.280 --> 00:40:18.440]   There's other charts on the internet
+[00:40:18.440 --> 00:40:19.960]   that you might find that are a little better
+[00:40:19.960 --> 00:40:22.480]   if you feel like you need a chart.
+[00:40:22.480 --> 00:40:24.760]   And again, you're always welcome to keep a copy of this
+[00:40:24.760 --> 00:40:28.920]   presentation around, and I'm sure that that's definitely
+[00:40:28.920 --> 00:40:30.320]   going to get you taken care of if you need it.
+[00:40:30.320 --> 00:40:35.800]   So there's just a two-page chart.
+[00:40:35.800 --> 00:40:38.720]   There's a real good-looking guy with a bow tie.
+[00:40:38.720 --> 00:40:40.440]   And then, oh, cell phones.
+[00:40:40.440 --> 00:40:41.840]   I probably shouldn't put a cell phone up there.
+[00:40:41.840 --> 00:40:43.280]   That's bad news.
+[00:40:43.280 --> 00:40:45.800]   So really, I didn't want to take more than about 40,
+[00:40:45.800 --> 00:40:47.880]   45 minutes of your time, and I'm a little early.
+[00:40:47.880 --> 00:40:50.880]   But I want to take any kind of questions that you might have.
+[00:40:50.880 --> 00:40:52.360]   Keep it simple.
+[00:40:52.360 --> 00:40:53.680]   Keep it straight forward.
+[00:40:53.680 --> 00:40:55.280]   Make sure everybody's on the same page.
+[00:40:55.280 --> 00:40:57.320]   Make sure you don't weaponize them.
+[00:40:57.320 --> 00:41:02.240]   And it should be-- and what will happen is over time,
+[00:41:02.240 --> 00:41:06.680]   as you grow-- because I know you've got three new members--
+[00:41:06.680 --> 00:41:09.960]   as you grow as a board, and you get to that trusting phase
+[00:41:09.960 --> 00:41:12.320]   at the end of a team bill of team,
+[00:41:12.320 --> 00:41:13.640]   and you get to that particular phrase,
+[00:41:13.640 --> 00:41:14.920]   all of a sudden they become guidelines
+[00:41:14.920 --> 00:41:17.280]   because everybody gets just so used to using them.
+[00:41:17.280 --> 00:41:18.880]   And they do become more like guidelines.
+[00:41:18.880 --> 00:41:20.600]   And you stay within those guidelines.
+[00:41:20.600 --> 00:41:22.840]   And that-- because that's just the way you've done business
+[00:41:22.840 --> 00:41:25.440]   now for six months, or eight months, whatever it is,
+[00:41:25.440 --> 00:41:28.760]   or a year, and things will just roll smoothly.
+[00:41:28.760 --> 00:41:29.760]   That's the idea.
+[00:41:29.760 --> 00:41:32.600]   Smooth, efficient, and within the rules.
+[00:41:32.600 --> 00:41:35.480]   And remember, they only apply to drive this home.
+[00:41:35.480 --> 00:41:38.560]   Only apply to motion, business items, consent agenda,
+[00:41:38.560 --> 00:41:40.080]   things like that.
+[00:41:40.080 --> 00:41:43.880]   Nothing information, items, reports.
+[00:41:43.880 --> 00:41:46.160]   They receive a construction manager's report,
+[00:41:46.160 --> 00:41:47.240]   or something like that.
+[00:41:47.240 --> 00:41:48.800]   All that's up to you guys.
+[00:41:48.800 --> 00:41:51.440]   You can set whatever time limits you want on it.
+[00:41:51.440 --> 00:41:53.600]   I'm sure Dr. Schnauch has set time limits
+[00:41:53.600 --> 00:41:56.880]   on presentations, whether you guys realize it or not.
+[00:41:56.880 --> 00:42:03.600]   And so those things, though, are all within your purview, OK?
+[00:42:03.600 --> 00:42:04.520]   Yes, ma'am.
+[00:42:04.520 --> 00:42:08.480]   So when a time limit is set, does the president say it
+[00:42:08.480 --> 00:42:09.880]   upfront before discussion happens?
+[00:42:09.880 --> 00:42:10.880]   I would, yes.
+[00:42:10.880 --> 00:42:11.920]   Every time.
+[00:42:11.920 --> 00:42:12.400]   I would-- OK.
+[00:42:12.400 --> 00:42:13.120]   --before you started.
+[00:42:13.120 --> 00:42:14.840]   Just so everybody kind of knows what the time is.
+[00:42:14.840 --> 00:42:17.760]   And as Board President, now if there's a time limit set,
+[00:42:17.760 --> 00:42:19.600]   it's going to be incumbent upon you to make sure everybody
+[00:42:19.600 --> 00:42:22.040]   gets talk, OK?
+[00:42:22.040 --> 00:42:26.600]   So you don't pigeonhole yourself too much there, all right?
+[00:42:26.600 --> 00:42:27.760]   Because that's the important piece.
+[00:42:27.760 --> 00:42:29.000]   Even on informational items.
+[00:42:29.000 --> 00:42:30.840]   I think it's very important that everybody
+[00:42:30.840 --> 00:42:34.080]   gets an opportunity to ask questions if they need to, OK?
+[00:42:34.080 --> 00:42:37.960]   Anything else?
+[00:42:37.960 --> 00:42:41.360]   I can answer a try.
+[00:42:41.360 --> 00:42:42.720]   I tried to be funny upfront.
+[00:42:42.720 --> 00:42:44.120]   Then it got pretty dry.
+[00:42:44.120 --> 00:42:46.040]   And you know, hey, I can't-- I can't.
+[00:42:46.040 --> 00:42:46.800]   I'm sorry.
+[00:42:46.800 --> 00:42:48.440]   I'm done.
+[00:42:48.440 --> 00:42:49.440]   It's too hot outside.
+[00:42:49.440 --> 00:42:51.040]   And you'll make me wear a tie in a jacket,
+[00:42:51.040 --> 00:42:52.720]   so-- and I have a coach's body.
+[00:42:52.720 --> 00:42:54.800]   So there you go.
+[00:42:54.800 --> 00:42:56.320]   If you have any questions about that,
+[00:42:56.320 --> 00:42:59.320]   please run them through Ms. Braun or Dr. Snoutz
+[00:42:59.320 --> 00:43:00.480]   and have them give me a call.
+[00:43:00.480 --> 00:43:03.000]   And then we'll work backwards to get you a good answer, OK?
+[00:43:03.000 --> 00:43:03.360]   Thank you.
+[00:43:03.360 --> 00:43:04.760]   This is helpful.
+[00:43:04.760 --> 00:43:07.280]   I think just, you know, because we are new and--
+[00:43:07.280 --> 00:43:09.120]   Yeah, y'all are young.
+[00:43:09.120 --> 00:43:09.960]   It's great.
+[00:43:09.960 --> 00:43:13.040]   So thank you very much for kind of putting us in lanes
+[00:43:13.040 --> 00:43:15.320]   and thank you for the presentation.
+[00:43:15.320 --> 00:43:15.800]   Yes, ma'am.
+[00:43:15.800 --> 00:43:16.800]   Anytime.
+[00:43:16.800 --> 00:43:18.400]   Anytime, gang.
+[00:43:18.400 --> 00:43:21.120]   No, no, there you go.
+[00:43:21.120 --> 00:43:22.040]   I'm out of that.
+[00:43:22.040 --> 00:43:24.440]   It's up to y'all.
+[00:43:24.440 --> 00:43:25.000]   Thanks, Mike.
+[00:43:25.000 --> 00:43:25.680]   We appreciate you.
+[00:43:25.680 --> 00:43:26.800]   Well, thank you.
+[00:43:26.800 --> 00:43:28.960]   Let me see it down.
+[00:43:28.960 --> 00:43:30.960]   Our next agenda item is public comments.
+[00:43:30.960 --> 00:43:33.280]   Trustee Sprattley, do we have any speakers?
+[00:43:33.280 --> 00:43:35.400]   We have no public comment.
+[00:43:35.400 --> 00:43:37.720]   OK, we are in regular session of our meeting.
+[00:43:37.720 --> 00:43:39.800]   We are acting on the Board of Trustees,
+[00:43:39.800 --> 00:43:41.840]   good governance handbook.
+[00:43:41.840 --> 00:43:44.480]   All right, so it's part of the feedback and discussions
+[00:43:44.480 --> 00:43:46.400]   from the board workshops in June of July.
+[00:43:46.400 --> 00:43:48.880]   Now, the good governance handbook has been created for the board
+[00:43:48.880 --> 00:43:50.680]   in their strategic role in moving forward.
+[00:43:50.680 --> 00:43:51.560]   Excuse me.
+[00:43:51.560 --> 00:43:55.600]   I will say that you do have a copy at your place of the handbook
+[00:43:55.600 --> 00:43:56.360]   here.
+[00:43:56.360 --> 00:43:58.240]   And so with that being said, the recommendation
+[00:43:58.240 --> 00:44:01.800]   is for the Board of Trustees to approve the 2023, 2024.
+[00:44:01.800 --> 00:44:07.200]   But Board of Trustees, good governance handbook as presented.
+[00:44:07.200 --> 00:44:08.320]   Do I have a motion?
+[00:44:08.320 --> 00:44:15.040]   I make a motion to approve the Board of Trustees,
+[00:44:15.040 --> 00:44:18.520]   good governance handbook as Dr. Schnauz is recommended.
+[00:44:18.520 --> 00:44:21.960]   OK, do I have a second?
+[00:44:21.960 --> 00:44:23.440]   I second the motion.
+[00:44:23.440 --> 00:44:25.120]   OK, thank you.
+[00:44:25.120 --> 00:44:28.360]   Any discussion?
+[00:44:28.360 --> 00:44:30.240]   Becky?
+[00:44:30.240 --> 00:44:32.600]   Yeah, I noticed--
+[00:44:32.600 --> 00:44:35.240]   I mean, this was pretty comprehensive,
+[00:44:35.240 --> 00:44:37.880]   but I did notice one thing that I thought
+[00:44:37.880 --> 00:44:41.880]   were we could be a good example to our students
+[00:44:41.880 --> 00:44:46.160]   and model the kind of behavior that we're looking for in the classroom.
+[00:44:46.160 --> 00:44:50.880]   And so I print out it says page 8 of 15.
+[00:44:50.880 --> 00:44:54.520]   But it's the Board Member Norms.
+[00:44:54.520 --> 00:44:57.440]   And where we-- this part, I think, was new.
+[00:44:57.440 --> 00:44:59.800]   I don't remember it being in the previous one,
+[00:44:59.800 --> 00:45:02.960]   and I didn't have one to compare.
+[00:45:02.960 --> 00:45:06.160]   But it says electronic devices may be out during board meetings,
+[00:45:06.160 --> 00:45:08.040]   but should not be a distraction and should not
+[00:45:08.040 --> 00:45:10.200]   be used for board business.
+[00:45:10.200 --> 00:45:15.320]   And I thought really we should model the classroom behavior
+[00:45:15.320 --> 00:45:20.000]   that we're looking for, which is to actually not have them out at all,
+[00:45:20.000 --> 00:45:23.600]   unless the teacher, which I suppose would be Brad,
+[00:45:23.600 --> 00:45:25.480]   says do have them out for a reason,
+[00:45:25.480 --> 00:45:29.120]   like we need to take a picture of a schedule or something.
+[00:45:29.120 --> 00:45:31.280]   But I really thought it would be important for us
+[00:45:31.280 --> 00:45:32.800]   to model the same expectations
+[00:45:32.800 --> 00:45:34.200]   that we have for the students there.
+[00:45:34.200 --> 00:45:37.280]   And if anybody has an emergency, I mean,
+[00:45:37.280 --> 00:45:39.480]   we can do what we used to do before or cell phones
+[00:45:39.480 --> 00:45:43.440]   for so ubiquitous in what we also expect our families and students
+[00:45:43.440 --> 00:45:47.240]   to do, which is there's a number for Brad,
+[00:45:47.240 --> 00:45:49.400]   there's a number for Allen.
+[00:45:49.400 --> 00:45:51.600]   And I think that that would just be a really good way
+[00:45:51.600 --> 00:45:55.960]   to model what we're looking for in our students.
+[00:45:55.960 --> 00:45:57.160]   Well, I don't--
+[00:45:57.160 --> 00:45:59.560]   I was finished, I could form a thing.
+[00:45:59.560 --> 00:46:01.840]   I don't know if I agree with that.
+[00:46:01.840 --> 00:46:03.720]   I know what we want our students to do,
+[00:46:03.720 --> 00:46:04.760]   and I've been there done that.
+[00:46:04.760 --> 00:46:06.320]   Well, I guess I wasn't there when there.
+[00:46:06.320 --> 00:46:11.080]   I didn't have a cell phone back then, so I didn't.
+[00:46:11.080 --> 00:46:14.160]   But I think that we're grown in adults here
+[00:46:14.160 --> 00:46:17.640]   that if we need to look at something,
+[00:46:17.640 --> 00:46:20.400]   I know that I take care of my mother-in-law in a full-time basis,
+[00:46:20.400 --> 00:46:22.840]   and if there's an emergency, I need to know.
+[00:46:22.840 --> 00:46:25.560]   So I feel that we're adult enough
+[00:46:25.560 --> 00:46:28.960]   to be able to have a cell phone out and not use it.
+[00:46:28.960 --> 00:46:29.960]   That's just my opinion.
+[00:46:35.280 --> 00:46:36.240]   I agree with Tammy.
+[00:46:36.240 --> 00:46:46.240]   Shh, Becky, yeah, I follow up to that.
+[00:46:46.240 --> 00:46:48.640]   It's not just student expectations, a right.
+[00:46:48.640 --> 00:46:53.080]   Like, I know we do not expect that teachers have cell phones
+[00:46:53.080 --> 00:46:55.560]   out, and are using them when they're in the classroom.
+[00:46:55.560 --> 00:47:00.040]   And so again, I just think that it's a good opportunity
+[00:47:00.040 --> 00:47:02.680]   to model both the staff and the student behavior.
+[00:47:02.680 --> 00:47:08.440]   And if there's an emergency, and we've had emergencies
+[00:47:08.440 --> 00:47:10.640]   in my family during meetings before,
+[00:47:10.640 --> 00:47:14.400]   and I know Allen would certainly be able to take care of us,
+[00:47:14.400 --> 00:47:18.880]   should something-- I mean, it's just a couple of hours.
+[00:47:18.880 --> 00:47:21.040]   Well, I mean, I will speak to that.
+[00:47:21.040 --> 00:47:24.280]   First of all, I don't ever have my phone out.
+[00:47:24.280 --> 00:47:27.000]   So this really isn't an issue for myself,
+[00:47:27.000 --> 00:47:29.760]   but I will tell you that I do check it
+[00:47:29.760 --> 00:47:35.840]   to let my husband know when I need dinner.
+[00:47:35.840 --> 00:47:41.600]   But there are not just two hours.
+[00:47:41.600 --> 00:47:44.760]   We have five hour meetings, and they go pretty long.
+[00:47:44.760 --> 00:47:48.400]   So I mean, me personally, I don't really
+[00:47:48.400 --> 00:47:52.720]   like the idea of not being-- I don't like that restrictive
+[00:47:52.720 --> 00:47:56.520]   of a rule, but that's just myself.
+[00:47:56.520 --> 00:47:59.480]   You know, I don't know if that was just a comment,
+[00:47:59.480 --> 00:48:01.360]   or if Becky, or if you were recommending
+[00:48:01.360 --> 00:48:03.280]   that we formally change it.
+[00:48:03.280 --> 00:48:06.440]   I mean, as a comment, I think that it's
+[00:48:06.440 --> 00:48:13.560]   duly noted that we need to be aware of, as adults,
+[00:48:13.560 --> 00:48:15.840]   why our cell phones could or should be out,
+[00:48:15.840 --> 00:48:17.040]   and how they're used.
+[00:48:17.040 --> 00:48:18.640]   So I don't know if you're recommending
+[00:48:18.640 --> 00:48:21.480]   to make a formal change, or just make it a comment.
+[00:48:21.480 --> 00:48:23.960]   No, I-- OK, that's a good point.
+[00:48:23.960 --> 00:48:28.800]   I'd like to amend the motion to strike item M
+[00:48:28.800 --> 00:48:34.800]   from the Good Governance Handbook,
+[00:48:34.800 --> 00:48:38.600]   and replace it with language that says that board members
+[00:48:38.600 --> 00:48:41.240]   will not have their cell phones out during meetings.
+[00:48:41.240 --> 00:48:42.440]   Is there a second for that?
+[00:48:42.440 --> 00:48:50.360]   OK, motion fails.
+[00:48:50.360 --> 00:48:57.400]   Any other comments regarding the Good Governance Handbook?
+[00:48:57.400 --> 00:49:01.200]   I'd like to say, I'm very proud of our board,
+[00:49:01.200 --> 00:49:07.720]   this-- we took a good governance test, basically,
+[00:49:07.720 --> 00:49:11.720]   we scored ourselves, and we didn't do very well.
+[00:49:11.720 --> 00:49:15.720]   And so we literally were orange in all of the areas,
+[00:49:15.720 --> 00:49:20.680]   and our goal, beginning tonight, will be to start working
+[00:49:20.680 --> 00:49:24.400]   towards making all of those areas green.
+[00:49:24.400 --> 00:49:28.560]   And I think our objective is in the next 18 months
+[00:49:28.560 --> 00:49:31.920]   that we get ourselves in the green category,
+[00:49:31.920 --> 00:49:35.360]   and this is going to be the thing that we're working towards.
+[00:49:35.360 --> 00:49:38.160]   I'm very proud of us in the sense that we
+[00:49:38.160 --> 00:49:40.760]   are very honest about how we assess ourselves,
+[00:49:40.760 --> 00:49:46.720]   and we're being forthright in the fact that we are going
+[00:49:46.720 --> 00:49:51.480]   to actively work towards improving ourselves as a board.
+[00:49:51.480 --> 00:49:56.280]   Because one of the things is if we're demanding excellence
+[00:49:56.280 --> 00:50:00.440]   from our districts, we should be demanding excellence
+[00:50:00.440 --> 00:50:01.520]   for ourselves.
+[00:50:01.520 --> 00:50:07.680]   So I am very, very excited about this handbook.
+[00:50:07.680 --> 00:50:10.360]   We're going to have it spiral bounded,
+[00:50:10.360 --> 00:50:13.360]   and we'll have it up here at our desks.
+[00:50:13.360 --> 00:50:17.960]   So it's got the good questions to ask.
+[00:50:17.960 --> 00:50:23.120]   It's got our policies, our expectations,
+[00:50:23.120 --> 00:50:24.160]   and our scorecard in it.
+[00:50:24.160 --> 00:50:29.080]   So it's very beneficial, and I appreciate the work
+[00:50:29.080 --> 00:50:31.120]   that everybody's put in on this.
+[00:50:38.400 --> 00:50:42.400]   OK, all in favor, in passing this, raise your hand.
+[00:50:42.400 --> 00:50:49.120]   Motion passes 7-0, and just for the record I'm voting for it,
+[00:50:49.120 --> 00:50:51.080]   but I will not have myself on item meetings.
+[00:50:51.080 --> 00:50:57.680]   The next item is to approve the vision, mission,
+[00:50:57.680 --> 00:50:59.640]   and priorities, and performance objectives
+[00:50:59.640 --> 00:51:02.440]   of the Grayban Collegeville Independence School District.
+[00:51:02.440 --> 00:51:04.960]   All right, this is also a product of the work we've done
+[00:51:04.960 --> 00:51:07.960]   over the past two months as a board in the strategic role,
+[00:51:07.960 --> 00:51:10.040]   along with district leadership and the tactical
+[00:51:10.040 --> 00:51:11.160]   and operational roles.
+[00:51:11.160 --> 00:51:12.880]   Tonight, you will be considering the approval
+[00:51:12.880 --> 00:51:16.320]   of that strategic umbrella, which will provide the roadmap
+[00:51:16.320 --> 00:51:17.720]   for our district in moving forward.
+[00:51:17.720 --> 00:51:20.720]   This includes division, the mission, priorities,
+[00:51:20.720 --> 00:51:23.320]   and performance objectives, as shown in the attached
+[00:51:23.320 --> 00:51:24.800]   balance scorecard.
+[00:51:24.800 --> 00:51:26.640]   The recommendation is for the Board of Trustees
+[00:51:26.640 --> 00:51:29.040]   to approve the vision, mission, priorities,
+[00:51:29.040 --> 00:51:31.200]   and performance objectives of the Grayban Collegeville
+[00:51:31.200 --> 00:51:36.000]   Independence School District balance scorecard as presented.
+[00:51:36.000 --> 00:51:38.240]   Do I have a motion?
+[00:51:38.240 --> 00:51:40.480]   AJ?
+[00:51:40.480 --> 00:51:44.720]   I make a motion to approve the vision, mission, priorities,
+[00:51:44.720 --> 00:51:46.760]   and performance objectives of the Grayban Collegeville
+[00:51:46.760 --> 00:51:49.480]   Independence School District balance scorecard as presented
+[00:51:49.480 --> 00:51:51.400]   and recommended by Dr. Shouts.
+[00:51:51.400 --> 00:51:52.000]   Excellent.
+[00:51:52.000 --> 00:51:54.320]   Do I have a second?
+[00:51:54.320 --> 00:51:56.440]   Tammy?
+[00:51:56.440 --> 00:51:57.240]   Any discussion?
+[00:51:57.240 --> 00:52:03.640]   Oh, AJ?
+[00:52:06.360 --> 00:52:09.520]   I'd just like to compliment our district leadership
+[00:52:09.520 --> 00:52:14.720]   on how diligently they worked to get this together,
+[00:52:14.720 --> 00:52:17.160]   presented it to us at the last meeting,
+[00:52:17.160 --> 00:52:20.160]   the last special meeting, and the work that they put forward
+[00:52:20.160 --> 00:52:27.120]   to really line themselves up and be direct with everybody
+[00:52:27.120 --> 00:52:29.760]   and how they're moving forward, how they're
+[00:52:29.760 --> 00:52:31.640]   going to measure themselves, how they can present
+[00:52:31.640 --> 00:52:33.960]   that information to the public as a--
+[00:52:33.960 --> 00:52:36.240]   not as a trustee, but as a parent in somebody who's
+[00:52:36.240 --> 00:52:39.440]   been able to see this and see our district leadership
+[00:52:39.440 --> 00:52:42.480]   develop and how that's been a top-down mission led
+[00:52:42.480 --> 00:52:45.400]   by Dr. Shouts and the wonderful leadership team we have.
+[00:52:45.400 --> 00:52:49.400]   It warms my heart as a parent whose child is going
+[00:52:49.400 --> 00:52:50.240]   through this district.
+[00:52:50.240 --> 00:52:53.320]   And I feel like the next couple of years,
+[00:52:53.320 --> 00:52:55.440]   the sky's the limit for our district leadership
+[00:52:55.440 --> 00:52:56.960]   and how they push that down to each campus.
+[00:52:56.960 --> 00:52:58.720]   So I just wanted to say I'm excited.
+[00:52:58.720 --> 00:53:02.760]   I appreciate y'all in working so hard over the summer
+[00:53:02.760 --> 00:53:05.880]   to get this laid out and push down from the top down
+[00:53:05.880 --> 00:53:06.800]   all of our campuses.
+[00:53:06.800 --> 00:53:09.080]   So thank you guys, all of y'all.
+[00:53:09.080 --> 00:53:11.680]   Thank y'all very much.
+[00:53:11.680 --> 00:53:16.760]   I hate to put you on the spot, but I'm excited about this also.
+[00:53:16.760 --> 00:53:18.840]   And I would like for you just to kind of talk
+[00:53:18.840 --> 00:53:24.120]   about how the objective of the transparency
+[00:53:24.120 --> 00:53:28.400]   and how frequently we're going to start having these meetings
+[00:53:28.400 --> 00:53:30.800]   and then in September, we're going to start our goal one
+[00:53:30.800 --> 00:53:33.440]   and what that looks like and just kind of explain.
+[00:53:33.440 --> 00:53:34.520]   Yeah, I'd be glad to.
+[00:53:34.520 --> 00:53:37.920]   And I just want to say thank you, AJ, for those kind words.
+[00:53:37.920 --> 00:53:41.760]   And really, it's a testament to the work of the board,
+[00:53:41.760 --> 00:53:45.400]   because as you guys know, we started this in early June,
+[00:53:45.400 --> 00:53:49.320]   but then to come around in July and bring our leadership team
+[00:53:49.320 --> 00:53:51.640]   in collaboration with the board.
+[00:53:51.640 --> 00:53:53.320]   Hopefully it was beneficial for the board,
+[00:53:53.320 --> 00:53:55.360]   but I can say from our leadership team
+[00:53:55.360 --> 00:53:58.360]   and from a district perspective, it was invaluable for us
+[00:53:58.360 --> 00:54:02.160]   to just sit in the same room, have that dialogue back and forth
+[00:54:02.160 --> 00:54:05.280]   to where we are truly on the same page, right?
+[00:54:05.280 --> 00:54:08.160]   And it establishes clarity for you guys, hopefully,
+[00:54:08.160 --> 00:54:11.480]   but also, too, in the work that we do each day
+[00:54:11.480 --> 00:54:13.680]   on the admin side.
+[00:54:13.680 --> 00:54:15.760]   In yes, to your point, President Braun,
+[00:54:15.760 --> 00:54:19.440]   so you can imagine this is going to be frequent updates,
+[00:54:19.440 --> 00:54:22.920]   regular routine updates where we're already
+[00:54:22.920 --> 00:54:26.880]   planning for, for example, priority one in September,
+[00:54:26.880 --> 00:54:29.800]   priority two in October, three in November,
+[00:54:29.800 --> 00:54:33.000]   four in December, and then it's rinse, wash and repeat
+[00:54:33.000 --> 00:54:34.480]   in the second semester.
+[00:54:34.480 --> 00:54:37.120]   And so it's a continuous improvement model.
+[00:54:37.120 --> 00:54:41.040]   It's something that, again, we look forward to--
+[00:54:41.040 --> 00:54:44.560]   it's that just-- the work is never done,
+[00:54:44.560 --> 00:54:47.840]   but we're always striving to be better in the work, you know?
+[00:54:47.840 --> 00:54:51.520]   And we'll figure out our routine with the board,
+[00:54:51.520 --> 00:54:54.800]   with admin, and we may have to tweak some things,
+[00:54:54.800 --> 00:54:57.040]   or maybe we flip it, and maybe in November,
+[00:54:57.040 --> 00:54:59.080]   we have priority four instead of priority three,
+[00:54:59.080 --> 00:55:00.520]   and just we'll work together.
+[00:55:00.520 --> 00:55:02.880]   But I think it's going to be--
+[00:55:02.880 --> 00:55:04.160]   it's going to be clear for the board.
+[00:55:04.160 --> 00:55:06.600]   It's going to be clear for the district
+[00:55:06.600 --> 00:55:08.200]   that we just have regular updates.
+[00:55:08.200 --> 00:55:10.000]   It's going to be clear for our community, you know?
+[00:55:10.000 --> 00:55:12.800]   What are targets, metrics, what are vision, mission,
+[00:55:12.800 --> 00:55:14.080]   what we're about, you know?
+[00:55:14.080 --> 00:55:16.720]   And again, we want to keep our--
+[00:55:16.720 --> 00:55:19.680]   our board, our community updated in our work,
+[00:55:19.680 --> 00:55:22.680]   and hopefully to your point, we continue to raise the bar,
+[00:55:22.680 --> 00:55:24.360]   and we will together.
+[00:55:24.360 --> 00:55:27.000]   And so did that answer, that question?
+[00:55:27.000 --> 00:55:27.480]   OK.
+[00:55:27.480 --> 00:55:28.760]   And I just want to--
+[00:55:28.760 --> 00:55:30.600]   I really want to give kudos to our team
+[00:55:30.600 --> 00:55:34.680]   and to our district leadership, all the way out
+[00:55:34.680 --> 00:55:36.840]   to our campus leaders, our principals,
+[00:55:36.840 --> 00:55:40.760]   our assistant principals, and really our teachers,
+[00:55:40.760 --> 00:55:42.840]   our instructional staff, you know?
+[00:55:42.840 --> 00:55:45.960]   I university prep had a great first start today.
+[00:55:45.960 --> 00:55:48.920]   We will hopefully emulate that with our bricks and mortar
+[00:55:48.920 --> 00:55:51.600]   campuses tomorrow, but it takes all of us
+[00:55:51.600 --> 00:55:54.640]   and from, you know, across the district,
+[00:55:54.640 --> 00:55:58.400]   I'm excited about this balance score card for our organization.
+[00:55:58.400 --> 00:56:03.960]   Any other comments?
+[00:56:03.960 --> 00:56:06.920]   All right, all in favor?
+[00:56:06.920 --> 00:56:10.720]   Motion passes 7-0.
+[00:56:10.720 --> 00:56:13.320]   Now we are to the consent agenda.
+[00:56:13.320 --> 00:56:18.680]   Do I have a motion for the consent agenda?
+[00:56:18.680 --> 00:56:23.200]   Shouldn't I'd like to pull item F please?
+[00:56:23.200 --> 00:56:27.720]   So I move we approve the consent agenda, except for item F.
+[00:56:27.720 --> 00:56:32.080]   OK, do I have a second for Tammy seconds?
+[00:56:32.080 --> 00:56:37.160]   All right, all in favor of the consent agenda raise your hand,
+[00:56:37.160 --> 00:56:43.840]   except for item F, that's 7-0, and now personal report.
+[00:56:43.840 --> 00:56:47.320]   All right, the August 14, 2023 personal report includes
+[00:56:47.320 --> 00:56:50.200]   recommendations for employment, as well as announcements
+[00:56:50.200 --> 00:56:52.280]   of resignations or retirements.
+[00:56:52.280 --> 00:56:54.240]   The recommendation is in-- sorry, you
+[00:56:54.240 --> 00:56:56.880]   have a personal report at your place.
+[00:56:56.880 --> 00:56:58.640]   The recommendation is for the Board of Trustees
+[00:56:58.640 --> 00:57:01.680]   to approve the August 14, 2023 personal report.
+[00:57:01.680 --> 00:57:10.160]   All right, I move we accept the personal report.
+[00:57:10.160 --> 00:57:14.080]   OK, do I have a second?
+[00:57:14.080 --> 00:57:15.480]   Kathy's probably seconds.
+[00:57:15.480 --> 00:57:17.640]   Discussion?
+[00:57:17.640 --> 00:57:20.880]   OK, so real quick, I'm excited.
+[00:57:20.880 --> 00:57:22.880]   Tomorrow is the first day of school.
+[00:57:22.880 --> 00:57:26.960]   Class of '24, going to hear you roar.
+[00:57:26.960 --> 00:57:29.880]   But I do know we have quite a few positions
+[00:57:29.880 --> 00:57:31.520]   that I believe are unfilled and so this
+[00:57:31.520 --> 00:57:33.440]   was the only way to ask, quite sure, right?
+[00:57:33.440 --> 00:57:39.560]   So can we get a list of-- and oh my gosh, I know personally,
+[00:57:39.560 --> 00:57:43.840]   kids who were enrolling in pre-K last Friday,
+[00:57:43.840 --> 00:57:48.800]   so three days ago, so bless all of our campus principles,
+[00:57:48.800 --> 00:57:52.200]   who are still probably shuffling the deck chairs
+[00:57:52.200 --> 00:57:54.880]   to make all the classes, even though we've already
+[00:57:54.880 --> 00:57:56.440]   had made the teacher, you might really
+[00:57:56.440 --> 00:57:58.960]   meet the teacher tomorrow.
+[00:57:58.960 --> 00:58:03.440]   But I would like a list of all of the positions
+[00:58:03.440 --> 00:58:07.400]   that we still have open and a list of the positions
+[00:58:07.400 --> 00:58:08.800]   that are filled with temporary people,
+[00:58:08.800 --> 00:58:11.680]   because I know we have an issue over at Gabbin High School
+[00:58:11.680 --> 00:58:16.240]   as one example, but I'm had to do that to get--
+[00:58:16.240 --> 00:58:18.640]   had to do all this stuff to get to that question, so thank you.
+[00:58:18.640 --> 00:58:19.880]   Sure.
+[00:58:19.880 --> 00:58:21.160]   You want me to give that to you now?
+[00:58:21.160 --> 00:58:23.320]   Or have it, that would be great.
+[00:58:23.320 --> 00:58:24.760]   I do have it.
+[00:58:24.760 --> 00:58:28.040]   So I did put in the board update last week where we stood
+[00:58:28.040 --> 00:58:30.440]   and what vacancies we still had.
+[00:58:30.440 --> 00:58:32.760]   We've marked a few of those off of the list,
+[00:58:32.760 --> 00:58:36.400]   and so I'll start at the high schools.
+[00:58:36.400 --> 00:58:42.680]   At Gabbin High School, I would consider this our--
+[00:58:42.680 --> 00:58:45.000]   they're all important dire needs,
+[00:58:45.000 --> 00:58:48.160]   but a debate coach and a no-eye coach,
+[00:58:48.160 --> 00:58:52.280]   and so we are still looking for that at Gabbin High School.
+[00:58:52.280 --> 00:58:55.520]   And so we have a retired employee who's
+[00:58:55.520 --> 00:58:58.640]   going to come in and assist us a few times a week
+[00:58:58.640 --> 00:59:02.120]   with the debate, and so we'll be able to serve those kids
+[00:59:02.120 --> 00:59:04.720]   through debate, and then we're looking
+[00:59:04.720 --> 00:59:07.840]   for someone who can come in and do that world in turn.
+[00:59:07.840 --> 00:59:17.120]   They are going to right now go a coach down for football,
+[00:59:17.120 --> 00:59:18.240]   it is, I believe.
+[00:59:18.240 --> 00:59:19.360]   And we've premiered a year.
+[00:59:19.360 --> 00:59:22.360]   Sometimes have that happen, and so the students
+[00:59:22.360 --> 00:59:24.840]   will be taking care of in that social studies class,
+[00:59:24.840 --> 00:59:26.640]   because they have been able to take the kids
+[00:59:26.640 --> 00:59:29.560]   and put them in other classes, and so we
+[00:59:29.560 --> 00:59:31.160]   will be looking for a coach that's
+[00:59:31.160 --> 00:59:35.440]   core, subject, certified, we had a late resignation.
+[00:59:35.440 --> 00:59:37.320]   Did you have a question about that?
+[00:59:37.320 --> 00:59:38.240]   No, okay.
+[00:59:38.240 --> 00:59:41.000]   College of Heritage, a special ed inclusion
+[00:59:41.000 --> 00:59:42.400]   that we're still looking for.
+[00:59:42.400 --> 00:59:47.000]   And then with the promotion of Gary Bernard last week,
+[00:59:47.000 --> 00:59:50.480]   we now have an assistant band director opening.
+[00:59:50.480 --> 00:59:54.240]   The Gary moved up to be an assistant principal,
+[00:59:54.240 --> 00:59:57.160]   and so our assistant band director is serving
+[00:59:57.160 --> 01:00:00.600]   as the full-time interim band director.
+[01:00:00.600 --> 01:00:04.400]   So we've got some extra help there, too.
+[01:00:04.400 --> 01:00:07.480]   We've got some extra help.
+[01:00:07.480 --> 01:00:09.120]   Cross-timbers, we're looking--
+[01:00:09.120 --> 01:00:10.840]   Jim, can I comment on that real quick?
+[01:00:10.840 --> 01:00:14.880]   So when I met with Gary last week,
+[01:00:14.880 --> 01:00:16.880]   the great thing about having Gary there is he's
+[01:00:16.880 --> 01:00:18.880]   able to offer some supplemental support
+[01:00:18.880 --> 01:00:21.680]   to the band program, and he'll still be a tremendous resource
+[01:00:21.680 --> 01:00:25.320]   as I'll be at his primary role now as assistant principal.
+[01:00:25.320 --> 01:00:28.880]   But having him on campus is going to be invaluable
+[01:00:28.880 --> 01:00:34.280]   for the band program, as we start to try to find
+[01:00:34.280 --> 01:00:36.920]   that assistance replacement, if you will.
+[01:00:36.920 --> 01:00:39.480]   But he assured me that he will do everything he can
+[01:00:39.480 --> 01:00:42.240]   to make sure that his transition kind of out
+[01:00:42.240 --> 01:00:45.600]   of the band program is seamless while helping support them
+[01:00:45.600 --> 01:00:48.200]   in a way that he's able to.
+[01:00:48.200 --> 01:00:49.520]   So I have a question about that.
+[01:00:49.520 --> 01:00:53.200]   Is the plan to hire a headband director
+[01:00:53.200 --> 01:00:55.960]   or is the plan to move the assistant director up
+[01:00:55.960 --> 01:00:57.600]   and hire an assistant?
+[01:00:57.600 --> 01:01:00.320]   So right now, we have the assistant
+[01:01:00.320 --> 01:01:02.360]   as the interim band director.
+[01:01:02.360 --> 01:01:06.240]   And so that assistant band director position is open.
+[01:01:06.240 --> 01:01:09.000]   And so we are going to get through band season,
+[01:01:09.000 --> 01:01:11.200]   and if we can find an assistant, we will definitely
+[01:01:11.200 --> 01:01:13.840]   put them in there, and then kind of
+[01:01:13.840 --> 01:01:17.240]   like when we have sudden openings, and we name an interim,
+[01:01:17.240 --> 01:01:20.160]   we felt it was very important to have that consistency
+[01:01:20.160 --> 01:01:22.480]   there, and that assistant band director
+[01:01:22.480 --> 01:01:24.640]   is fully capable of running that program.
+[01:01:24.640 --> 01:01:27.040]   And so for right now, he's the interim,
+[01:01:27.040 --> 01:01:29.840]   and we're looking for an assistant board.
+[01:01:29.840 --> 01:01:31.880]   And the assistant is phenomenal, too.
+[01:01:31.880 --> 01:01:33.960]   The one that's there now, the female.
+[01:01:33.960 --> 01:01:37.560]   Great, yes, we've got some great band directors.
+[01:01:37.560 --> 01:01:38.800]   We really do.
+[01:01:38.800 --> 01:01:41.800]   OK, it's somebody else had the question.
+[01:01:41.800 --> 01:01:46.560]   Let me go on to middle school.
+[01:01:46.560 --> 01:01:49.160]   Oh, that's it.
+[01:01:49.160 --> 01:01:51.320]   Yeah, I have one more question on high school.
+[01:01:51.320 --> 01:01:54.600]   So I've definitely been hearing from some parents
+[01:01:54.600 --> 01:01:57.960]   regarding the languages and busing.
+[01:01:57.960 --> 01:02:00.840]   And can you walk me through what all is going on here?
+[01:02:00.840 --> 01:02:03.600]   Because it's not sounding--
+[01:02:03.600 --> 01:02:10.240]   We had a late retirement with our ASL teacher.
+[01:02:10.240 --> 01:02:13.080]   And so we have two ASL teachers for the district.
+[01:02:13.080 --> 01:02:16.440]   We had a late retirement just a week or so ago.
+[01:02:16.440 --> 01:02:20.400]   And those students are going to need to take Spanish.
+[01:02:20.400 --> 01:02:24.040]   We have hired a new Spanish teacher that started--
+[01:02:24.040 --> 01:02:25.880]   I saw him here today, getting his badge.
+[01:02:25.880 --> 01:02:28.880]   And so the option for those kids to take Spanish
+[01:02:28.880 --> 01:02:31.600]   is on the table if they want to take that.
+[01:02:31.600 --> 01:02:35.440]   Our ASL teacher that is existing, one in the district.
+[01:02:35.440 --> 01:02:38.160]   We have hired an additional aid for him
+[01:02:38.160 --> 01:02:41.120]   because his course load is very high.
+[01:02:41.120 --> 01:02:43.080]   In checking with other districts just
+[01:02:43.080 --> 01:02:47.200]   to see about their ASL program and what they do,
+[01:02:47.200 --> 01:02:49.960]   ASL is a very hard position to fill.
+[01:02:49.960 --> 01:02:52.680]   And so we're very thankful for our College of Heritage ASL
+[01:02:52.680 --> 01:02:55.360]   teacher and the support he provides.
+[01:02:55.360 --> 01:02:57.000]   We're going to get him some assistance.
+[01:02:57.000 --> 01:02:59.880]   But that second teacher, we weren't anticipating
+[01:02:59.880 --> 01:03:00.880]   that resignation.
+[01:03:00.880 --> 01:03:05.040]   And so that means those kids had to go somewhere.
+[01:03:05.040 --> 01:03:08.280]   I think there were about 80 kids, maybe, 90
+[01:03:08.280 --> 01:03:10.600]   that we sent an email to.
+[01:03:10.600 --> 01:03:14.160]   So are those all freshmen that were starting it out?
+[01:03:14.160 --> 01:03:18.000]   Or is this impacting all grade levels?
+[01:03:18.000 --> 01:03:20.160]   Well, if someone was taking ASL 1,
+[01:03:20.160 --> 01:03:22.000]   we're going to ensure they had ASL 2.
+[01:03:22.000 --> 01:03:22.960]   And I'll check that out.
+[01:03:22.960 --> 01:03:25.320]   But I believe it was entry-level.
+[01:03:25.320 --> 01:03:27.880]   But I'll check it out and provide an update on Friday.
+[01:03:27.880 --> 01:03:29.560]   OK, yeah, because that's not a small number.
+[01:03:29.560 --> 01:03:31.400]   We want to continue that service.
+[01:03:31.400 --> 01:03:34.840]   Oh, absolutely, that's an incredible skill.
+[01:03:34.840 --> 01:03:37.080]   Absolutely.
+[01:03:37.080 --> 01:03:39.320]   And probably reasons kids were taking
+[01:03:39.320 --> 01:03:43.880]   that versus a traditional language class.
+[01:03:43.880 --> 01:03:45.480]   So Becky, I want to comment on that,
+[01:03:45.480 --> 01:03:48.440]   because my daughter is an ASL 2 and ASL 1.
+[01:03:48.440 --> 01:03:51.080]   And I want to say that the teacher, it's medical.
+[01:03:51.080 --> 01:03:52.480]   It's not late.
+[01:03:52.480 --> 01:03:53.840]   Some people just-- I'm done.
+[01:03:53.840 --> 01:03:56.720]   But she didn't anticipate this either.
+[01:03:56.720 --> 01:04:01.240]   But to Gemma's point, anybody who was going to start,
+[01:04:01.240 --> 01:04:04.080]   most of the sophomores, they are all in ASL 2.
+[01:04:04.080 --> 01:04:05.600]   And Mr. Deaton is great.
+[01:04:05.600 --> 01:04:06.600]   He will do a phenomenon.
+[01:04:06.600 --> 01:04:08.920]   He actually taught the class a lot last year,
+[01:04:08.920 --> 01:04:11.040]   because it is a very specific skill.
+[01:04:11.040 --> 01:04:12.440]   So I'm glad to hear that.
+[01:04:12.440 --> 01:04:13.440]   I was going to ask.
+[01:04:13.440 --> 01:04:16.400]   But I assumed, and I didn't want to just say definitely,
+[01:04:16.400 --> 01:04:18.480]   but I assumed that we were taking care of the ASL 2
+[01:04:18.480 --> 01:04:21.600]   or ASL 4s.
+[01:04:21.600 --> 01:04:24.160]   The problem, too, is he's deaf.
+[01:04:24.160 --> 01:04:25.600]   So that's the struggle, because that's
+[01:04:25.600 --> 01:04:28.240]   why I have to have somebody with them.
+[01:04:28.240 --> 01:04:30.720]   Well, but he had somebody with him already anyway, right?
+[01:04:30.720 --> 01:04:32.720]   Yeah, yeah.
+[01:04:32.720 --> 01:04:36.080]   No, he doesn't always have someone in the classroom.
+[01:04:36.080 --> 01:04:38.640]   I thought we had somebody with him.
+[01:04:38.640 --> 01:04:41.560]   Last year, he provided some additional support for us,
+[01:04:41.560 --> 01:04:45.720]   because we needed ASL assistance at I University Prep.
+[01:04:45.720 --> 01:04:48.120]   And so he did provide additional assistance
+[01:04:48.120 --> 01:04:48.640]   for us.
+[01:04:48.640 --> 01:04:52.280]   I mean, he's been a rock star since he's been here with us.
+[01:04:52.280 --> 01:04:55.080]   OK.
+[01:04:55.080 --> 01:04:57.080]   So on the middle school?
+[01:04:57.080 --> 01:04:58.680]   OK.
+[01:04:58.680 --> 01:05:04.000]   So I believe that Heritage Middle School, they need a math
+[01:05:04.000 --> 01:05:06.520]   teacher who is also a coach.
+[01:05:06.520 --> 01:05:09.400]   But right now, we would settle for just a math teacher.
+[01:05:09.400 --> 01:05:11.840]   And we found one today, I believe,
+[01:05:11.840 --> 01:05:13.880]   the campus maybe is interviewing them this afternoon
+[01:05:13.880 --> 01:05:14.480]   or tomorrow.
+[01:05:14.480 --> 01:05:17.040]   So I'm not sure that that's going to work out,
+[01:05:17.040 --> 01:05:19.560]   but we do have an applicant that we're looking at.
+[01:05:19.560 --> 01:05:22.520]   Across timbers, they have a CTE opening.
+[01:05:22.520 --> 01:05:24.600]   And I know there was some discussion today
+[01:05:24.600 --> 01:05:26.200]   about an applicant, but I'm not sure.
+[01:05:26.200 --> 01:05:28.400]   So I can update you guys on those two
+[01:05:28.400 --> 01:05:32.720]   and how that went late this afternoon.
+[01:05:32.720 --> 01:05:38.280]   Silver Lake Elementary needs an ECSE teacher.
+[01:05:38.280 --> 01:05:43.200]   But we're able to move some things around, I believe.
+[01:05:43.200 --> 01:05:46.360]   And I think we're going to have that covered for a minute.
+[01:05:46.360 --> 01:05:48.640]   And we have it covered.
+[01:05:48.640 --> 01:05:50.920]   And then we'll still look for an ECSE teacher.
+[01:05:50.920 --> 01:05:53.720]   So the kids will be taken care of.
+[01:05:53.720 --> 01:05:56.720]   Timberland needs a literacy intervention teacher.
+[01:05:56.720 --> 01:05:58.680]   And so that's not a core classroom teacher.
+[01:05:58.680 --> 01:06:01.160]   That is a Title I position.
+[01:06:01.160 --> 01:06:05.120]   And then we did promote the student support specialist,
+[01:06:05.120 --> 01:06:07.320]   which is kind of like a learning liaison
+[01:06:07.320 --> 01:06:09.080]   and an assistant principal in one, two
+[01:06:09.080 --> 01:06:10.480]   and assistant principal job.
+[01:06:10.480 --> 01:06:14.200]   And so we have begun the search for that student support
+[01:06:14.200 --> 01:06:16.160]   specialist.
+[01:06:16.160 --> 01:06:18.320]   So those are the openings that we have.
+[01:06:18.320 --> 01:06:23.080]   We do have about 10 to 15 teachers
+[01:06:23.080 --> 01:06:27.640]   who are starting who are also working on an all-serk program.
+[01:06:27.640 --> 01:06:31.640]   We anticipate between now and take some of them
+[01:06:31.640 --> 01:06:34.440]   a couple of weeks, and it takes some of them a few months.
+[01:06:34.440 --> 01:06:36.600]   But they get an intern certificate
+[01:06:36.600 --> 01:06:38.800]   from the State Board of Educator Certification.
+[01:06:38.800 --> 01:06:43.360]   And so if any of those teachers stay in the classroom longer
+[01:06:43.360 --> 01:06:46.400]   than six weeks without getting that initial certification,
+[01:06:46.400 --> 01:06:49.640]   we will let parents know about that.
+[01:06:49.640 --> 01:06:52.000]   But we anticipate everybody will be fully certified.
+[01:06:52.000 --> 01:06:54.520]   And this is just a standard practice.
+[01:06:54.520 --> 01:07:00.560]   We get teachers all the time from all-serk programs.
+[01:07:00.560 --> 01:07:06.080]   And believe that's our openings.
+[01:07:06.080 --> 01:07:06.720]   I have a comment.
+[01:07:06.720 --> 01:07:07.840]   Happy to get.
+[01:07:07.840 --> 01:07:09.640]   One of my favorite things to watch this summer
+[01:07:09.640 --> 01:07:11.160]   has been orientation pictures.
+[01:07:11.160 --> 01:07:13.880]   So everybody that was involved with that--
+[01:07:13.880 --> 01:07:15.360]   I mean, it's just smiling faces.
+[01:07:15.360 --> 01:07:17.760]   And it's from the communications team
+[01:07:17.760 --> 01:07:19.360]   making sure that the community sees that
+[01:07:19.360 --> 01:07:22.040]   to the hard work that you guys have done.
+[01:07:22.040 --> 01:07:24.320]   This list is very long, and that's great.
+[01:07:24.320 --> 01:07:29.840]   Let me brag on everybody that has a hand in that orientation.
+[01:07:29.840 --> 01:07:32.920]   So Taylor McDonald and David Dinning--
+[01:07:32.920 --> 01:07:34.760]   that's kind of what they do in the summer--
+[01:07:34.760 --> 01:07:37.640]   is they hire and they orient the people.
+[01:07:37.640 --> 01:07:41.220]   But Allen comes in and gives them an orientation.
+[01:07:41.220 --> 01:07:43.720]   One of the-- we do a feedback sheet
+[01:07:43.720 --> 01:07:45.440]   and we ask them to provide a feedback
+[01:07:45.440 --> 01:07:49.200]   and they love hearing from Allen and the safety and security.
+[01:07:49.200 --> 01:07:51.560]   There's nothing more important than keeping our kids safe.
+[01:07:51.560 --> 01:07:53.960]   And so all the new teachers get to hear that.
+[01:07:53.960 --> 01:07:57.000]   Someone from Lisa's team comes in, Lisa Shockley,
+[01:07:57.000 --> 01:08:00.000]   with special ed things.
+[01:08:00.000 --> 01:08:02.240]   We have benefits come in.
+[01:08:02.240 --> 01:08:04.720]   And so it's really a good opportunity.
+[01:08:04.720 --> 01:08:08.840]   And for them to just get a little overview of everything.
+[01:08:08.840 --> 01:08:12.880]   We've had so many people say, this is the best orientation
+[01:08:12.880 --> 01:08:14.080]   that I've ever attended.
+[01:08:14.080 --> 01:08:18.080]   And so when it's over, they're not rushing to their car
+[01:08:18.080 --> 01:08:18.760]   to lead.
+[01:08:18.760 --> 01:08:20.920]   I mean, they're mingling with others.
+[01:08:20.920 --> 01:08:23.040]   They're getting on their computer, asking questions.
+[01:08:23.040 --> 01:08:25.480]   Kyle and his team will bring computers over.
+[01:08:25.480 --> 01:08:27.520]   And so they get their badge.
+[01:08:27.520 --> 01:08:28.560]   It is fun.
+[01:08:28.560 --> 01:08:29.760]   It is great.
+[01:08:29.760 --> 01:08:31.840]   And we had, I think, 10 of them this summer.
+[01:08:31.840 --> 01:08:35.680]   We decided to have more of them spaced out,
+[01:08:35.680 --> 01:08:38.160]   just so we could give more individualized attention
+[01:08:38.160 --> 01:08:40.400]   versus having just a few big ones.
+[01:08:40.400 --> 01:08:42.680]   And that worked out well.
+[01:08:42.680 --> 01:08:43.600]   It was a success.
+[01:08:43.600 --> 01:08:45.560]   But that was, I love seeing those pictures too.
+[01:08:45.560 --> 01:08:46.840]   And thank you to communications.
+[01:08:46.840 --> 01:08:50.480]   They always took the pictures for us.
+[01:08:50.480 --> 01:08:53.720]   In the board update, so you had the maintenance and operations
+[01:08:53.720 --> 01:08:55.160]   and transportation.
+[01:08:55.160 --> 01:08:56.240]   So do you feel good?
+[01:08:56.240 --> 01:08:58.880]   Because it seemed to me that there's numbers
+[01:08:58.880 --> 01:09:03.000]   for pretty under control except for maybe janitors.
+[01:09:03.000 --> 01:09:05.640]   The custodial support, yes.
+[01:09:05.640 --> 01:09:10.120]   So with the pay increase last year, we moved it from 1350,
+[01:09:10.120 --> 01:09:12.120]   I believe, up to 1550.
+[01:09:12.120 --> 01:09:14.480]   That is life-changing for our current employees.
+[01:09:14.480 --> 01:09:17.040]   And it's also a recruiting tool.
+[01:09:17.040 --> 01:09:20.920]   It takes a minute to get the word out and find people
+[01:09:20.920 --> 01:09:23.880]   that know people that, oh, you know, you can make 1550,
+[01:09:23.880 --> 01:09:25.480]   starting out at Colleville Heritage.
+[01:09:25.480 --> 01:09:27.320]   All right, great one, Colleville ISD.
+[01:09:27.320 --> 01:09:33.400]   So transportation, we didn't have a problem having
+[01:09:33.400 --> 01:09:37.160]   applicants and recruiting and interviewing and hiring.
+[01:09:37.160 --> 01:09:40.160]   And so a few of the people that we've hired
+[01:09:40.160 --> 01:09:42.320]   do need to go through the training.
+[01:09:42.320 --> 01:09:43.840]   But that's the best way.
+[01:09:43.840 --> 01:09:45.440]   I mean, we train them.
+[01:09:45.440 --> 01:09:48.000]   They learn the way that meaning likes it
+[01:09:48.000 --> 01:09:49.640]   and the way that what we expect.
+[01:09:49.640 --> 01:09:52.120]   And we have very high expectations for our bus drivers
+[01:09:52.120 --> 01:09:53.080]   and bus monitors.
+[01:09:53.080 --> 01:09:58.200]   So they come in and they learn it from us.
+[01:09:58.200 --> 01:10:02.280]   Nutrition, I think we're OK, but the custodial support
+[01:10:02.280 --> 01:10:06.480]   is where we still need assistance.
+[01:10:06.480 --> 01:10:09.320]   But I feel confident over the next couple of months
+[01:10:09.320 --> 01:10:10.840]   we're going to get there.
+[01:10:10.840 --> 01:10:14.960]   And once word of mouth gets out to other custodians
+[01:10:14.960 --> 01:10:18.600]   and other places that we may need to recruit to come here.
+[01:10:18.600 --> 01:10:22.240]   So I'm very hopeful that the 1550 an hour,
+[01:10:22.240 --> 01:10:26.600]   and maybe if I keep saying it, everybody will hear it.
+[01:10:26.600 --> 01:10:27.840]   How much is it?
+[01:10:27.840 --> 01:10:29.600]   It's 1550 an hour.
+[01:10:29.600 --> 01:10:31.880]   From-- that's a $2 an hour increase.
+[01:10:31.880 --> 01:10:35.520]   OK, Becky.
+[01:10:35.520 --> 01:10:39.800]   Yeah, I have one-- something you said triggered a question.
+[01:10:39.800 --> 01:10:44.120]   Lisa, especially since we had so many orientations
+[01:10:44.120 --> 01:10:47.520]   with so many new people, and it was really fun to see.
+[01:10:47.520 --> 01:10:51.080]   I know we saw students who went to school here coming in,
+[01:10:51.080 --> 01:10:56.320]   and I know we've got some mother-daughter that's so cool.
+[01:10:56.320 --> 01:11:02.560]   But I do want to know beyond even the special ed students
+[01:11:02.560 --> 01:11:07.080]   alone, were we making sure that particularly these new teachers
+[01:11:07.080 --> 01:11:09.800]   coming in that accommodations, whether it
+[01:11:09.800 --> 01:11:13.640]   is a kindergarten classroom or a senior,
+[01:11:13.640 --> 01:11:19.280]   are very important, regardless of what program--
+[01:11:19.280 --> 01:11:23.440]   how do we communicate to all of the new teachers
+[01:11:23.440 --> 01:11:25.440]   that accommodations were a critical piece
+[01:11:25.440 --> 01:11:27.720]   of any student's education?
+[01:11:27.720 --> 01:11:32.360]   [INAUDIBLE]
+[01:11:32.360 --> 01:11:36.400]   So not just for special ed teachers, but for every teacher?
+[01:11:36.400 --> 01:11:38.920]   Right, we have instructional specialists,
+[01:11:38.920 --> 01:11:41.080]   and of course our campus diagnosticians,
+[01:11:41.080 --> 01:11:43.680]   our special ed staff, worked very closely
+[01:11:43.680 --> 01:11:45.960]   with the teachers on campuses to make
+[01:11:45.960 --> 01:11:50.600]   sure that all of our IEPs are provided to the teachers.
+[01:11:50.600 --> 01:11:53.520]   And that our special ed teachers work collaboratively.
+[01:11:53.520 --> 01:11:55.320]   We do teacher meetings.
+[01:11:55.320 --> 01:11:57.360]   So yeah, we have systems in place
+[01:11:57.360 --> 01:11:59.960]   to make sure that all the teachers are informed about.
+[01:11:59.960 --> 01:12:00.560]   OK.
+[01:12:00.560 --> 01:12:01.360]   All right.
+[01:12:01.360 --> 01:12:02.800]   [INAUDIBLE]
+[01:12:02.800 --> 01:12:04.840]   [INAUDIBLE]
+[01:12:04.840 --> 01:12:10.200]   OK, thank you.
+[01:12:10.200 --> 01:12:14.640]   And then just on a day-to-day basis as we go in.
+[01:12:14.640 --> 01:12:16.640]   And as school starts tomorrow, then our SPED
+[01:12:16.640 --> 01:12:20.520]   teachers will be touching base with all of those teachers,
+[01:12:20.520 --> 01:12:23.280]   our case managers, to ensure that they have the paperwork
+[01:12:23.280 --> 01:12:24.120]   that they need.
+[01:12:24.120 --> 01:12:25.760]   OK, because yeah, I mean, like I said,
+[01:12:25.760 --> 01:12:27.760]   I'm thinking of all of the students,
+[01:12:27.760 --> 01:12:32.680]   not necessarily, you know, so, OK, our dyslexic students.
+[01:12:32.680 --> 01:12:33.880]   And yeah, it's been a fun scene.
+[01:12:33.880 --> 01:12:37.000]   The bus drivers driving around, have seen them around town,
+[01:12:37.000 --> 01:12:39.480]   and then the school zones were on today,
+[01:12:39.480 --> 01:12:41.080]   getting everybody kind of in the swing of things.
+[01:12:41.080 --> 01:12:42.160]   So good to see.
+[01:12:42.160 --> 01:12:45.040]   I'm excited about tomorrow.
+[01:12:45.040 --> 01:12:47.800]   OK, thank you very much.
+[01:12:47.800 --> 01:12:49.640]   All in favor of personnel?
+[01:12:49.640 --> 01:12:52.640]   Raise your hand.
+[01:12:52.640 --> 01:12:55.720]   OK, that's slow race, slow race.
+[01:12:55.720 --> 01:12:56.640]   So we got seven.
+[01:12:56.640 --> 01:12:58.120]   We're getting Tammy's over here.
+[01:12:58.120 --> 01:12:59.240]   I'm not sure what she's doing.
+[01:12:59.240 --> 01:13:00.920]   OK, motion passes seven, zero.
+[01:13:00.920 --> 01:13:08.480]   Do I have a motion to adjourn?
+[01:13:08.480 --> 01:13:10.040]   I make a motion to adjourn.
+[01:13:10.040 --> 01:13:13.160]   Do I have a second?
+[01:13:13.160 --> 01:13:16.160]   Mary seconds, all in favor?
+[01:13:16.160 --> 01:13:18.920]   Motion passes seven, zero, it's six, 38.
+[01:13:18.920 --> 01:13:20.920]   We're adjourned.

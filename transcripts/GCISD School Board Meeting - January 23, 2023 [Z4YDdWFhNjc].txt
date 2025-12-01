@@ -1,0 +1,1374 @@
+
+[00:00:30.000 --> 00:00:33.000]   .
+[00:00:33.000 --> 00:00:36.000]   . .
+[00:00:36.000 --> 00:00:39.000]   . .
+[00:00:39.000 --> 00:00:42.000]   . .
+[00:00:42.000 --> 00:00:44.000]   . .
+[00:00:44.000 --> 00:00:46.000]   . .
+[00:00:46.000 --> 00:00:49.000]   . . .
+[00:00:49.000 --> 00:00:56.000]   . . .
+[00:01:19.000 --> 00:01:35.000]   . . .
+[00:01:35.000 --> 00:01:42.000]   . .
+[00:01:42.000 --> 00:01:43.000]   . .
+[00:01:43.000 --> 00:01:43.000]   . .
+[00:01:43.000 --> 00:01:47.000]   . .
+[00:01:47.000 --> 00:01:54.000]   . . .
+[00:01:54.000 --> 00:01:57.000]   . .
+[00:01:57.000 --> 00:02:00.000]   . .
+[00:02:00.000 --> 00:02:03.000]   . .
+[00:02:03.000 --> 00:02:06.000]   . .
+[00:02:06.000 --> 00:02:13.000]   . .
+[00:02:13.000 --> 00:02:16.000]   . .
+[00:02:16.000 --> 00:02:23.000]   . . .
+[00:02:23.000 --> 00:02:26.000]   . .
+[00:02:26.000 --> 00:02:35.000]   . .
+[00:02:35.000 --> 00:02:42.000]   . .
+[00:02:42.000 --> 00:02:43.000]   . .
+[00:02:43.000 --> 00:02:44.000]   . .
+[00:02:44.000 --> 00:02:45.000]   . .
+[00:02:45.000 --> 00:02:52.000]   . .
+[00:02:52.000 --> 00:02:55.000]   . .
+[00:02:55.000 --> 00:03:02.000]   . .
+[00:03:02.000 --> 00:03:09.000]   . .
+[00:03:09.000 --> 00:03:12.000]   . .
+[00:03:12.000 --> 00:03:13.000]   . .
+[00:03:13.000 --> 00:03:22.000]   . . .
+[00:03:22.000 --> 00:03:23.000]   . .
+[00:03:23.000 --> 00:03:30.000]   . .
+[00:03:30.000 --> 00:03:37.000]   . .
+[00:03:37.000 --> 00:03:38.000]   . .
+[00:03:38.000 --> 00:03:40.000]   . .
+[00:03:40.000 --> 00:03:41.000]   . .
+[00:03:41.000 --> 00:03:48.000]   . .
+[00:03:48.000 --> 00:03:50.000]   . .
+[00:03:50.000 --> 00:03:51.000]   . .
+[00:03:51.000 --> 00:03:54.000]   . .
+[00:03:54.000 --> 00:03:57.000]   . .
+[00:03:57.000 --> 00:04:00.000]   . .
+[00:04:00.000 --> 00:04:09.000]   . .
+[00:04:09.000 --> 00:04:16.000]   . .
+[00:04:16.000 --> 00:04:19.000]   . .
+[00:04:19.000 --> 00:04:22.000]   . .
+[00:04:22.000 --> 00:04:27.000]   . .
+[00:04:27.000 --> 00:04:34.000]   . .
+[00:04:34.000 --> 00:04:37.000]   . .
+[00:04:37.000 --> 00:04:38.000]   . .
+[00:04:38.000 --> 00:04:45.000]   . .
+[00:04:45.000 --> 00:04:48.000]   . .
+[00:04:48.000 --> 00:04:55.000]   . .
+[00:04:55.000 --> 00:05:02.000]   . .
+[00:05:02.000 --> 00:05:05.000]   . .
+[00:05:05.000 --> 00:05:06.000]   . .
+[00:05:06.000 --> 00:05:07.000]   . .
+[00:05:07.000 --> 00:05:14.000]   . .
+[00:05:14.000 --> 00:05:17.000]   . .
+[00:05:17.000 --> 00:05:26.000]   . .
+[00:05:26.000 --> 00:05:33.000]   . .
+[00:05:33.000 --> 00:05:34.000]   . .
+[00:05:34.000 --> 00:05:35.000]   . .
+[00:05:35.000 --> 00:05:36.000]   . .
+[00:05:36.000 --> 00:05:43.000]   . .
+[00:05:43.000 --> 00:05:52.000]   . .
+[00:05:52.000 --> 00:06:01.000]   . .
+[00:06:01.000 --> 00:06:02.000]   . .
+[00:06:02.000 --> 00:06:03.000]   . .
+[00:06:03.000 --> 00:06:04.000]   . .
+[00:06:04.000 --> 00:06:05.000]   . .
+[00:06:05.000 --> 00:06:26.000]   [BLANK_AUDIO]
+[00:06:26.000 --> 00:06:34.400]   All right, we will call the meeting to order for the Board of Trustees meeting in January 23, 2023, starting at 5, a 1.
+[00:06:34.400 --> 00:06:36.100]   We'll call all trustees are here.
+[00:06:36.100 --> 00:06:44.000]   [BLANK_AUDIO]
+[00:06:44.000 --> 00:06:57.560]   At this time, the Great Mine College of Independent School District Board of Trustees and Central Administration will pause for a moment of silence to reflect on the continued success of our district and safety and well-being of our students, our dedicated teachers and staff and our supportive community.
+[00:06:57.560 --> 00:07:10.560]   [BLANK_AUDIO]
+[00:07:10.560 --> 00:07:23.280]   Thank you, before we continue this evening, I'd like to remind everyone in attendance that this is a time and plays for deliberation through which the Board of Trustees conducts the business of the school district.
+[00:07:23.280 --> 00:07:32.720]   As the presiding officer, I expect all those in attendance to behave with the quorum, giving all those present, including trustees, district administrators and members of the public their attention in respect.
+[00:07:32.720 --> 00:07:40.560]   Pursuant to the Texas Opens meetings Act, the Board has designated a time during today's meeting in which individuals have the opportunity to address the Board.
+[00:07:40.560 --> 00:07:49.120]   Comments from those in attendance are not permitted outside of the specified public comment period as they disrupt the ability of the Board to conduct the business of the district.
+[00:07:49.120 --> 00:08:04.320]   After at least one warning from the presiding officer, any individual continues to disrupt the meeting, but his or her own words or actions, the presiding officer, may request assistance from law enforcement officials to have the individual removed from the meeting.
+[00:08:04.320 --> 00:08:08.840]   The Board should not tolerate disruption of the meeting by members of the audience.
+[00:08:08.840 --> 00:08:25.240]   And now we have the U.S. and Texas pledges, and tonight we're honored to have students from Branchford Elementary join us to lead the pledges, and they will proudly represent their school by leading the U.S. pledge, followed by the Texas pledge, and then after the pledges we'll ask the students to please remain here for our first recognition tonight.
+[00:08:39.240 --> 00:08:55.400]   My pledge allegiance to the flag of the United States of America and to the Republic for which it stands, the One Nation under God, indivisible, with liberty and justice for all.
+[00:08:55.400 --> 00:09:08.820]   On the Texas flag, I pledge allegiance to the Texas one state under God, one indivisible,
+[00:09:08.820 --> 00:09:10.840]   one indivisible.
+[00:09:10.840 --> 00:09:25.880]   Thank you, Branchford Elementary, and at this time I'd like to turn the meeting over to Dr. Snouts.
+[00:09:25.880 --> 00:09:28.520]   All right, thank you, President Ford, and welcome, everyone.
+[00:09:28.520 --> 00:09:36.760]   So our first recognition tonight, I'd like to invite Trustee Tammy Nakamura to present an award to this talented group of students from Branchford Elementary.
+[00:09:38.820 --> 00:09:44.820]   It's a good looking group, too, isn't it?
+[00:09:44.820 --> 00:09:56.820]   The Branchford Elementary School, off ensemble, all right, I'll start over, there's some shenanigans going on in the front.
+[00:09:56.820 --> 00:10:05.820]   Okay, so the Branchford Elementary School, off ensemble was selected to perform at the 2023 Texas Music Educators Association clinic and convention.
+[00:10:05.820 --> 00:10:10.820]   Each year, TMEA received submissions from schools from across the state.
+[00:10:10.820 --> 00:10:17.820]   Each submission consists of recordings from recent performances, which are evaluated by a panel of top elementary music educators.
+[00:10:17.820 --> 00:10:21.820]   The top six ensembles are selected to perform at the TMEA convention.
+[00:10:21.820 --> 00:10:29.820]   These students will travel to San Antonio February 8-11 and have the opportunity to perform for thousands of music educators from around the state.
+[00:10:29.820 --> 00:10:38.820]   The Branchford off ensemble will be performing a pre-TMEA concert on Tuesday February 7th at the Colville Heritage High School Auditorium.
+[00:10:38.820 --> 00:10:44.820]   The concert starts at 6.30 pm, and everyone is invited to come and enjoy their beautiful music.
+[00:10:44.820 --> 00:10:54.820]   And so, as I mentioned, this is a big deal for them to receive that honor, to go down to San Antonio to represent GCSD, to represent Branchford Elementary,
+[00:10:54.820 --> 00:10:59.820]   and to represent our amazing families here that are with us tonight as well.
+[00:10:59.820 --> 00:11:03.820]   So, I want to congratulate this orphan ensemble each member.
+[00:11:03.820 --> 00:11:22.820]   First off, we have Lauren Asad, Landry Atkinson, Alex Diaz,
+[00:11:22.820 --> 00:11:32.820]   Zane Dorman, James Duffy,
+[00:11:32.820 --> 00:11:53.820]   Gerard Janice, Landry Hewitt,
+[00:11:53.820 --> 00:12:05.820]   Allison Parsley,
+[00:12:05.820 --> 00:12:11.820]   Luke Reed,
+[00:12:11.820 --> 00:12:18.820]   Caroline Sherrell,
+[00:12:18.820 --> 00:12:24.820]   Brennan Tim,
+[00:12:24.820 --> 00:12:30.820]   Jackson Vogel,
+[00:12:30.820 --> 00:12:35.820]   Layton Watson,
+[00:12:35.820 --> 00:12:41.820]   we have a few that weren't able to be here with us this evening, and want to mention them as well.
+[00:12:41.820 --> 00:12:48.820]   This couple,
+[00:12:48.820 --> 00:12:53.820]   Marvie Dabsha,
+[00:12:53.820 --> 00:12:57.820]   Aurelius Haich,
+[00:12:57.820 --> 00:13:01.820]   Lane Mahalick,
+[00:13:01.820 --> 00:13:05.820]   Azur Narani,
+[00:13:05.820 --> 00:13:09.820]   Haley O'Geeley,
+[00:13:09.820 --> 00:13:13.820]   and Brayden Rosser.
+[00:13:13.820 --> 00:13:25.820]   Also want to recognize the Branchford Orph ensemble group is under the direction of Mrs. Ashley Benson.
+[00:13:25.820 --> 00:13:38.820]   Just want to remind everyone again that pre-TMEA concert is on Tuesday, February 7th at the College of Heritage High School Auditorium, and it starts at 630.
+[00:13:38.820 --> 00:13:48.820]   [BLANK_AUDIO]
+[00:13:48.820 --> 00:13:58.820]   [BLANK_AUDIO]
+[00:13:58.820 --> 00:14:08.820]   [APPLAUSE]
+[00:14:08.820 --> 00:14:15.820]   [BLANK_AUDIO]
+[00:14:15.820 --> 00:14:20.820]   All right, thank you, Branchford Elementary.
+[00:14:20.820 --> 00:14:27.820]   All right, for our next recognition, if I can have board vice president Shannon Braun, please make your way down to present our next award.
+[00:14:27.820 --> 00:14:33.820]   [BLANK_AUDIO]
+[00:14:33.820 --> 00:14:37.820]   All right, staying in the lane of fine arts.
+[00:14:37.820 --> 00:14:48.820]   So beginning each fall over 70,000 high school students from across the state audition in their TMEA region, and performs selected music for a panel of judges who rank each instrument or voice part,
+[00:14:48.820 --> 00:14:54.820]   a select group of musicians and advances to compete against musicians from other regions in their TMEA area.
+[00:14:54.820 --> 00:15:06.820]   The highest ranking musicians judged that the TMEA area competitions qualified to perform in one of 18 Texas All State Ensembles, sponsored by the band, orchestra, and vocal divisions.
+[00:15:06.820 --> 00:15:12.820]   Students who are named to the Texas All State Ensembles are among the best student musicians in Texas and in the country.
+[00:15:12.820 --> 00:15:17.820]   And I'm very proud to say we have those students right here in the room with us tonight.
+[00:15:17.820 --> 00:15:24.820]   So we want to say congratulations to the 11 All State Musicians from GCISD.
+[00:15:24.820 --> 00:15:28.820]   From Greatbound High School, we have Cindy Cow, All State Orchestra.
+[00:15:28.820 --> 00:15:34.820]   [APPLAUSE]
+[00:15:34.820 --> 00:15:46.820]   From Greatbound High School, we have Lucas Holbrook, All State Band.
+[00:15:46.820 --> 00:15:54.820]   [APPLAUSE]
+[00:15:54.820 --> 00:15:58.820]   From Colabell Heritage High School, we have Jason Chung, All State Band.
+[00:15:58.820 --> 00:16:04.820]   [APPLAUSE]
+[00:16:04.820 --> 00:16:06.820]   Lawson Caldwell, All State Band.
+[00:16:06.820 --> 00:16:12.820]   [APPLAUSE]
+[00:16:12.820 --> 00:16:29.820]   Onst Chaohan, All State Band.
+[00:16:29.820 --> 00:16:34.820]   Max Defonso, Jones, All State Band.
+[00:16:34.820 --> 00:16:44.820]   [APPLAUSE]
+[00:16:44.820 --> 00:17:09.820]   [APPLAUSE]
+[00:17:09.820 --> 00:17:18.820]   Elizabeth Troutman, All State Band.
+[00:17:18.820 --> 00:17:26.820]   And not able to be here tonight, Jesse Olson, All State Choir.
+[00:17:26.820 --> 00:17:31.820]   We'd also like to direct your attention to all of our directors who are here this evening who lead and support these students.
+[00:17:31.820 --> 00:17:36.820]   Let's give them a round of applause and have them join us up front for a quick photo.
+[00:17:36.820 --> 00:17:46.820]   [APPLAUSE]
+[00:17:46.820 --> 00:17:49.820]   Everyone take a few steps to your right.
+[00:17:49.820 --> 00:18:07.820]   And then take about two steps back.
+[00:18:07.820 --> 00:18:15.820]   [APPLAUSE]
+[00:18:15.820 --> 00:18:42.820]   All right, for our next recognition, can I have Trustee Colie Canner please come down to the front.
+[00:18:42.820 --> 00:18:52.820]   All right, we're excited to announce that our Colieville Middle School is once again a Texas school to watch.
+[00:18:52.820 --> 00:19:00.820]   The Redesignation Status was awarded by the National Forum to accelerate middle school grades reform and the Texas Association of Secondary School Principles.
+[00:19:00.820 --> 00:19:11.820]   CMS was first named a school to watch in 2020 in honor that is awarded to middle grade schools that meet 37 research-based criteria developed by the National Forum to accelerate middle school grades reform.
+[00:19:11.820 --> 00:19:19.820]   Schools honored or recognized for a three-year period and at that at the end of that period must demonstrate progress on specific goals to be re-designated.
+[00:19:19.820 --> 00:19:28.820]   CMS will be recognized at the Making Middle School Matter symposium hosted by the Texas Association of Secondary School Principles on March 5th through 7th.
+[00:19:28.820 --> 00:19:38.820]   They will also be recognized nationally with schools to watch from across the country at the National Forum Schools to watch conference in Washington, D.C. June 22nd through the 24th.
+[00:19:38.820 --> 00:19:42.820]   Congratulations to the entire staff and community of CMS.
+[00:19:42.820 --> 00:19:46.820]   But tonight we have a few representatives from the school who we'd like to highlight.
+[00:19:46.820 --> 00:19:50.820]   Please give us a wave on a call your name, Eddie Gormley student.
+[00:19:50.820 --> 00:19:58.820]   Dr. Barry O'Neill Gormley, PTA president and parent.
+[00:19:58.820 --> 00:20:00.820]   She's here for both of them.
+[00:20:00.820 --> 00:20:05.820]   Brooke Schuster, learning liaison and parent.
+[00:20:05.820 --> 00:20:09.820]   John Casada, assistant principal.
+[00:20:09.820 --> 00:20:16.820]   And our principal, Dr. David Aaron Sibia.
+[00:20:16.820 --> 00:20:29.820]   Dr. A, would you like to say a few things on this recent announcement?
+[00:20:29.820 --> 00:20:31.820]   Yeah, I'll put you on the spot, Dr. A.
+[00:20:31.820 --> 00:20:35.820]   Thank you, later.
+[00:20:35.820 --> 00:20:38.820]   We're just very excited and very honored to be here tonight.
+[00:20:38.820 --> 00:20:41.820]   We have a fantastic representation here from our campus.
+[00:20:41.820 --> 00:20:49.820]   But it was definitely a total team effort all the way across from our students to our staff, our faculty, our parents.
+[00:20:49.820 --> 00:20:51.820]   We had many, many individuals that came in.
+[00:20:51.820 --> 00:20:58.820]   Of course, we had the state come in and basically, state represented from TA, SSP, Texas Association of Secondary Schools Principles.
+[00:20:58.820 --> 00:21:13.820]   They came in, they reviewed everything from, going into every single class, meeting with every single one of our teachers, meeting with our parent groups, student groups, and everyone just did an absolutely amazing job representing a Colorado middle school, and GCISD very, very well.
+[00:21:13.820 --> 00:21:17.820]   So we're very honored and privileged for this recognition.
+[00:21:17.820 --> 00:21:19.820]   So thank you for having us tonight.
+[00:21:19.820 --> 00:21:24.820]   Thank you, Dr. A.
+[00:21:24.820 --> 00:21:39.820]   So this award and redesignation status really speaks to the Coltrich at Colville Middle School, and it's one thing to build a culture, but it's another thing to maintain, sustain that culture, especially through a pandemic, through staff turnover.
+[00:21:39.820 --> 00:21:48.820]   There's a special feel and just a strong culture at Colville Middle School, and the great thing about it, it resonates all the way to the students.
+[00:21:48.820 --> 00:21:55.820]   And so they just have a great educational experience during their years at Colville Middle, and so we're just proud of the CMS team.
+[00:21:55.820 --> 00:21:57.820]   Thank you guys for being here, and congratulations again.
+[00:21:57.820 --> 00:22:18.820]   [ Applause ]
+[00:22:18.820 --> 00:22:26.820]   All right, now I'd like to invite Board Secretary Kathy Spradley to help us with our next recognition tonight.
+[00:22:26.820 --> 00:22:45.820]   So as many of you may remember on the morning of December 13th, we experienced some severe weather, and a tornado hit the city of grapevine, four of our campuses experience power outages, two schools implemented an early release at campus, and grapevine middle school had to evacuate to the reunification location at the first United Methodist Church of grapevine.
+[00:22:45.820 --> 00:22:55.820]   While the storm did cause some damage to GMS, we were very fortunate that most areas were unaffected, and we were able to continue with our normal operations by the very next day.
+[00:22:55.820 --> 00:23:00.820]   The response of our district personnel and community to assist wherever needed that day was remarkable.
+[00:23:00.820 --> 00:23:17.820]   In addition to the staff members from our Central Administration Office and our local law enforcement and first responders who immediately traveled to various locations and need to support, tonight we have some special guests from our community who played an integral role in the success of our reunification efforts for GMS students and families.
+[00:23:17.820 --> 00:23:30.820]   First, we'd like to introduce some very special individuals from the church who are willing and ready to host more than 660, yes, 660 students from GMS and staff at a moment's notice.
+[00:23:30.820 --> 00:23:36.820]   We could not have done this without them, and I'm proud to introduce many of them to you tonight. Please give us a wave when I call your name.
+[00:23:36.820 --> 00:24:05.820]   Alan Lutz, Associate Pastor, James Lawrence, Youth Director, Jeff Mullis, Director of Facilities, Bruce Hearndon Volunteer, Tet Shaw Volunteer,
+[00:24:05.820 --> 00:24:27.820]   Kathy Shaw Volunteer, Ed Crater Volunteer, Jim Carlesis Volunteer, and Mark Eves Volunteer.
+[00:24:27.820 --> 00:24:46.820]   I also want to see Mandy Alexander in the back of the room. Mandy, can you just come up to the front as well because I think you guys partnered very well that day together and really just want to give just tremendous kudos to First United Methodist.
+[00:24:46.820 --> 00:25:11.820]   Fortunately and unfortunately, we'd never done that before, but it went off without a hitch and was so well executed and most importantly, our students and staff were safe, and they were in great hands, and that's because of you, thank you for letting us use your facility, and thank you just for being so gracious and partnering with us, and I think at this time we're going to get a picture.
+[00:25:11.820 --> 00:25:28.820]   Oh, keep going, okay, all right. With the transition of our students and staff happening in the middle of the day, we also needed to call and reinforcements for feeding our people. That's important when you have 660 middle school students.
+[00:25:28.820 --> 00:25:36.820]   We'd like to thank an incredible community partner, wise guys, pizzeria for stepping up and delivering delicious pizzas to everyone needing lunch.
+[00:25:36.820 --> 00:25:53.820]   Tonight, I believe we have Kevin McNamara, one of our wise guys here to accept this award on behalf of the restaurant. Thank you to wise guys, First United Methodist and all of our staff and community who came together to support GCSD, we appreciate you.
+[00:25:53.820 --> 00:26:09.820]   [applause]
+[00:26:09.820 --> 00:26:33.820]   [applause]
+[00:26:33.820 --> 00:26:44.820]   And our last recognition this evening is for all of our trustees, as many of you know, January of school board a recognition month, tonight we're celebrating our trustees for their dedication and commitment to the district and its students.
+[00:26:44.820 --> 00:26:53.820]   The theme of this year's school board recognition month is forward together, which highlights a collaboration among school leadership, teachers, and parents on behalf of students.
+[00:26:53.820 --> 00:27:02.820]   Our trustees are critical to the success of students and the future of GCSD, tonight we'd like to share a video message from our trustees to the community.
+[00:27:02.820 --> 00:27:07.820]   [music]
+[00:27:07.820 --> 00:27:09.820]   January of school board recognition month.
+[00:27:09.820 --> 00:27:17.820]   And today we'd like to take a moment to recognize you. You, our students, you, our staff, you, our parents.
+[00:27:17.820 --> 00:27:20.820]   You, our community, and say thank you for your hard work.
+[00:27:20.820 --> 00:27:29.820]   Your involvement, your support, and your commitment to excellence. You make us proud and represent GCISV well.
+[00:27:29.820 --> 00:27:39.820]   [music]
+[00:27:39.820 --> 00:27:46.820]   [music]
+[00:27:46.820 --> 00:27:54.820]   [music]
+[00:27:54.820 --> 00:28:02.820]   So thank you to Casey Shannon, Kathy Tammy, Coli Beckin, Jorge, for your service and commitment to GCSD. Let's give our GCSD trustees a round of applause.
+[00:28:02.820 --> 00:28:10.820]   [applause]
+[00:28:10.820 --> 00:28:18.820]   [applause]
+[00:28:18.820 --> 00:28:28.820]   And I wouldn't like to give a shout out to Nicole Terred, to Caitlin, and the team, Alex Rosemary, for all their work in compiling this video.
+[00:28:28.820 --> 00:28:37.820]   They did that in a very short turnaround time, and so thank you guys for doing this. So now I'll turn it back to our board president, Casey Ford.
+[00:28:37.820 --> 00:28:45.820]   Thank you, Dr. Snouts. Next item on the agenda is public comment. I'll hand it over to Kathy.
+[00:28:45.820 --> 00:28:54.820]   Next on the agenda is the public comment period of our board meeting. While public comment is an opportunity for individuals to directly address the Board of Trustees, it is a limited forum.
+[00:28:54.820 --> 00:29:04.820]   Individuals wishing to participate must complete the request to speak form and submit it to the executive director of communications, Nicole Lyons, at least 15 minutes prior to the start of the meeting.
+[00:29:04.820 --> 00:29:11.820]   By completing the request to speak form, each speaker has acknowledged they will abide by the decorum protocols stated on such form.
+[00:29:11.820 --> 00:29:22.820]   Pursuant to the board operating procedures, the board has allotted 30 minutes for public comment period, but the time may be adjusted to the board president's discretion to allow for the orderly conduct of a board meeting.
+[00:29:22.820 --> 00:29:27.820]   Tonight we have 20 speakers, so each speaker will have one minute.
+[00:29:27.820 --> 00:29:34.820]   If groups wish to speak on the same topic, the board may ask, but is not required, that a spokesperson be appointed to speak for the group.
+[00:29:34.820 --> 00:29:49.820]   Is not the forum to present allegations of employee misconduct, requests for employee discipline, lodging personal attacks, shaming, demeaning specific, named GCISD employees, or unnecessarily disclosing private information about GCISDs, employees, or students.
+[00:29:49.820 --> 00:29:58.820]   The board will only consider personnel or student complaints that remain unresolved after they have been addressed to the agreements process, and when they have been placed on the board agenda for hearing or action.
+[00:29:58.820 --> 00:30:05.820]   Please see GCISD board policies, DGBA, employee, F&G, students, and families, and GF public.
+[00:30:05.820 --> 00:30:12.820]   These policies are designed to secure prompt and equitable resolution of complaints and concerns by allowing for a full hearing and investigation.
+[00:30:12.820 --> 00:30:18.820]   Each of these procedures allows for an individual to regress grievances through the board of trustees.
+[00:30:18.820 --> 00:30:25.820]   Upon request, our executive director of communications will provide you with copies of these policies, or you can find them online at the district website.
+[00:30:25.820 --> 00:30:38.820]   In accordance to the Texas Open Meetings Act, the board may not deliberate or decide any subject that is not included on tonight's meeting agenda, and may not respond to comments made or questions asked during the public comment period.
+[00:30:38.820 --> 00:30:45.820]   If an issue mentioned is listed on tonight's agenda, board members may respond to comments when the agenda item is considered later in the meeting.
+[00:30:45.820 --> 00:30:52.820]   Please understand that allowing speakers to make statements during public comment period is not an endorsement of those statements by the board or the district.
+[00:30:52.820 --> 00:31:00.820]   The statements made by an individual speaker are the opinion of that speaker and not necessarily the opinion of the board, individual trustees, or the district.
+[00:31:00.820 --> 00:31:03.820]   We will call persons to speak and the order we receive their form.
+[00:31:03.820 --> 00:31:09.820]   Tonight's first speaker is Catherine Parks, please step to the microphone and state whether you're a resident of GCISD.
+[00:31:22.820 --> 00:31:32.820]   My child's school library usually acquires 300 to 400 books a year, so far they've acquired zero, and the staff have taken on unpaid additional work to comply with your rules.
+[00:31:32.820 --> 00:31:37.820]   Two, as of November 28, as of November, only 28 families have chosen to opt their kids out of reading books.
+[00:31:37.820 --> 00:31:44.820]   In response to a few public speakers demands, you have spent 10s of thousands on lawyers for a policy that 99.8% of parents have not used.
+[00:31:44.820 --> 00:31:59.820]   At a time when your balanced budget is running a deficit of nearly $7 million, and this is so sad, and a acquaintance of mine has decided that he now has no choice, but to remove his daughter from this school district because she is no longer safe to talk about her two daddies in her classroom.
+[00:31:59.820 --> 00:32:04.820]   You knew the pain that you would cause families like theirs, and you did it anyway, and then you publicly padded yourselves on the back for it.
+[00:32:04.820 --> 00:32:13.820]   And I really hope that 2023 is a better one for the families, staff, and taxpayers in this district because this last one was sad for many of them.
+[00:32:14.820 --> 00:32:22.820]   Thank you, our second speaker is Zach Penn, please step to the microphone and state whether you're a resident of GCISD.
+[00:32:22.820 --> 00:32:32.820]   Good evening, I'm a resident. I'm here to talk about the incredible support of one local grapevine business is offered our school district and community, namely Patriot Mobile.
+[00:32:32.820 --> 00:32:36.820]   A cell phone company provider located off of Main Street here in grapevine.
+[00:32:36.820 --> 00:32:41.820]   That company is unapologetically Christian and conservative, much like myself.
+[00:32:41.820 --> 00:32:48.820]   As a result, last year they put their money where their values are created an action pack separate from their company to stand up for their values.
+[00:32:48.820 --> 00:32:54.820]   Recently, the Patriot Mobile company donated a piece of party certificate to the grapevine PD.
+[00:32:54.820 --> 00:32:58.820]   This certificate was rejected because of an angry mom.
+[00:32:58.820 --> 00:33:09.820]   The action pack arm of Patriot Mobile created about a year ago has also been relentlessly attacked by the same haters because of their, they assisted in an election of the school board candidate who shared their values.
+[00:33:09.820 --> 00:33:12.820]   Thank you both company and pack for your community support.
+[00:33:12.820 --> 00:33:20.820]   Our family now uses Patriot Mobile services as their lives provider to our, excuse me, to find out more about our candidates.
+[00:33:20.820 --> 00:33:23.820]   Please visit GCIC parents. Thank you.
+[00:33:23.820 --> 00:33:34.820]   Our third speaker is Tammy Polins, please step to the microphone and state whether you're a resident of GCISD.
+[00:33:34.820 --> 00:33:40.820]   I'm a resident, most influential component to equality education or teachers.
+[00:33:40.820 --> 00:33:46.820]   Retention of quality teachers was listed as the top priority in the superintendent survey.
+[00:33:46.820 --> 00:33:54.820]   The employee survey claims to create a more supportive working environment, yet many actions and words speak otherwise.
+[00:33:54.820 --> 00:33:58.820]   We dropped to 33 of 49 districts in pay.
+[00:33:58.820 --> 00:34:04.820]   Turnover was 17.3% while neighboring districts are all under 15.
+[00:34:04.820 --> 00:34:14.820]   GT and non reading teachers are being forced to resign unless they donate 80 to 100 more unpaid hours for training irrelevant to their assignments.
+[00:34:14.820 --> 00:34:24.820]   A teacher shared with me, I feel completely disrespected by the board majority and the community, like my college degree in years of experience mean nothing.
+[00:34:24.820 --> 00:34:28.820]   I'm tired of being accused of being a groomer and indoctrinating kids.
+[00:34:28.820 --> 00:34:33.820]   Our pay sucks, our insurance sucks, and the work environment sucks.
+[00:34:33.820 --> 00:34:36.820]   I'm looking for a new job.
+[00:34:36.820 --> 00:34:43.820]   Thank you. Our fourth speaker is Greg Weston, please step to the microphone and state whether you're a resident of GCISD.
+[00:34:43.820 --> 00:34:48.820]   My name is Greg Weston, I've been a resident of GCISD for 34 years.
+[00:34:48.820 --> 00:34:56.820]   I'm here to say thank you for the board, for going back to phonics. I'm very excited that we moved to phonics again.
+[00:34:56.820 --> 00:34:59.820]   It's the way I learned how to read it, it's the way my children learned how to read.
+[00:34:59.820 --> 00:35:09.820]   And I want to thank the volunteers who recently went to Timberlake Elementary and volunteered hour upon hour to inventory all the new phonics books.
+[00:35:09.820 --> 00:35:14.820]   It's fantastic. I'm glad we're getting back to basics. I'm glad we're getting back to academics.
+[00:35:14.820 --> 00:35:24.820]   Anyone in here who wants to volunteer as we roll out these books at Silverlake and the other elementary schools are certainly very, very welcome.
+[00:35:24.820 --> 00:35:29.820]   I also would like to just take this moment to have a little fun here.
+[00:35:29.820 --> 00:35:34.820]   This is a book that my children learned how to read with. It's a Dr. Seuss.
+[00:35:34.820 --> 00:35:45.820]   Big A, Little A, Aunt Annie's Alligator. Big B Little B, what begins with the barber baby bubbles and a bumble bee.
+[00:35:45.820 --> 00:35:47.820]   Thank you.
+[00:35:47.820 --> 00:35:57.820]   Our fifth speaker is Gay Grissom. Please step to the microphone and state whether you're a resident of GCISD.
+[00:35:57.820 --> 00:36:03.820]   Hi, yes, I'm a resident of GCISD and I retired teacher for 41 years.
+[00:36:03.820 --> 00:36:09.820]   Research shows that high-quality teachers are the most important factor in student achievement.
+[00:36:09.820 --> 00:36:15.820]   Yet you continue to make policies that lead to teachers leaving and more are leaving.
+[00:36:15.820 --> 00:36:20.820]   There seems to be a disconnect between the school board and the educators at all levels.
+[00:36:20.820 --> 00:36:32.820]   While compensation plays a large role in retention and recruitment of teachers, many educators feel that workplace culture and support play a larger part in retention.
+[00:36:32.820 --> 00:36:39.820]   Teachers are fed up. They're being micromanaged and they are being disrespected.
+[00:36:39.820 --> 00:36:44.820]   You don't trust the teachers to make educational decisions. They have been hired to do.
+[00:36:44.820 --> 00:36:50.820]   You don't trust the train librarians with years of experience to choose books but crown yourself king of books.
+[00:36:50.820 --> 00:36:57.820]   Your teachers are experts. They have been trained in advanced degrees and years of experience.
+[00:36:57.820 --> 00:37:06.820]   Thank you. Our sixth speaker is Rosalva Peña. Please step to the microphone and state whether you're a resident of GCISD.
+[00:37:06.820 --> 00:37:31.820]   [speaking in Spanish]
+[00:37:31.820 --> 00:37:35.820]   [speaking in Spanish]
+[00:37:35.820 --> 00:37:40.820]   [speaking in Spanish]
+[00:37:40.820 --> 00:38:05.820]   [speaking in Spanish]
+[00:38:05.820 --> 00:38:12.820]   [speaking in Spanish]
+[00:38:12.820 --> 00:38:15.820]   Thank you.
+[00:38:15.820 --> 00:38:27.820]   Interpreting for Rosalva Peña. Hello. I don't know if all of you know this but before 2018 students with dyslexia and other conditions did not receive services or accommodations according to the law.
+[00:38:27.820 --> 00:38:41.820]   The districts decided who had the diagnoses. This happened to many students here in GCISD. I along with other parents were part of a movement to get these students who were denied services and accommodations to receive services and accommodations.
+[00:38:41.820 --> 00:38:49.820]   We made a movement statewide and nationally and we got students who were denied services accepted and protected by educational law.
+[00:38:49.820 --> 00:39:00.820]   In 2018 we reached an agreement with OCR and TEA. Within this agreement it was said that students would receive compensatory services and that the diagnoses would be awarded to students who were denied.
+[00:39:00.820 --> 00:39:08.820]   The school districts received millions of dollars to obey this mandate so it would be very nice for me to know what was done with that money brought to GCISD.
+[00:39:08.820 --> 00:39:14.820]   I will continue fighting for inclusion for students served under 504 and special education.
+[00:39:14.820 --> 00:39:24.820]   Thank you. For seventh speaker is Ginger Penn. Please step to the microphone and stay where they are resident of GCISD.
+[00:39:24.820 --> 00:39:34.820]   Hi. I'm Ginger Penn. I'm a resident of GCISD. And last week I was privileged to volunteer to do inventory for beginning reading curriculum that was just delivered to Timberline.
+[00:39:34.820 --> 00:39:48.820]   It was very exciting. It was a very exciting experience doing this since Bear Creek is on the list and I get to do this amazing curriculum too. And I wanted to know how it's done so I can help my kids school later.
+[00:39:48.820 --> 00:40:00.820]   With a lot of prior experiences of teacher, I can't emphasize enough exactly how important this is for our district to focus on upon expects curriculum for our kids.
+[00:40:00.820 --> 00:40:08.820]   Once this curriculum really gets rolled out, I think it's going to be make a world of difference for our students.
+[00:40:08.820 --> 00:40:17.820]   I also think you will see fewer kids diagnosed with dyslexic. Thank you to the entire board. Thank you.
+[00:40:17.820 --> 00:40:24.820]   For voting to get that curriculum out to our kids assume like this. I know it's not standard rollout.
+[00:40:24.820 --> 00:40:29.820]   New materials in the middle of the year, but I do thank you. Thank you. So thank you.
+[00:40:29.820 --> 00:40:33.820]   Our eighth speaker is Joi Newman. Please step to the microphone and stay with your resident of GCISD.
+[00:40:33.820 --> 00:40:43.820]   I'm a colleague of the resident. I just want to say thank you for the books. I've been working five days a week, eight hours a day. I'm doing the books and the teachers come by happy.
+[00:40:43.820 --> 00:40:50.820]   The kids come by happy. They're all excited. We're getting them to their classrooms faster. We don't want to break till summer time.
+[00:40:50.820 --> 00:40:56.820]   And I really appreciate everybody who's coming in there to help out and I think we can do more of their school.
+[00:40:56.820 --> 00:41:05.820]   If we all come in and volunteer, people need to come in instead of complain. Come in and help out. Let's get things going. Let's help our teachers out. Let's make it easy for them.
+[00:41:05.820 --> 00:41:18.820]   And thank you and here's all the folks. One of the many pictures we take daily pictures of us volunteering. It's been a lot of fun. I've met some great people and the books are fantastic. Thank you.
+[00:41:18.820 --> 00:41:25.820]   Thank you. Our ninth speaker is Cheryl Guth. Please step to the microphone and stay with your resident of GCISD.
+[00:41:25.820 --> 00:41:37.820]   Hi. Yes, I'm a great vine resident with a darling first grader in the dual language program over at Silver Lake. I'm also one of those volunteers that's had a great privilege of working both at Timberline last week and at Silver Lake today.
+[00:41:37.820 --> 00:41:43.820]   I've got magic marker all over me and I think cardboard on my clothes still. But what a privilege it is to get physical and get with these books.
+[00:41:43.820 --> 00:41:54.820]   And thank you, by the way, that you didn't drag your feet. You could have waited till the summer. But instead you understood the urgency of getting us into the hands of the teachers and the students. I'm thrilled that the books are in Spanish also.
+[00:41:54.820 --> 00:42:09.820]   And there's been Delta Bien. See, so thank you for that. Thank you for all the other volunteers. Thank you to our school board and our teachers for understanding this. I know the teachers are excited. The kids are excited. And I'm thrilled for getting back to Pontics. Thank you all. And happy board appreciation month.
+[00:42:09.820 --> 00:42:13.820]   Thank you. Our tenth speaker is Charles.
+[00:42:13.820 --> 00:42:35.820]   There we go. Did I say it right? Okay, forget me. Yes, I am. Oh, my name is truck and I live in Ulyss. I was one of the happy volunteers also that was able to support the GCISD this week and volunteering to do the inventory of the districts recently purchased beginning reading curriculum.
+[00:42:35.820 --> 00:42:46.820]   My kids are all grown and out of the house, but I was still happy to help. It's clear how important this is to the kids and there will be a really good and then we had a really good vibe while we were volunteering.
+[00:42:46.820 --> 00:42:52.820]   As I understand, it was the largest batch of books around 11 pallets worth. And I think that's pretty impressive.
+[00:42:52.820 --> 00:43:04.820]   I look forward to continuing to help with the next batch of books and doing any lifting or inventory that y'all need. Thank you to every board member for voting to buy these by this.
+[00:43:04.820 --> 00:43:12.820]   Reading curriculum for our kids. You made a very positive and unifying choice and you all supported this purchase together.
+[00:43:12.820 --> 00:43:20.820]   For more information about this group that I'm with, please go to gcisdparents.com. Thank you again for the board. Thank you.
+[00:43:20.820 --> 00:43:32.820]   Let's keep moving forward. Our eleventh speaker is Michael Quinn. Please step to the microphone and stay with your resident of GCISD.
+[00:43:32.820 --> 00:43:43.820]   Last April, we were told that the CSEO policy then being introduced was per the input from community members. And about giving the majority of residents exactly what they wanted from the school district.
+[00:43:43.820 --> 00:43:54.820]   As we all know, those policies became official board policy. And since then, we've seen the fallout from these policies and the actions of the board, the toxic atmosphere that pervades our campuses now.
+[00:43:54.820 --> 00:43:59.820]   It's definitely not what the majority of community members want. What do we want?
+[00:43:59.820 --> 00:44:05.820]   One thing you can look at is the superintendent search executive summary prepared by Lesercras.
+[00:44:05.820 --> 00:44:17.820]   If you jump to question number fourteen suggested priorities for the new superintendent, the item ranked the highest with a whopping 86% of respondents assigning it the highest priority.
+[00:44:17.820 --> 00:44:28.820]   And that item was hiring and retaining quality teachers. It wasn't CRT, it wasn't filtering and putting away books, it wasn't SEL programming, it was hiring and retaining quality teachers.
+[00:44:28.820 --> 00:44:33.820]   We don't accomplish this by increasing class sizes or by intimidating already over workers.
+[00:44:33.820 --> 00:44:44.820]   Thank you. Wow, that was a quick minute. Our 12th speaker is Aaron Rowan and he studied the microphone and stayed with your resident of GCISD.
+[00:44:44.820 --> 00:44:56.820]   Hi, yes, my name is Aaron Brown, I'm a resident of GCISD. Happy board appreciation month everyone, thank you. I am here to dispel a few misconceptions floating around about GCISD and an attempt to bring everyone back to reality.
+[00:44:56.820 --> 00:45:05.820]   First, there's a claim about dismantling the GCISD program in reality one school out of 20 and our district started stacking GCISD classes this year.
+[00:45:05.820 --> 00:45:16.820]   This is nowhere close to dismantling GT. Second misconception is reducing AP classes in reality some classes were accidentally left off the course selection guide and then got added back on.
+[00:45:16.820 --> 00:45:23.820]   Obviously this is not a reduction of AP classes. However, if a class isn't going to make due to the lack of interest, I think it only makes sense not to have it.
+[00:45:23.820 --> 00:45:33.820]   Third, there's a claim that some special programs are in danger of being cut. Now in reality, all seven of our trustees just bought a beginning reading curriculum that includes a Spanish edition.
+[00:45:33.820 --> 00:45:41.820]   This action directly supports the special program that has been struggling our most, our dual language program. There are more misconceptions, but let me end with this.
+[00:45:41.820 --> 00:45:48.820]   The goal of GCISD parents is to make GCISD the best choice for families and we're going to do everything we can to support our district, ensuring up its weaknesses.
+[00:45:48.820 --> 00:45:58.820]   Thank you. Our 13th speaker is Cindy Howard, please step to the microphone and stay where the resident of GCISD.
+[00:45:58.820 --> 00:46:07.820]   Hi, I'm Cindy, I live in the district. It was a joy to volunteer at Timberline Elementary this last week to inventory the new reading curriculum books.
+[00:46:07.820 --> 00:46:13.820]   As a former elementary teacher, I am thrilled to know that our students now have a phonics based reading program.
+[00:46:13.820 --> 00:46:26.820]   The large body of research in the science of reading in 2001, which was supported by Congress and the DOE, proved that Congress that sees me, proved that phonics must be the way to teach reading.
+[00:46:26.820 --> 00:46:33.820]   Reading doesn't happen automatically as promoted by the reading recovery theory. Check out soldestory.org.
+[00:46:33.820 --> 00:46:40.820]   Our district has been without a unified phonics based reading program for many years, just having a variety of resources.
+[00:46:40.820 --> 00:46:47.820]   Currently, only 68% of third graders in our district passed reading according to Tapper.
+[00:46:47.820 --> 00:46:55.820]   Now our students, our future leaders, have the building blocks to be proficient readers and I'm glad to be part of the solution.
+[00:46:55.820 --> 00:47:01.820]   And I hope you enjoyed the dinner that GCISD parents provided this evening, especially the guacamole.
+[00:47:01.820 --> 00:47:07.820]   Our 14th speaker is Leslie Hillhouse, please step to the microphone and stay where the resident of GCISD.
+[00:47:10.820 --> 00:47:13.820]   My name is Leslie and I am a great fine resident.
+[00:47:13.820 --> 00:47:18.820]   I've spent some time learning about GCISD lately and my biggest concern was the low reading scores.
+[00:47:18.820 --> 00:47:23.820]   So when I asked to volunteer to inventory a reading curriculum, it was pretty worthwhile cause.
+[00:47:23.820 --> 00:47:32.820]   So I live at the reading scores at the school I'd be working at and discovered that only 68% of their third graders passed third grade reading in 2022.
+[00:47:32.820 --> 00:47:39.820]   I'd love to blame that on COVID, I really would, but don't think that's going to fly because in 2018 it was only 58%.
+[00:47:39.820 --> 00:47:43.820]   I think it should be clear to all of us now that we have an early literacy crisis.
+[00:47:43.820 --> 00:47:48.820]   This is a nationwide issue, likely caused by poor reading curriculum or in the case of GCISD.
+[00:47:48.820 --> 00:47:50.820]   They have a lack of a reading curriculum.
+[00:47:50.820 --> 00:47:54.820]   Needless to say, I'm grateful that GCISD is tackling this problem head-on.
+[00:47:54.820 --> 00:47:59.820]   Our kids deserve the best and I'm proud to have been able to help with the inventory of this new curriculum.
+[00:47:59.820 --> 00:48:03.820]   It was a positive and productive experience and there will be more to come.
+[00:48:03.820 --> 00:48:09.820]   So thank you for your time and thank you board for investing in the future of our kids by buying this curriculum.
+[00:48:09.820 --> 00:48:11.820]   Very well appreciated.
+[00:48:11.820 --> 00:48:12.820]   Thank you.
+[00:48:12.820 --> 00:48:14.820]   Our 15th speaker is Beverly Mavis.
+[00:48:14.820 --> 00:48:17.820]   Please step to the microphone and stay with your resident of GCISD.
+[00:48:29.820 --> 00:48:33.820]   Beverly Mavis Colleville.
+[00:48:33.820 --> 00:48:36.820]   Tonight, there are budget amendments on the agenda.
+[00:48:36.820 --> 00:48:39.820]   Just to be clear on this because I'm no expert in school finance.
+[00:48:39.820 --> 00:48:46.820]   Over the summer, the board majority forced through a balanced budget, which really wasn't because it didn't account for a 4.5 million dollar deficit.
+[00:48:46.820 --> 00:48:53.820]   Consequences of the balanced budget included cuts in staff, programs, services, transportation, and more.
+[00:48:53.820 --> 00:48:59.820]   During the meeting in October, Shannon acknowledged that the shortfall will be closer to $6 million.
+[00:48:59.820 --> 00:49:05.820]   The shortfall now approaches 7.5 million, according to information provided by the interim CFO.
+[00:49:05.820 --> 00:49:09.820]   This is your board for a CPA who claims to understand finance.
+[00:49:09.820 --> 00:49:15.820]   This is either a gross miscalculation or a flagrant attempt to appease your base or both.
+[00:49:15.820 --> 00:49:20.820]   For those who went along and approved it, did you actually believe this lie would be perpetuated?
+[00:49:20.820 --> 00:49:32.820]   This reason our community means you are guilty of weaponized incompetence, a poorly executed action done on purpose while attempting to remove ownership and accountability of that action.
+[00:49:32.820 --> 00:49:34.820]   Thank you. Thank you.
+[00:49:34.820 --> 00:49:41.820]   Our 16th speaker is Sean Tanner. Please step to the microphone and stay with your resident of GCISD.
+[00:49:41.820 --> 00:49:53.820]   Hi, I'm a resident of GCISD. Sean Tanner, I am the chapter leader volunteer of the association of mature American citizens and we support GCISD parents and volunteer when we can't support them.
+[00:49:53.820 --> 00:49:58.820]   I had the privilege of volunteering last week at Timberline and sticking barcodes on books.
+[00:49:58.820 --> 00:50:09.820]   And I don't really have any opinions to give you tonight, but I do hope that what we did helps teachers worry less about creating their curriculum and spend more time thinking about their kids.
+[00:50:09.820 --> 00:50:13.820]   And hopefully it's a positive impact. Thank you.
+[00:50:13.820 --> 00:50:21.820]   Thank you. Our 17th speaker is Tina Ferguson. Please step to the microphone and stay with your resident of GCISD.
+[00:50:21.820 --> 00:50:26.820]   Yes, I am a resident. I just wanted to say thank you for your most recent purchase of the beginning reading curriculum.
+[00:50:26.820 --> 00:50:35.820]   I have been also volunteering with the inventory and helping it get ready for the classrooms is very impressive and comprehensive looking set of books.
+[00:50:35.820 --> 00:50:51.820]   And most importantly, it is phonics space, which no is important. Getting kids on the right track with reading early is really the best gift you can give somebody and so much of this learning every subject comes down to being able to read the content of that subject.
+[00:50:51.820 --> 00:50:58.820]   So I have no doubt that once this program gets set up and running, it's really going to make a difference with our kids reading skills and test scores.
+[00:50:58.820 --> 00:51:13.820]   And I'm also very happy this curriculum is being offered and English and Spanish to the dual language schools and I understand that those teachers have been spending a lot of time dealing with translating this material so this should help give them a little extra time for themselves.
+[00:51:13.820 --> 00:51:22.820]   So to all the trustees, thank you very much for spending our precious financial resources and placing it where it really needs to be. So thank you.
+[00:51:22.820 --> 00:51:34.820]   Thank you, our 18th speaker is Mario Cordova, please step to the microphone and state whether you're resident of GCIC.
+[00:51:34.820 --> 00:51:46.820]   Hello, good evening, trust is the board, Dr. Snouts, my name is Mario Cordova and I'm a resident of grapevine. So this last summer, the board passed a balanced budget, the first that I could recall in so many years.
+[00:51:46.820 --> 00:51:59.820]   However, I think there's some confusion on the idea. No one ever said that we wouldn't have a deficit. They took away credit cards and other expenditures that would cause a deficit would require approval so far, the plan is worked.
+[00:51:59.820 --> 00:52:12.820]   Without a balanced budget, we would be at about a $13.5 million deficit. Instead, we're about half that, about $6.3 million, which also includes teacher pay raises and a lower tax rate for residents.
+[00:52:12.820 --> 00:52:25.820]   The expense side of the budget is only off by $1.8 million, so that's about 1.3%. This can be accounted due to lack of revenue. When I talk about revenue, I'm speaking specifically about declining attendance at our district.
+[00:52:25.820 --> 00:52:32.820]   So our board members, thank you for being financially responsible to our taxpayers. You've done a phenomenal, phenomenal job, thank you.
+[00:52:32.820 --> 00:52:43.820]   Thank you. Our 19th speaker is Hilary Benadero. Please step to the microphone and state, whether you're a resident of GCISD.
+[00:52:43.820 --> 00:52:57.820]   I'm Hilary Benadero. I live in grapevine. If you care about education, educating all GCISD students registered a vote for the May School Board election by going to vote, Texas.gov by April 6.
+[00:52:57.820 --> 00:53:09.820]   If you care about educating the whole student and equipping them with new and relevant books for college career or military readiness, check to see if your registration is current by going to votetexas.gov.
+[00:53:09.820 --> 00:53:30.820]   If you care about retainer equality teachers, research the candidates, because according to the latest UAA survey, our teacher turnover rate last year was higher than 20 surrounding districts at 17.3%. If you care about retaining our quality support staff, paraprofessionals and auxiliary employees vote early starting April 24 through May 2.
+[00:53:30.820 --> 00:53:37.820]   If you care about this community vote on Election Day, Saturday, May 6. Thank you, protect GCISD.
+[00:53:37.820 --> 00:53:48.820]   Thank you. Our 20th and last speaker tonight is Christy Spivey. Please step to the microphone and state, whether you're a resident of GCISD.
+[00:53:48.820 --> 00:54:05.820]   I'm Dr. Christy Spivey. I'm a resident of GCISD. Since we're advertising groups tonight, I wanted to say if you care about all kids, check out protect GCISD.com in response to this advertising by another group that's been going on tonight.
+[00:54:05.820 --> 00:54:17.820]   I'd like to point out that one of the leaders of that group called GCISD grooming children ISD. Another leader got on a podcast and talked about a list of teachers that don't belong here.
+[00:54:17.820 --> 00:54:26.820]   And the treasurer for that group is Scott Western, who came up here and talked and spewed profanities. No one stopped him.
+[00:54:26.820 --> 00:54:36.820]   She didn't do you invoked board policy BBF local. Ethical standard that trustees will tell the truth.
+[00:54:36.820 --> 00:54:43.820]   Another of those BBF local standards reads, "I will encourage expressions of different opinions and listen with an open mind to others ideas."
+[00:54:43.820 --> 00:54:49.820]   Casey Tamey Shannon and Cathy, your stifling of trusty discussion via suspending Robert Schruel's, appears to be illegal.
+[00:54:49.820 --> 00:54:53.820]   Thank you. Clearly unethical. That concludes public comment tonight.
+[00:54:56.820 --> 00:55:02.820]   Next item on the agenda is the public comment for public hearing. Do we have any? We don't have any? No comments here.
+[00:55:02.820 --> 00:55:07.820]   Next item is our public hearing hand over Dr. Schnelles. Thank you.
+[00:55:07.820 --> 00:55:20.820]   So, per Texas education coach, chapter 39, section 306, school boards are required to publish an annual report around the district's Texas academic performance report, which we also know is taper.
+[00:55:20.820 --> 00:55:27.820]   In addition to publishing that report, we're also required to hold an annual public hearing on the taper report.
+[00:55:27.820 --> 00:55:32.820]   So, here to conduct this public hearing tonight is Shannon Tovar. Shannon?
+[00:55:32.820 --> 00:55:40.820]   Thank you, Dr. Schnelles, trustees. Here in a moment, the screen will come down so everyone can kind of see what we are taking a look at here.
+[00:55:40.820 --> 00:55:47.820]   As Dr. Schnelles mentioned, yes, we do have to do what we call any report. A lot of these items are compliance-based.
+[00:55:47.820 --> 00:56:03.820]   One of the reasons we do the hearing all at once together in January with items that have been discussed previously throughout the year and shared publicly, is so that we have the opportunity to show that they are all in one place as required by that particular section of legislation.
+[00:56:03.820 --> 00:56:09.820]   Some of the items that are required to be in this annual report are of what we've mentioned earlier, the taper.
+[00:56:09.820 --> 00:56:24.820]   That's the Texas Academic Performance Report, formerly known as AEIS, for those of us who have been here quite a while. One of the other things you'll see there is campus performance objectives and progress, and all of this list of things, some of these things are things we have seen before.
+[00:56:24.820 --> 00:56:34.820]   Like for example, we have to do mention the campus ratings and distinctions. We did those back in August, along with our star results back in August, when those were released.
+[00:56:34.820 --> 00:56:46.820]   But then some things are also lagging, where you'll see payments, financial standards reports. It's not a mistake. You see 2021, you say Shen, and that was a little while ago. That's correct. That's the one TEIS that's put in the annual report.
+[00:56:46.820 --> 00:56:59.820]   So that's the one I did put there. Some of the things that are included in the Texas Academic Performance Report or Taper are financial information, staff characteristics, CCMR, college career military readiness rates, graduation rates.
+[00:56:59.820 --> 00:57:09.820]   But also, we're in the great things about Taper that all is available online, as you can look and see things over time, how they have changed from year to year.
+[00:57:09.820 --> 00:57:24.820]   And so we can even go back because we'll link all the way back to AEIS. You can see back to the toss era, the tax era, the star era that we're in now, which you can also see how the demographics have changed through the years, and things even too, like attendance.
+[00:57:24.820 --> 00:57:31.820]   And so, like for example, we've noticed through the Taper and other ways we track it, attendance has been lower coming off the pandemic.
+[00:57:31.820 --> 00:57:42.820]   And so there is an attendance task force as a new strategy. So the Taper is used as one tool to help us to do a comprehensive needs assessment and help us develop strategies for the coming year.
+[00:57:42.820 --> 00:57:51.820]   One of the things that I do also include on our district website, you know, the accountability portion, then you'll click on annual report, and that's where we're going to be able to find all of these things.
+[00:57:51.820 --> 00:58:03.820]   I do include the current Taper glossary because sometimes it's like, well, what exactly is TEA using to determine what is the course completion rate or the graduation rate is at the federal one, the state one, and so forth.
+[00:58:03.820 --> 00:58:12.820]   That way you can take a look at it. This is sort of what the Taper looks like. There's a PDF version that we can go to. So for example, let's see, we can click on it.
+[00:58:12.820 --> 00:58:20.820]   It's linked here. It's also linked on our website. But this is what it looks like. You can search and find any state, or you find the state data.
+[00:58:20.820 --> 00:58:28.820]   Then also any campus district or region or service centers, like we're in region 11. You could see anyone's taper through all the years.
+[00:58:28.820 --> 00:58:37.820]   You could also backtrack where it says Texas Academic Performance Reporting, and that'll take you back so you can see all of the previous years as well if you were interested to do so.
+[00:58:37.820 --> 00:58:47.820]   They also have another version. They call it the TPRS Texas Performance Reporting System. It's linked there as well across the top. You see that blue arrow there, or it says drop down menus, each of those things.
+[00:58:47.820 --> 00:58:59.820]   If you wanted to drill down and learn more about, let's say, attendance, a graduation, or post-secondary readiness profile, those things you can get more information specifically there.
+[00:58:59.820 --> 00:59:01.820]   Let's see.
+[00:59:01.820 --> 00:59:04.820]   Excellent.
+[00:59:04.820 --> 00:59:12.820]   One of the next things that we do see in the Taper Report is our Star Report performance. These are items that we shared back in August.
+[00:59:12.820 --> 00:59:26.820]   And so what I've done here is I've put it graphically so that you can see the difference between 2021 and 2022, because those will be the two years currently reflected on our most recent Taper and broken them out by grade level.
+[00:59:26.820 --> 00:59:36.820]   So three, four, five, six, seven, and eight. They take the three through eight star. And so you have approaches and blues. You have meets and green masters in purple.
+[00:59:36.820 --> 00:59:44.820]   And so some of the celebrations that you could see with reading language arts at every grade level did improve in 2022, as compared to 2021.
+[00:59:44.820 --> 00:59:57.820]   Every performance level, so that's approaches, meets, and masters. Remember approaches passing for a student, meets grade level, and approaches still mean that the student could go on to the next grade level, and be able to participate in class.
+[00:59:57.820 --> 01:00:09.820]   However, they both, both levels might need just a little bit of additional tutoring or assistance to be successful in that tier one instruction. Masters is that top level, but every performance level did improve in 22, as compared to 21.
+[01:00:09.820 --> 01:00:25.820]   We do see some opportunities for growth in grades four and six, which were lower in both years than the other grade levels, and all three of those performance levels, except for grade three, 2022, which is approaches, and approaches and meets, which are a little bit lower than four and six.
+[01:00:25.820 --> 01:00:39.820]   You can see here some of the strategies that have been included. These would be things that you may have seen in particular when the campus principals presented their campus improvement plans and strategies earlier in the fall, or these should be things we've discussed at different points along the way.
+[01:00:39.820 --> 01:00:48.820]   Some of these things are supplemental that have been funded through S or three. There's a grant we call T class, which is Texas COVID Learning Accelerated Learning Supports.
+[01:00:48.820 --> 01:00:56.820]   They help us with amplify, and so it is the instructional resource, and then the tutoring funds come from that particular grant.
+[01:00:56.820 --> 01:01:03.820]   So those are things that we do at a district level to help support reading language arts through the year.
+[01:01:03.820 --> 01:01:11.820]   Additionally, here is mathematics. I've done a similar sort of thing. Again, you can see approaches and blue meets in green. Masters in purple.
+[01:01:11.820 --> 01:01:19.820]   And so we again can compare 2021, which is that first year that we tested stargen following the pandemic to 2022.
+[01:01:19.820 --> 01:01:34.820]   Some of those celebrations again, there's an all grade levels are improving at the approaches and meets grade level. And when we look back at 2022 grade three students, they're significantly improving over the 2021 grade three students at both meets and masters.
+[01:01:34.820 --> 01:01:45.820]   So what you have is these younger students in the third grade really start to sell digging in at that meets and masters and getting that greater, a master demonstrating greater mastery as measured by the star.
+[01:01:45.820 --> 01:01:53.820]   Grade seven does tend to be and remains one of our lower performing at all performance levels that does follow the pattern that we see statewide.
+[01:01:53.820 --> 01:02:03.820]   We also saw a slight decline in grade five at that master's performance level. Some of the strategies that we're using this year are going to include spiraling back through.
+[01:02:03.820 --> 01:02:11.820]   Some of our lower performing teeks. We also again with that Texas COVID learning acceleration support grant that we talked about for reading.
+[01:02:11.820 --> 01:02:22.820]   They have a product called Zern that product is free to the district. That total grant amount was for 400,000 dollars over several years for able to use that money to fund tutors.
+[01:02:22.820 --> 01:02:29.820]   As long as they use the Zern product. We also have teachers working to create a rocking review kind of for the spring.
+[01:02:29.820 --> 01:02:37.820]   And we've also started something new this year called STEM scopes, which will help support academic conversation in the math classes.
+[01:02:37.820 --> 01:02:46.820]   Again, we have approaches in blue meets and green masters and purple. So this is science grades five and eight star and also the biology one EOC.
+[01:02:46.820 --> 01:02:54.820]   One thing to note of course is that we do have students who take biology one EOC both in the middle school grades as well as in the high school.
+[01:02:54.820 --> 01:03:01.820]   This is the district all together in this particular graphic. So this is comparing again twenty one and twenty two.
+[01:03:01.820 --> 01:03:08.820]   Some of the big celebrations there is that we see improvement occurring in all of the science assessments at the meets and masters.
+[01:03:08.820 --> 01:03:17.820]   So at those deeper levels of learning and then we also see grade eight, biology one grade eight and biology one improving at that approaches level.
+[01:03:17.820 --> 01:03:21.820]   We did see a slight decline in fifth grade science by about two percent.
+[01:03:21.820 --> 01:03:30.820]   So again, we have listed some strategies there that you probably have heard at the campus level when the campus principals were presenting their campus improvement plans back in the fall.
+[01:03:30.820 --> 01:03:42.820]   But you can see here one of the big things of course is supporting campus administrators with the science curriculum in terms of instruction and assessment training to be able to support high quality science instruction.
+[01:03:42.820 --> 01:03:54.820]   This is social studies grade eight star and U.S. history EOC that's only two times social studies are assessed by the state assessment program again approaches blue meets green masters purple.
+[01:03:54.820 --> 01:04:04.820]   And so when we look though at social studies we see continued high sustained performance of all of those levels for that U.S. history which happens typically for our students when they're a junior.
+[01:04:04.820 --> 01:04:16.820]   So it's that last EOC that they're working on before graduation and we see so that grade eight had a big improvement as compared to 2021 at all three performance levels.
+[01:04:16.820 --> 01:04:32.820]   I'd like to point out the last little strategy there now you might think this is kind of a strange one had this isn't really speaking necessarily the curriculum instruction but for a lot of years we had that the state assessment there for grade eight social studies occurred on the Friday.
+[01:04:32.820 --> 01:04:39.820]   Now that we can give the star online and this year of course CE requires everyone to be online we have a greater window and flexibility on picking our days.
+[01:04:39.820 --> 01:04:50.820]   On Friday to a Thursday and I'd like to think that they have a little something to do with it certainly based on the feedback from our principals and teachers that Thursday might be a better day for grade eight social studies.
+[01:04:50.820 --> 01:05:01.820]   And a day to bear it out I'm sure there's also a lot of high quality instruction the current as well but that is one of the things they're having the flexibility of that window and doing the star online does give us.
+[01:05:01.820 --> 01:05:13.820]   This is English one and two EOC and Algebra one EOC again same pattern blue approaches that's a passing score for a student meets grade level and then masters there in the purple.
+[01:05:13.820 --> 01:05:24.820]   We do see a decline in English one and English two at those at those levels so I just talked about there we have you know more than 70% of the students are meeting grade level in English one and two.
+[01:05:24.820 --> 01:05:36.820]   But they did decline from twenty one to twenty two and I was speaking with one of our colleagues earlier about it they said one of the things that did happen is that we've been had we had adopted a new curriculum.
+[01:05:36.820 --> 01:05:46.820]   For the high school minutes coming to the secondary then we have the pandemic so it really hasn't had a chance for that full implementation yet and so we are looking forward to those new results.
+[01:05:46.820 --> 01:05:58.820]   We've also been monitoring ensuring that there's been some greater alignment between our text checks that fall semester exam and and the way the star will be assessed because we have new item types this year.
+[01:05:58.820 --> 01:06:06.820]   To have been very pleased with those results in terms of the students performance and look forward to continue growth there.
+[01:06:06.820 --> 01:06:18.820]   Over one improved in all three performance levels and some of those things we're continuing this year through our answer three is that supplemental out of our one staff and we've had a real emphasis on what they call keeps clarifiers but you know the
+[01:06:18.820 --> 01:06:32.820]   teak is that Texas essential knowledge and skill that the students are supposed to learn and able to do as a result of that course and helping the teachers really understand clearly and so if this is what it says at what level what does that look like and sound like in my classroom what
+[01:06:32.820 --> 01:06:40.820]   the students be able to know and do and make sure that's expressed to those curriculum documents to ensure that we can have that all the way across the district.
+[01:06:40.820 --> 01:06:50.820]   So I mentioned campus performance objectives a little bit earlier this is one of the things that the board proves earlier in the fall when we do our campus improvement plans.
+[01:06:50.820 --> 01:06:57.820]   There is a link there where we can click on it and maybe I have a mouse let's see yep.
+[01:06:57.820 --> 01:07:02.820]   So I did not do go with the clicking on that one now I'll try it one more time.
+[01:07:02.820 --> 01:07:19.820]   Nope it's not going to work okay that's going to be all right I'll show you another slide but basically I put all of them on the on the annual report website that I built for the district and for the board about two weeks after this meeting is when it's to do for me to have it all in one big document all these elements.
+[01:07:19.820 --> 01:07:31.820]   But everything individually on the website so if you're just interested in one school or one year or whatever you can click on that little bit because when I put it all together all the required elements it runs about 600 and 900 pages.
+[01:07:31.820 --> 01:07:37.820]   So that's a very big PDF which you may want to download but you may want to see just that one little chunk.
+[01:07:37.820 --> 01:07:48.820]   This is an example though the campus improvement plan performance objective and you can see that it has to be linked to a comprehensive need as identified by the campus through our data and feedback.
+[01:07:48.820 --> 01:07:56.820]   For us to be able to spend any of our title funds and that's where the campus would include information like that one says title one school elements.
+[01:07:56.820 --> 01:08:00.820]   And then also how we would like there it says as or three arp.
+[01:08:00.820 --> 01:08:12.820]   So that's American Republic plan so we're noting which fund source of using if it's federal fund and after the side you can see reviews that's where we are monitoring the progress of a particular strategy.
+[01:08:12.820 --> 01:08:25.820]   This one is a required element also is accreditation statuses I have to have it in here I also have to tell you that they were suspended by TEA post COVID and we won't get a new accreditation status until 2223.
+[01:08:25.820 --> 01:08:38.820]   So that's this current school year so next January we'll have a new one but I can tell you that the last time we had one we were definitely right there it says at first repurating a superior but then also to accreditation status accredited.
+[01:08:38.820 --> 01:08:43.820]   This would be something I showed you back in August these are our accountability ratings and distinctions.
+[01:08:43.820 --> 01:08:55.820]   So these are the same as what we had showed you before remember campuses do get an A through an F score same as the district the district was an A you can see on the left it shows you which campuses were a which ones were a B.
+[01:08:55.820 --> 01:09:07.820]   And then over there on the other side again those are all the distinctions that the campuses were awarded forever distinctions are awarded to each campus based on their performance as compared to a group of 40 like campuses.
+[01:09:07.820 --> 01:09:21.820]   Some of our campuses are at each other's groups the group start the same from year to year and sometimes we'll have like campuses that aren't in each other's groups it's a little bit out of our control we find out after the tests are given who is in our groups.
+[01:09:21.820 --> 01:09:31.820]   We also have to include special education determination status our status was during deemed meet requirement here either meets or you do not meet and we met.
+[01:09:31.820 --> 01:09:38.820]   This is going to be one of the financial reports that were required to include yes it says 2021 that is the one that TA wants.
+[01:09:38.820 --> 01:09:50.820]   So this is something that is a lagging element that has been discussion shared in previous times and then I put it here so that it basically so this in one place where everyone could find it easily.
+[01:09:50.820 --> 01:10:04.820]   We also have to include a little bit about our safety initiatives and so there's LinkedIn there and internet report that talks about at the district level the types of different disciplinary incidents that occurred in the district that were criminal offense.
+[01:10:04.820 --> 01:10:16.820]   We also link in the parent handbook and the student health advisory committee information as well as some of our district safety initiatives in terms of prevention and being proactive and working together.
+[01:10:16.820 --> 01:10:29.820]   Another thing that is included at this point the Texas higher education coordinating board shares data on our graduates who have been enrolled in Texas institutions of higher public education.
+[01:10:29.820 --> 01:10:40.820]   So Texas colleges only and it breaks it out by school so this next two slides are that piece that speaks to their performance in regards to their GPA.
+[01:10:40.820 --> 01:10:49.820]   Typically we would have had that from the Texas higher education coordinating board by now this is the one still from last year they hadn't released it yet when we print these in.
+[01:10:49.820 --> 01:10:56.820]   So I do say updated report in January when that new one becomes available from the Texas higher education coordinating board.
+[01:10:56.820 --> 01:11:04.820]   I'll add it to our website as well but it gives your chance to just kind of see okay the other students who graduated there's the top one there's Colleville heritage.
+[01:11:04.820 --> 01:11:13.820]   Who went to a four year public high university in Texas there were 148 that the system were able to find and it gives you an idea of what their GPA's look like.
+[01:11:13.820 --> 01:11:21.820]   And so you can see we have more on the successful GPAs that we have on the unsuccessful GPAs which is what you would want.
+[01:11:21.820 --> 01:11:36.820]   It does it as well for our university prep and bridges the link will also be included so that when they have a new one available from our website it'll be linked so that you could then go and see not just our district but any district in the state of Texas.
+[01:11:36.820 --> 01:11:55.820]   The other thing that's included in the annual report are some HB house bill three more goals and plans that we established way back well before the pandemic. And so we came together and we set those benchmark based lines all the way through and we had to do it we were required to do it by demographic groups as well.
+[01:11:55.820 --> 01:12:07.820]   And so you might say shivin the we're lower than what the goal is and that is true remember we set those back before based on data we had at the time and where we thought we could go.
+[01:12:07.820 --> 01:12:28.820]   And in a few years we'll be in a place here because there are five year goals where where the board would be if to continue to have us do it this way and we would be looking at resetting what those might look like in the meantime the general consensus amongst those of us who are working this part of the project would be to lead them as they are because we're already at 2023 this May so the summer we'll see how close we were able to go.
+[01:12:28.820 --> 01:12:42.820]   Just to see if we continue to see that accelerated growth fill is seen post pandemic one of the ways that we track to make sure our students are making progress and determine what to what extent and what type of intervention is needed.
+[01:12:42.820 --> 01:12:59.820]   And so you can look down the down the down the column and you can see at the beginning of the year if they were ready to participate in tier one.
+[01:12:59.820 --> 01:13:27.820]   Without any additional supports and types of things high quality instruction there the classroom without an inter tier one tier two or tier three intervention and you can see where people started in August and you can see now where the students are and see they all moved up.
+[01:13:27.820 --> 01:13:38.820]   We're at the middle of the year and that's the testament to the hard work of our kids and our teachers and our principals and everybody out there at the campuses and our parents helping the students progress through the year.
+[01:13:38.820 --> 01:13:50.820]   We have the same thing for mathematics so here they are again and the how we've done included on that one in this one as well where the state of Texas is just you can kind of get a sense of.
+[01:13:50.820 --> 01:13:58.820]   Mark against what's happening out there across the state again you have with aims web as the universal screen or tool.
+[01:13:58.820 --> 01:14:10.820]   You can see where we started at the beginning of the year for third grade where we at at the middle of the year for third grade and right now kind of because you know that people they can extrapolate out they've included where they think they might be at the end of the year.
+[01:14:10.820 --> 01:14:28.820]   However if they were to see those into the years that'd be perfectly great to but again you can see that as a result of our instruction in intervention and strategies that students are progressing on that third grade that third grade standard to meet those early math goals.
+[01:14:28.820 --> 01:14:44.820]   This next one is a college career military readiness shows us where we were through the years shows us also kind of where the state of Texas is. Remember this is as measured by state accountability so there are a lot of ways to measure college career military readiness.
+[01:14:44.820 --> 01:14:54.820]   They're not all listed on the way to EA would say that's a way to earn a point but this is one universal way that we can compare ourselves against the district the other districts and the state.
+[01:14:54.820 --> 01:15:04.820]   So we've used that as a particular measure and so what we've done here is you can see it's a lagging indicator because we have a lot of graduate first and then some of these things we find out after they have already graduated.
+[01:15:04.820 --> 01:15:23.820]   For example some of the industry based certifications they have to be eighteen to complete some of those CTE the career technology ones continually change through the years and sometimes are now depending on whether or not the student passes the industry based certification but then could also be fingerprinted and then actually get higher.
+[01:15:23.820 --> 01:15:43.820]   And be in the field there's lots of things there that tend to be kind of a moving target but you can see that our students typically the bulk of them will earn it through that TSI criterion reading and math and so that's the TSI a test or ACT or the SAT as well as AP exams for participation in dual credit.
+[01:15:43.820 --> 01:15:57.820]   Or in that associate's degree before graduation so those are the ways that we can measure and monitor through the years how we're doing on that college and career military readiness like I said as measured by state accountability.
+[01:15:57.820 --> 01:16:04.820]   So one of the ways that we progress monitor for college career military readiness is using the PSAT SAT suite of assessments.
+[01:16:04.820 --> 01:16:19.820]   So this is the class of 2022 the ones who left graduated just last spring and you can see through the years that where it says met ERW benchmark that evidence face reading and writing continues to be a real strength for our district.
+[01:16:19.820 --> 01:16:42.820]   That math benchmark tends to be the lower of the two higher than where the state is but certainly still an area where we could see some opportunities for growth, but you can see tracking them all the way through this is one way we can kind of look at a class and how they are progressing and monitor the effectiveness of the curriculum and the programs and that progress towards being CCMR.
+[01:16:42.820 --> 01:16:52.820]   SAT school day is something that's currently funded through House Bill 3 as well. It's when we're able to test all of our juniors at school on the SAT all on one day.
+[01:16:52.820 --> 01:17:02.820]   If they miss it then we can get them back in the fall as seniors but we can all do one we do that as long as TEA and the state legislature are able to continue funding it.
+[01:17:02.820 --> 01:17:12.820]   As I would probably be about 50 to 60 dollars per student so we're grateful for that opportunity so we can see how the kids are doing.
+[01:17:12.820 --> 01:17:22.820]   Last fall, well October 12th to be precise there was a big article that went out where ACT was talking about ACT schoolers dropping to their lowest in 30 years with a pandemic slide.
+[01:17:22.820 --> 01:17:34.820]   We've heard this a little bit too as we do to the changing college admissions landscape. You have Caltech saying don't send them no we're not going to look at them at all. On the other hand you hit MIT saying no absolutely you must.
+[01:17:34.820 --> 01:17:43.820]   You have some states saying you have to send it because we say you have to have the state says we have to have it but we're not actually going to look at it so it's highly veritable out there still right now.
+[01:17:43.820 --> 01:17:57.820]   We're going to look at our ACT scores for the one in the middle. And now 2.47 is a composite score is in 21 higher than the next 22 at 24.2 but they're doing very well.
+[01:17:57.820 --> 01:18:15.820]   Okay so another slot about a big slide but really that was out there in the nation really 19.8 from 20.3 we came down a little bit too which you can see there are students who do offer the ACT are well prepared to do to perform at a high level on that college entrance exam.
+[01:18:15.820 --> 01:18:35.820]   This one is Advanced Placement. This is another way we continue to progress monitor for college career and military readiness. This tracks all the way back to 2011, 2012 school year and it's just all the way forward. You can see the number of students attempting one or more AP exams and you have that has grown and changed through the years as well as number of AP exams given.
+[01:18:35.820 --> 01:18:57.820]   I want to show you that we can kind of look down here at the very very bottom talks about average exam attempted for students have looked at worldwide data and so really when you look at students who are getting more than 3, 4, 5 exams that is a lot more rare than it may feel in our community when we listen to everything that our students are doing especially in that junior year when we listen to them all the things that they're engaged in.
+[01:18:57.820 --> 01:19:11.820]   I don't want you to see that we also have the number of 3, 4s and 5s became to be historically high levels and then there at the very end you can see that we have again an increase in the percentage of those exams scoring at least a 3, 4 or 5.
+[01:19:11.820 --> 01:19:22.820]   There was quite a lot of work done by Julie Leslie and our AP teachers last year as well as that team to help make those games possible.
+[01:19:22.820 --> 01:19:51.820]   Here are some of our high volume AP exams for the different grade levels we do have students who are prior to high school taking the Spanish language and culture and then you can see 9th, 10th, 11th which is the test they historically take and you can see as far as 9th grade, 10th grade, 11th grade, 12th grade, how they tend to do on that AP average AP score as well as how many AP exams subjects are typically available to them with they've actually participated in in terms of those exams how it aligns with our curriculum.
+[01:19:51.820 --> 01:20:08.820]   The last slide you hear very nearly this one talks to about our graduate find process and this is where we kind of go back after they've graduated we use data from a national student clearinghouse that to figure out what happens after the students graduate from GCIC where do they go.
+[01:20:08.820 --> 01:20:35.820]   And so we take the information from what our counselors and our Go Center people and CT they collect the senior survey and we will look for all the students who told us they were going to enroll in college if the national student clearinghouse doesn't find them enrolled in college sometimes it's a name that's transpose sometimes it's they've decided to not participate for privacy reasons and so forth.
+[01:20:35.820 --> 01:20:50.820]   But then we go in our counselors and our assistant principals actually reach out there for her diligent in trying to contact those families to see if the student is enrolled in college or if they're not if there is something they can do to help them because they said that was their original plan.
+[01:20:50.820 --> 01:21:07.820]   So the national student clearinghouse of the students that they were able to find from GCIC and it was the majority of the ones who said they wanted to go to college, you can see again the class of 2021.
+[01:21:07.820 --> 01:21:20.820]   But you also see kind of a stronger emphasis there on the in state versus out of state kind of that was kind of a served nationwide in response a little bit to COVID where students were maybe not as willing to travel.
+[01:21:20.820 --> 01:21:27.820]   As far out of state or if they were going to have to be online for a period of time to go ahead and stay in state as well.
+[01:21:27.820 --> 01:21:42.820]   As far as things to the national student clearinghouse provides us with data on national role with trends and colleges are seeing nationwide more of a decrease in students enrolling immediately after high school graduation.
+[01:21:42.820 --> 01:21:50.820]   So when we look at our class of 2021 how that breaks down that gray part where we don't have a response that's about 11% of our kids.
+[01:21:50.820 --> 01:22:01.820]   And that is all of the ones that we have documented that we have found either in university college, a trade school, some sort of post secondary education.
+[01:22:01.820 --> 01:22:09.820]   And that is a large group of students, but you can also see that were that like for example were that yellow is that gap year out of country pursue that area of interest.
+[01:22:09.820 --> 01:22:12.820]   That's where we're seeing like when they talk about that national trend.
+[01:22:12.820 --> 01:22:23.820]   That's a little bit of a bigger group for us in this fast group where they're again just taking maybe a year to learn explore grow because some of those opportunities may have been a little more limited to them during that pandemic period.
+[01:22:23.820 --> 01:22:29.820]   And so they're able to defer that college experience for a year or so.
+[01:22:29.820 --> 01:22:43.820]   And so that is very in the slide there that is our famous map of where the students can to go to college. This is the class of 2021 stretching all the way from Vancouver to Miami it looks like.
+[01:22:43.820 --> 01:22:47.820]   And thank you Dr. Shouts us the end of funny to share.
+[01:22:47.820 --> 01:23:01.820]   >> Any questions.
+[01:23:01.820 --> 01:23:11.820]   >> I'm trying to show could you explain the different between approaches meets a master's because I know there seems to be a confusion on the stars, the stars,
+[01:23:11.820 --> 01:23:19.820]   the stars course where some people seem that meets is passing, we know that is approaches, so could you explain that and also the difference between the meets and approaches.
+[01:23:19.820 --> 01:23:25.820]   >> Certainly. So approaches is considered a passing score for the students.
+[01:23:25.820 --> 01:23:36.820]   What TEA does in terms of have providing a descriptor for it is they say that this is a student who has mastered enough of the information for that particular grade level to proceed to the next grade level.
+[01:23:36.820 --> 01:23:48.820]   But however, with an awareness there might be a need for some additional support for that student in addition to what the tier one instruction is happening in the classroom.
+[01:23:48.820 --> 01:23:56.820]   So they might need a little bit of extra help but they certainly have enough knowledge and skills to move on to that next grade level meets is that next grade level up level up.
+[01:23:56.820 --> 01:24:10.820]   We have met grade level standards, we're ready to progress to the next grade, there might be so few things that they have not mastered as high a rate, but they would be well equipped to move on to that next grade level.
+[01:24:10.820 --> 01:24:23.820]   The TEA is always very caution about it, they do acknowledge that from time to time you may have a student who even though they hit that meets, there might be a particular knowledge or skill that is a relative weakness for them, and they might, this needs some additional support.
+[01:24:23.820 --> 01:24:34.820]   Master grade level would be that top level where TEA just says that they have mastered the substantial body of teaks that were assessed on the star.
+[01:24:34.820 --> 01:24:38.820]   So approaches of course is a passing score for students, yes.
+[01:24:38.820 --> 01:24:51.820]   Okay, you mentioned on the English one of results that there was very new curriculum that was being implemented and that might have affected the resource where we don't see a growth, is that what you said?
+[01:24:51.820 --> 01:25:07.820]   Right, so I think it was about 2019 possibly we adopted a new, I think it's like HMH or somebody, we adopted a new curriculum, we're getting ready to implement that to address some of the things that, you know, because it's not like the star test and the teaks stay stagnant.
+[01:25:07.820 --> 01:25:18.820]   They can, they change as well, and so it's one of those we have to adapt our curriculum or what we're working on to help the kids be ready to master those things that become assessed on the star.
+[01:25:18.820 --> 01:25:32.820]   So we implemented it, we're getting ready to implement a new curriculum, then we have COVID strike, and so the students did not have the opportunity to, we had the full benefit of that because remember from, let's see if I'm in 10th, okay, that might be hard.
+[01:25:32.820 --> 01:25:45.820]   So if I'm at 10th grade now, right, last year was pretty much kind of a normal year as a freshman, but then in those foundational years coming into high school, I either was online, or part time,
+[01:25:45.820 --> 01:25:57.820]   but a good bit of a year, and then the year before that, when my foundational middle school years, I would have missed out on opportunity for the new curriculum, because from March to the end of the year, instruction looked quite different.
+[01:25:57.820 --> 01:26:11.820]   So what I'm saying is that we hadn't get opportunity to see the return on that curriculum change, and so now that we are back full on, we expect to be able to spiral through, pick up some of those skills that maybe the students didn't have,
+[01:26:11.820 --> 01:26:18.820]   we were able to see that go back up. What is interesting is the English one and two, also declined statewide.
+[01:26:18.820 --> 01:26:31.820]   Do you think that we could see something similar now that we're going to introduce this new curriculum in some of the schools, you know, like the elementary schools for Starscores this year?
+[01:26:31.820 --> 01:26:48.820]   I think the wondering will be absolutely to intervene, as soon as you know that you need to intervene, it'll be interesting to see for which students they have enough time being exposed to it to see that big change, and that's why we do the universal screen interest and things throughout the year, kind of monitor the progress.
+[01:26:48.820 --> 01:27:08.820]   In February, we'll do the interim assessments, so for Starscores, for Starscores courses, we'll have kind of a TEA produces with those online assessments, we do the interims, and then so probably March will have a better sense of, where are they and are our local assessments, which are released our questions,
+[01:27:08.820 --> 01:27:13.820]   are they giving us that information so that we know how the better feel for exactly where they are.
+[01:27:13.820 --> 01:27:21.820]   On my page is 60, I don't know if that's yours, but it says HB3, we're in progress monitoring.
+[01:27:21.820 --> 01:27:31.820]   You have goals that are, it seems to be start, meet, goals, and then you have a different assessment on the other side, and you have the four goals if reading and math.
+[01:27:31.820 --> 01:27:37.820]   Can you talk to the community a little bit about what's the difference between the start, and then this other assessment that you have the right?
+[01:27:37.820 --> 01:27:50.820]   Yes, of course. So your correct or hey, does say meets, and so we're says meeting early childhood goals when we set those goals back in 20, 1920, approximately.
+[01:27:50.820 --> 01:28:06.820]   That's when we did base it on the star at that meets level, we're casting our eyes higher, not just the base approaches, we're ready to shift our attention to that next level as, as a district gets a call to you for our kids, and so what you see there, those are star results.
+[01:28:06.820 --> 01:28:11.820]   What we expect to see at that, not approaches, but that next level meets, okay.
+[01:28:11.820 --> 01:28:14.820]   Over here on the side, the other side, the right hand side.
+[01:28:14.820 --> 01:28:28.820]   So this is grade three, one of the biggest pieces that we monitor through the year to see how the students are progressing and growing is that oral reading fluency, that's measured by Amos Webb, that's a different product, it's not star.
+[01:28:28.820 --> 01:28:44.820]   But it gives us a sense of, do they have the knowledge and skills and ability in those oral reading fluency, which is a huge piece of being able to comprehend and do well or start exams as well as interact in our daily lives, not just learn to read, but read to learn.
+[01:28:44.820 --> 01:28:55.820]   And so this here tells us, okay, that particular measurement at the beginning of the year, all students about 70% from what we would call tier one, ready.
+[01:28:55.820 --> 01:29:05.820]   So we had the summer off, we come back to school, we do that at the beginning of the year assessment, and so it kind of gives us a sense of, okay, all the students who tier one would just be that our classroom.
+[01:29:05.820 --> 01:29:10.820]   Sometimes we have to give a little help somebody else here and there, we have to demonstrate with all the things to get all the kids going.
+[01:29:10.820 --> 01:29:15.820]   If I'm not tier one ready, it just means I might need a little more help, a different type of intervention.
+[01:29:15.820 --> 01:29:24.820]   And so that would be about 30%, middle of the year though, the group that needed those extra interventions, that little bit of extra help, was more like 20%.
+[01:29:24.820 --> 01:29:28.820]   So that's good, we're going in the correct direction.
+[01:29:28.820 --> 01:29:32.820]   What about math, what would be the difference between the star on this page?
+[01:29:32.820 --> 01:29:38.820]   So that would be the same sort of thing, where again, it's based on third grade math meets grade level.
+[01:29:38.820 --> 01:29:45.820]   And then the product again is still, it's at Ames Web, where we do that user screening again, same type of explanation.
+[01:29:45.820 --> 01:29:53.820]   You can see where the students thought three-fourths of them, or at that beginning of the year, tier one, ready to learn kind of benchmark that we look for.
+[01:29:53.820 --> 01:30:02.820]   And then by middle of the year, again, you can see that they are progressing to a much smaller percentage of students needing that additional help.
+[01:30:02.820 --> 01:30:14.820]   On HB3 CCMR, which for me is 62, basically, you have 72% over there, where is that 72% coming from?
+[01:30:14.820 --> 01:30:19.820]   Is that coming from adding some of the numbers on their right column?
+[01:30:19.820 --> 01:30:25.820]   So, yes, that's a point of clarity that I need to provide maybe next year on the slide, it'll be a little bit better.
+[01:30:25.820 --> 01:30:29.820]   Essentially, what you have is TEA, those are all the different ways.
+[01:30:29.820 --> 01:30:34.820]   The TEA says a student could earn their college career of a military-ready point.
+[01:30:34.820 --> 01:30:42.820]   And so those percentages of there will not add up to 72, because there are students who hit CCMR in more than one way.
+[01:30:42.820 --> 01:30:48.820]   And so it's giving you a sense of all the different ways the kids are earning their college career of military readiness.
+[01:30:48.820 --> 01:31:00.820]   Well, the 44% for example, an AP exam, three, four, five means of all the students at the school, 44% score, or is it a 44% of the ones that took the APs?
+[01:31:00.820 --> 01:31:11.820]   So that one is for the graduating class of 2021, 44% of those graduates earned at least one, three, four, or five on a AP exam.
+[01:31:11.820 --> 01:31:16.820]   Because you have a 67% actually did that, but that's on the ones that took AP.
+[01:31:16.820 --> 01:31:17.820]   Yes.
+[01:31:17.820 --> 01:31:18.820]   Correct, okay.
+[01:31:18.820 --> 01:31:21.820]   So this is talking about that graduating class.
+[01:31:21.820 --> 01:31:26.820]   Having what percentage of those graduates earned at least one AP, three, four, or five, yes.
+[01:31:26.820 --> 01:31:31.820]   Okay, and my last question is on the last national student degree house.
+[01:31:31.820 --> 01:31:33.820]   You mentioned that no response was 11%.
+[01:31:33.820 --> 01:31:35.820]   What was the green?
+[01:31:35.820 --> 01:31:38.820]   Green is the one who's enrolled in some sort of--
+[01:31:38.820 --> 01:31:39.820]   How much was it?
+[01:31:39.820 --> 01:31:40.820]   The percentage.
+[01:31:40.820 --> 01:31:44.820]   That's probably about 77% in terms of 75 in that zone.
+[01:31:44.820 --> 01:31:46.820]   That's what it said to 5%.
+[01:31:46.820 --> 01:31:48.820]   I get you the exact numbers, I can put an important update.
+[01:31:48.820 --> 01:31:50.820]   And when I can update the slide for--
+[01:31:50.820 --> 01:31:53.820]   We posted on the website, so it's a little more clear.
+[01:31:53.820 --> 01:32:00.820]   But that is the group, yes, that we were able to document that they were enrolled in university,
+[01:32:00.820 --> 01:32:06.820]   seminary, military service academy, trade school, that first fall after high school graduation.
+[01:32:06.820 --> 01:32:11.820]   See that 11% is pretty high, compared to the last year, so not getting responses.
+[01:32:11.820 --> 01:32:15.820]   Well, I would say that our counselors and our assistant principals who go out and actually call them,
+[01:32:15.820 --> 01:32:18.820]   the families, are exceptionally diligent.
+[01:32:18.820 --> 01:32:20.820]   And at some point, we kind of have to say, you know what,
+[01:32:20.820 --> 01:32:22.820]   we're going to respect their privacy to the nonprofit.
+[01:32:22.820 --> 01:32:24.820]   Maybe it's just one of those years.
+[01:32:24.820 --> 01:32:25.820]   Thank you.
+[01:32:25.820 --> 01:32:27.820]   Thank you.
+[01:32:27.820 --> 01:32:29.820]   Thank you.
+[01:32:29.820 --> 01:32:32.820]   I have to turn it on.
+[01:32:32.820 --> 01:32:34.820]   Thank you, Shannon.
+[01:32:34.820 --> 01:32:37.820]   I know this is a whole lot of information.
+[01:32:37.820 --> 01:32:44.820]   And this is probably one of the most important reports that we get each year.
+[01:32:44.820 --> 01:32:47.820]   I did have a couple of questions.
+[01:32:47.820 --> 01:32:53.820]   Can you kind of go over how the star test is scored?
+[01:32:53.820 --> 01:32:57.820]   Because it's not on 100% scale.
+[01:32:57.820 --> 01:33:02.820]   It's not what we usually think of as, you know, there's 100 questions.
+[01:33:02.820 --> 01:33:07.820]   And if I get 80 of them correct, then I scored an 80%.
+[01:33:07.820 --> 01:33:15.820]   And so, can you explain how you high score the star test?
+[01:33:15.820 --> 01:33:21.820]   So what TEA does after the star scores are released, or they release them on their website,
+[01:33:21.820 --> 01:33:28.820]   and they will show you exactly how many questions a student had to get correct to earn a passing score.
+[01:33:28.820 --> 01:33:33.820]   And that is assigned to a vertical scale score, like a,
+[01:33:33.820 --> 01:33:38.820]   just kind of like the SAT and the PSAT.
+[01:33:38.820 --> 01:33:39.820]   Well, this is a pretend number.
+[01:33:39.820 --> 01:33:41.820]   Let's say 44% of the question is right.
+[01:33:41.820 --> 01:33:45.820]   That was maybe 50 questions, and 1,500, and let's say that's going to be passing, right?
+[01:33:45.820 --> 01:33:51.820]   The reason they have the vertical scale scores, so that they can be able to adjust,
+[01:33:51.820 --> 01:33:55.820]   really, for the relative difficulty of each test, like for the SAT, PSAT,
+[01:33:55.820 --> 01:34:00.820]   so they can ensure that through time that this score is this, this year,
+[01:34:00.820 --> 01:34:05.820]   in January, is equivalent to this score that a kid earns on test, or let's say for SAT,
+[01:34:05.820 --> 01:34:07.820]   you know, six months later in August, or whatever.
+[01:34:07.820 --> 01:34:16.820]   And so there is that vertical scale score component, we're in, within our, within our star results,
+[01:34:16.820 --> 01:34:19.820]   yes, and then they decide to eat sides.
+[01:34:19.820 --> 01:34:23.820]   What are the cut points for approaches, it meets, and masters?
+[01:34:23.820 --> 01:34:34.820]   So is each test scored independently, or, in other words, if I get, you know, 80% on it,
+[01:34:34.820 --> 01:34:40.820]   and another person gets the same number of questions right,
+[01:34:40.820 --> 01:34:52.820]   but maybe not the same questions, talked to me about how is my score going to be comparable to my neighbor's score?
+[01:34:52.820 --> 01:35:02.820]   Or how does it compare, because we've got, you know, thousands of students across the state taking this test,
+[01:35:02.820 --> 01:35:08.820]   surely, like in the lottery, we have kids that, you know, we're going to answer the same number of questions,
+[01:35:08.820 --> 01:35:12.820]   so they'll get the same score on the star test.
+[01:35:12.820 --> 01:35:17.820]   I was supposed there is potential for someone to answer correctly on all the easy questions,
+[01:35:17.820 --> 01:35:23.820]   miss all the hard questions, and receive the appropriate number of questions correct to pass the test.
+[01:35:23.820 --> 01:35:29.820]   Yes, but they would design the tests to have a particular set amount of different types of questions,
+[01:35:29.820 --> 01:35:36.820]   and so I think it would be unlikely though, although interesting to see how often that actually happens.
+[01:35:36.820 --> 01:35:43.820]   So you could have a kid answer the same number of questions, but not get the same score as the kids' next to them,
+[01:35:43.820 --> 01:35:48.820]   because it depends on the hard or easiness of the questions.
+[01:35:48.820 --> 01:35:55.820]   So they have, essentially, if you do a set number of questions right, then you get this particular score,
+[01:35:55.820 --> 01:35:59.820]   and then there's the next set of questions up, and the next number of questions right is the score,
+[01:35:59.820 --> 01:36:03.820]   and so it's essentially for a child, individual children, it's number of questions right.
+[01:36:03.820 --> 01:36:10.820]   So in theory, every student in Texas could answer all the questions correctly,
+[01:36:10.820 --> 01:36:12.820]   and they would all get the same score.
+[01:36:12.820 --> 01:36:19.820]   Okay, so how does this plan to, with the comparison with the different,
+[01:36:19.820 --> 01:36:25.820]   because you mentioned that our scores are compared to other schools within our district,
+[01:36:25.820 --> 01:36:28.820]   but maybe other schools not in our district and the varies.
+[01:36:28.820 --> 01:36:30.820]   Are we going to this function?
+[01:36:30.820 --> 01:36:32.820]   Yeah, how does that come into play?
+[01:36:32.820 --> 01:36:38.820]   I mean, if we're using the scale score, and it's not even on 100% scale anyway,
+[01:36:38.820 --> 01:36:44.820]   talk to me about why we're comparing, I mean, wouldn't you think that they're comparing?
+[01:36:44.820 --> 01:36:51.820]   I mean, they're going to take 11 elementary campuses in GCSD and compare those 11 elementary schools against each other.
+[01:36:51.820 --> 01:36:55.820]   What can you, what, how does TEA do that?
+[01:36:55.820 --> 01:37:01.820]   So historically, you know, through the years, there's always, you know, been talking about, well,
+[01:37:01.820 --> 01:37:05.820]   in some places, it's easier for the, this is just anecdotal,
+[01:37:05.820 --> 01:37:11.820]   some places is easier for the school to see back of the tax era, toss era to be for you to be exemplary,
+[01:37:11.820 --> 01:37:16.820]   or recognized, because you have students who came preloaded with all these knowledge and skills,
+[01:37:16.820 --> 01:37:18.820]   and it's a question of influence, right?
+[01:37:18.820 --> 01:37:22.820]   So that was kind of the old, you know, kind of way of thinking,
+[01:37:22.820 --> 01:37:27.820]   and it's unfair in a way, let's say, to always compare students' schools with,
+[01:37:27.820 --> 01:37:32.820]   because the data bears out, that if you always compare students' schools,
+[01:37:32.820 --> 01:37:36.820]   because each other completely than that one way, and only look at in that one way,
+[01:37:36.820 --> 01:37:41.820]   that the star and tax data kind of bears out, one criticism potentially,
+[01:37:41.820 --> 01:37:46.820]   they threw off what it would be based more on relative influence, right?
+[01:37:46.820 --> 01:37:50.820]   Okay, so when they decided to do distinctions, they do it by your comfortability group,
+[01:37:50.820 --> 01:37:55.820]   because what we would want to see is you would want to see every student in Texas,
+[01:37:55.820 --> 01:37:56.820]   especially here in GCSD, right?
+[01:37:56.820 --> 01:37:58.820]   Everybody, we're going to meet you where you are,
+[01:37:58.820 --> 01:38:02.820]   or we're going to move you a year or more sort of growth, right?
+[01:38:02.820 --> 01:38:05.820]   And we're going to try to move you past, you know, not just what, you know,
+[01:38:05.820 --> 01:38:09.820]   the next level for you to be passing, but as far as we can get you to go, right?
+[01:38:09.820 --> 01:38:14.820]   And so that would be the ultimate goal for us to get all of them, but at the same time,
+[01:38:14.820 --> 01:38:18.820]   and I think we have to acknowledge that the work at some of our campuses is different.
+[01:38:18.820 --> 01:38:23.820]   We have different programs, we have different needs, we have different attendance rates,
+[01:38:23.820 --> 01:38:29.820]   and so that's why TEA also does the distinctions where they compare you to campuses more like you.
+[01:38:29.820 --> 01:38:34.820]   So, for example, we have an elementary, maybe those serve 700 students,
+[01:38:34.820 --> 01:38:40.820]   maybe that elementary is 78%, you can almost have disadvantaged, maybe that elementary is,
+[01:38:40.820 --> 01:38:45.820]   you know, 30% speaking language other than English, right?
+[01:38:45.820 --> 01:38:50.820]   And so what they do is they compare them for distinctions against other campuses
+[01:38:50.820 --> 01:38:53.820]   that would have similar demographics, she can get a better sense.
+[01:38:53.820 --> 01:38:57.820]   Yes, I want to compare myself against the highest scoring school in my district
+[01:38:57.820 --> 01:39:02.820]   because I want to be there too, but also, okay, how am I doing against campuses that are like me
+[01:39:02.820 --> 01:39:04.820]   and that's why they do the distinctions in that way.
+[01:39:04.820 --> 01:39:15.820]   Okay, so as I was looking through, especially the first half or so of not so much the presentation,
+[01:39:15.820 --> 01:39:20.820]   but the actual paper report itself.
+[01:39:20.820 --> 01:39:28.820]   I do have some concerns that, and we've kind of bumped into this issue before.
+[01:39:28.820 --> 01:39:32.820]   And I do appreciate Jorge mentioning, you know, the difference between,
+[01:39:32.820 --> 01:39:36.820]   and you didn't explain the difference between those three levels.
+[01:39:36.820 --> 01:39:42.820]   And then if I'm a parent and I get my kids star score and it says they approach grade level,
+[01:39:42.820 --> 01:39:48.820]   they have passed the star test, they do not have to retake it, and they are moved on to the next level in school.
+[01:39:48.820 --> 01:39:50.820]   The next grade level, correct? Yeah.
+[01:39:50.820 --> 01:39:57.820]   So I guess my concern though is that, I mean, our district numbers not get out of the park
+[01:39:57.820 --> 01:40:00.820]   but the state every time and the region as well.
+[01:40:00.820 --> 01:40:08.820]   I mean, I would have had to take a highlighter to go through and find the few places where maybe the region
+[01:40:08.820 --> 01:40:17.820]   is a whole performed better than the district that certainly statewide we do really, really well.
+[01:40:17.820 --> 01:40:25.820]   Where I start to get a little bit concerned is those gaps that some of our student populations
+[01:40:25.820 --> 01:40:33.820]   are lagging anywhere from 10 to 20 to 25 points.
+[01:40:33.820 --> 01:40:42.820]   And that's, I think, the area that is important for us to continue to spend a lot of time and effort on
+[01:40:42.820 --> 01:40:48.820]   because, you know, kind of to your point as you were going through those three different levels,
+[01:40:48.820 --> 01:40:51.820]   we really want to get those kids up to masters.
+[01:40:51.820 --> 01:41:01.820]   And so I'm looking at some of these columns here where, you know, our Hispanic and African-American students,
+[01:41:01.820 --> 01:41:06.820]   you know, are lagging as much as, you know, 10, 15, 20 points.
+[01:41:06.820 --> 01:41:15.820]   And then digging even farther in, for example, we didn't have enough African-American students take the ACT this year
+[01:41:15.820 --> 01:41:18.820]   in order to be able to have a comparison.
+[01:41:18.820 --> 01:41:21.820]   I find that concerning.
+[01:41:21.820 --> 01:41:32.820]   Number one, the SAT, while it's helpful, we know from experience and from data that some kids test better on the ACT instead of the ACT.
+[01:41:32.820 --> 01:41:43.820]   In fact, that's something that we hear repeatedly from the high school counselors and from the test preparation tutors
+[01:41:43.820 --> 01:41:49.820]   that it's really, really important to really go ahead and try to take both of those tests.
+[01:41:49.820 --> 01:41:59.820]   And so, number one, I wanted to know, what are we doing to encourage, especially when we see areas like that,
+[01:41:59.820 --> 01:42:03.820]   where we don't even have enough students taking a test to give us meaningful data?
+[01:42:03.820 --> 01:42:05.820]   What are we doing to help encourage that?
+[01:42:05.820 --> 01:42:09.820]   And while I know the state has picked up the tab for the SAT,
+[01:42:09.820 --> 01:42:16.820]   are we able to do anything in a similar manner to make sure we're offering the ACT here?
+[01:42:16.820 --> 01:42:23.820]   And I believe that was something that we worked really hard on, that we tried to get GCSE to be an ACT testing site.
+[01:42:23.820 --> 01:42:29.820]   Because it is a pain in the butt when you want to take those tests and you can't take it here.
+[01:42:29.820 --> 01:42:37.820]   You've got a Dr. Firemound or a Fort Worth or Irving or whatever, especially if you're not old enough to drive or you don't have a Dr.
+[01:42:37.820 --> 01:42:47.820]   And so, what can we do? What are we doing to make sure that kids have the opportunities to take those tests or encouraging them to take those tests?
+[01:42:47.820 --> 01:42:54.820]   And are there ways that we can offer an ACT in school as well as the SAT?
+[01:42:54.820 --> 01:43:04.820]   So, you're correct, as you mentioned, that we are able to fund SAT at school day and be able to provide one SAT for our students,
+[01:43:04.820 --> 01:43:09.820]   between the spring, the spring of their junior year, and sometimes during their senior year.
+[01:43:09.820 --> 01:43:16.820]   We like to do it with all of our juniors in the spring, and then if they miss that opportunity, then we give them that second attempt in the fall.
+[01:43:16.820 --> 01:43:23.820]   One of the reasons that we focus mostly on the SAT is it gives parents that vertical scale worth of data,
+[01:43:23.820 --> 01:43:29.820]   coming into vertical scale earlier, because they start with a spire, would have the PSAT eight in seventh grade.
+[01:43:29.820 --> 01:43:38.820]   All of our students have the opportunity to take the SAT in eight, and then they take the exit junior level version in 9th, 10th, and 11th, and then the SAT.
+[01:43:38.820 --> 01:43:53.820]   And so, that's a vertical scale score, what it does for parents, when they look at their students' College Board website, you can see one of the things you can see would be not just the skills that the student is exhibiting strength at,
+[01:43:53.820 --> 01:43:59.820]   but steps you can do to help your student progress along that college readiness progression.
+[01:43:59.820 --> 01:44:06.820]   It also will give you a sense of where your student is for both reading and math in terms of being on track for college and career readiness.
+[01:44:06.820 --> 01:44:13.820]   You can also see down to the question itself with your student and go back through them through that report.
+[01:44:13.820 --> 01:44:27.820]   So what we're providing is multiple years worth of data for parents and students, but possibly more information now to help parents and know what all is in there would be helpful, so then get in there and kind of work through it with their students.
+[01:44:27.820 --> 01:44:28.820]   So we do that.
+[01:44:28.820 --> 01:44:36.820]   And we do get a better rate for PSAT, because we also do it with the SAT and kind of a big group together.
+[01:44:36.820 --> 01:44:49.820]   However, if we were going to also do ACT for all the students in addition to the TEA reimbursed SAT, then we would not be able to afford on my current budget to do the PSAT.
+[01:44:49.820 --> 01:44:58.820]   So what ends up happening is we stick with the SAT opening for that vertical scale score information to parents.
+[01:44:58.820 --> 01:45:17.820]   And then one thing that the counselors have been working on too is, you know, the US Department of Education and TEA have agreed that for our students to take biology one and/or algebra one or any of the EOCs in middle school, they still have to be assessed on that content in high school, which means that if I'm taking
+[01:45:17.820 --> 01:45:28.820]   out for one and the eighth grade, the SAT, we fulfill that participation requirement, and that performance is included in your state and accountability when they're seniors. That doesn't solve the problem for the biology kids.
+[01:45:28.820 --> 01:45:33.820]   And so now what we're going to do is keep track of which one.
+[01:45:33.820 --> 01:45:42.820]   And so then when we know, then they're able to intervene and say with the campus decision coordinator and say, do you want to do your SAT with us?
+[01:45:42.820 --> 01:45:53.820]   Please go do the ACT on your own, or we can reimburse up to what TEA would pay reimbursed us for the ACT, which is not the full ACT amounts about $35.
+[01:45:53.820 --> 01:46:04.820]   And then they would not do the SAT with us. And so to give them that choice. The other thing the counselors are doing too is that they become a certified.
+[01:46:04.820 --> 01:46:22.820]   And so they could give those as well. And so what they're piloting and what they've been looking at is for our students who are unsuccessful on that junior SAT identifying students who then if they were to work with them and get them ready to take the TSIA, which is another college readiness.
+[01:46:22.820 --> 01:46:35.820]   It counts as a point for our CCMR if they hit a certain benchmark, but it'll also allow them as a college interest exam for our community colleges, then to be able to take it at school with us.
+[01:46:35.820 --> 01:46:40.820]   And we have a small amount of money that we've kind of earmarked for being able to pilot that with those identified students.
+[01:46:40.820 --> 01:46:46.820]   So a lot of work from a variety of different campus-based people in addition to my department, yes.
+[01:46:46.820 --> 01:47:03.820]   Okay, I guess I'm just concerned because I'm seeing some drops, especially on page 25, and I'm just really concerned about the overall district numbers masking.
+[01:47:03.820 --> 01:47:18.820]   Some very real needs amongst some of our other student populations, whether that's African-American, whether that's Hispanic, special ed. Looking additionally at the taper, I noticed our class sizes are getting larger.
+[01:47:18.820 --> 01:47:32.820]   I noticed that our attendance rates are dropping, that's on page 18, and I noticed especially troubling that our dropout rates are actually increasing, and that's across a number of demographic groups there.
+[01:47:32.820 --> 01:47:48.820]   Like some of them even doubled. And so while there's a lot to celebrate in here, I think there's also a lot to raise some red flags and be concerned about how some of these numbers are certainly starting to trend.
+[01:47:48.820 --> 01:47:52.820]   So something to definitely watch out for.
+[01:47:52.820 --> 01:48:06.820]   Thank you very much for that information. I agree with Becky because the most important thing that we do is this part, so this is extremely important.
+[01:48:06.820 --> 01:48:20.820]   I also agree with Becky in the sense that when I look, I see a huge improvement from last year to this year, which is great, but we have been seeing a decline.
+[01:48:20.820 --> 01:48:35.820]   So I would like to know, first of all, what is the percentage of a grade for approach meets and master? So if you were going to give someone a percentage for approach, what would that be?
+[01:48:35.820 --> 01:48:50.820]   Almost our test. Unfortunately, they're all different, but I could read what you say read. Well, it's going to vary from grades three, four, five, six, seven, eight, and then this one. Third grade reading.
+[01:48:50.820 --> 01:49:00.820]   Approaches, if I just had to start with the approach. I'd say 45. Okay, 45% is approach. What's meets?
+[01:49:00.820 --> 01:49:13.820]   I would say more like two thirds, 66, 66. What about masters? Probably 85. Okay.
+[01:49:13.820 --> 01:49:26.820]   So as a district, I think that meets should obviously be our standard, mediocrity should not be acceptable.
+[01:49:26.820 --> 01:49:38.820]   I appreciate the work that we do here, the administrators, the teachers. We've had to overcome a lot and the jump that we got this last year is great.
+[01:49:38.820 --> 01:49:49.820]   We have a lot of work to, a lot of work. I think we need to be honest about the work that needs to be done and why it needs to be done.
+[01:49:49.820 --> 01:49:58.820]   This didn't just happen over the last eight months or over the last year or COVID. It started prior to that.
+[01:49:58.820 --> 01:50:15.820]   So I think the fact that we're addressing that is great. Can you pinpoint a year that you feel like we started a slope downward?
+[01:50:15.820 --> 01:50:25.820]   I think probably the best thing to do would be for me to kind of put it all together maybe like a ten year across the board, because taper just shows you the two year, two year, two year, two year.
+[01:50:25.820 --> 01:50:41.820]   Right. And I wouldn't want to misrepresent the work of the district. So if you would be alright with that, I would prefer to put it for an update to you where we can kind of say, because it might be different by grade level, it could be different by subject area.
+[01:50:41.820 --> 01:50:47.820]   So, okay, I think that's great because that's one of the things I was going to ask and we don't have to make this a huge extensive thing.
+[01:50:47.820 --> 01:50:59.820]   To me, I think it's important when you're trying to identify what things need to change and what direction we need to go, you have to identify where it began.
+[01:50:59.820 --> 01:51:10.820]   And so one of the things that's hard and kind of confusing, because when you go back to the taper report, I mean you've got five years that you, this was a scale and then five years, this was a scale and it all changes.
+[01:51:10.820 --> 01:51:36.820]   So maybe, and you tell me what you think makes more sense, if we did third grade reading, third grade math, I liked your bar example, I do think it'd be hard probably with the differentiation of scale, so maybe it's a graph, you know, with, you know, that shows you the different when it started something different.
+[01:51:36.820 --> 01:51:50.820]   I mean, for sure 10 years, I was thinking 15, but do a grade, so if you wanted to start with third grade and do reading and math, does that, I mean, is that too large of a, I mean that we could do.
+[01:51:50.820 --> 01:51:58.820]   Okay, so something simplified, but to where we can kind of start gauging what that information is.
+[01:51:58.820 --> 01:52:25.820]   Yes, so we could maybe start with a couple of grades and see like you say third grade reading and math, and then I can get that to you all, and then you could say, yes, more of this or no, that's not what we were thinking, and then maybe also because the tax era was so different from star, if I can maybe layer that to because I know during tax statewide, in our own district, we saw tremendous gains, it was a very different style of test.
+[01:52:25.820 --> 01:52:32.820]   So, that might also be interesting, so I can work on that for you, yes.
+[01:52:32.820 --> 01:52:41.820]   Okay, then could you explain that the rating distinction, like what, what is it, what, what does it take to get distinction?
+[01:52:41.820 --> 01:52:45.820]   So you had schools that got distinction, so what does that mean?
+[01:52:45.820 --> 01:52:59.820]   So, what does that mean go to safari, it'd be a little easier about going, anybody know? Maybe not. Okay, so, if you really want to see the, you want, probably from that tps thing.
+[01:52:59.820 --> 01:53:14.820]   So, the links on our website will be able to get to the place in TEA, but essentially what happens is, for each distinction, I'll say for English language arts, there are certain indicators that campus could hit, and so there are campuses in a group of 40, and you want to be in,
+[01:53:14.820 --> 01:53:40.820]   the top 25% of your group for the indicators, right? So, and those indicators might be participation in AP English literature, participation in AP language, dual credit, percentage students who are getting meets and higher on the, you know, so forth across.
+[01:53:40.820 --> 01:53:49.820]   So, you have the different indicators, of course, a different, great, great configurations because, you know, they're different, like you won't have AP, let's say down at the elementary.
+[01:53:49.820 --> 01:54:08.820]   So, you have different numbers of indicators, for each distinction, for each different grade type, but essentially, you need to be able to hit a certain percentage of indicators being the top 25% for certain percentage of indicators, for your comfortability group, to be awarded that distinction.
+[01:54:08.820 --> 01:54:27.820]   So, I guess, what I'm trying to understand is like, so that you had, we had people that were on distinguished, or on the distinctions, but then also were doing this rollout for reading, you know, with the new rating curriculum, so I was just curious as to,
+[01:54:27.820 --> 01:54:46.820]   you know, what that is. So, how do you have an elementary, for example, that you're pushing for reading, so it's, which means that they're not getting the scores that they need to get, but yet they're distinguished.
+[01:54:46.820 --> 01:55:00.820]   So, I think it's cool. It's because of the difference in the group, there's, there are comfortability groups. So, you could have a school in GCISD that's scoring lower in reading, then all of our other campuses.
+[01:55:00.820 --> 01:55:14.820]   But when I compare them to 40 campuses across the state that are most similar to them, in grade span, number of students, number of students are served as special education, English language learners.
+[01:55:14.820 --> 01:55:22.820]   When we look at mobility rate, kids moving in and out of the, of the campus, all of those factors that build your comfortability group.
+[01:55:22.820 --> 01:55:36.820]   You could be, you could be outperforming everybody else in that comfortability group of campuses, the TEA says are like you, and so they reward that work with a distinction, even though that campus may be not performing outright, as well as some of our others.
+[01:55:36.820 --> 01:55:48.820]   Okay, that makes sense. Thank you for that information. I liked the bar graphs, it was a lot easier to read, and you could kind of see the improvements better.
+[01:55:48.820 --> 01:56:05.820]   And I would also just like the public to know that lots of work is being done, that, you know, these numbers and these things, the district is aware, and those things are being worked on, and so I appreciate it, and I'm very thankful.
+[01:56:05.820 --> 01:56:34.820]   So one of the things I noticed, and particularly the English like comprehensive slide, is that the strategies that you guys are employing are really working, so where we're struggling, maybe in third grade English, by the time they get to eighth grade English, they've vastly improved, so with the strategies that we have in place, appear to be working, when kids, or maybe, they find them open to struggle that we're finding those opportunities to, to meet the school of college.
+[01:56:34.820 --> 01:56:45.820]   To meet them where they are. Like many people spoke earlier, I am encouraged by the new curriculum to help meet those gaps that we're having, particularly with the Hispanic population.
+[01:56:45.820 --> 01:57:03.820]   I think that there's a role opportunity for teachers, teaching bilingual students to really give us an edge there, particularly when they're all using the same language, and so when they start sharing between campuses, the things they're finding in this curriculum that they can leverage.
+[01:57:03.820 --> 01:57:07.820]   You know, I think that collective is going to be super powerful.
+[01:57:07.820 --> 01:57:15.820]   That being said, I think we need great teachers to make sure that we can fully leverage what we bought.
+[01:57:15.820 --> 01:57:27.820]   So as much as the books and the curriculum and the plans that were provided by the curriculum, it still takes a masterful teacher to really move this bar.
+[01:57:27.820 --> 01:57:35.820]   So again, I think we do need to stick with the message that we need to recruit and retain great teachers.
+[01:57:35.820 --> 01:57:40.820]   Thank you very much. This is so comprehensive. I know it's a lot of work. Thank you.
+[01:57:40.820 --> 01:57:52.820]   Thank you. I'll just wrap up with a few comments. I agree with Colee. I think, you know, retaining great teachers is a priority, so I'm very, very excited about this curriculum, because it respects their time.
+[01:57:52.820 --> 01:58:04.820]   They have to do less planning, because it's already done for them, so they can actually spend their time on teaching, which is another intangible, I think our district will be great at offering, especially in the future.
+[01:58:04.820 --> 01:58:14.820]   My only concerns were in the math when you looked at, I believe it was like slide 25 or 26 for our goals.
+[01:58:14.820 --> 01:58:25.820]   I realized COVID played a little bit of that, but I don't think it just all happened at COVID, so I'm glad we're recognizing that and we're addressing that.
+[01:58:25.820 --> 01:58:40.820]   My other concerns, which I was good to see an improvement last year, what was AP, three, fours and fives, it looks like we used to be in the 70th percentile, we dropped down to the 56th percentile, and now we're bumping back up into the higher 60s, so that's good.
+[01:58:40.820 --> 01:58:46.820]   So I appreciate you guys focusing on that and addressing those issues.
+[01:58:46.820 --> 01:59:08.820]   Because, interesting enough, I was reading an article that I was talking about AP scores, and MIT says they're going back to ACT type stuff, and I think AP is going to be a good indicator of that, so it's very important, because it's the best indicator of really of how you're going to perform in an academic environment, at least according to the MIT professionals.
+[01:59:08.820 --> 01:59:11.820]   I don't claim to be one of those.
+[01:59:11.820 --> 01:59:27.820]   I want to thank Dr. Julie Leslie and her team for implementing these changes last year, in taking over the roles and just taking the bull by the horns and really tackling our academics.
+[01:59:27.820 --> 01:59:34.820]   This is what we're here for. This is our service. Our bread and butter is academics for our students.
+[01:59:34.820 --> 01:59:41.820]   The only thing that's concerning this year is the online start test, so I know you guys are addressing that as best as you can.
+[01:59:41.820 --> 01:59:49.820]   I've talked about my own kids and that's a concern, but it is what it is.
+[01:59:49.820 --> 02:00:01.820]   I just want to say that, remember to, in 2021, to 22, one of the big changes we did make was to go ahead and test, because we knew we were going to put everyone online this year,
+[02:00:01.820 --> 02:00:15.820]   and that's what T.A. was told everyone you need to do. We went ahead into the last year, and so the games you did see were also adapting to having to take their test online, and so the teachers and the students really rallied to that.
+[02:00:15.820 --> 02:00:29.820]   They had opportunities to practice those online types. One thing that will be different this year is there are new item types as well, and so there will be opportunities in our local assessments that are curriculum and instruction team are designing along with teachers,
+[02:00:29.820 --> 02:00:41.820]   and they can students can practice those new item types, and we're actually looking into the PLC level. At data we're going to be saying, this is where we tested just student expectation in a traditional multiple choice way.
+[02:00:41.820 --> 02:00:52.820]   Here's what they had to do, drag and drop, or ride it in, and we can compare and say, are we seeing the students being equally proficient? No matter what type of item type, and so that's something else we have to work on, yes.
+[02:00:52.820 --> 02:01:09.820]   And then, so my only one thing I want to see if you could maybe compare, you may already have this data actually, so when we're doing the aims testing and we're saying, okay, we tested, say last year we tested, and Little Johnny was at an 85% chance of hitting meets in the stars.
+[02:01:09.820 --> 02:01:16.820]   Are we thinking going back and looking at the actual star score and measuring how close.
+[02:01:16.820 --> 02:01:26.820]   So the purpose of the aims web product assessment is not to predict stars and it gives you national norms, right?
+[02:01:26.820 --> 02:01:42.820]   And so what we can do though is that is something we go back and take a look and just see, is it panning out where we kind of where we thought with the huge understanding that they're not at all the same instrument.
+[02:01:42.820 --> 02:01:53.820]   And they're not assessing the same, you know what I'm saying? Like this is, you know, earlier we were talking about reading curriculum, aims web is looking at oral reading fluency, they're looking at phonemic awareness.
+[02:01:53.820 --> 02:02:11.820]   The star test is, can you comprehend this passage and then write me a sentence about what you just read, they're not the same instrument at all, although the aims web is really to help us to know for sure which students are going to need that additional, you know, so who's on track?
+[02:02:11.820 --> 02:02:19.820]   But to be fully engaged in our classroom, who needs additional support, so we could do it. I think it's interesting, but just know that it's not.
+[02:02:19.820 --> 02:02:27.820]   Yeah, it's not apples to apples, but, yeah, that's all I have, so thank you very much for your time, I appreciate your report.
+[02:02:27.820 --> 02:02:36.820]   Next item on the agenda is going to be item C, we've actually pulled item B and so we will be, oh, which, sorry.
+[02:02:36.820 --> 02:02:48.820]   I jumped ahead, I had my notes on something else. Yeah, so actually what we're going to do then is take a five minute recess, and then we'll go to the report to the superintendent.
+[02:02:48.820 --> 02:03:10.820]   We're at recess at 657, and we'll come back at five minutes.
+[02:03:18.820 --> 02:03:28.820]   [BLANK_AUDIO]
+[02:03:28.820 --> 02:03:38.820]   [BLANK_AUDIO]
+[02:03:48.820 --> 02:03:58.820]   [BLANK_AUDIO]
+[02:04:18.820 --> 02:04:28.820]   [BLANK_AUDIO]
+[02:04:28.820 --> 02:04:38.820]   [BLANK_AUDIO]
+[02:04:38.820 --> 02:04:48.820]   [BLANK_AUDIO]
+[02:04:48.820 --> 02:04:58.820]   [BLANK_AUDIO]
+[02:04:58.820 --> 02:05:08.820]   [BLANK_AUDIO]
+[02:05:08.820 --> 02:05:32.820]   [BLANK_AUDIO]
+[02:05:32.820 --> 02:05:42.820]   [BLANK_AUDIO]
+[02:05:42.820 --> 02:06:10.820]   [BLANK_AUDIO]
+[02:06:10.820 --> 02:06:20.820]   [BLANK_AUDIO]
+[02:06:20.820 --> 02:06:44.820]   [BLANK_AUDIO]
+[02:06:44.820 --> 02:06:54.820]   [BLANK_AUDIO]
+[02:06:54.820 --> 02:07:22.820]   [BLANK_AUDIO]
+[02:07:22.820 --> 02:07:32.820]   [BLANK_AUDIO]
+[02:07:32.820 --> 02:08:00.820]   [BLANK_AUDIO]
+[02:08:00.820 --> 02:08:10.820]   [BLANK_AUDIO]
+[02:08:10.820 --> 02:08:38.820]   [BLANK_AUDIO]
+[02:08:38.820 --> 02:08:48.820]   [BLANK_AUDIO]
+[02:08:48.820 --> 02:08:58.820]   [BLANK_AUDIO]
+[02:08:58.820 --> 02:09:08.820]   [BLANK_AUDIO]
+[02:09:08.820 --> 02:09:18.820]   [BLANK_AUDIO]
+[02:09:18.820 --> 02:09:28.820]   [BLANK_AUDIO]
+[02:09:28.820 --> 02:09:40.820]   [BLANK_AUDIO]
+[02:09:40.820 --> 02:09:50.820]   [BLANK_AUDIO]
+[02:09:50.820 --> 02:10:01.820]   [BLANK_AUDIO]
+[02:10:01.820 --> 02:10:11.820]   [BLANK_AUDIO]
+[02:10:11.820 --> 02:10:32.820]   [BLANK_AUDIO]
+[02:10:32.820 --> 02:10:42.820]   [BLANK_AUDIO]
+[02:10:42.820 --> 02:10:52.820]   [BLANK_AUDIO]
+[02:10:52.820 --> 02:11:16.820]   [BLANK_AUDIO]
+[02:11:16.820 --> 02:11:26.820]   [BLANK_AUDIO]
+[02:11:26.820 --> 02:11:47.820]   [BLANK_AUDIO]
+[02:11:47.820 --> 02:11:57.820]   [BLANK_AUDIO]
+[02:11:57.820 --> 02:12:25.820]   [BLANK_AUDIO]
+[02:12:25.820 --> 02:12:35.820]   [BLANK_AUDIO]
+[02:12:35.820 --> 02:12:59.820]   [BLANK_AUDIO]
+[02:12:59.820 --> 02:13:09.820]   [BLANK_AUDIO]
+[02:13:09.820 --> 02:13:34.820]   [BLANK_AUDIO]
+[02:13:34.820 --> 02:13:44.820]   [BLANK_AUDIO]
+[02:13:44.820 --> 02:13:54.820]   [BLANK_AUDIO]
+[02:13:54.820 --> 02:14:04.820]   [BLANK_AUDIO]
+[02:14:04.820 --> 02:14:20.820]   [BLANK_AUDIO]
+[02:14:20.820 --> 02:14:41.820]   Through updates the board has been a prize of some of the changes still occurring in the market and overall unfortunately public entities remain kind of a focus of targeted focus of threats and ransomware attacks and that is the primary reason for this type of insurance that our district has embarked on.
+[02:14:41.820 --> 02:14:49.820]   One of the things that I will say though as we've looked to renew this now for the second time is that the district is being viewed very favorably by carriers.
+[02:14:49.820 --> 02:15:01.820]   So in a very unstable area of insurance at least the district and the plan that they have put together in the technology department has worked to our advantage in terms of the responses.
+[02:15:01.820 --> 02:15:19.780]   And so the parameters were outlined for you on page 352, very similar to what we had last year with a little bit of an expected increase in the cost of the policy itself, but it would be basically into the same terms and conditions and at the same expiring limits that we had in the previous policy.
+[02:15:19.780 --> 02:15:25.780]   [BLANK_AUDIO]
+[02:15:25.780 --> 02:15:39.780]   Thank you Paula, the recommendations for the Board of Trustees to approve the parameters for binding the cyber insurance policy and authorized, Dr. Bradshaw, and I'm superintendented to act on behalf of the district to bind cyber insurance coverage that is within the approved parameters.
+[02:15:39.780 --> 02:15:46.780]   [BLANK_AUDIO]
+[02:15:46.780 --> 02:15:53.780]   [BLANK_AUDIO]
+[02:15:53.780 --> 02:15:56.780]   [BLANK_AUDIO]
+[02:15:56.780 --> 02:16:03.780]   [BLANK_AUDIO]
+[02:16:03.780 --> 02:16:09.780]   [BLANK_AUDIO]
+[02:16:09.780 --> 02:16:16.740]   Next item on the agenda is item E, act to approve undesignated 2016 bond funds for
+[02:16:16.740 --> 02:16:28.740]   transportation and restoration and repair stemming from the December 2022 freeze and water fountain leak in January of 2023 and for preventative improvements in heritage, middle school, and heritage and ex, Dr. Schnell.
+[02:16:28.740 --> 02:16:43.740]   Yes, as you guys know prior to Christmas, we unfortunately experienced some unforeseen situations with some frozen lines and that cause some extensive damages and some of our campuses of water and whatnot.
+[02:16:43.740 --> 02:17:00.740]   And I just want to really first of all pay tribute to our team that showed up right there before Christmas, even Christmas, even on Christmas day and working through the break to make sure that our campuses were up and running when we came back from the break.
+[02:17:00.740 --> 02:17:10.740]   But nonetheless, Pollock and you just walk us through, give us a few more details around the expenditures that we entailed over the Christmas break.
+[02:17:10.740 --> 02:17:18.740]   Yes, our in December it was teens that we hit and so we are carefully watching the weather this week, but it's not scheduled to get quite that low.
+[02:17:18.740 --> 02:17:24.740]   And so we had ruptures in water lines, sprinkler lines, as well as with sprinkler heads.
+[02:17:24.740 --> 02:17:29.740]   And as Dr. Schnell pointed out, unfortunately, it literally happened.
+[02:17:29.740 --> 02:17:39.740]   As we were closed, usually our school district will have a skeleton crew here at other times when maybe school is not in session, but it was Christmas Eve, Christmas Day.
+[02:17:39.740 --> 02:17:45.740]   Our campuses were closed, which I had to bring in the staff that we could to assist with it.
+[02:17:45.740 --> 02:17:52.740]   But unfortunately, it was quite a bit of water at Heritage Middle School in particular and on Christmas Day at the ECDC.
+[02:17:52.740 --> 02:18:04.740]   We were able after several phone calls to be able to find a restoration company that's available to us through one of our cooperatives to come in and begin that mitigation and restoration process.
+[02:18:04.740 --> 02:18:11.740]   And some of the repairs that could be done by our staff of the staff that we could get were done by staff.
+[02:18:11.740 --> 02:18:17.740]   And others, for example, if you're repairing a sprinkler line, you've got to do that with a certified company to do that.
+[02:18:17.740 --> 02:18:20.740]   They were brought in to take care of those items.
+[02:18:20.740 --> 02:18:35.740]   So this request for the appropriation covers, obviously, the mitigation, the restoration, and all of the repairs that were necessary, just for purposes of everyone's knowledge at Heritage Middle School.
+[02:18:35.740 --> 02:18:43.740]   It flooded 25 classrooms and several hallways, and at the ECDC, it was 10 rooms and several hallways.
+[02:18:43.740 --> 02:19:01.740]   And really, with restoration in that process and being concerned with getting back to school quickly, even during the break, it was imperative that we do a lot of drying instead of trying to rip everything out and not be able to get it built back as we had experienced previously.
+[02:19:01.740 --> 02:19:21.740]   Unfortunately, after experiencing rather warm temperatures, the staff came in on the day after what would have been the New Year's Day closure to find that a water fountain had leaked at O.C. Taylor, and so we had water in four classrooms and part of the learning commons,
+[02:19:21.740 --> 02:19:26.740]   otherwise known as the library there at that campus, and so we had to go through a little bit of the same.
+[02:19:26.740 --> 02:19:33.740]   So we did have more staff available to us, obviously, to remove the water and begin the drying process in that building.
+[02:19:33.740 --> 02:19:45.740]   And the third piece of this allocation or recommended appropriation is to allocate a little close to $35,000 to add some insulation at the Heritage Annex buildings.
+[02:19:45.740 --> 02:20:02.740]   Two buildings there, the larger one, and the smaller used to be a parsonage, so rather old buildings there, and to the ceiling space above the sprinkler line at Heritage Middle School that is given a struggle twice now, as well as to deal with the sprinkler heads over at the transportation center.
+[02:20:02.740 --> 02:20:05.740]   So, that Dr. Shout.
+[02:20:05.740 --> 02:20:08.740]   No, I didn't.
+[02:20:08.740 --> 02:20:18.740]   You did. Sorry.
+[02:20:18.740 --> 02:20:23.740]   Recommendation is for the Board of Trustees to approve the appropriation of $323,316 from undesignated 2016 bond funds for mitigation restoration and repairs.
+[02:20:23.740 --> 02:20:37.740]   Stimming from the December 2022 freeze and the water fountain leak in January, 2023, and to make capital preventative improvements to the breezeway at Heritage Middle School above the ceiling area of the Heritage Annex buildings, and at the transportation.
+[02:20:37.740 --> 02:20:40.740]   Looking at the transportation all-bay.
+[02:20:40.740 --> 02:20:45.740]   After that mouthful, we have a recommendation. Do we have a motion?
+[02:20:45.740 --> 02:20:47.740]   Peggy?
+[02:20:47.740 --> 02:20:51.740]   I move. We adopt Dr. Snoutz's recommendation.
+[02:20:51.740 --> 02:20:53.740]   That was second.
+[02:20:53.740 --> 02:20:54.740]   Jamie seconds.
+[02:20:54.740 --> 02:20:56.740]   Discussion?
+[02:20:56.740 --> 02:20:58.740]   No discussion.
+[02:20:58.740 --> 02:21:01.740]   So, Jamie?
+[02:21:01.740 --> 02:21:06.740]   Well, we -- do we have insurance? I know there's a very high deductible there.
+[02:21:06.740 --> 02:21:11.740]   Yes, ma'am. The deductible for what is considered a weather event is $1 million.
+[02:21:11.740 --> 02:21:14.740]   I know it was real high. I didn't know exactly that.
+[02:21:14.740 --> 02:21:19.740]   For O.C. Taylor, because it was not a weather event, the deductible is $50,000.
+[02:21:19.740 --> 02:21:23.740]   But unfortunately, even our expenses for that don't hit that.
+[02:21:23.740 --> 02:21:26.740]   So, we're not going to -- we're not probably going to see anything here.
+[02:21:26.740 --> 02:21:29.740]   Okay. Yes, ma'am. Okay. Thank you.
+[02:21:29.740 --> 02:21:31.740]   All those in favor, showings.
+[02:21:31.740 --> 02:21:36.740]   Motion passes 7-0.
+[02:21:36.740 --> 02:21:40.740]   Next item on the engine is a 2022-2023 budget update informational.
+[02:21:40.740 --> 02:21:45.740]   Yes. So, this budget update covers the monitoring of our 22-23 projections.
+[02:21:45.740 --> 02:21:51.740]   You also please note at your place -- you have a replacement page for page 4-11.
+[02:21:51.740 --> 02:21:56.740]   And at this time, I'll turn it over to our interim CFO, Richard Mattkin.
+[02:22:01.740 --> 02:22:04.740]   He'd immediately put Nicole on notice.
+[02:22:04.740 --> 02:22:11.740]   Hold it. Let me see if I'm there.
+[02:22:11.740 --> 02:22:19.740]   Awesome.
+[02:22:19.740 --> 02:22:27.740]   I continue to be amazed at Dr. Snouts talking me out of retirement.
+[02:22:27.740 --> 02:22:32.740]   I have to question it every day coming back and forth, but I will see this.
+[02:22:32.740 --> 02:22:40.740]   I thoroughly enjoyed the help I've received, the support of the senior leadership.
+[02:22:40.740 --> 02:22:46.740]   Christy Drilling here has been my right hand for a full two weeks now.
+[02:22:46.740 --> 02:22:56.740]   And what I hope to do tonight is simply attempt to align what was budgeted with where we are now.
+[02:22:56.740 --> 02:23:01.740]   So, they ended close out December.
+[02:23:01.740 --> 02:23:05.740]   Good records. I appreciate the cooperation that she gave me.
+[02:23:05.740 --> 02:23:10.740]   And there was a transition period for several days in December.
+[02:23:10.740 --> 02:23:16.740]   But what I've tried to do is just objectively look at where the budget was set,
+[02:23:16.740 --> 02:23:21.740]   where projections are now, how realistic they were.
+[02:23:21.740 --> 02:23:28.740]   Try to crosswalk to you tonight to show you the variances and there's some large variances.
+[02:23:28.740 --> 02:23:36.740]   You might think, but there was a reasonable basis for those, and I'll sort of wrap those up towards the end of the presentation.
+[02:23:36.740 --> 02:23:39.740]   Highlights.
+[02:23:39.740 --> 02:23:46.740]   The sad thing about revenue for a property wealthy district is we're in a fully equalized system.
+[02:23:46.740 --> 02:23:53.740]   Increase property taxes, increase tax, which result in an increase in tax collections.
+[02:23:53.740 --> 02:23:56.740]   Usually net out on increase of recapture.
+[02:23:56.740 --> 02:24:01.740]   It's a vicious cycle that hasn't changed much over the course of my career.
+[02:24:01.740 --> 02:24:08.740]   And it looks like it's still in effect today, and maybe even tightened up a little bit,
+[02:24:08.740 --> 02:24:15.740]   simply because they adjust to compress rate once they get property values that are put in.
+[02:24:15.740 --> 02:24:25.740]   And they adjust numbers where it really is difficult for a property wealthy district to get ahead.
+[02:24:25.740 --> 02:24:28.740]   So we'll look at some of those numbers.
+[02:24:28.740 --> 02:24:30.740]   I want to walk through a little bit.
+[02:24:30.740 --> 02:24:35.740]   There might be some big numbers and a lot of numbers on particular pages,
+[02:24:35.740 --> 02:24:42.740]   but I really just want to focus tonight on those variations and put your mind at ease on how those were developed,
+[02:24:42.740 --> 02:24:46.740]   and where we're going with some of these.
+[02:24:46.740 --> 02:24:52.740]   The summary of revenue and expenditure projections on the left is the revenues.
+[02:24:52.740 --> 02:24:58.740]   Two of those numbers tax increment finance district or the TIF is a flow through,
+[02:24:58.740 --> 02:25:08.740]   so it's going to be on both sides of the ledger, and the TRS on behalf is going to be on both sides of the ledger.
+[02:25:08.740 --> 02:25:14.740]   So we won't be really talking about those, but all the others will try to work our way through,
+[02:25:14.740 --> 02:25:22.740]   and sort of get to that 6.3 million that we're now projecting as a deficit.
+[02:25:22.740 --> 02:25:27.740]   Let me pause there, though, and say we're just projecting that.
+[02:25:27.740 --> 02:25:32.740]   This could come in more favorable. It could come in worse.
+[02:25:32.740 --> 02:25:35.740]   We have to take it a month at a time.
+[02:25:35.740 --> 02:25:41.740]   We need to get some more information in from the state, and I'll do those when we get through,
+[02:25:41.740 --> 02:25:47.740]   get to some of those numbers and the rest of the presentation.
+[02:25:47.740 --> 02:26:00.740]   When I first saw the enrollment numbers in the ADA, I was concerned that was there really a basis to set ADA and enrollment where they are,
+[02:26:00.740 --> 02:26:05.740]   because that's a big number. I mean, it results a big number.
+[02:26:05.740 --> 02:26:09.740]   Really, we're going to talk about a little formula of transition money, and we're going to talk about recapture.
+[02:26:09.740 --> 02:26:14.740]   It probably affects you more on the recapture side than the formula of transition side,
+[02:26:14.740 --> 02:26:18.740]   although we'll talk how that sort of went away.
+[02:26:18.740 --> 02:26:30.740]   But when you look at 2122, I pulled first semester last year, noticed the budget was 13, 880.
+[02:26:30.740 --> 02:26:36.740]   The enrollment at the midway point was 13, 790. They were a little bit short.
+[02:26:36.740 --> 02:26:43.740]   I can really see where you could budget an enrollment of 13, 883,
+[02:26:43.740 --> 02:26:50.740]   thinking that you have come out of COVID and it makes sense to me.
+[02:26:50.740 --> 02:26:56.740]   When you look at the attendance for the first six weeks compared to where we are today,
+[02:26:56.740 --> 02:27:01.740]   our attendance is actually running higher than it did first semester last year.
+[02:27:01.740 --> 02:27:07.740]   So, and the good thing is looking at that average daily attendance in last year's numbers,
+[02:27:07.740 --> 02:27:16.740]   12,863, during the second semester, that number rose to 13, a little bit over 13,000.
+[02:27:16.740 --> 02:27:24.740]   So, made up some ground, second semester on last year's budget, and where that all plays into effect.
+[02:27:24.740 --> 02:27:31.740]   Because, yeah, average daily attendance, and you will see during the budget process,
+[02:27:31.740 --> 02:27:34.740]   I'll refer to it a lot, you're weighted average daily attendance,
+[02:27:34.740 --> 02:27:43.740]   or really where the money are in an equalized system and property base where they are.
+[02:27:43.740 --> 02:27:48.740]   You've got to have, you've got to know where your attendance is going to be,
+[02:27:48.740 --> 02:27:53.740]   where your ADA is going to be, and feel comfortable as you move forward.
+[02:27:53.740 --> 02:28:05.740]   But, with all that said, I can absolutely see where Ms. Moon came with the budget in enrollment of 13, 883,
+[02:28:05.740 --> 02:28:09.740]   and we're just coming up short right now.
+[02:28:09.740 --> 02:28:16.740]   That's the first semester ADA, I just lined them up by six weeks from last year this year.
+[02:28:16.740 --> 02:28:22.740]   Again, just sort of trying to put some perspective on where we are now and where we were last year.
+[02:28:22.740 --> 02:28:30.740]   State funding comparison, taxes are on there and you go with state funding and taxes.
+[02:28:30.740 --> 02:28:36.740]   Well, taxes and recapture are just a product of the state funding formula.
+[02:28:36.740 --> 02:28:46.740]   And as you see, as taxes go up, 5.6 million, recapture goes up, 6.7 million,
+[02:28:46.740 --> 02:28:51.740]   and we'll look at the recapture formula and why that's going up more than tax collections,
+[02:28:51.740 --> 02:28:56.740]   because you think they would just net out that they don't do to the formula.
+[02:28:56.740 --> 02:29:01.740]   That funding mechanism really shows us where the shortfall is.
+[02:29:01.740 --> 02:29:08.740]   Of course, the big number is formula transition grant, 4.5 million, 4.8 million.
+[02:29:08.740 --> 02:29:15.740]   So, I thought I would sort of line the two up next to each other where I can see the impact of them.
+[02:29:15.740 --> 02:29:20.740]   Not that you're wanting to memorize the state formula and not that I'm wanting to forget the state funding formula.
+[02:29:20.740 --> 02:29:31.740]   But the recapture elements is your tax collection increase along with, and this is the kicker, the available school fund.
+[02:29:31.740 --> 02:29:36.740]   So that available school fund kicked in and part of the recapture formula.
+[02:29:36.740 --> 02:29:53.740]   So, therefore, you do not, it's not a smooth wash and that recapture increase of 6.7 million was attributed not only to the available school fund,
+[02:29:53.740 --> 02:29:56.740]   but also to the loss of attendance.
+[02:29:56.740 --> 02:30:20.740]   The attendant credits, as you work back to your break even point, if you will, I would think that we would need another 150 students to make that tax collections and that recapture payment go down enough that you would be showing on that revenue about where it should be if you were going to be at a break even point on tax collections recapture as you move forward.
+[02:30:20.740 --> 02:30:34.740]   The formula transition grant, that this is new since I retired, so I was like, what would they do here, but it was a good incentive by the state.
+[02:30:34.740 --> 02:30:50.740]   They take your refined ADA allow you $8,758, that creates a target revenue, as long as you're below the target revenue, you get Hill harmless.
+[02:30:50.740 --> 02:31:03.740]   We had budgeted in there, 14.5, but that's because the target revenue was inflated by the ADA having a higher ADA.
+[02:31:03.740 --> 02:31:18.740]   But I have played with the formula, what is impacting the formula transition grant as much as the enrollment numbers or the average daily attendance, is the available school fund comes into play again.
+[02:31:18.740 --> 02:31:26.740]   One noticed that it's a part of the projections that were showing for the district, that increased $2 million.
+[02:31:26.740 --> 02:31:47.740]   Recapture went up $61 million, but we have to count all the tax collections which I will have a few questions for the people at the state level is that that insinuates, and it's the way the formula works that your golden pennies don't come into.
+[02:31:47.740 --> 02:31:54.740]   They don't come into effect on formula transition grant, and so to me they're not golden.
+[02:31:54.740 --> 02:31:59.740]   They're just sort of golden over on the recapture side.
+[02:31:59.740 --> 02:32:07.740]   When you look at those numbers though, you can understand being in formula transition.
+[02:32:07.740 --> 02:32:14.740]   I know the thought from an outside person as, man, we need to get all the golden pennies we can.
+[02:32:14.740 --> 02:32:21.740]   Really, that golden penny could be working against you as far as state formula money for formula transition.
+[02:32:21.740 --> 02:32:28.740]   So as long as you're looking at your in formula transition, you'd rather state pick up the tab than the golden penny.
+[02:32:28.740 --> 02:32:43.740]   So the time to set that golden penny probably was about four years ago to up the base, but it is certainly a strategy you would want to take not to issue that golden penny.
+[02:32:43.740 --> 02:32:48.740]   And in back then you probably didn't need the golden penny.
+[02:32:48.740 --> 02:32:57.740]   So you'll hear more about those as we go forward to not not a tax rate discussion, but this is showing the difference in state target.
+[02:32:57.740 --> 02:33:05.740]   And where we are, we're really about eight hundred and eighty thousand to get to the target revenue number.
+[02:33:05.740 --> 02:33:15.740]   That ADA would have to come up quite a bit because as the ADA goes up, so it'll impact the recapture number.
+[02:33:15.740 --> 02:33:29.740]   So it's a numbers game that I think that we should plan for next year to probably not have any formula transition money in to move forward.
+[02:33:29.740 --> 02:33:36.740]   And being out of formula transition money is a good thing because it's going to go away. Now it's going to go away in twenty three twenty four.
+[02:33:36.740 --> 02:33:50.740]   But my personal opinion, I'd want to out of it as soon as I can and it helps you a little bit more on your budged inside on the direction you need to go in the budget.
+[02:33:50.740 --> 02:34:01.740]   The other revenue that came in, flood control revenue, it came in at eight hundred twenty one thousand.
+[02:34:01.740 --> 02:34:12.740]   When I looked at that number I was like, where's the variance there? Well, look back at history and that flood control money has run anywhere from six hundred thousand.
+[02:34:12.740 --> 02:34:16.740]   I think that's what it was last year to one point five million.
+[02:34:16.740 --> 02:34:23.740]   It's been certainly there, so if you're going to have an aggressive budget, I can see budged in one point five.
+[02:34:23.740 --> 02:34:28.740]   The payments already been made, so we know what's booked, so we can adjust that.
+[02:34:28.740 --> 02:34:39.740]   It's going to be eight hundred twenty one thousand the state revenue as we said the TRS on behalf is simply a flow through time.
+[02:34:39.740 --> 02:34:47.740]   Is there any questions on revenue for a leave revenue? That's really good.
+[02:34:47.740 --> 02:34:55.740]   Salary variances. As we looked at the salary variances, the first thought was,
+[02:34:55.740 --> 02:35:06.740]   whatever there was a little bit of a bus to here, or where was our thinking on budging, and I want you to know it's, I'm taking a critical view of the budget.
+[02:35:06.740 --> 02:35:24.740]   I want to make sure I understand it. If we're going to go through the budget process in the next few months, we need to certainly have a basis for where we were this year, where we're projecting some things that we can look forward to and maybe some adjustments and alignment that need to be made.
+[02:35:24.740 --> 02:35:46.740]   But I feel very comfortable knowing how that the number hit, if you'll look at the twenty one twenty two payroll cost actual, you're at a hundred eleven million, you budged at a hundred seven million, you cut, and I've worked my way back through all the personnel cuts.
+[02:35:46.740 --> 02:36:02.740]   There were real personnel cuts, there were over three million dollars, 3.1, 3.2. Christie's always corrected me on those points, but it was real cuts that hit.
+[02:36:02.740 --> 02:36:18.740]   There was a salary increase, and that certainly plays to make that number up a little bit, and there was a transfer to some federal funds that helped reduce that overall budget outlook.
+[02:36:18.740 --> 02:36:47.740]   I think when you look at where we're projected, this is a big place, a hundred seven million on payroll or projected, a hundred and ten million, 3% variance there is one that you could swing both ways as we close out the year, depending on what vacancies are filled, what payroll costs continues to run, feel good about the salary,
+[02:36:47.740 --> 02:37:16.740]   projections, and what actual payroll has done, run, and where we might end up, but that's the number that we're going with right now, and I think if there's a wild card in any of this, it can be sometimes that payroll number that ends up with a more favorable budget when it close out the year, and all the vacancies are all the transition of staff.
+[02:37:16.740 --> 02:37:21.740]   Falls out in a favorable manner.
+[02:37:21.740 --> 02:37:45.740]   The expenditure projections on the other side, you tell the budget is always one that you try to be, and I think Christie's been aggressive in projecting that on out, looking at last year, and this year, and again, we'll sort of see what the winter and spring is.
+[02:37:45.740 --> 02:37:53.740]   But we're willing to go ahead and project a negative variance there on the utilities.
+[02:37:53.740 --> 02:38:14.740]   Everything else is showing a positive variance, and the numbers that sort of jumped out that me too were the positive variances, I wanted to validate those numbers and make sure that we were in good stead and trying to look at where those were and those were.
+[02:38:14.740 --> 02:38:27.740]   And those were set out quite a bit higher than an increased over the actual from the previous year, and I feel very comfortable that we can come in on those positive variances.
+[02:38:27.740 --> 02:38:56.740]   To be conservative, maybe I would have shown a less projected number, but I think we really try to hit it as we see it from here on out and make sure that we were on top of it, and maybe we will come in with those positive variances, but I felt very comfortable with where last year's actuals were and where this year's projections are.
+[02:38:56.740 --> 02:38:59.740]   Very similar.
+[02:38:59.740 --> 02:39:03.740]   Closing comments.
+[02:39:03.740 --> 02:39:09.740]   You know, the districts to be commended for several things.
+[02:39:09.740 --> 02:39:13.740]   Taxpayers have seen tax relief for four consecutive years.
+[02:39:13.740 --> 02:39:20.740]   You've leveraged the tax rate against former transition grant money to minimize tax relief.
+[02:39:20.740 --> 02:39:43.740]   I learned a lesson long time ago, you need to make sure you're not taxing to create a fund balance, but taxing to make the needs of the district, and when it's time to tax, you can go before the public and for staff and say we're doing it for all the right reasons, and that usually is putting more money into instruction.
+[02:39:43.740 --> 02:39:55.740]   The district continues to provide raises in an equalized funding system, let's be clear, giving raises across all Texas school districts is very difficult these days.
+[02:39:55.740 --> 02:40:01.740]   The legislature in their first week spoke to that.
+[02:40:01.740 --> 02:40:16.740]   We'll be coming back a little bit with some projections when we set our parameters, and when we look at future budgets for the next biennium, to take some of that information, and I think we'll see some relief.
+[02:40:16.740 --> 02:40:22.740]   I think teachers across the state of Texas are going to see some funds come their way.
+[02:40:22.740 --> 02:40:30.740]   That can be nothing but a good thing, because that's where the money needs to be spent.
+[02:40:30.740 --> 02:40:37.740]   Fund balance has been used to supplement the budget while staying above the 20% fund balance threshold limit.
+[02:40:37.740 --> 02:40:47.740]   Fund balance is a protected part of every finance-guys DNA.
+[02:40:47.740 --> 02:40:59.740]   It's our rainy day fund, it's our job security sometimes, it's all kinds of things that you want to look at fund balance, but you want to be good stewards for the district.
+[02:40:59.740 --> 02:41:11.740]   We're going to be that 20% fund balance threshold is going to be tight as we head into the next budget year.
+[02:41:11.740 --> 02:41:26.740]   I think we're going to need to be very diligent in our budgeting process and make sure that we keep our own having a balanced budget with not depending on some fund balance.
+[02:41:26.740 --> 02:41:32.740]   But that will be developed as we go through the following months by someone.
+[02:41:32.740 --> 02:41:39.740]   The district continues to look at new ways to generate revenue while maximizing expenditures and efficiencies.
+[02:41:39.740 --> 02:41:50.740]   I've appreciated Dr. Smouts' attention to this, and we've already had meetings talking about ways that we can generate revenue through the state formula.
+[02:41:50.740 --> 02:42:01.740]   I think the state formula provides some opportunities to enhance your revenue and also benefit kids.
+[02:42:01.740 --> 02:42:15.740]   I think that will be the focus that will strive for is not to try ways to increase that revenue that are nothing but good for kids and provide them opportunities.
+[02:42:15.740 --> 02:42:26.740]   But I think there's some excellent ways to do it and Vori started that in some of your programs that generate 100% ADA.
+[02:42:26.740 --> 02:42:36.740]   With that, I'm hoping to have any questions, maybe I'm finding somebody in the room that can answer them.
+[02:42:36.740 --> 02:42:47.740]   Thanks, Richard. Anyone have any comments, questions?
+[02:42:47.740 --> 02:43:11.740]   Can you go back to the last slide?
+[02:43:11.740 --> 02:43:24.740]   Well, yeah, actually these aren't numbered. Can you first go to slide number five?
+[02:43:24.740 --> 02:43:40.740]   The one that has for semester ADA, so you mentioned that our ADA was aggressive, but luckily last year we had it trick up a little bit.
+[02:43:40.740 --> 02:43:45.740]   But this, to me, looks like it's just plummeting.
+[02:43:45.740 --> 02:44:00.740]   Well, if there's anything in the entire budget that can be a little discouraging is where enrollment is in the Tramp, the enrollment for the district has been flat for years.
+[02:44:00.740 --> 02:44:10.740]   I mean, it hasn't varied up or down a lot. As I can tell, we'll talk about that during the budget process.
+[02:44:10.740 --> 02:44:20.740]   Second semester, and again, it's me trying to put things together to just look at variances and explain variances.
+[02:44:20.740 --> 02:44:30.740]   It'll be interesting to see exactly how six weeks looked like, but I do know what we were given credit for and what was reported to the state.
+[02:44:30.740 --> 02:44:38.740]   We were funded out with 13,011, so we made a lot of headway in the second semester in 2122.
+[02:44:38.740 --> 02:44:44.740]   I'm not saying we're going to do that this year, but hopefully attendance goes up.
+[02:44:44.740 --> 02:44:54.740]   I've been on our district usually had better ADA in the second half of the year than the first half of the year for whatever reason.
+[02:44:54.740 --> 02:45:01.740]   Okay, that would trick, let me interject something there. When you say for years, how many years do you have an account?
+[02:45:01.740 --> 02:45:11.740]   I've done the key indicators for I'd be guessing, but I'll say four years pretty flat enrollment.
+[02:45:11.740 --> 02:45:14.740]   We need those 150 students to show up.
+[02:45:14.740 --> 02:45:23.740]   We need those very badly. And the adjustment will come, let's be clear, we'll probably come through recapture.
+[02:45:23.740 --> 02:45:31.740]   I'm not sure with our tax collections where they are and not getting credit for the government pennies on the form of the transition money.
+[02:45:31.740 --> 02:45:38.740]   I'm not sure we're going to get our way out of, I think, point transitions history.
+[02:45:38.740 --> 02:45:42.740]   But I do think that we could make up two or three million in recapture.
+[02:45:42.740 --> 02:45:44.740]   The numbers came, the numbers came.
+[02:45:44.740 --> 02:45:52.740]   Yeah, the legislature has been clear that they were not going to make the same mistake that they made with ASITAR with the form of transition grants.
+[02:45:52.740 --> 02:46:00.740]   And, yeah, looking at the taxes, I've got my checkbook to go buy the tax office and write a check again.
+[02:46:00.740 --> 02:46:14.740]   Good for you, maybe an additional 5.6 million. That's a little disappointing as I'm going to go add the zeroes to that check.
+[02:46:14.740 --> 02:46:28.740]   I do find it's interesting that the numbers that you're showing actually look very similar to 2122, and had maybe we tracked that a little more closely.
+[02:46:28.740 --> 02:46:36.740]   The two budgets would actually look very similar, and you said the deficit that we're looking at now is what's 6.3.
+[02:46:36.740 --> 02:46:40.740]   That's great. Okay, and that could go either way that it could get.
+[02:46:40.740 --> 02:46:45.740]   I would hope that we could cut it in half with some good luck in the second semester.
+[02:46:45.740 --> 02:46:59.740]   And there's another big number that we'll get from the State Comptroller. He'll set his State Property taxes number at the end of January.
+[02:46:59.740 --> 02:47:07.740]   That sort of sets a level that replaces what your compressed rights driven by what we're calculating.
+[02:47:07.740 --> 02:47:16.740]   So, if that number goes down a little bit, which I'm hopeful it'll do, then that'll reduce recapture also.
+[02:47:16.740 --> 02:47:21.740]   So, we'll put money back in my pocket, but at least our deficit won't be as big.
+[02:47:21.740 --> 02:47:38.740]   And I'm still -- with the -- with the -- with the recapture works and your tax base, along with -- we're enrollment trends have been.
+[02:47:38.740 --> 02:47:46.740]   You know, it's -- it could be -- it could be a lot worse, but hopefully it'll be better.
+[02:47:46.740 --> 02:47:51.740]   And we'll -- we'll work on those positive variants, too. I think that's another big part.
+[02:47:51.740 --> 02:47:55.740]   We're showing some positive variances there. We got to make sure those come in.
+[02:47:55.740 --> 02:48:02.740]   Right. Like, I mean, I noticed that, you know, we don't have as much staff or contracted services personnel here tonight.
+[02:48:02.740 --> 02:48:10.740]   So, anywhere where we can save some money, especially in expenditures that we certainly never planned on, is huge.
+[02:48:10.740 --> 02:48:19.740]   So, definitely looking forward to, you know, if there's unnecessary duplicative services that are happening, just don't need them.
+[02:48:19.740 --> 02:48:22.740]   Right.
+[02:48:22.740 --> 02:48:30.740]   Right. Yeah, I just want to welcome you to this, yeah, as they thank you so much for the presentation.
+[02:48:30.740 --> 02:48:38.740]   You know, one of the issues that I had with this budget, when we go to back in the summer, was that, you know, it was violence when we knew it was not.
+[02:48:38.740 --> 02:48:44.740]   And so, I appreciate you showing, you know, where we are right now, you know, 6.3 million dollars.
+[02:48:44.740 --> 02:48:51.740]   So, to be transparent to the public, transparent to the borders, and to understand that, you know, this is what we really are.
+[02:48:51.740 --> 02:48:57.740]   And that we're trying to look for ways to improve on the current deficit that we have.
+[02:48:57.740 --> 02:49:04.740]   I do have a question for doctors now, so I know that we had a campaign about getting kids excited about coming back to school, and --
+[02:49:04.740 --> 02:49:10.740]   but we see the trend that research just showed that the actual attendance is actually coming down.
+[02:49:10.740 --> 02:49:14.740]   Are we doing something different coming up, you know, in this semester to improve on that?
+[02:49:14.740 --> 02:49:21.740]   I don't want to, you know, that your -- the attendance has gone up as compared to last year.
+[02:49:21.740 --> 02:49:23.740]   I just put it up there.
+[02:49:23.740 --> 02:49:26.740]   The percentage of attendance is up.
+[02:49:26.740 --> 02:49:28.740]   It's 0.94.
+[02:49:28.740 --> 02:49:35.740]   Now we budged it, 0.9575.
+[02:49:35.740 --> 02:49:44.740]   But you show on -- my page is 43, 43 out of 41, that the first six weeks, second six weeks, 36 weeks, the number was coming down.
+[02:49:44.740 --> 02:49:46.740]   I don't know if that's my mistake.
+[02:49:46.740 --> 02:49:47.740]   Oh, I see what you mean.
+[02:49:47.740 --> 02:49:47.740]   Yeah.
+[02:49:47.740 --> 02:49:48.740]   They're climbing at ADA.
+[02:49:48.740 --> 02:49:49.740]   Correct.
+[02:49:49.740 --> 02:49:50.740]   Right.
+[02:49:50.740 --> 02:49:51.740]   Okay.
+[02:49:51.740 --> 02:49:52.740]   Okay.
+[02:49:52.740 --> 02:49:53.740]   Okay.
+[02:49:53.740 --> 02:49:55.740]   Which could be a reflection of declining enrollment.
+[02:49:55.740 --> 02:49:56.740]   Correct, yeah.
+[02:49:56.740 --> 02:50:08.740]   So I think, from what I can tell, we're running better attendance this year based on the weekly -- weekly enrollment projections.
+[02:50:08.740 --> 02:50:21.740]   Or weekly enrollment numbers that are actual, but it'll be something interesting to track through the year to see if we can keep above that ADA attendance number.
+[02:50:21.740 --> 02:50:30.740]   Because really, the flip side of that, 2122, I just haven't run what the ratio is that we ran second semester.
+[02:50:30.740 --> 02:50:39.740]   We might have run 95% in the second semester, which makes up the differential for that variance on ADA.
+[02:50:39.740 --> 02:50:44.740]   Well, you saw your numbers were increasing week by week on attendance in the first semester.
+[02:50:44.740 --> 02:50:45.740]   Right.
+[02:50:45.740 --> 02:50:52.740]   Okay.
+[02:50:52.740 --> 02:50:54.740]   Okay.
+[02:50:54.740 --> 02:50:55.740]   Okay.
+[02:50:55.740 --> 02:50:58.740]   I didn't want to jump in there a bit.
+[02:50:58.740 --> 02:51:13.740]   Yeah, I'll just add that, you know, we try to remain very diligent and just -- as we've, you know, I think a couple months ago we gave a lead to win a highlight on the attendance task force and just -- it's a constant monetization.
+[02:51:13.740 --> 02:51:21.740]   It's a constant, you know, meeting to kind of get those progress updates and to work with our campuses.
+[02:51:21.740 --> 02:51:38.740]   You know, work with our leadership, work with our teams there to try to provide them the resources to promote and market the importance of coming to school, to make sure you have that, you know, teacher-student face-to-face interaction every day.
+[02:51:38.740 --> 02:51:48.740]   And that really, the only way to get the true Tier 1 solid instruction is to being in the classroom, you know, and so it's challenge.
+[02:51:48.740 --> 02:52:03.740]   It's a challenge and certainly as Richard mentioned, you know, we would love to go get another 150, 200 students, you know, and we're trying to meet and really think out of the box on how we can come up with ways to increase some revenue.
+[02:52:03.740 --> 02:52:09.740]   You know, we have some ideas, and some of those we can kind of put in play, kind of low-hanging fruit right now.
+[02:52:09.740 --> 02:52:18.740]   But more of them are around 23/24, as we look ahead and, you know, do some things kind of creatively for next year, so.
+[02:52:18.740 --> 02:52:26.740]   I wonder if we should send parents a letter saying if your key doesn't come to school, we'll send a board member to --
+[02:52:26.740 --> 02:52:33.740]   We believe that to the board president and you guys to talk through that.
+[02:52:33.740 --> 02:52:36.740]   They're more police or something like that.
+[02:52:36.740 --> 02:52:39.740]   I would like to make a comment.
+[02:52:39.740 --> 02:52:43.740]   It kind of answers something that Jorge said.
+[02:52:43.740 --> 02:52:48.740]   Kathy and I went to a regional 11 board training about two weeks ago.
+[02:52:48.740 --> 02:52:50.740]   We actually went to two of them.
+[02:52:50.740 --> 02:52:53.740]   But I'm going to tell you exactly what they said.
+[02:52:53.740 --> 02:53:02.740]   This is what they said in there, and they put a slide up on the board.
+[02:53:02.740 --> 02:53:12.740]   And what it showed was in it, and I'm quoting exactly what it says, "budget must be balanced, and the district may not deficit budget."
+[02:53:12.740 --> 02:53:20.740]   So that has always been the way that I've thought, so I think that what we need to do is we need a new way of thinking here.
+[02:53:20.740 --> 02:53:24.740]   We need to start looking that we're going to start out that way.
+[02:53:24.740 --> 02:53:29.740]   If we need to add something during the year, then we can do that.
+[02:53:29.740 --> 02:53:33.740]   But even the training that we get has said that.
+[02:53:33.740 --> 02:53:41.740]   And Kathy and I went back in and we said, "Oh, okay, wait a minute now, pull that back up because that's always been my way of thinking."
+[02:53:41.740 --> 02:53:49.740]   And didn't think that was the way it was at school boards, but she said that that's the way they had been teaching people for years that you have to do that.
+[02:53:49.740 --> 02:53:57.740]   So I think we all need to get on board because we have a lot of people saying that, oh, you know, you're not going to get to that budget.
+[02:53:57.740 --> 02:54:07.740]   But we need to start thinking this way and work towards making it happen as much as possible.
+[02:54:07.740 --> 02:54:19.740]   Along with you, explain, just kind of tell what the purpose of a budget is. So to speak to Tammy's point.
+[02:54:19.740 --> 02:54:29.740]   So what is the thought process behind setting a budget and this entire process that we go through from now until passing the budget in July?
+[02:54:29.740 --> 02:54:44.740]   Well, a budget is basically your financial structure to make sure that you're aligned with what you're wanting to appropriate or spend.
+[02:54:44.740 --> 02:55:06.740]   And your goal always is to be as close to balance as possible. You don't want to have excess budget to just close to fund balance. You don't want to have to spend fund balance. But I'm telling you, hitting right on the middle on a $199 million budget is very difficult.
+[02:55:06.740 --> 02:55:29.740]   There's a lot of moving parts and to be honest, if you want to assure yourself that you're not deficit spending or deficit budget, you need to appropriate more than you really think that you're going to need or have simply so that you make sure that you come in with that particular number.
+[02:55:29.740 --> 02:55:42.740]   With numbers the way they are around the state and here you try to get it as tight as possible, probably a little over aggressive in some areas on this particular budget.
+[02:55:42.740 --> 02:56:11.740]   But there were certainly a basis you want to have a basis for budgeting a number and then try to hope that those assumptions carry on out. But I think we haven't discussed this as a leadership team or even with Dr. Shouse, but I think that what we'll try to do or I'll probably recommend is that we look at all our different budget managers.
+[02:56:11.740 --> 02:56:35.740]   And try to find critical points of efficiency and targets for them to hit and then they can tell us as managers if that would work and if it won't work and I think that it's a team effort, the budget can't be just run from the finance office.
+[02:56:35.740 --> 02:56:52.740]   It's got to be a team approach, it's got to be a school districts culture to recognize what their strengths and limitations are and then budget those accordingly.
+[02:56:52.740 --> 02:57:19.740]   But it's a tough job, it's one that to stress over, I hope I don't stress over it, but we'll try to work as best we can to get some kind of structure of where we can make budget managers responsible and also meet their needs by saying what we have available.
+[02:57:19.740 --> 02:57:39.740]   Thank you for that explanation. I would like to kind of hit a couple of highlights of things that you said that so budget is fluid so it might change and we had currently we have 271 enrollment.
+[02:57:39.740 --> 02:57:49.740]   So we have 271 kids that are not that we projected would be here that aren't 140 of those were from I university.
+[02:57:49.740 --> 02:58:05.740]   We were aggressive on our enrollment projections, raises were a part of that and we have some positive things that can happen so like the certified state values.
+[02:58:05.740 --> 02:58:23.740]   I'd like to say to Casey thank you so much for helping us through this process. Your expertise and the knowledge that you have has been very, very valuable. Everything that you've said has literally come to pass.
+[02:58:23.740 --> 02:58:38.740]   So I appreciate just your expertise and when we have it's invaluable what you bring to the table and I hope that people can see that because you saved our district a lot of money so I appreciate that.
+[02:58:38.740 --> 02:58:57.740]   And the team effort part that is absolutely 1000% accurate because so many people were part of where we started at the 13.6 dwindling it down to the 4.5 whatever we kind of were at when we decided to go to even.
+[02:58:57.740 --> 02:59:08.740]   So all of that hard work is going to pay off because that's just is the goal so thank you.
+[02:59:08.740 --> 02:59:11.740]   I'm glad you're here.
+[02:59:11.740 --> 02:59:19.740]   Well please please continue to come back.
+[02:59:19.740 --> 02:59:28.740]   I've been very, very impressed with you and thank you, thank you really the words.
+[02:59:28.740 --> 02:59:48.740]   We need to get 150 more students in our district and so that there's a lot of private school science and people's yards around here so that just makes me think that the new curriculum we just rolled out in the schools maybe help will help get some more seats but seats filled with butts and get some more money rolling through here but really thank you.
+[02:59:48.740 --> 02:59:55.740]   And Tammy stole my statement but it was very apparent you know and I'm new here let's just call it what it is.
+[02:59:55.740 --> 03:00:02.740]   But seeing that slide at regional women training was very, very it was black or white that budget is the goal so thank you.
+[03:00:02.740 --> 03:00:09.740]   Just final comments Richard thank you very much for your insight very, very valuable.
+[03:00:09.740 --> 03:00:15.740]   We've had two or three meetings now and I just I'm loving what I'm hearing in there so.
+[03:00:15.740 --> 03:00:23.740]   And yeah I just want to remind the community we were going into a $13.5 million deficit budget and we said we're not going to have it.
+[03:00:23.740 --> 03:00:33.740]   We have to protect the fund balance that's their lifeblood you know we got to have that in case we have emergencies and things that pop up.
+[03:00:33.740 --> 03:00:42.740]   Additionally you know I just like to point out that you know we're only $1.8 million off on expenses that's a little less than 1.3% of the entire budget.
+[03:00:42.740 --> 03:00:52.740]   I think it's a very phenomenal job by administration Brad Gemma Kyle Paul I know you all worked hard on some of this in the background as well.
+[03:00:52.740 --> 03:01:00.740]   I want to thank you guys for your continued work and you know really listening to the community in what we want.
+[03:01:00.740 --> 03:01:05.740]   You know we may not be at a balance budget by the end of the year but we're striving towards it.
+[03:01:05.740 --> 03:01:13.740]   Hey you would have told me we were going to be at four million six million bucks after we had a $9 million loss last year. I said get out of town.
+[03:01:13.740 --> 03:01:18.740]   But we're heading in the right direction we're going to continue to work to get in the right direction.
+[03:01:18.740 --> 03:01:23.740]   We're going to continue to work to educate our students and get students here.
+[03:01:23.740 --> 03:01:30.740]   So that's all I really want to say right now but just thank you for your time. Thank you for admin for working hard working with us.
+[03:01:30.740 --> 03:01:39.740]   This is continuing to work as a team together and continue to pay our teachers what we can afford and you know give them good raises.
+[03:01:39.740 --> 03:01:47.740]   Thank you having said that we'll move to item G real quick I just want to add I just want to thank Richard and Christy publicly and their work.
+[03:01:47.740 --> 03:01:58.740]   It's been extremely difficult it's always difficult transition right transition change is difficult can be difficult but they both have come in and a lot has been poured onto their plates.
+[03:01:58.740 --> 03:02:07.740]   And and just show up every day I try to start my day in my day with with that team because at the end of the day I'm like okay I'll see you tomorrow.
+[03:02:07.740 --> 03:02:15.740]   And I make Richard say okay I'll see you tomorrow Brad and so we'll just put days you know consecutive to lead together.
+[03:02:15.740 --> 03:02:27.740]   But I just really want to give just say thank you for the work that's been done and really for the work that's going to be done to so appreciate you guys.
+[03:02:27.740 --> 03:02:36.740]   I'm G report on expenditures related to the Toronto damage at Great Miami school we just have a plethora of events.
+[03:02:36.740 --> 03:02:56.740]   Well we do and and one thing I just want to thank the board back in the December meeting you guys approved a little over a hundred thousand dollars of designated bond funds for the repairs at GMS and then most importantly what you did is you approved a waiver of the competitive procurement rules where we were able to to get those that the supplies
+[03:02:56.740 --> 03:03:13.740]   the equipment in a very timely manner and you know we were a little bit in convenience but we never close shop there at GMS and we were able to continue you know our kids were able to show up our teachers
+[03:03:13.740 --> 03:03:31.740]   our staff in a safe learning environment and we were continue we're able to continue to have school and so in response to those expenditures for board policy CH local we're required to report those those expenditures to you and Paula can you just walk us through that report please.
+[03:03:31.740 --> 03:03:42.740]   Yes absolutely and really the report is recap there on page 362 of your packet and so up at the top of that page where the actual emergency
+[03:03:42.740 --> 03:04:10.740]   emergency expenditures that were that had to take place they total about twenty nine thousand seven hundred and seventeen dollars in in actuality as we went back we were able to use district to prove vendors for all of those situations but it was the immediacy of the situation right it was tornado on Tuesday have school on Wednesday and get other things still kind of taken care of in particular was the missing.
+[03:04:10.740 --> 03:04:22.740]   HVAC that was needed in that athletic wings so here we are in very cold weather asking students to take showers and and not have heat so that was kind of paramount to get that.
+[03:04:22.740 --> 03:04:36.740]   The bottom of that page then is estimated expenditures that are still pending so those are no longer in the emergency category but we still have some work to do we will follow procurement rules but I went ahead and included that information here.
+[03:04:36.740 --> 03:04:50.740]   Part of that being roof repair that has to be done potentially some fencing repairs and and the really good news is it it would appear that we're not going to have to replace to the units that we thought we were going to have to replace.
+[03:04:50.740 --> 03:04:58.740]   After getting them reconnected and rebuilding the lines they've been operable now for a little over two and a half maybe three and a half weeks.
+[03:04:58.740 --> 03:05:06.740]   They're not showing any signs of any kind of an issue and so we're not looking to replace those as we thought we might have to.
+[03:05:06.740 --> 03:05:17.740]   AC once that money back he just said I the first thing it happens when it doesn't get spent as it goes right back into that surplus line it will be there.
+[03:05:17.740 --> 03:05:33.740]   So really this was just an information report doctor now. Thank you Paula next next item is review the 2022 2023 board planning calendar.
+[03:05:33.740 --> 03:05:49.740]   Let's see how long we get here.
+[03:05:49.740 --> 03:06:03.740]   Yes, this board playing calendar there any any items he items in question anything we want to change. Okay all right thank you.
+[03:06:03.740 --> 03:06:07.740]   Next item any requests for reports to the board.
+[03:06:07.740 --> 03:06:23.740]   Alright next we'll move on to the consent agenda item for approval. Anybody need a poll anything.
+[03:06:23.740 --> 03:06:43.740]   That's good to make a motion to pass the consent agenda second only seconds all those in favor show hands.
+[03:06:43.740 --> 03:06:55.740]   Motion passes seven out. Okay next item on the agenda is the executive session. So we all of this message eight on one to executive session.
+[03:06:55.740 --> 03:07:24.740]   The board will adjourn to close or execute executive session pursuant to Texas government code five five one point zero seven four five five one point zero seven one reads as private consultation with the board to turn you on any or all subject matters authorized by law the five five one point zero seven four to deliberate the appointment appointment evaluation resignment duties discipline or dismissal of a public officer or employee or to hear complaints or charges against the public officer or employee this is regarding personnel.
+[03:07:24.740 --> 03:07:34.740]   [BLANK_AUDIO]
+[03:07:54.740 --> 03:08:04.740]   [BLANK_AUDIO]
+[03:08:24.740 --> 03:08:34.740]   [BLANK_AUDIO]
+[03:08:34.740 --> 03:09:02.740]   [BLANK_AUDIO]
+[03:09:02.740 --> 03:09:12.740]   [BLANK_AUDIO]
+[03:09:12.740 --> 03:09:22.740]   [BLANK_AUDIO]
+[03:09:22.740 --> 03:09:32.740]   [BLANK_AUDIO]
+[03:09:32.740 --> 03:09:58.740]   [BLANK_AUDIO]
+[03:09:58.740 --> 03:10:08.740]   [BLANK_AUDIO]
+[03:10:08.740 --> 03:10:18.740]   [BLANK_AUDIO]
+[03:10:18.740 --> 03:10:28.740]   [BLANK_AUDIO]
+[03:10:28.740 --> 03:10:38.740]   [BLANK_AUDIO]
+[03:10:38.740 --> 03:10:48.740]   [BLANK_AUDIO]
+[03:10:48.740 --> 03:10:58.740]   [BLANK_AUDIO]
+[03:10:58.740 --> 03:11:08.740]   [BLANK_AUDIO]
+[03:11:08.740 --> 03:11:18.740]   [BLANK_AUDIO]
+[03:11:18.740 --> 03:11:28.740]   [BLANK_AUDIO]
+[03:11:28.740 --> 03:11:56.740]   [BLANK_AUDIO]
+[03:11:56.740 --> 03:12:06.740]   [BLANK_AUDIO]
+[03:12:06.740 --> 03:12:16.740]   [BLANK_AUDIO]
+[03:12:16.740 --> 03:12:26.740]   [BLANK_AUDIO]
+[03:12:26.740 --> 03:12:54.740]   [BLANK_AUDIO]
+[03:12:54.740 --> 03:13:04.740]   [BLANK_AUDIO]
+[03:13:04.740 --> 03:13:14.740]   [BLANK_AUDIO]
+[03:13:14.740 --> 03:13:24.740]   [BLANK_AUDIO]
+[03:13:24.740 --> 03:13:52.740]   [BLANK_AUDIO]
+[03:13:52.740 --> 03:14:02.740]   [BLANK_AUDIO]
+[03:14:02.740 --> 03:14:20.740]   [BLANK_AUDIO]
+[03:14:20.740 --> 03:14:30.740]   [BLANK_AUDIO]
+[03:14:30.740 --> 03:14:40.740]   [BLANK_AUDIO]
+[03:14:40.740 --> 03:14:50.740]   [BLANK_AUDIO]
+[03:14:50.740 --> 03:15:18.740]   [BLANK_AUDIO]
+[03:15:18.740 --> 03:15:28.740]   [BLANK_AUDIO]
+[03:15:28.740 --> 03:15:56.740]   [BLANK_AUDIO]
+[03:15:56.740 --> 03:16:06.740]   [BLANK_AUDIO]
+[03:16:06.740 --> 03:16:14.740]   [BLANK_AUDIO]
+[03:16:14.740 --> 03:16:22.740]   [BLANK_AUDIO]
+[03:16:22.740 --> 03:16:32.740]   [BLANK_AUDIO]
+[03:16:32.740 --> 03:16:50.740]   [BLANK_AUDIO]
+[03:16:50.740 --> 03:17:00.740]   [BLANK_AUDIO]
+[03:17:00.740 --> 03:17:25.740]   [BLANK_AUDIO]
+[03:17:25.740 --> 03:17:35.740]   [BLANK_AUDIO]
+[03:17:35.740 --> 03:18:03.740]   [BLANK_AUDIO]
+[03:18:03.740 --> 03:18:13.740]   [BLANK_AUDIO]
+[03:18:13.740 --> 03:18:41.740]   [BLANK_AUDIO]
+[03:18:41.740 --> 03:18:51.740]   [BLANK_AUDIO]
+[03:18:51.740 --> 03:19:19.740]   [BLANK_AUDIO]
+[03:19:19.740 --> 03:19:29.740]   [BLANK_AUDIO]
+[03:19:29.740 --> 03:19:57.740]   [BLANK_AUDIO]
+[03:19:57.740 --> 03:20:07.740]   [BLANK_AUDIO]
+[03:20:07.740 --> 03:20:35.740]   [BLANK_AUDIO]
+[03:20:35.740 --> 03:20:45.740]   [BLANK_AUDIO]
+[03:20:45.740 --> 03:21:13.740]   [BLANK_AUDIO]
+[03:21:13.740 --> 03:21:23.740]   [BLANK_AUDIO]
+[03:21:23.740 --> 03:21:51.740]   [BLANK_AUDIO]
+[03:21:51.740 --> 03:22:01.740]   [BLANK_AUDIO]
+[03:22:01.740 --> 03:22:29.740]   [BLANK_AUDIO]
+[03:22:29.740 --> 03:22:39.740]   [BLANK_AUDIO]
+[03:22:39.740 --> 03:23:07.740]   [BLANK_AUDIO]
+[03:23:07.740 --> 03:23:17.740]   [BLANK_AUDIO]
+[03:23:17.740 --> 03:23:45.740]   [BLANK_AUDIO]
+[03:23:45.740 --> 03:23:55.740]   [BLANK_AUDIO]
+[03:23:55.740 --> 03:24:23.740]   [BLANK_AUDIO]
+[03:24:23.740 --> 03:24:33.740]   [BLANK_AUDIO]
+[03:24:33.740 --> 03:25:01.740]   [BLANK_AUDIO]
+[03:25:01.740 --> 03:25:11.740]   [BLANK_AUDIO]
+[03:25:11.740 --> 03:25:39.740]   [BLANK_AUDIO]
+[03:25:39.740 --> 03:25:49.740]   [BLANK_AUDIO]
+[03:25:49.740 --> 03:26:17.740]   [BLANK_AUDIO]
+[03:26:17.740 --> 03:26:27.740]   [BLANK_AUDIO]
+[03:26:27.740 --> 03:26:55.740]   [BLANK_AUDIO]
+[03:26:55.740 --> 03:27:05.740]   [BLANK_AUDIO]
+[03:27:05.740 --> 03:27:33.740]   [BLANK_AUDIO]
+[03:27:33.740 --> 03:27:43.740]   [BLANK_AUDIO]
+[03:27:43.740 --> 03:28:11.740]   [BLANK_AUDIO]
+[03:28:11.740 --> 03:28:21.740]   [BLANK_AUDIO]
+[03:28:21.740 --> 03:28:49.740]   [BLANK_AUDIO]
+[03:28:49.740 --> 03:28:59.740]   [BLANK_AUDIO]
+[03:28:59.740 --> 03:29:27.740]   [BLANK_AUDIO]
+[03:29:27.740 --> 03:29:55.740]   [BLANK_AUDIO]
+[03:29:55.740 --> 03:30:05.740]   [BLANK_AUDIO]
+[03:30:05.740 --> 03:30:33.740]   [BLANK_AUDIO]
+[03:30:33.740 --> 03:30:43.740]   [BLANK_AUDIO]
+[03:30:43.740 --> 03:31:01.740]   [BLANK_AUDIO]
+[03:31:01.740 --> 03:31:11.740]   [BLANK_AUDIO]
+[03:31:11.740 --> 03:31:35.740]   [BLANK_AUDIO]
+[03:31:35.740 --> 03:31:45.740]   [BLANK_AUDIO]
+[03:31:45.740 --> 03:32:13.740]   [BLANK_AUDIO]
+[03:32:13.740 --> 03:32:23.740]   [BLANK_AUDIO]
+[03:32:23.740 --> 03:32:49.740]   [BLANK_AUDIO]
+[03:32:49.740 --> 03:32:59.740]   [BLANK_AUDIO]
+[03:32:59.740 --> 03:33:25.740]   [BLANK_AUDIO]
+[03:33:25.740 --> 03:33:35.740]   [BLANK_AUDIO]
+[03:33:35.740 --> 03:33:59.740]   [BLANK_AUDIO]
+[03:33:59.740 --> 03:34:09.740]   [BLANK_AUDIO]
+[03:34:09.740 --> 03:34:35.740]   [BLANK_AUDIO]
+[03:34:35.740 --> 03:34:49.740]   [BLANK_AUDIO]
+[03:34:49.740 --> 03:34:59.740]   [BLANK_AUDIO]
+[03:34:59.740 --> 03:35:09.740]   [BLANK_AUDIO]
+[03:35:09.740 --> 03:35:37.740]   [BLANK_AUDIO]
+[03:35:37.740 --> 03:35:47.740]   [BLANK_AUDIO]
+[03:35:47.740 --> 03:36:15.740]   [BLANK_AUDIO]
+[03:36:15.740 --> 03:36:25.740]   [BLANK_AUDIO]
+[03:36:25.740 --> 03:36:53.740]   [BLANK_AUDIO]
+[03:36:53.740 --> 03:37:03.740]   [BLANK_AUDIO]
+[03:37:03.740 --> 03:37:31.740]   [BLANK_AUDIO]
+[03:37:31.740 --> 03:37:41.740]   [BLANK_AUDIO]
+[03:37:41.740 --> 03:38:05.740]   [BLANK_AUDIO]

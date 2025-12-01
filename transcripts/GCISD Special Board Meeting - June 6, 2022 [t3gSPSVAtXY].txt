@@ -1,0 +1,560 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:32.000]   [BLANK_AUDIO]
+[00:09:32.000 --> 00:09:42.000]   [BLANK_AUDIO]
+[00:09:42.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:48.000]   [BLANK_AUDIO]
+[00:10:48.000 --> 00:10:58.000]   [BLANK_AUDIO]
+[00:10:58.000 --> 00:11:16.000]   [BLANK_AUDIO]
+[00:11:16.000 --> 00:11:26.000]   [BLANK_AUDIO]
+[00:11:26.000 --> 00:11:54.000]   [BLANK_AUDIO]
+[00:11:54.000 --> 00:12:04.000]   [BLANK_AUDIO]
+[00:12:04.000 --> 00:12:32.000]   [BLANK_AUDIO]
+[00:12:32.000 --> 00:12:42.000]   [BLANK_AUDIO]
+[00:12:42.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:48.000]   [BLANK_AUDIO]
+[00:13:48.000 --> 00:13:58.000]   [BLANK_AUDIO]
+[00:13:58.000 --> 00:14:26.000]   [BLANK_AUDIO]
+[00:14:26.000 --> 00:14:36.000]   [BLANK_AUDIO]
+[00:14:36.000 --> 00:15:04.000]   [BLANK_AUDIO]
+[00:15:04.000 --> 00:15:14.000]   [BLANK_AUDIO]
+[00:15:14.000 --> 00:15:42.000]   [BLANK_AUDIO]
+[00:15:42.000 --> 00:15:52.000]   [BLANK_AUDIO]
+[00:15:52.000 --> 00:16:20.000]   [BLANK_AUDIO]
+[00:16:20.000 --> 00:16:48.000]   [BLANK_AUDIO]
+[00:16:48.000 --> 00:16:58.000]   [BLANK_AUDIO]
+[00:16:58.000 --> 00:17:26.000]   [BLANK_AUDIO]
+[00:17:26.000 --> 00:17:36.000]   [BLANK_AUDIO]
+[00:17:36.000 --> 00:18:04.000]   [BLANK_AUDIO]
+[00:18:04.000 --> 00:18:14.000]   [BLANK_AUDIO]
+[00:18:14.000 --> 00:18:42.000]   [BLANK_AUDIO]
+[00:18:42.000 --> 00:18:52.000]   [BLANK_AUDIO]
+[00:18:52.000 --> 00:19:20.000]   [BLANK_AUDIO]
+[00:19:20.000 --> 00:19:30.000]   [BLANK_AUDIO]
+[00:19:30.000 --> 00:19:58.000]   [BLANK_AUDIO]
+[00:19:58.000 --> 00:20:08.000]   [BLANK_AUDIO]
+[00:20:08.000 --> 00:20:36.000]   [BLANK_AUDIO]
+[00:20:36.000 --> 00:20:46.000]   [BLANK_AUDIO]
+[00:20:46.000 --> 00:21:14.000]   [BLANK_AUDIO]
+[00:21:14.000 --> 00:21:24.000]   [BLANK_AUDIO]
+[00:21:24.000 --> 00:21:52.000]   [BLANK_AUDIO]
+[00:21:52.000 --> 00:22:02.000]   [BLANK_AUDIO]
+[00:22:02.000 --> 00:22:30.000]   [BLANK_AUDIO]
+[00:22:30.000 --> 00:22:40.000]   [BLANK_AUDIO]
+[00:22:40.000 --> 00:23:08.000]   [BLANK_AUDIO]
+[00:23:08.000 --> 00:23:18.000]   [BLANK_AUDIO]
+[00:23:18.000 --> 00:23:46.000]   [BLANK_AUDIO]
+[00:23:46.000 --> 00:23:56.000]   [BLANK_AUDIO]
+[00:23:56.000 --> 00:24:24.000]   [BLANK_AUDIO]
+[00:24:24.000 --> 00:24:34.000]   [BLANK_AUDIO]
+[00:24:34.000 --> 00:25:02.000]   [BLANK_AUDIO]
+[00:25:02.000 --> 00:25:12.000]   [BLANK_AUDIO]
+[00:25:12.000 --> 00:25:40.000]   [BLANK_AUDIO]
+[00:25:40.000 --> 00:25:50.000]   [BLANK_AUDIO]
+[00:25:50.000 --> 00:26:18.000]   [BLANK_AUDIO]
+[00:26:18.000 --> 00:26:28.000]   [BLANK_AUDIO]
+[00:26:28.000 --> 00:26:44.000]   [BLANK_AUDIO]
+[00:26:44.000 --> 00:26:54.000]   [BLANK_AUDIO]
+[00:26:54.000 --> 00:27:22.000]   [BLANK_AUDIO]
+[00:27:22.000 --> 00:27:32.000]   [BLANK_AUDIO]
+[00:27:32.000 --> 00:28:00.000]   [BLANK_AUDIO]
+[00:28:00.000 --> 00:28:10.000]   [BLANK_AUDIO]
+[00:28:10.000 --> 00:28:38.000]   [BLANK_AUDIO]
+[00:28:38.000 --> 00:28:48.000]   [BLANK_AUDIO]
+[00:28:48.000 --> 00:29:04.000]   [BLANK_AUDIO]
+[00:29:04.000 --> 00:29:14.000]   [BLANK_AUDIO]
+[00:29:14.000 --> 00:29:42.000]   [BLANK_AUDIO]
+[00:29:42.000 --> 00:29:52.000]   [BLANK_AUDIO]
+[00:29:52.000 --> 00:30:16.000]   [BLANK_AUDIO]
+[00:30:16.000 --> 00:30:37.000]   So you guys are familiar with this slide. This just details out the different pieces of funding. As a reminder, when looking at overall funding you have to look at the taxes, state allocation, and recapture. So this slide compares the state funding that's projected for 2122 fiscal year.
+[00:30:37.000 --> 00:30:57.000]   You can see on line 7, that is our funding per ADA that I state is around 8,470ish per ADA, which is our point that really we are stuck at for funding.
+[00:30:57.000 --> 00:31:25.000]   The only way to increase that bottom line is to increase the ADA. And just another point I want to reiterate this as much as I can on the record, that when our tax payer see and increase in taxes due to increased values, it does not equate to more money for the school district.
+[00:31:25.000 --> 00:31:37.000]   This slide just gives the overview of the total budget showing revenues expenditures. You'll note on line 8, the net impact to the budget.
+[00:31:37.000 --> 00:31:51.000]   With out compensation adjustments is 2.3 million and then 1% and 2% you can see there is 3.7 million and 4.8 million.
+[00:31:51.000 --> 00:32:04.000]   And then looking at the impact on the fund balance, the board policy requires 20% of our operating cost to be in our fund balance and so that's highlighted there in blue.
+[00:32:04.000 --> 00:32:13.000]   And so you can see there with the three different models what our ending fund balance would be with that net change on line 2.
+[00:32:13.000 --> 00:32:25.000]   And we would still be with a 2% model, we would still be about 4 million over that target fund balance.
+[00:32:25.000 --> 00:32:30.000]   You guys remember when we first started this process that was that was a negative number.
+[00:32:30.000 --> 00:32:35.000]   So for one more year and we'd be above that threshold.
+[00:32:35.000 --> 00:32:48.000]   So I wanted to walk forward where we were I've been doing this every presentation where we were the power presentation so our base budget operating results was 3.4 million on May 23rd.
+[00:32:48.000 --> 00:32:59.000]   We've made adjustments at the 1.2 million there and that leaves the current base budget operating results is 2.3 million.
+[00:32:59.000 --> 00:33:28.000]   So I wanted to include a slide that kind of walks us from the very first budget presentation I know it was just April 25th and it feels like it was two years ago but we started with a net impact to the budget of 9.7 million and then you can see there the adjustments that we've made along the way bringing down that base budget operating result to 2.3 million for this presentation.
+[00:33:29.000 --> 00:33:43.000]   So as Dr. Ron mentioned, we're going to need some kind of direction from the board on what we would propose for the June 20 meeting.
+[00:33:43.000 --> 00:34:06.000]   We worked really hard to make adjustments to the budget through attrition rather than having to do a reduction in force but as you know this takes time and we're not going to be there by June 20th but the board will need to adopt a budget in order to continue financial transactions for the fiscal year that starts July 1st.
+[00:34:06.000 --> 00:34:15.000]   So the current proposed budget with a 2% composition adjustment is showing a use of 4.8 million in fund balance.
+[00:34:15.000 --> 00:34:27.000]   The district can make an adjustment to the budget to reduce the payroll by this amount to get that balance budget.
+[00:34:27.000 --> 00:34:38.000]   That's the idea that the district will continue to evaluate positions and staffing once the school year begins and make reductions through attrition where it's feasible.
+[00:34:38.000 --> 00:34:58.000]   So in January we start looking at our projections where we have six months of data that we can trend off of and that's where we would really start just monitoring where we are in the budget as monitoring where we are on our expenditures and comparing those to the budget.
+[00:34:58.000 --> 00:35:15.000]   We get closer to the end of the fiscal year, if those reductions throughout the budget year do not cover the shortfall, the district would need to go back and amend the budget at the end of the 2223 fiscal year.
+[00:35:15.000 --> 00:35:32.000]   And that's required by Texas Education Code 44.06 and I just wanted to provide you that language really it's, you know, the public funds of the school district may not be spent any manner other than as provided for and the budget adopted by the Board of Trustees.
+[00:35:32.000 --> 00:35:51.000]   We're going to go over to function level, we would need to go and amend that budget to reflect our true projected expenditures so that we do not overspend at that function level.
+[00:35:51.000 --> 00:36:06.000]   I wanted to be very transparent and come up with a simple way to kind of show how this would work if we were to make that adjustment as you guys know you have to legally adopt the budget at the function level.
+[00:36:06.000 --> 00:36:26.000]   And so in order to make this $4.8 million adjustment, I just looked at what our payroll expenditures are at the function level and just did a percentage of that adjustment to get where we would adjust each function level now.
+[00:36:26.000 --> 00:36:55.000]   And of course, as positions are eliminated through attrition, they may not all fall in one function and so that's where it's going to be very important to do that monitoring of expenditures as the year goes along after January to kind of see where we are at each function level, and we would have to make adjustments as necessary, just so that we don't overspend at the function level.
+[00:36:55.000 --> 00:37:03.000]   So, as you guys know, the legally adopted budgets are general operating debt service and child nutrition.
+[00:37:03.000 --> 00:37:12.000]   And so I've presented to debt service budget scenarios here and just I need some kind of direction on which way we'd want to go.
+[00:37:12.000 --> 00:37:16.000]   Like I said, we have to adopt a budget in June.
+[00:37:16.000 --> 00:37:37.000]   It doesn't necessarily mean we're like, Mary did that because once we get into tax rate adoption scenarios, we may want to amend that, but while the current MNO tax rate structure really is set, there is flexibility on the debt service tax rate.
+[00:37:37.000 --> 00:37:48.000]   So, these two options are a five cent decrease in the tax rate or a 10 cent decrease in the tax rate.
+[00:37:48.000 --> 00:38:06.000]   The five cent option will provide the bond capacity for technology needs with a May 2024 bond election with no right tax rate increase and so that was presented with the bond capacity report back in May and that would be for a May 2024 bond election.
+[00:38:06.000 --> 00:38:20.000]   And then the 10 cent option would just possibly possibly require a tax rate increase for May 2024 bond election because it would eliminate most of the current bond capacity.
+[00:38:20.000 --> 00:38:35.000]   But both of these options do include a prepayment of bonds, which would save future interest costs of 1.9 million if we were to pre pay the 9.2 that's there on line five.
+[00:38:35.000 --> 00:38:45.000]   And then if we were to pre pay the 6.8 million that would be a 1.5 million savings and future interest costs.
+[00:38:45.000 --> 00:39:02.000]   And these prepayments are on our series to 2013 bonds, which would create some capacity for short term capital items because that's really what we're going to need to focus on.
+[00:39:02.000 --> 00:39:14.000]   And because our fiscal year end is June 30th, we must adopt a tax revenue budget to cover the August debt payment that will be made after fiscal year end.
+[00:39:14.000 --> 00:39:36.000]   But the actual expenditures that are in the budget are based on the payments that will be made in the August during the fiscal year. That's very confusing. So let me say, for example, we will build our tax collections to cover the August 2023 bond payment.
+[00:39:36.000 --> 00:39:47.000]   But the expenditures that are included in the budget in on this slide include the August 22 in the February 23 payments.
+[00:39:47.000 --> 00:40:03.000]   So because we are our fiscal year end is June 30th, it's important to kind of do this walk forward through of the fund balance on the current and then the next budget year.
+[00:40:03.000 --> 00:40:24.000]   So we are projecting to start the 2223 fiscal year with a 72.3 million fund balance. And I do want to know, this is a revision from the presentation you got on Friday because I updated this based on what we did through the month of May and so it's a little bit higher.
+[00:40:24.000 --> 00:40:46.000]   And then making the payment of 42.5 million in August of 2022, which would leave a fund balance for the first scenario, five cents. Well, actually it would leave the same scenario for both scenarios it would see leave the same ending fund balance online three of 29.8 million.
+[00:40:46.000 --> 00:40:54.000]   One thing we look at is what is in that fund balance as compared to our highest debt service payment.
+[00:40:54.000 --> 00:41:16.000]   And so, online four, you can see the percentage is 59.02 for a five percent option and 61.874 the 10th option. The financial advisors and recommend that we keep between 40 and 50% of the highest anticipated bond payment in fund balance.
+[00:41:16.000 --> 00:41:34.000]   This recommendation can vary for districts depending on the amount of commercial value and the tax phase which ours is 50%. So we tend to try to keep it on that higher end, but you can see it is it is over that 50%.
+[00:41:34.000 --> 00:41:58.000]   And you just walk forward what we would project our ending fund balances of June 2023 and then what that August of 2023 payment is is 34.4 million in we just guessed this in our bond capacity that we're seeing our bond payments dropping after this year.
+[00:41:58.000 --> 00:42:14.000]   And so then that just leaves a projected fund balance of August of 2023 a 30.2 million with the 5 cent and the 23.9 million with the 10 cent.
+[00:42:14.000 --> 00:42:31.000]   These are the preliminary child nutrition budget these are for the school lunch and breakfast program, which is a federally based program. You can see there that the net impact of the budget is minimal.
+[00:42:31.000 --> 00:42:36.000]   It does dip in a fund balance about 20,000 for the 2% model.
+[00:42:36.000 --> 00:42:46.000]   And then on the enterprise budget, these are for our two high schools, child nutrition programs that are not on the school lunch and breakfast program.
+[00:42:46.000 --> 00:42:58.000]   And so instead of being a federally funded program there they're really funded through local revenues and so that's why they're budgeted in an enterprise budget.
+[00:42:58.000 --> 00:43:05.000]   But once again, just minimal impact there to the budget.
+[00:43:05.000 --> 00:43:08.000]   All I have.
+[00:43:08.000 --> 00:43:16.000]   Thank you, Dan. Any comments or questions?
+[00:43:16.000 --> 00:43:27.000]   I have a question. Do we have something to hand that shows the student teacher pair what the ratio is student per grade.
+[00:43:27.000 --> 00:43:36.000]   Yeah, it shows how many it's how many we have per right.
+[00:43:36.000 --> 00:43:48.000]   Right now we're using projected enrollment by the grade level and so we can get that because we have the number of teachers that we have for staffing for each of those grade levels, I just don't have it tonight.
+[00:43:48.000 --> 00:43:52.000]   After after the ones that are leaving.
+[00:43:52.000 --> 00:44:02.000]   So the, the teachers that are being reduced at the high school level.
+[00:44:02.000 --> 00:44:17.000]   And two at each campus and then two at the middle school campuses except for Colleville middle school principles are still working on what the master schedule looks like with the students and enrollment and so we can get that information from them.
+[00:44:17.000 --> 00:44:23.000]   It's still being developed and so, and the numbers now would just be preliminary numbers.
+[00:44:23.000 --> 00:44:26.000]   Okay, because I would like to see those.
+[00:44:26.000 --> 00:44:30.000]   Tammy, if you'd like, I've got the copy of the task be steady. I don't know if you have that.
+[00:44:30.000 --> 00:44:37.000]   Okay, all right, it just gave some good information. Yeah, I've got it read it. Not well.
+[00:44:37.000 --> 00:44:39.000]   Any other questions?
+[00:44:39.000 --> 00:44:42.000]   Yes.
+[00:44:42.000 --> 00:45:05.000]   So, a couple of things. So, given the events of you, Baldi, I think that it is important that we address a couple of things that are coming out of our budget, which are counseling and APs and we've heard nothing but counseling and mental health is the thing that's going to keep our kids safe.
+[00:45:05.000 --> 00:45:13.000]   So, and my understanding is, and maybe Brad, you can help address this question.
+[00:45:13.000 --> 00:45:22.000]   Who is assigned to do kind of daily threat assessment or daily, you know, safety evaluations on each campus?
+[00:45:22.000 --> 00:45:45.000]   Yes, so, is when we have an incident that involves threat assessments? Not an instance that who's just daily and charge a safety just every day? I think everybody is. I mean, I guess where I was going, sorry, I may not have understood your question, but on a threat assessment, we have, we might have a teacher and the assistant principal, a counselor.
+[00:45:45.000 --> 00:45:58.000]   Any other adult, adults in the building that may be close to that child also involved in that assessment. So, it's, it's a myriad of individuals, I guess.
+[00:45:58.000 --> 00:46:06.000]   Any event of an incident, who is, who would be the emergency management contact on a campus?
+[00:46:06.000 --> 00:46:34.000]   So, that's determined, usually by the campus principal, as they designate who that, that emergency, that their EOC rep would be, and usually prior to the beginning of the school year, they notify Alex Smith his office, and then, you know, he makes sure that all of those representatives are trained up and, you know, ready to start the year and ready to move throughout the year, as, you know, as we try to provide a safe learning environment for us.
+[00:46:34.000 --> 00:46:40.000]   That person typically on a high school campus. Typically, that would be an assistant principal.
+[00:46:40.000 --> 00:46:50.000]   So, we're eliminating assistant principal at each campus, so that responsibility is going to have to get spread among somebody who's already doing in their existing job.
+[00:46:50.000 --> 00:46:55.000]   It would, it will still be an assistant principal. Right, right, but we're going down a principal.
+[00:46:55.000 --> 00:46:58.000]   We're reducing, yes, at each campus.
+[00:46:58.000 --> 00:47:05.000]   And then we're also eliminating a counselor, correct? That's correct.
+[00:47:05.000 --> 00:47:24.000]   So, in going through some of my research, the collaborative task force on public school mental health services, they recommend a ratio of 350, excuse me, make sure that is correct, they recommend a ratio of 250 to one for counselors for mental health.
+[00:47:24.000 --> 00:47:32.000]   So, will we have enough? Will our counselors be able to address the safety concerns?
+[00:47:32.000 --> 00:47:44.000]   With the first question, I guess, we do feel like that our counselors will have coverage to, you know, address the safety needs of our students.
+[00:47:44.000 --> 00:47:54.000]   And to your point about the ratio, given the numbers right now, they fall above that recommended that 250, I think, that you just quoted.
+[00:47:54.000 --> 00:48:01.000]   Right, right. Looking at the staffing data, they're getting close to 400 to one. Is that about right?
+[00:48:01.000 --> 00:48:08.000]   Yeah, I think it's below that. I think it's maybe closer to 350. I think I'm going to, Jim, do you have that, the latest?
+[00:48:08.000 --> 00:48:16.000]   That was in a board update. I would have to pull it and we could look at it again, but I'm sorry, I don't remember right off.
+[00:48:16.000 --> 00:48:29.000]   Yeah, I was looking at the estimates. And of course, this task be studied didn't recommend eliminating a counselor at either high school, and they only recommended a limiting half of a principal at one high school.
+[00:48:29.000 --> 00:48:46.000]   But using the old enrollment 2021, 2022, it was 358. So it looks like our projected enrollment is going up 50 students, so it's going to be at least a GHS.
+[00:48:46.000 --> 00:48:53.000]   And of course, it called the heritage is 371, and it's expected to increase 200 students.
+[00:48:53.000 --> 00:49:04.000]   So, given what we know about safety and what we're experiencing, what is coming out of you, Baldi.
+[00:49:04.000 --> 00:49:18.000]   I think that eliminating a couple of these positions, particularly these positions, particularly these visitors, when we're talking about the safety of our kids, and particularly when we know that there's a mental health crisis.
+[00:49:18.000 --> 00:49:34.000]   And our state and with our students after COVID, I would love to be able to see how we can at least somehow supplement those jobs to make sure that we don't miss a student in crisis.
+[00:49:34.000 --> 00:49:48.000]   So, just want to make that comment. I do have the letter from the governor who is recommending some pretty rigorous safety inspections and safety preparedness before September 1st.
+[00:49:48.000 --> 00:50:05.000]   So, we're going to get people, because we, you know, with the shuffle of principles and losing principles, we're going to have to get somebody on board and trained and ready by September 1st. So that is the mandate from the governor to Mike Marath.
+[00:50:05.000 --> 00:50:16.000]   So, everybody else, any can, I won't even ask. So, the next thing I have is make sure I have this. Oh, you're okay.
+[00:50:16.000 --> 00:50:18.000]   So, so you're going to speak next.
+[00:50:18.000 --> 00:50:24.000]   Well, I just wanted to piggyback on what Coli's saying here.
+[00:50:24.000 --> 00:50:38.000]   Governor's letter is really specific with the charges that must be completed by September 1 and certified by September 9th.
+[00:50:38.000 --> 00:50:49.000]   And my, my concern on this is very similar to Coli's I'm number one are to your question about ratios right our ratios now are going to be going up.
+[00:50:49.000 --> 00:51:05.000]   And if we find out after September 1 that there are some additional recommend that I mean this is really early in the process right that Texas School Safety Center has been tasked with a lot of things as well.
+[00:51:05.000 --> 00:51:24.000]   But my, my concern is that we could come up on September 1 needing to add staff, but now it's after the start of the school year and we'll be left fighting with every other school district.
+[00:51:24.000 --> 00:51:50.000]   Whatever's left out there, instead of, you know, keeping our staff as it currently is on our campuses and I'm, I would rather us be able to fill these positions with highly qualified applicants here in June, rather than rolling the dice and seeing what we can come up with in September.
+[00:51:50.000 --> 00:52:05.000]   We're going to be stunned if the recommendations out of the Texas School Safety Center are going to be less staff not more so I just I share your concerns Coli on that topic for sure.
+[00:52:05.000 --> 00:52:22.000]   So, so let me interrupt your so if we're talking about staffing, I have a question for Gemma we still have the ability to him and rotate the budget day in as well, and go hire staff if we need to down the road and it's so determined that we need to hire staff.
+[00:52:22.000 --> 00:52:37.000]   And regarding safety, so yes, so we're just for a point where just if you are going to speak raise your hand first so I can recognize you then proceed.
+[00:52:37.000 --> 00:52:46.000]   So regarding safety, where we've got, when is the safety committee meeting in July.
+[00:52:46.000 --> 00:52:56.000]   Is there one is the safety committee district safety committee policy have the data that I know it isn't July.
+[00:52:56.000 --> 00:53:01.000]   The meeting is July 20th.
+[00:53:01.000 --> 00:53:10.000]   So July 20th, I mean, hopefully we're going to bring recommendations so that we can.
+[00:53:10.000 --> 00:53:22.000]   And we also need to make sure that we're actually addressing the actual safety concerns and not.
+[00:53:22.000 --> 00:53:34.000]   They've got to be things that are going to be proactive and not just pretend proactive so I'd rather be for real proactive.
+[00:53:34.000 --> 00:53:40.000]   I would like to say.
+[00:53:40.000 --> 00:53:52.000]   Dr Ryan's fifth goal is to develop a physically responsible yearly budget that is resilient in the face of outside the uncertainty aligned or lead to point as strategic plan.
+[00:53:52.000 --> 00:54:05.000]   And ensures excellence in those who are leading our classrooms and programs, as well as provides equity and access to outstanding academic and extracurricular programs for all brave and Colleville ISD students.
+[00:54:05.000 --> 00:54:08.000]   If we're operating in a deficit.
+[00:54:08.000 --> 00:54:11.000]   I don't think that that.
+[00:54:11.000 --> 00:54:13.000]   Is accomplishing that goal.
+[00:54:13.000 --> 00:54:16.000]   We need to be responsible.
+[00:54:16.000 --> 00:54:20.000]   A balanced budget is how you do that.
+[00:54:20.000 --> 00:54:29.000]   We've lost five to 600 students the last two years we've added head count.
+[00:54:29.000 --> 00:54:37.000]   It's kind of concerning that we can't get to a balanced budget because that means we're spending more than we bring in.
+[00:54:37.000 --> 00:54:44.000]   And so in any business model, no matter what model you're looking at, that's a recipe for.
+[00:54:44.000 --> 00:55:01.000]   So we're going to have to do the hard work. I don't understand why we're not putting our ADA at 96 if you think that that's what we can get to because there's another half million dollars.
+[00:55:01.000 --> 00:55:16.000]   So the ADA is at a 96 attendance rate, but what I'm using is an ADA ratio because there are some students in our enrollment that we do not get funding for.
+[00:55:16.000 --> 00:55:26.000]   And an example is our pre-K, so our pre-K students, they're included in that enrollment number, but we only get half a day funding for those.
+[00:55:26.000 --> 00:55:36.000]   And a 0.955, whatever ratio I'm using is equivalent to a 96% attendance rate.
+[00:55:36.000 --> 00:55:53.000]   So it's a little confusing, but the way I look at the ADA enrollment historical ratios is looking at what that teens enrollment is versus what our final ADA was.
+[00:55:53.000 --> 00:55:59.000]   And that's why it's a little bit below our attendance rate of 96%.
+[00:55:59.000 --> 00:56:02.000]   So our goal is a 96% attendance rate.
+[00:56:02.000 --> 00:56:09.000]   Okay. The only other thing that I'd like to say is just that we amended the budget a ton of times this last year.
+[00:56:09.000 --> 00:56:15.000]   So I don't think that that's really a big deal. Your asterisk thing.
+[00:56:15.000 --> 00:56:32.000]   And again, if you're not going to hire back, you know, if we've lost 173, so 140 teachers and 38 professionals, whatever number, let's say that you decide that you're not going to hire back.
+[00:56:32.000 --> 00:56:34.000]   Let's pre-factor that in.
+[00:56:34.000 --> 00:56:36.000]   That is factored into the budget.
+[00:56:36.000 --> 00:56:38.000]   Those reductions are already back.
+[00:56:38.000 --> 00:56:41.000]   So the 49 position.
+[00:56:41.000 --> 00:56:49.000]   Okay, so that's what is shown every month that we've been taking that out of the budget.
+[00:56:49.000 --> 00:56:54.000]   Okay.
+[00:56:54.000 --> 00:57:01.000]   And when you say we've amended the budget, we've amended the budget at the function level, and that's really just moving between functions.
+[00:57:01.000 --> 00:57:14.000]   We have not amended the budget to change the bottom line, except for the two instances where we increased pay, which increased the use of fund balance.
+[00:57:14.000 --> 00:57:22.000]   Those did get amended, but the monthly reports that you get where we're amending at the function level, that's just moving between functions.
+[00:57:22.000 --> 00:57:25.000]   It's not changing the net impact to the budget.
+[00:57:25.000 --> 00:57:48.000]   Okay. Well, and I'll say just in terms of that, you know, it doesn't seem like when you get to a balance budget that when you're at balance, it's easier to make decisions on spending, because then you you comprehend, like, okay, this, this X amount of dollars, whatever it is, this now makes us in the negative.
+[00:57:48.000 --> 00:58:17.000]   And so when when you're operating in a $13 million deficit, for example, just it's like it's monopoly money, you know, it's what what's another 500,000 at this point, what's another, you know, so, so it's, I don't know, I think I think it's more conservative to operate that way, because then you're, you're getting what you need instead of just once or, you know, that we're being smarter about how we spend our many basically.
+[00:58:17.000 --> 00:58:22.000]   That's just my opinion.
+[00:58:22.000 --> 00:58:46.000]   Right. So I understand channels comments, but for the last 10 years, and this, this is a list that Diane had provided for many times where we could see the initial budget of the, before we, we started the school years.
+[00:58:46.000 --> 00:58:58.000]   The amendment budget, and then the final budget for the last 10 years, and you could see that for the last 10 years, we pretty much balance the budget.
+[00:58:58.000 --> 00:59:10.000]   Almost every year some, some years shall we add funds to the farm balance, I know that you have most of the, you guys maybe all you get have seen that so.
+[00:59:10.000 --> 00:59:18.000]   That is, it is not, it's a great idea to have balance budget to start a year, but we have balanced the budget at the end of the year.
+[00:59:18.000 --> 00:59:21.000]   The employees have done an amazing job.
+[00:59:21.000 --> 00:59:30.000]   Plus, you know, we hire people with a lesser reason or things or cuts that we do throughout the year to pretty much end with a balance budget.
+[00:59:30.000 --> 00:59:38.000]   That allows our district to make the decision that they need to make, and the most important thing that we'd like to point out is just look at the results.
+[00:59:38.000 --> 00:59:52.000]   So this model where we have a deficit budget and we end up pretty much balance for the last 10 years, has allowed this district to be one of the top districts in the state and college readiness.
+[00:59:52.000 --> 01:00:01.000]   And one of the top, maybe the top district in the secular so the model based on our strategic plan.
+[01:00:01.000 --> 01:00:09.000]   The results that we're seeing prove that even though it's ideal to have a balance budget starting the year.
+[01:00:09.000 --> 01:00:15.000]   We still are operating allowing the district to make the right decisions.
+[01:00:15.000 --> 01:00:23.000]   The performance is there both in academics and attack curricular, and we pretty much end with a balance budget every year for the last 10 years.
+[01:00:23.000 --> 01:00:36.000]   If this board wants to read that objective that channel read, which does not say that we need to have a balance budget at the beginning of the year,
+[01:00:36.000 --> 01:00:39.000]   it does say that we have to respond to a budget.
+[01:00:39.000 --> 01:00:52.000]   If this board wants a balance budget at the beginning of the year, I don't think that any of us will be against that, but you can get elected in May and force a balance budget in June.
+[01:00:52.000 --> 01:00:56.000]   Because there's a lot of time that is needed to make that happen.
+[01:00:56.000 --> 01:01:04.000]   I mean, it takes months to organize a district to upon the U.S. star classes in late August.
+[01:01:04.000 --> 01:01:20.000]   So if this board wants to either change the objective of the financial objective that we have, or even leave the words the same, but make it clear to Dr. Ryan that a balance budget is needed, then we have to give them the time to do so.
+[01:01:20.000 --> 01:01:34.000]   And I mean, that will include maybe looking at programs and expanding those programs outside the bandwidth of the U.S.C.I.S.D. as fire at University Prep for the Academy and others.
+[01:01:34.000 --> 01:01:46.000]   It will require more time like JAMA and Diane said about, you know, bi-attuation, using personnel, looking to make sure that those positions are not needed.
+[01:01:46.000 --> 01:01:56.000]   And, you know, we could, my opinion, you know, the district had an amazing job trying to get us as close as possible, even with that 2% model.
+[01:01:56.000 --> 01:02:05.000]   I am all for approving the budget that we have as stated, and make it clear to Dr. Ryan that by next year, we would like to have answered it.
+[01:02:05.000 --> 01:02:14.000]   We could actually add it in the wording of that goal that we have in January and give Dr. Ryan the time to organize for me.
+[01:02:14.000 --> 01:02:22.000]   Looking at these programs, how we can increase revenue, continue to look at positions via tuition, eliminate them.
+[01:02:22.000 --> 01:02:30.000]   We have to get to that budget that we would like to have balance in June of 2023.
+[01:02:30.000 --> 01:02:37.000]   So, I mean, at the end of the day, we're here to service the needs of 14,000 students.
+[01:02:37.000 --> 01:02:43.000]   And the needs of 14,000 students are based on college and career readiness based on our objectives.
+[01:02:43.000 --> 01:02:46.000]   That is our goal, that's our north star.
+[01:02:46.000 --> 01:02:53.000]   Getting there with a balance body at the beginning of the year, or at the end of the year, is second that, in my opinion.
+[01:02:53.000 --> 01:02:58.000]   We like to have at the beginning of the year, yeah, but then we have to give them the time to do so.
+[01:02:58.000 --> 01:03:12.000]   So, sitting here and telling them what to do is one thing, and it's all easy, but the leadership is our not only telling them what we want as a community, but also giving them the tools, and the time, and the chance to be successful.
+[01:03:12.000 --> 01:03:15.000]   And you cannot have a district.
+[01:03:15.000 --> 01:03:19.000]   I mean, we're right now eight, we're eight, number eight.
+[01:03:19.000 --> 01:03:26.000]   In college readiness, on district above, or can you stick to the budget?
+[01:03:26.000 --> 01:03:27.000]   Yeah, peace.
+[01:03:27.000 --> 01:03:39.000]   Yeah, I mean, we are really high ranking district on both at the curriculum and college relations and academics, and if we want to continue to do that,
+[01:03:39.000 --> 01:03:45.000]   we want to continue to do that with a balanced body at the beginning of the year, we have to give them time to do so.
+[01:03:45.000 --> 01:03:58.000]   So, that's going to want to say, like this budget, I really appreciate the effort that they have put to 12 as close as possible, even with a 2% increase, but the extra cuts, or extra 4 million that we have here.
+[01:03:58.000 --> 01:04:13.000]   And I see that, if they don't look in our cuts, I see that we want to look at how do we increase this revenue with these programs to get us there and continue to provide the service that we need to provide to the students.
+[01:04:13.000 --> 01:04:27.000]   So respectfully, I've spent the last few months talking to our community, and I think that we really do owe them as close to a balanced budget as we can get, but I really want to call you guys out because I know that what you're doing is not easy.
+[01:04:27.000 --> 01:04:31.000]   I do it in my job every day, it is not easy.
+[01:04:31.000 --> 01:04:47.000]   So I do have faith that we can get there that makes everyone a little more comfortable because it was uncomfortable conversations having in the public before I got elected, and I think it's worth acknowledging all of those conversations that God is here.
+[01:04:47.000 --> 01:04:50.000]   That's my two cents.
+[01:04:50.000 --> 01:04:58.000]   I mean, one thing I do have to say is this staffing review came out in March.
+[01:04:58.000 --> 01:05:01.000]   I think that, and I agree with Kathy, you guys do a great job.
+[01:05:01.000 --> 01:05:03.000]   We just got to sharpen the pencil up.
+[01:05:03.000 --> 01:05:07.000]   This budget is not sustainable.
+[01:05:07.000 --> 01:05:13.000]   We can't continue having the same amount of students, or less, and having it go up and up and up.
+[01:05:13.000 --> 01:05:15.000]   It's just not sustainable.
+[01:05:15.000 --> 01:05:25.000]   And I think that you can get there if we have to dip into the fund balance throughout the year, if we have to bring it up, we can do that.
+[01:05:25.000 --> 01:05:35.000]   But, you know, per TASB's report right here, I mean, we've got 500 or less students per their report were 180 with over.
+[01:05:35.000 --> 01:05:39.000]   We've got to get down to where it's a balanced budget.
+[01:05:39.000 --> 01:05:42.000]   I just think that the community wants that.
+[01:05:42.000 --> 01:05:50.000]   It's not going to do anything, but I mean, we've got to get there basically.
+[01:05:50.000 --> 01:05:57.000]   Well, I mean, I agree with Kathy and Tammy and Shannon, I agree.
+[01:05:57.000 --> 01:06:05.000]   I've only been on here a year and a half, so I think I heard the same thing that we want a balanced budget.
+[01:06:05.000 --> 01:06:14.000]   I think that that, and I mean, it makes sense to me, Diane, the way she's presented it has been beautiful.
+[01:06:14.000 --> 01:06:18.000]   So thank you in sharpening that pencil.
+[01:06:18.000 --> 01:06:26.000]   I would prefer this model going into a balanced and making adjustments down the road.
+[01:06:26.000 --> 01:06:31.000]   I think, you know, the amendment process allows us the flexibility to do that.
+[01:06:31.000 --> 01:06:37.000]   So, I truly commend how hard you have worked.
+[01:06:37.000 --> 01:06:52.000]   The 2% model, and I will say that looking around this room at the staff that is here and knowing what I know of our teachers and our staff on every campus because I still have students on campus, my still, and very involved in.
+[01:06:52.000 --> 01:07:07.000]   Just slinging pizza at CHHS, I think anybody can do it. It's this district. I think it's these people. I think it's this district can accomplish what you are recommending and what you are suggesting.
+[01:07:07.000 --> 01:07:17.000]   So I have every faith in our staff and our administration to accomplish this balanced budget.
+[01:07:17.000 --> 01:07:27.000]   So I agree, and believe that we would be the best suited to accomplish this.
+[01:07:27.000 --> 01:07:34.000]   I do still have, I mean, I can't just say that without saying we got to make sure that we're paying attention to some of the things.
+[01:07:34.000 --> 01:07:42.000]   And of course, student safety, I still have a student in the school, I had two students in the school when there was a gun on campus.
+[01:07:42.000 --> 01:08:02.000]   For, I mean, talk about real safety, I feel that deeply. It's not a conjecture. It is something that I feel deeply because my kids are at risk at school, knowing what we know now, our kids are at risk at school.
+[01:08:02.000 --> 01:08:16.000]   So I will just say safety is not high in the sky, it is real. The other thing I have is that, again, I think we've all been getting kind of emails concerning bed and our special education.
+[01:08:16.000 --> 01:08:28.000]   And understanding the implications of this budget on our sped students, particularly when we are federally obligated to provide certain services to our sped students.
+[01:08:28.000 --> 01:08:36.000]   So I do have some questions that have come up to my correspondence with numerous teachers and to be fair, I have a sped student.
+[01:08:36.000 --> 01:08:47.000]   So I have relationships with the, with sped staff and some other community members that have come up in my conversations.
+[01:08:47.000 --> 01:09:16.000]   So if I could ask Dr. Wishman to a couple of questions. So the data in our, this staffing was using the teams data from 2020, 2021, and I can imagine what the pandemic has done and numerous other kinds of things that have happened since 2020, 2021, because, you know, what, what, what that means for, for your department.
+[01:09:16.000 --> 01:09:26.000]   And what has happened to your, the student you serve since that PIMS data snapshot from 2020, 2021.
+[01:09:26.000 --> 01:09:31.000]   So I can speak to the PIMS snapshot from this past fall.
+[01:09:31.000 --> 01:09:32.000]   Okay.
+[01:09:32.000 --> 01:09:40.000]   We have in the special ed department, we have added over 250 students that have been identified with disabilities.
+[01:09:40.000 --> 01:09:45.000]   So we have seen a tremendous uptick in the identification.
+[01:09:45.000 --> 01:09:48.000]   Some of that is.
+[01:09:48.000 --> 01:09:56.000]   Parent referrals, some of it is staff referrals, so it's all different sources of referrals.
+[01:09:56.000 --> 01:10:03.000]   Of those, I mean, just to be clear of those about how many are emotional disturbance. Do you happen to know?
+[01:10:03.000 --> 01:10:17.000]   I mean, I'm just, I know kind of some language now so that I possess. So we are actually at about 9% of our spend population or emotionally disturbed, which is actually higher than the state rate.
+[01:10:17.000 --> 01:10:21.000]   Wow. That's still lower than I thought it was going to be. Okay. Well, that's better news.
+[01:10:21.000 --> 01:10:25.000]   And that is, let me clarify, it is primary disability.
+[01:10:25.000 --> 01:10:36.000]   Okay. Okay. So you could have another disability as primary and also be emotionally disturbed, but when you get data to TA, it's by the primary disability.
+[01:10:36.000 --> 01:10:38.000]   Okay. All right.
+[01:10:38.000 --> 01:10:47.000]   And then what about, so, you know, of course that's 2020, 2021 data that we're using to make decisions about staffing.
+[01:10:47.000 --> 01:10:54.000]   What about incoming students? I mean, what about, so what about outgoing students and what about incoming students? I mean, are they balancing themselves out?
+[01:10:54.000 --> 01:11:00.000]   Or what is your your rate of growth is exceeding the graduation rate.
+[01:11:00.000 --> 01:11:08.000]   So, and the area that we're seeing a tremendous amount of growth is our little ones. So three's and four year olds coming in.
+[01:11:08.000 --> 01:11:23.000]   Typically, like last year, we started the year out with 28. We ended this year after I took out kids moving to kindergarten, we are starting with 55 already in classes that are three years old and four years old.
+[01:11:23.000 --> 01:11:35.000]   We have 24, I believe it is on the list to be evaluated this summer. So we could potentially add the 24 to the 55.
+[01:11:35.000 --> 01:11:45.000]   Are people moving here because of the spend? That's part of it, yes. Do you think? I mean, we could be a destination district for those kinds of services. I'm just, I'm just wondering.
+[01:11:45.000 --> 01:11:59.000]   I get phone calls shopping all summer long and starts in March and goes all through the summer. And that is the reason they say is they hear that we have great services.
+[01:11:59.000 --> 01:12:14.000]   The other big impact that has happened to us, and I put this in the board update a few times for you, the dyslexia handbook changed this year and went into place, it was changing October, went into law in February.
+[01:12:14.000 --> 01:12:28.000]   And it has had a direct correlation impact on special ed. So now a student identified with dyslexia is identified with a special ed disability, they automatically are learning disabled.
+[01:12:28.000 --> 01:12:41.000]   So there's no longer other than kids who are already in the program that would remain 504. So any new referral that comes in and qualified for dyslexia, they are special ed.
+[01:12:41.000 --> 01:12:54.000]   Having to provide not only the dyslexia intervention that's needed, but the special ed instruction that is needed. So it impacts staffing on both sides, and that is a big change across the state.
+[01:12:54.000 --> 01:13:13.000]   And supporting a 504 versus an art is pretty dramatically differently than amount of staffing that's required for a 504 versus an art. Is that correct? Okay. 504 you can only do accommodations and then dyslexia service direct service, but that is no longer the case, which is the old method.
+[01:13:13.000 --> 01:13:31.000]   So now everything is under special ed umbrella. So it's indicated on the and this packet that we have is that there's two administrative staff that are being eliminated. How are those responsibilities going to be redistributed through your team?
+[01:13:31.000 --> 01:13:48.000]   And you're talking about the proposed, yeah, the one that are, I believe it says it's a special ed coordinator, and it is a transition specialist, and then we have an administrative assistant over at PDAC.
+[01:13:48.000 --> 01:13:53.000]   She's kind of like the mother of all the staff that are housed there.
+[01:13:53.000 --> 01:14:05.000]   So she does all the ordering and the child find for a little ones. All that work is we're in the process of redistributing it amongst our remaining team of the administrative team.
+[01:14:05.000 --> 01:14:09.000]   So that will be across myself and for other people.
+[01:14:09.000 --> 01:14:24.000]   The transition specialist, the title itself is not required, but the work of the transition specialist is required. Right. So we will carve that up and give it to people on our team to pick that up.
+[01:14:24.000 --> 01:14:41.000]   That's our current challenge. Yeah, right. Right. And then just better understand recruiting staff for SPED. Is that, are you finding any challenges? I just, I mean, I know every finding people period is hard finding a plumber is hard.
+[01:14:41.000 --> 01:14:53.000]   So, I mean, I can only imagine what's, yes, the turnover rate within special ed is greater than in Genesis, and that is because of the paperwork demands and the amount of time sitting in meetings.
+[01:14:53.000 --> 01:15:08.000]   Everything we do is special, it's unique. It's, it's altering the curriculum to meet the unique need of each individual child. So it's, it is a higher burnout rate, higher turnover rate, and it is hard to find qualified people.
+[01:15:08.000 --> 01:15:19.000]   So the sooner you can hire the better going back to your original question. I've heard it several times about the enrollment in the district is remaining about the same.
+[01:15:19.000 --> 01:15:32.000]   So around that 14,000, 13,000, 14,000, that is remaining the same. I wish we had a 22 number that we could divide like you can in elementary and do a simple division.
+[01:15:32.000 --> 01:15:43.000]   You cannot do that with special ed. You have to look at each individual need. And even though our enrollment hasn't grown, our SPED population has grown.
+[01:15:43.000 --> 01:15:51.000]   So it has grown tremendously in the eight years I've been here. So it's pretty astounding honestly.
+[01:15:51.000 --> 01:16:01.000]   I have a quick question. But when you look at the staffing report, if I recall correctly, I think we were still significantly under the required ratios.
+[01:16:01.000 --> 01:16:16.000]   And I'm not talking about like a one to one or a four to one, those are special cases there, but I think we still have a room. And obviously this is a sensitive subject. My child is also in special ed as well. So, you know, it's not lost on any of us that this is very sensitive.
+[01:16:16.000 --> 01:16:24.000]   However, we are in a world where we have constraints financially. So we have to make smart and wise decisions.
+[01:16:24.000 --> 01:16:33.000]   You know, going back earlier to the Jorge's comment, well, if we always budget, why not just start with the budget. It's that simple.
+[01:16:33.000 --> 01:16:41.000]   If we always end up here, but we end the balance budget, just start with the balance budget. And I'm more than happy down the road to address the balance budget.
+[01:16:41.000 --> 01:16:51.000]   I see my recommendation for the board and for the admin to kind of prod this conversation along in the end in general would be let's get a balance budget.
+[01:16:51.000 --> 01:17:03.000]   Let's let's look at a 2% model at your teacher level. Let's look at a 1% level adjustment for across the board for your principles and the APs that we've discussed prior.
+[01:17:03.000 --> 01:17:13.000]   I think there was a pay adjustment. What's the exact word to Ian? Yeah, an equity adjustment. Let's do that.
+[01:17:13.000 --> 01:17:24.000]   Let's make a mandate to have a balanced budget. I liked your slide where it says, okay, here's a way we could potentially get to it. Maybe that's how we follow it for now.
+[01:17:24.000 --> 01:17:38.000]   Unless you have, you know, maybe an even better recommendation, so we don't have to go through 12 different functions, maybe it's three different functions, because one of them was like $2,000, maybe roll that into another one.
+[01:17:38.000 --> 01:17:51.000]   And let's, you know, let's get the best revenues you think possible, because that's really, I think, the cornerstone of all this your revenues have got to be your driver, and then you make your expenses match for a budget.
+[01:17:51.000 --> 01:18:03.000]   And then we can always have a discussion later, because I think Colei made great points. We do have security stuff because we have to talk about we do have special ed stuff we have to talk about, but take a measured approach across the board.
+[01:18:03.000 --> 01:18:19.000]   I know Brad and team and Dr. Ryan, July 1st, you're already starting working on the budget for next year, where we can make a measured approach there, so I think that should be the mandate in order to facilitate this conversation and get everybody going.
+[01:18:19.000 --> 01:18:21.000]   So that would be what I would recommend for you guys to do.
+[01:18:21.000 --> 01:18:23.000]   Okay, so can I repeat that?
+[01:18:23.000 --> 01:18:31.000]   Yeah, that's a little bit different, and then that's going to require restructuring of the budget if we're looking at changing the models.
+[01:18:31.000 --> 01:18:47.000]   So really your main model change is just you're doing a 1% if you're an online teacher off your median with your principal vice principal adjustment that we've discussed, and I think everybody is on board here on.
+[01:18:47.000 --> 01:18:51.000]   So that's why I have discussions that we've had.
+[01:18:51.000 --> 01:19:00.000]   And then from a from a debt perspective, go with your your 10% model, I like the reduction of the rate, I like the reduction of your debt of about 6.8 million.
+[01:19:00.000 --> 01:19:03.000]   We can debate that at a later day.
+[01:19:03.000 --> 01:19:12.000]   How we actually want to do the debt payment, because Paul, I have homework for you, I'd like to see you with that 6 million based on our last meeting.
+[01:19:12.000 --> 01:19:23.000]   A little bit of room, we had 14 million where 5 million was going to be your emergency fund, 3 million roughly a little shy of that was going towards immediate needs and maybe we can have another discussion at a later day.
+[01:19:23.000 --> 01:19:27.000]   Once we get better values, and we can make a better decision.
+[01:19:27.000 --> 01:19:38.000]   So yes, we can we can look at that certainly once we get values, my recommendation would be not to use the money that we have set aside for capital needs.
+[01:19:38.000 --> 01:19:52.000]   But maybe look at increasing that prepayment and using more of fund balance versus using money that we have available, because you guys know what our needs are, and you just.
+[01:19:52.000 --> 01:19:58.000]   Yeah, no, the emergencies that come up, I think it's a fair conversation to have, I totally agree.
+[01:19:58.000 --> 01:20:03.000]   Okay, on your your comment about the revenue.
+[01:20:03.000 --> 01:20:12.000]   I feel like I have done what I can do on revenue side and being very transparent.
+[01:20:12.000 --> 01:20:25.000]   We have looked at every line item of revenue and I think you've looked at the detail, I mean they're other than our state funding, I mean our state funding is our revenue.
+[01:20:25.000 --> 01:20:46.000]   And I understand all the conversations about the cutting on the expenditure side and I completely we will continue to work on that, but we also we can't ignore the fact that we are stuck at 8,470ish per ADA funding.
+[01:20:46.000 --> 01:20:57.000]   You can't continue to get the same money every year and add compensation adjustments and inflationary cost.
+[01:20:57.000 --> 01:21:05.000]   I mean our inflationary cost this year, I think we added 400,000 just because of the cost of everything is going up cost of insurance is going up.
+[01:21:05.000 --> 01:21:24.000]   And so I do feel like we do have some opportunities to kind of look at increasing that revenue source on the I university prep side and opening up those boundaries, but we're talking millions and at some point we have to address this.
+[01:21:24.000 --> 01:21:40.000]   Stale funding that we're getting per ADA unless we can get lots of kids to come and you see I see right and I agree and so then the alternative is then you have to you have to make an adjustment on your expense side right because.
+[01:21:40.000 --> 01:21:52.000]   Yeah, but yeah, I mean we do and then down the road so speaking on revenue so let me walk that back just a second revenue for this year.
+[01:21:52.000 --> 01:22:07.000]   Next year, I think we have to consider additional golden pins because you got to see what's going to happen with form of transit and grant and all that so that's another discussion for next year, what I'm saying is just for this year.
+[01:22:07.000 --> 01:22:15.000]   And so we have to make an adjustment at the expense level because it to me doesn't make sense to go do a Vader.
+[01:22:15.000 --> 01:22:25.000]   Tax is seven million bucks to give five million bucks back just in that two million bucks and you shift the entire burden to our community and for went free money from the state.
+[01:22:25.000 --> 01:22:41.000]   I agree, we will have another legislative session next year and monitoring what's going on that that's always a big part of the budget process during the legislative session to kind of see what we're going to get that we will know, I mean.
+[01:22:41.000 --> 01:22:57.000]   Usually the laws are signed into place like the day we adopt our budget, I mean, so we kind of know what it's going to do, but we don't know all of the details, but before we have to adopt a tax rate we certainly will know what this.
+[01:22:57.000 --> 01:23:11.000]   And I think it goes to a horror thing is what we are giving you time and just we're kind we're adjusting the timeline, so we have had some of this information since belief, you know, January, February, we were working on this analysis last fall so.
+[01:23:11.000 --> 01:23:28.000]   Coming in the background y'all were working in new some of these numbers it didn't just get spit out in the February or into marks and it's like whoa this happened I mean y'all were having active dialogue with the task.
+[01:23:28.000 --> 01:23:43.000]   Day and Gemma you name if I'm missing anybody I apologize, but I know you've been working, and this is a very difficult situation, however, we're now at the situation we have to make really tough choices.
+[01:23:43.000 --> 01:23:54.000]   That's what I have so are we feel we're comfortable making the adjustment at the function level to get us to a balanced budget, I am knowing that.
+[01:23:54.000 --> 01:24:04.000]   Something we will monitor during the fiscal year and come back and adjust and have active dialogue absolutely because the way I look at it, I think this protects you.
+[01:24:04.000 --> 01:24:08.000]   Because you've given us a balanced budget your monitoring.
+[01:24:08.000 --> 01:24:18.000]   It's accountability creates trust with you me and the community and everybody else sitting in this room that protects the community members because then we're saying hey.
+[01:24:18.000 --> 01:24:27.000]   We're doing our best to give a balanced budget we're now going to have open dialogue and discussion it's going to be out there for everybody that fosters trust.
+[01:24:27.000 --> 01:24:36.000]   And it protects the board to because we're saying hey we're doing the best we can do knowing hey life hits you with a right hook sometimes and you got to make an adjustment.
+[01:24:36.000 --> 01:24:47.000]   We could do that because at the end of the day this is just a budget this isn't set and stone in second concrete we have the power and the authority to go and make an amendments as we see fit.
+[01:24:47.000 --> 01:24:51.000]   That's fine balance if you need to.
+[01:24:51.000 --> 01:25:02.000]   All right and so the other comment Dr. Wishman I'm so sorry again so I just want to make sure that we are fully understanding.
+[01:25:02.000 --> 01:25:13.000]   We are federally required and is there state requirements to provide to federal and state requirements to provide spent and if we don't provide the services that are.
+[01:25:13.000 --> 01:25:21.000]   A parent is eligible for what are the implications if I mean what if we just don't have enough staff next year.
+[01:25:21.000 --> 01:25:32.000]   That would be a situation where it probably and then an accusation of denial of free appropriate public education which would then end up in a legal situation.
+[01:25:32.000 --> 01:25:41.000]   For a parent raises question about the services better being provided and I know you do such a great job responding to parents like I think this is only come up twice.
+[01:25:41.000 --> 01:25:50.000]   Maybe an executive session so it's not that we have to do it quite often I just want to make sure we understand the liability we might be putting ourselves in.
+[01:25:50.000 --> 01:26:01.000]   If we cut too deeply on the sped side of things so I just wanted to make one more common on that so thank you Dr. Wishman I appreciate your time.
+[01:26:01.000 --> 01:26:03.000]   Comment Demi.
+[01:26:03.000 --> 01:26:10.000]   Is there a way of repurposing any of those positions at all.
+[01:26:10.000 --> 01:26:18.000]   We are doing that so I have literally gone through every open position whether it's a paraprofessional or a teacher.
+[01:26:18.000 --> 01:26:23.000]   And we have looked at where is the greatest need we have a staffing.
+[01:26:23.000 --> 01:26:30.000]   A massive spreadsheet with formulas attached to be able to know where we need things need staff.
+[01:26:30.000 --> 01:26:40.000]   These 24 kids that aren't even a class yet those aren't even classes yet with staff so.
+[01:26:40.000 --> 01:26:51.000]   I took three parrots and made that a teacher for the kids who are rolling into next year that are already in we have lists of names so we have repurposed positions.
+[01:26:51.000 --> 01:27:13.000]   So you made the comment Casey about the extra staff or extra space based on the staffing study that staffing study was done prior to the addition of over 250 students and the difficulty is is each student has individualized needs and they're not in the same location.
+[01:27:13.000 --> 01:27:29.000]   For the same grade level or the same type of deficit area that they need especially designed instruction in so it's a very complex way of looking at how do we meet our kids needs and how do we be resourceful.
+[01:27:29.000 --> 01:27:42.000]   We have not cut positions at the campus level. We have repurposed positions okay so they're not cut but we have done as we have added kids we've also not added staff to support them.
+[01:27:42.000 --> 01:27:44.000]   So that that's what the picture looks like.
+[01:27:44.000 --> 01:27:49.000]   When are we going to know about those 24 children we're testing them all throughout the summer.
+[01:27:49.000 --> 01:27:50.000]   So bodies.
+[01:27:50.000 --> 01:27:52.000]   Yeah, I started the school year.
+[01:27:52.000 --> 01:27:54.000]   Okay, thank you.
+[01:27:54.000 --> 01:28:06.000]   Yeah, so yeah so I have actually a lot of comments on this make the easy one first I'm fine with the Tencent drop.
+[01:28:06.000 --> 01:28:14.000]   I know that probably makes some people nervous in here but whenever we come up with the next bond election.
+[01:28:14.000 --> 01:28:21.000]   We're going to have to sell it to the community no matter what and the top of that ballot is going to say this will result in a tax increase.
+[01:28:21.000 --> 01:28:31.000]   And I have full faith and confidence in whomever ends up on that bond committee to be able to you know go out I mean that's going to be community members.
+[01:28:31.000 --> 01:28:37.000]   And so I have the faith in them to be able to go out to the community and say these are the needs.
+[01:28:37.000 --> 01:28:42.000]   This is what it's going to cost and we're asking for you about to do this.
+[01:28:42.000 --> 01:28:52.000]   So I think our community has always been responsive and supportive of our bond elections.
+[01:28:52.000 --> 01:29:03.000]   So that one doesn't give me too much heartburn. I do know that we do continue to have little things and big things pop up.
+[01:29:03.000 --> 01:29:10.000]   Got a bunch of animals out in the barn right now that are short on water with a hundred degree heat.
+[01:29:10.000 --> 01:29:17.000]   And I know Paula's team has been working their butts off trying to get that line troubleshooted and fixed.
+[01:29:17.000 --> 01:29:27.000]   But the simple fact of the matter is that is precisely the kind of stuff that pops up and you have no idea how bad it's going to be until it happens.
+[01:29:27.000 --> 01:29:50.000]   So I do believe that we need to be very, very careful on what we're doing there to ensure that you know we don't go tell a bunch of people that you know your animals are all dead or that go get them out of the barn and we've shut the program down because we don't have the the way to support it.
+[01:29:50.000 --> 01:30:00.000]   Or that you know hey your classroom got flooded and you're now stuck in the gym for the remainder of the school year whatever the whatever the case maybe.
+[01:30:00.000 --> 01:30:09.000]   But I'm I'm fine dropping the 10 cents I know we'll be able to make that case to the community.
+[01:30:09.000 --> 01:30:32.000]   So back in I guess it started in 2016 and finished up in 2018. There was the Texas school finance commission and they they put together an exhaustive report on on school finance and especially on district budgets.
+[01:30:32.000 --> 01:30:43.000]   And it's interesting in 46 slides not at any point does it just say the goal of a district is to have a balanced budget.
+[01:30:43.000 --> 01:30:59.000]   What it says is what do district budgets tell us it's not as simple as total dollars in a budget functional area instead it's programmatic choices and execution quality of that spinning that matters the most.
+[01:30:59.000 --> 01:31:04.000]   And so I think the question we have to ask ourselves.
+[01:31:04.000 --> 01:31:21.000]   Is what is the expected outcome of our budget and I think our lead 2021 goals speak to that question every year that this is the expected outcome these are the programmatic choices.
+[01:31:21.000 --> 01:31:29.000]   This is the quality of execution that we have in GCISD a number eight school district in this state.
+[01:31:29.000 --> 01:31:37.000]   This is the execution quality these are the programmatic choices and so you know I'm looking at the taper report.
+[01:31:37.000 --> 01:31:46.000]   71% of our kids are our college ready and bound six point of asking can we just stick the comments towards towards the budget.
+[01:31:46.000 --> 01:32:12.000]   So I do is supposed to support the student outcomes that's what the budget is supposed to do and so what I want when I'm having difficulty wrapping my my hands around is how trimming counselors and APs precisely at the time when it appears that those are critical positions.
+[01:32:12.000 --> 01:32:20.000]   I think it's important for this board to remember that when when you're hiring.
+[01:32:20.000 --> 01:32:33.000]   Early summer late spring is the best time to capture the highest quality of educator and staff that we can attract to GCISD.
+[01:32:33.000 --> 01:32:49.000]   And if we wait until September one after people have signed leases for for rentals after they have maybe purchased a home after they have moved their families after they have already.
+[01:32:49.000 --> 01:33:05.000]   And the most sought after teachers counselors special ed professionals speech pathologists diagnosticians those people have signed their contracts already or signing them very very shortly.
+[01:33:05.000 --> 01:33:27.000]   And so when we look at trying to go out to hire for positions that could very well be needed by all 1000 school districts we are going to be left fighting in a situation in which the staff out there the staff pool out there is already ridiculously shallow if not dried up completely.
+[01:33:27.000 --> 01:33:35.000]   Thank you can you please direct your comments toward the budget process because that seems to be a discussion later on.
+[01:33:35.000 --> 01:33:55.000]   So the my concern is that a budget that cuts positions and does not fill those positions is not supportive of programmatic choices and execution quality in GCISD, especially pertaining to the APs and the counselors as we are setting up.
+[01:33:55.000 --> 01:34:05.000]   And with this with the directives we don't even know what they're going to be so that flat right out there that's my that's a big concern that I have with the budget.
+[01:34:05.000 --> 01:34:20.000]   So Dan I want to get a little bit better feel for what exactly the proposal is so are we suggesting that we're going to draw an imaginary line in the sand and say we're going to have a balanced budget.
+[01:34:20.000 --> 01:34:40.000]   At every point after this we're going to come back with as much as three million dollars worth of requests over the course of this next year to try to get these positions filled how are we going to because we've already done the survey of the students have already registered for the classes.
+[01:34:40.000 --> 01:34:57.000]   At the high school we have a rough idea of you know how many students are supposed to be in each of the grade levels at the middle school at this budget is already clobbering six middle school teachers so right off the bat or middle school students are not going to have as much choice and they're going to have more kids in their classroom.
+[01:34:57.000 --> 01:35:10.000]   And so explain to me how we're going to be able to meet the expectations of all of the students that have already registered for all of the classes.
+[01:35:10.000 --> 01:35:30.000]   But with looking at a 3.3 adjustment just on the instruction line item alone. Yes, so we would in order to get a budget adopted at the function level we would have to make an adjustment on the expenditure side.
+[01:35:30.000 --> 01:35:40.000]   Because we were trying to do this the attrition and not through a reduction in force so we are not there yet and we but we've got to adopt a budget.
+[01:35:40.000 --> 01:35:55.000]   So you're absolutely right I mean we will evaluate every position that comes in and I mean which is what we've been doing since the way begin of the budget process to determine if that's going to be replaced or not.
+[01:35:55.000 --> 01:36:10.000]   But we also after school year starts I mean if we have students if our student numbers don't materialize then you know that would be some reductions in staff.
+[01:36:10.000 --> 01:36:32.000]   So that's a situation where we thought we were going to have 81 graders and instead we only have 61 graders. That one's relatively easy. What if I have 50 people signed up to take computer science and 50 kids are still signed up to take computer science at the high school.
+[01:36:32.000 --> 01:36:45.000]   So at this point they the students and I'm really talking outside of my expertise but right now the students have enrolled in classes and we have staff based on the current staff master schedule.
+[01:36:45.000 --> 01:36:53.000]   That's the budget that we're looking at right now. Yes.
+[01:36:53.000 --> 01:37:07.000]   I guess my my ending comment here is what would be the expected outcome unless we're just going to play a shell game right what is the expected outcome.
+[01:37:07.000 --> 01:37:28.000]   I would love to see us generate additional revenue particularly with regard to ADA because that will not only help our revenue side. I said it last time you cannot starve account to market. This is that execution of quality the TEA and the Texas school finance commission is referring to right.
+[01:37:28.000 --> 01:37:46.000]   So I would love to see us add into the revenue side, particularly with ADA because then not only does it add to the revenue it reduces our revenue payment every single extra warm body that we can get into GCISD helps us on both sides of that equation.
+[01:37:46.000 --> 01:38:14.000]   So things we're going to know at the end of next fiscal year when we have to make this amended budget is what our attendance right was and I mean who knows maybe we'll maybe we'll get a 97% attendance right I don't know we're going to work on it so but at this point I can't say we're going to build a budget on 97% I just don't feel comfortable doing that but we're going to build it on the best of our professional judgment on what our ADA is going to be.
+[01:38:14.000 --> 01:38:27.000]   But then we would that would be a moment we'd make to the revenue side if if we did increase our ADA or if we have an influx of students that for some reason you know decide to come back.
+[01:38:27.000 --> 01:38:36.000]   We would make that amendment on the revenue side so it's really going to be monitoring.
+[01:38:36.000 --> 01:38:54.000]   Every month where we are like we do on the projections kind of seeing where we are on the expenditures for revenue I mean for payroll and where we are on our revenue based on the current number of students that we we know I mean by January we've already completed.
+[01:38:54.000 --> 01:39:07.000]   Three six weeks of data so I will know what our attendance rate is for the first three six weeks.
+[01:39:07.000 --> 01:39:19.000]   And I know this is ridiculously tough when you are having to project a balance without the numbers of four billion holy cow do you know how that breaks down to business versus residential.
+[01:39:19.000 --> 01:39:46.000]   Do you know who's protesting more hopefully residents I mean I'm I do have that okay built in that number I can put it in the board update okay yeah because I mean all we're hearing is you know oh businesses businesses doing so well hey yeah yeah yeah and I'm like yeah really well you you dropped two percent in your values and stuck the residents with the the tax increase again so.
+[01:39:46.000 --> 01:39:57.000]   The other thing that I really really do note in this so part of this is 2.4 million of us are funding and that goes away after next year.
+[01:39:57.000 --> 01:40:17.000]   And then for my transition grant we get one more year that.
+[01:40:17.000 --> 01:40:28.000]   2.4 on the answer and then 4.8 on the form that transition year so yeah so okay.
+[01:40:28.000 --> 01:40:42.000]   I don't want to be I don't want to be the district that is caught with the pants down after September one on school safety this plan is simple.
+[01:40:42.000 --> 01:40:47.000]   All right thank you for the discussion.
+[01:40:47.000 --> 01:41:06.000]   Last question so I just want to kind of get as a question to Dr Ryan and yeah about this proposal of 2% for teachers 1% for non teachers, how do you feel the staff will feel all that I mean I know that right you and I just had a conversation with the.
+[01:41:06.000 --> 01:41:16.000]   About a professional set one hour schools I mean we're talking at 1.1 million dollars difference I think between the two models so could you take a little bit about that.
+[01:41:16.000 --> 01:41:27.000]   Sure and you know last year we did come back and give increases to certain groups those groups would be the one getting a 1% right now.
+[01:41:27.000 --> 01:41:51.000]   And so they did get a little more last year that being said anytime somebody gets more than someone else the people that get one sometimes full think cush I wish I could have had to also and I hope that most people are appreciative of any increase in these difficult times I do think some of our lower paid employees.
+[01:41:51.000 --> 01:42:01.000]   They'll continue to stay at the bottom of our market and I hope they're appreciative but I do feel like they would desire 2% also.
+[01:42:01.000 --> 01:42:05.000]   So again I hope that they're appreciative.
+[01:42:05.000 --> 01:42:08.000]   Do you have any comments on that up Ryan.
+[01:42:08.000 --> 01:42:19.000]   I think it'd be the same I think it's something that we can analyze to see what what the savings are and then and then let the board know about that it it.
+[01:42:19.000 --> 01:42:28.000]   You know you and I as you mentioned we did meet with some groups of employees that were.
+[01:42:28.000 --> 01:42:51.000]   upset with the with the difference in in in the increases and so but also also agree that you know having an increase is is a very positive thing, no matter no matter how much it is it you know at some level so I think that that's that's kind of where we are with it is that.
+[01:42:51.000 --> 01:43:05.000]   You know and I think I think I know the people around this table and they they we all desire to value our employees to make sure that they know that we're valued and a lot of that is about.
+[01:43:05.000 --> 01:43:16.000]   The culture a lot of it is about appreciation a lot of it is about talking to folks and and look at them in the eye and shaking their hands and saying hey we really appreciate the work that you're doing.
+[01:43:16.000 --> 01:43:21.000]   And also in addition to financial increases well.
+[01:43:21.000 --> 01:43:27.000]   And in terms of the this plan of balancing the budget using this list.
+[01:43:27.000 --> 01:43:36.000]   So just to make sure I understand you have the biggest line of budget here is instruction 85 point for one three million dollars.
+[01:43:36.000 --> 01:43:46.000]   So are you telling us that you are going to be assuming that we're going to spend 82 point one three eight instead and then make adjustments.
+[01:43:46.000 --> 01:44:01.000]   This is simply to get on a budget at the function level I didn't know how else to do it so I did a percentage I just did a percentage of our payroll at the function level and that's how I made the adjustment.
+[01:44:01.000 --> 01:44:08.000]   We are certainly going to have to make adjustments at the function level for how it it ends up.
+[01:44:08.000 --> 01:44:36.000]   We can take it all out of 11 I was trying not to hit all of 11 at once that that's that's really how I came up with the adjustment and what I can do is go back and just take the top, you know, functions as a percentage of the budget so it doesn't hit every single one I think that we don't have staff and staff development so.
+[01:44:36.000 --> 01:44:50.000]   That's why it's 2000 so that that's simply how I came up with that I was trying to come up with a way to get a budget at the function level because that's what the board has to approve.
+[01:44:50.000 --> 01:44:59.000]   Okay, but we're talking about doing that right we're talking about assuming our best system is 85 million we're going to assume is 82 and then make adjustments later.
+[01:44:59.000 --> 01:45:07.000]   We will shoot for a goal of 82 million and then at the end of the fiscal year if we are not there we will have to make an adjustment.
+[01:45:07.000 --> 01:45:22.000]   I don't know if it's going to be 3.3 million it may be less, but we may need to move something down to function 34 you know it's just going to be moving it between the function level where everything falls out at the end of the fiscal year.
+[01:45:22.000 --> 01:45:30.000]   Okay, thank you.
+[01:45:30.000 --> 01:45:39.000]   So what is the contracted instructional services between schools what's that one that we just couldn't change that is our recapture payment.
+[01:45:39.000 --> 01:45:48.000]   Oh, thank you very much and then didn't I didn't know that was the other term for it and then the TIFF what where are we paying that TIFF what is that one for.
+[01:45:48.000 --> 01:46:00.000]   So the TIFF is the payment we make into the the great mind in the city of Colleville TIFF and it's offset by revenue you just don't see the revenue side and the budget but thank you.
+[01:46:00.000 --> 01:46:01.000]   Sorry.
+[01:46:01.000 --> 01:46:03.000]   I'm just making sure I'm asking all the questions.
+[01:46:03.000 --> 01:46:04.000]   Thank you.
+[01:46:04.000 --> 01:46:08.000]   I truly would have called Casey but I had you here so that's what I do right.
+[01:46:08.000 --> 01:46:09.000]   Well, yep.
+[01:46:09.000 --> 01:46:10.000]   One more question.
+[01:46:10.000 --> 01:46:13.000]   We're going to in discussion this move on to a regular session.
+[01:46:13.000 --> 01:46:15.000]   I have one more question for Dan.
+[01:46:15.000 --> 01:46:17.000]   I have one more question for Dan.
+[01:46:17.000 --> 01:46:22.000]   Okay, but we're going to go ahead and in discussion this informational we're just going to move on to the next part.
+[01:46:22.000 --> 01:46:25.000]   I have an informational question for Dan.
+[01:46:25.000 --> 01:46:29.000]   Okay, again, just ask her and we'll shoot across the board packet.
+[01:46:29.000 --> 01:46:33.000]   I think it's important for every trustee to hear this I have a question for Dan.
+[01:46:33.000 --> 01:46:38.000]   Right, you can send an email and we'll get in the board agenda on Thursday.
+[01:46:38.000 --> 01:46:44.000]   Usually get the flood control native the flood control number. Thank you.
+[01:46:44.000 --> 01:46:45.000]   Send it in the board update.
+[01:46:45.000 --> 01:46:46.000]   Thank you.
+[01:46:46.000 --> 01:46:49.000]   All right.
+[01:46:49.000 --> 01:46:53.000]   That is the workshop session. Thank you very much.
+[01:46:53.000 --> 01:46:55.000]   Good dialogue. Good insight.
+[01:46:55.000 --> 01:47:00.000]   Moving on to the regular session to the reports of the superintendent.
+[01:47:00.000 --> 01:47:03.000]   Item A act on personal report handed over to Dr. Ryan.
+[01:47:03.000 --> 01:47:04.000]   Yes, thank you.
+[01:47:04.000 --> 01:47:11.000]   The summer is about the busiest time for our human resources department and we heard.
+[01:47:11.000 --> 01:47:16.000]   I want to have discussion about the importance of the people in GCISD.
+[01:47:16.000 --> 01:47:21.000]   And so we have one item this evening to bring to you, which is the personnel report.
+[01:47:21.000 --> 01:47:28.000]   And it's important to do that as quickly as we know that somebody is leaving or somebody is joining us.
+[01:47:28.000 --> 01:47:33.000]   And so we'll have one of these at just about every time that we meet throughout the summer.
+[01:47:33.000 --> 01:47:38.000]   The recommendations for the board trustees to approve the June the 6th 2022 personnel report.
+[01:47:38.000 --> 01:47:41.000]   And we have a recommendation.
+[01:47:41.000 --> 01:47:46.000]   Let's do some discussion or sorry, do we have a.
+[01:47:46.000 --> 01:47:50.000]   Motion killing.
+[01:47:50.000 --> 01:47:53.000]   I move that we accept Dr. Ryan's recommendation.
+[01:47:53.000 --> 01:47:54.000]   Second.
+[01:47:54.000 --> 01:47:55.000]   I'll second.
+[01:47:55.000 --> 01:47:57.000]   Kathy seconds.
+[01:47:57.000 --> 01:47:59.000]   Discussion.
+[01:47:59.000 --> 01:48:01.000]   You know, hands for discussion.
+[01:48:01.000 --> 01:48:03.000]   Let's vote on the recommendation.
+[01:48:03.000 --> 01:48:05.000]   All those in favor show our hands.
+[01:48:05.000 --> 01:48:09.000]   Thank you.
+[01:48:09.000 --> 01:48:17.000]   And now do we have a motion for adjournment.
+[01:48:17.000 --> 01:48:19.000]   Colley.
+[01:48:19.000 --> 01:48:22.000]   I'm going to do it.
+[01:48:22.000 --> 01:48:23.000]   I'm going to do it.
+[01:48:23.000 --> 01:48:25.000]   Amy.
+[01:48:25.000 --> 01:48:27.000]   I can motion to adjourn.
+[01:48:27.000 --> 01:48:29.000]   Second.
+[01:48:29.000 --> 01:48:36.000]   No discussion.
+[01:48:36.000 --> 01:48:37.000]   No discussion.
+[01:48:37.000 --> 01:48:41.000]   I'm assuming all those in favor show of hands to adjourn.
+[01:48:41.000 --> 01:48:42.000]   Four.
+[01:48:42.000 --> 01:49:03.000]   I'm going to do it.
