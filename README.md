@@ -16,7 +16,7 @@ This repo contains both the transcription tools and the raw transcripts themselv
 Current transcripts are generated using the `ggml-tiny.en-q5_1` model, which is the smallest quantized Whisper model available. This allows for fast processing but may result in some inaccuracies in the transcripts.
 
 **Our roadmap:**
-1. First, transcribe all available board meetings to ensure complete coverage
+1. ~~First, transcribe all available board meetings to ensure complete coverage~~ - Done
 2. Then, improve quality by re-transcribing with larger, more accurate models
 
 **Verification:**
