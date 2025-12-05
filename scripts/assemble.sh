@@ -73,8 +73,8 @@ for txt in /app/transcripts/*.txt; do
   echo "$sortable_date|$txt" >> "$temp_list"
 done
 
-# Sort by date and process in chronological order
-sort "$temp_list" | while IFS='|' read -r sortable_date txt; do
+# Sort by date and process in reverse chronological order
+sort -r "$temp_list" | while IFS='|' read -r sortable_date txt; do
   # Extract base filename without path and extension
   base=$(basename "$txt" .txt)
 
