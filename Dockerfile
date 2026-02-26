@@ -29,9 +29,8 @@ RUN wget -P /app/models https://huggingface.co/ggerganov/whisper.cpp/resolve/mai
 WORKDIR /app/videos
 
 # Copy scripts
-COPY scripts/transcribe.sh /app/scripts/transcribe.sh
-COPY scripts/assemble.sh /app/scripts/assemble.sh
-RUN chmod +x /app/scripts/transcribe.sh /app/scripts/assemble.sh
+COPY scripts/ /app/scripts/
+RUN chmod +x /app/scripts/*.sh
 
 # Default command
 CMD ["/app/scripts/transcribe.sh"]

@@ -77,4 +77,5 @@ for webm in *.webm; do
 
 done
 
-echo "All done."
+echo "All done. Updating completed list..."
+/app/scripts/mark-completed.sh

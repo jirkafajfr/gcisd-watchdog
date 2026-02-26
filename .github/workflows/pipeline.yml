@@ -1,0 +1,33 @@
+name: Download, Transcribe & Assemble
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Daily at 8:00 PM CST (2:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: bitbox-runners-watchdog
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker compose build
+
+      - name: Download new videos
+        run: docker compose run --rm download
+
+      - name: Transcribe videos
+        run: docker compose run --rm transcribe
+
+      - name: Assemble dataset
+        run: docker compose run --rm assemble
+
+      - name: Commit results
+        run: |
+          git add gpt/ transcripts/ .yt-dlp-completed
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update transcripts and dataset"
+          git push

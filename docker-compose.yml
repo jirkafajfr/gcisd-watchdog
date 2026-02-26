@@ -1,15 +1,24 @@
 services:
+  mark-completed:
+    build: .
+    container_name: gcisd-watchdog-mark-completed
+    volumes:
+      - ./transcripts:/app/transcripts:ro
+      - ./.yt-dlp-completed:/app/.yt-dlp-completed
+    command: /app/scripts/mark-completed.sh
+
   download:
     image: jauderho/yt-dlp:latest
     container_name: gcisd-watchdog-download
     volumes:
       - ./videos:/app/videos
       - ./.yt-dlp-excluded:/app/.yt-dlp-excluded:ro
+      - ./.yt-dlp-completed:/app/.yt-dlp-completed:ro
     working_dir: /app/videos
     entrypoint: ["/bin/sh", "-c"]
     command:
       - |
-        cat /app/.yt-dlp-excluded 2>/dev/null > /tmp/combined-archive || true
+        cat /app/.yt-dlp-excluded /app/.yt-dlp-completed 2>/dev/null > /tmp/combined-archive || true
         yt-dlp -f 'bestaudio[ext=webm]' --download-archive /tmp/combined-archive https://www.youtube.com/@GCISDTV/streams
 
   transcribe:
@@ -20,6 +29,8 @@ services:
       - ./videos:/app/videos
       # Mount transcripts folder (output - txt files)
       - ./transcripts:/app/transcripts
+      # Mount completed list (updated after transcription)
+      - ./.yt-dlp-completed:/app/.yt-dlp-completed
     working_dir: /app/videos
     command: /app/scripts/transcribe.sh
 
