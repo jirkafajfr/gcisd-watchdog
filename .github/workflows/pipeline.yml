@@ -9,6 +9,9 @@ concurrency:
   group: pipeline
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
 jobs:
   pipeline:
     runs-on: bitbox-runners-watchdog
