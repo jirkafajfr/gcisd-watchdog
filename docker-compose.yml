@@ -19,7 +19,7 @@ services:
     command:
       - |
         cat /app/.yt-dlp-excluded /app/.yt-dlp-completed 2>/dev/null > /tmp/combined-archive || true
-        yt-dlp -f 'bestaudio[ext=webm]' --download-archive /tmp/combined-archive https://www.youtube.com/@GCISDTV/streams
+        yt-dlp -f 'bestaudio[ext=webm]/bestaudio' --download-archive /tmp/combined-archive https://www.youtube.com/@GCISDTV/streams
 
   transcribe:
     build: .
