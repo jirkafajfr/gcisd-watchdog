@@ -5,6 +5,10 @@ on:
     - cron: '0 2 * * *' # Daily at 8:00 PM CST (2:00 UTC)
   workflow_dispatch:
 
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
 jobs:
   pipeline:
     runs-on: bitbox-runners-watchdog
