@@ -1,0 +1,13 @@
+name: Validate Docker Build
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: bitbox-runners-watchdog
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker compose build
